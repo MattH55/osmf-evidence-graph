@@ -1,0 +1,393 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://opensourcemed.info/schemas/evidence-graph/dump.schema.json",
+  "title": "OSMF Evidence Graph Dump",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "meta",
+    "entities",
+    "claims"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "generated_at",
+        "publisher",
+        "is_example",
+        "license"
+      ],
+      "properties": {
+        "schema_version": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+        },
+        "generated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "is_example": {
+          "type": "boolean",
+          "description": "true for synthetic starter data; must be false for public curated dumps"
+        },
+        "license": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "seed_conditions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^osmf:condition:[a-z0-9-]+$"
+          }
+        }
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entity"
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/claim"
+      }
+    }
+  },
+  "$defs": {
+    "entity": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "OSMF Evidence Graph Entity",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "type",
+        "label",
+        "status",
+        "updated_at"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^osmf:[a-z0-9-]+:[a-z0-9-]+$",
+          "description": "Stable canonical ID, e.g. osmf:condition:pacvs"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "condition",
+            "phenotype",
+            "biomarker",
+            "agent",
+            "trial",
+            "paper",
+            "cohort",
+            "specimen-type",
+            "diagnostic-criterion",
+            "vaccine-lot"
+          ]
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true,
+          "default": []
+        },
+        "summary": {
+          "type": "string",
+          "description": "Short neutral description; not clinical advice"
+        },
+        "external_ids": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "system",
+              "value"
+            ],
+            "properties": {
+              "system": {
+                "type": "string",
+                "enum": [
+                  "mondo",
+                  "mesh",
+                  "hpo",
+                  "umls",
+                  "chembl",
+                  "drugbank",
+                  "pubmed",
+                  "doi",
+                  "nct",
+                  "open_targets",
+                  "other"
+                ]
+              },
+              "value": {
+                "type": "string",
+                "minLength": 1
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
+        },
+        "urls": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "rel",
+              "href"
+            ],
+            "properties": {
+              "rel": {
+                "type": "string",
+                "enum": [
+                  "canonical",
+                  "tracker",
+                  "spikeprotein",
+                  "navigator",
+                  "summit",
+                  "other"
+                ]
+              },
+              "href": {
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "active",
+            "deprecated"
+          ]
+        },
+        "updated_at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "claim": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "OSMF Evidence Graph Claim",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "subject_id",
+        "predicate",
+        "evidence_tier",
+        "sources",
+        "status",
+        "reviewed_at",
+        "license"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^osmf:claim:[a-z0-9-]+$"
+        },
+        "subject_id": {
+          "type": "string",
+          "pattern": "^osmf:[a-z0-9-]+:[a-z0-9-]+$"
+        },
+        "predicate": {
+          "type": "string",
+          "enum": [
+            "biomarker_of",
+            "phenotype_of",
+            "treats_candidate_for",
+            "studied_in",
+            "supported_by",
+            "conflicts_with",
+            "supports_criterion",
+            "measured_in",
+            "associated_with_exposure",
+            "related_to",
+            "supersedes"
+          ]
+        },
+        "object_id": {
+          "type": "string",
+          "pattern": "^osmf:[a-z0-9-]+:[a-z0-9-]+$",
+          "description": "Use object_id XOR object_literal"
+        },
+        "object_literal": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Use when the object is not (yet) a first-class entity"
+        },
+        "evidence_tier": {
+          "type": "string",
+          "enum": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "description": "A=strong clinical/consensus; B=solid clinical/synthesis; C=mechanistic/preclinical/case; D=contested/insufficient"
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "type",
+              "value"
+            ],
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "doi",
+                  "pmid",
+                  "nct",
+                  "url",
+                  "osmf_page"
+                ]
+              },
+              "value": {
+                "type": "string",
+                "minLength": 1
+              },
+              "label": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "limitations": {
+          "type": "string",
+          "description": "Required for tiers C and D; strongly recommended for B"
+        },
+        "confidence_notes": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "draft",
+            "published",
+            "superseded"
+          ]
+        },
+        "supersedes_id": {
+          "type": "string",
+          "pattern": "^osmf:claim:[a-z0-9-]+$"
+        },
+        "reviewed_by": {
+          "type": "string",
+          "description": "Curator name or ORCID; optional on draft"
+        },
+        "reviewed_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "license": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "oneOf": [
+        {
+          "required": [
+            "object_id"
+          ],
+          "not": {
+            "required": [
+              "object_literal"
+            ]
+          }
+        },
+        {
+          "required": [
+            "object_literal"
+          ],
+          "not": {
+            "required": [
+              "object_id"
+            ]
+          }
+        }
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "evidence_tier": {
+                "const": "C"
+              }
+            },
+            "required": [
+              "evidence_tier"
+            ]
+          },
+          "then": {
+            "required": [
+              "limitations"
+            ],
+            "properties": {
+              "limitations": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "evidence_tier": {
+                "const": "D"
+              }
+            },
+            "required": [
+              "evidence_tier"
+            ]
+          },
+          "then": {
+            "required": [
+              "limitations"
+            ],
+            "properties": {
+              "limitations": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

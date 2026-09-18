@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "schema_version": "0.1.0",
+    "generated_at": "2026-09-18T21:00:00Z",
+    "publisher": "Open Source Medicine Foundation (example seed)",
+    "is_example": true,
+    "license": "CC-BY-4.0",
+    "notes": "ILLUSTRATIVE ONLY. Entities and claims are structural examples for schema review. They are not curated OSMF clinical statements. Replace sources, tiers, and wording before any public published dump (set is_example to false).",
+    "seed_conditions": [
+      "osmf:condition:long-covid",
+      "osmf:condition:pacvs",
+      "osmf:condition:me-cfs",
+      "osmf:condition:pots",
+      "osmf:condition:mcas"
+    ]
+  },
+  "entities": [
+    {
+      "id": "osmf:condition:long-covid",
+      "type": "condition",
+      "label": "Long COVID",
+      "aliases": ["PASC", "post-COVID condition", "long COVID"],
+      "summary": "Post-acute sequelae following SARS-CoV-2 infection; heterogeneous multi-system presentation.",
+      "external_ids": [
+        { "system": "mesh", "value": "D000094024" },
+        { "system": "other", "value": "example-seed" }
+      ],
+      "urls": [
+        { "rel": "tracker", "href": "https://research.opensourcemed.info/" },
+        { "rel": "canonical", "href": "https://opensourcemed.info/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:condition:pacvs",
+      "type": "condition",
+      "label": "PACVS",
+      "aliases": ["post-acute COVID-19 vaccination syndrome"],
+      "summary": "Post-acute syndrome reported after COVID-19 vaccination; diagnostic criteria under active consensus work.",
+      "external_ids": [
+        { "system": "other", "value": "example-seed" }
+      ],
+      "urls": [
+        { "rel": "tracker", "href": "https://research.opensourcemed.info/" },
+        { "rel": "summit", "href": "https://opensourcemed.info/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:condition:me-cfs",
+      "type": "condition",
+      "label": "ME/CFS",
+      "aliases": ["myalgic encephalomyelitis", "chronic fatigue syndrome", "MECFS"],
+      "summary": "Myalgic encephalomyelitis / chronic fatigue syndrome; post-infectious subset overlaps other post-viral syndromes.",
+      "external_ids": [
+        { "system": "mesh", "value": "D015673" },
+        { "system": "other", "value": "example-seed" }
+      ],
+      "urls": [
+        { "rel": "tracker", "href": "https://research.opensourcemed.info/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:condition:pots",
+      "type": "condition",
+      "label": "POTS",
+      "aliases": ["postural orthostatic tachycardia syndrome", "dysautonomia (POTS)"],
+      "summary": "Orthostatic intolerance syndrome with excessive heart-rate increase on standing; common comorbidity in post-viral cohorts.",
+      "external_ids": [
+        { "system": "mesh", "value": "D054971" },
+        { "system": "other", "value": "example-seed" }
+      ],
+      "urls": [
+        { "rel": "tracker", "href": "https://research.opensourcemed.info/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:condition:mcas",
+      "type": "condition",
+      "label": "MCAS",
+      "aliases": ["mast cell activation syndrome"],
+      "summary": "Disorder of episodic mast-cell mediator release; frequently discussed comorbidity in post-viral illness cohorts.",
+      "external_ids": [
+        { "system": "other", "value": "example-seed" }
+      ],
+      "urls": [
+        { "rel": "tracker", "href": "https://research.opensourcemed.info/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:phenotype:pem",
+      "type": "phenotype",
+      "label": "Post-exertional malaise",
+      "aliases": ["PEM", "post-exertional symptom exacerbation"],
+      "summary": "Worsening of symptoms after physical or cognitive exertion, often delayed.",
+      "external_ids": [
+        { "system": "hpo", "value": "HP:0030973" }
+      ],
+      "urls": [],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:phenotype:orthostatic-intolerance",
+      "type": "phenotype",
+      "label": "Orthostatic intolerance",
+      "aliases": ["OI"],
+      "summary": "Symptoms provoked by upright posture and improved by recumbence.",
+      "external_ids": [
+        { "system": "hpo", "value": "HP:0012677" }
+      ],
+      "urls": [],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:biomarker:spike-persistence",
+      "type": "biomarker",
+      "label": "Spike protein persistence (research)",
+      "aliases": ["SARS-CoV-2 spike persistence"],
+      "summary": "Research biomarker/mechanism theme tracked on spikeprotein.site; not a standalone clinical diagnostic.",
+      "external_ids": [],
+      "urls": [
+        { "rel": "spikeprotein", "href": "https://spikeprotein.site/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:biomarker:resting-heart-rate-orthostatic",
+      "type": "biomarker",
+      "label": "Orthostatic heart-rate increment",
+      "aliases": ["30 bpm criterion (adult, example label)"],
+      "summary": "Heart-rate increase from supine to standing used in POTS research definitions (thresholds vary by guideline).",
+      "external_ids": [],
+      "urls": [],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:agent:example-repurposing-candidate",
+      "type": "agent",
+      "label": "Example repurposing candidate",
+      "aliases": ["EXAMPLE-AGENT"],
+      "summary": "Placeholder agent entity for RepurpOS linkage demos. Replace with a real curated agent before publish.",
+      "external_ids": [
+        { "system": "other", "value": "example-seed-agent" }
+      ],
+      "urls": [
+        { "rel": "tracker", "href": "https://research.opensourcemed.info/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:paper:example-review-001",
+      "type": "paper",
+      "label": "Example review (placeholder)",
+      "aliases": [],
+      "summary": "Placeholder paper node. Attach a real DOI/PMID when curating.",
+      "external_ids": [
+        { "system": "doi", "value": "10.0000/osmf.example.review.001" }
+      ],
+      "urls": [],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:trial:example-nct-00000000",
+      "type": "trial",
+      "label": "Example interventional trial (placeholder)",
+      "aliases": [],
+      "summary": "Placeholder trial node for studied_in edges. Replace with a real NCT ID.",
+      "external_ids": [
+        { "system": "nct", "value": "NCT00000000" }
+      ],
+      "urls": [
+        { "rel": "tracker", "href": "https://research.opensourcemed.info/clinical_trials.html" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:specimen-type:plasma",
+      "type": "specimen-type",
+      "label": "Plasma",
+      "aliases": [],
+      "summary": "Banked plasma specimen type for biobank-readiness linkage demos.",
+      "external_ids": [],
+      "urls": [],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "osmf:diagnostic-criterion:pacvs-draft-v0",
+      "type": "diagnostic-criterion",
+      "label": "PACVS diagnostic criteria (draft v0 example)",
+      "aliases": [],
+      "summary": "Placeholder criteria object for summit workbench demos. Not a published consensus.",
+      "external_ids": [],
+      "urls": [
+        { "rel": "summit", "href": "https://opensourcemed.info/" }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-18T21:00:00Z"
+    }
+  ],
+  "claims": [
+    {
+      "id": "osmf:claim:ex-pem-of-long-covid",
+      "subject_id": "osmf:phenotype:pem",
+      "predicate": "phenotype_of",
+      "object_id": "osmf:condition:long-covid",
+      "evidence_tier": "B",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://research.opensourcemed.info/",
+          "label": "OSMF Research Tracker (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Source is a hub page placeholder, not a primary study. Replace with curated literature before publish.",
+      "confidence_notes": "Structural example of phenotype→condition link.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-pem-of-me-cfs",
+      "subject_id": "osmf:phenotype:pem",
+      "predicate": "phenotype_of",
+      "object_id": "osmf:condition:me-cfs",
+      "evidence_tier": "A",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://research.opensourcemed.info/",
+          "label": "OSMF Research Tracker (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM for schema demo. Re-grade with primary diagnostic criteria citations before publish.",
+      "confidence_notes": "PEM is core to many ME/CFS definitions; still replace sources for production.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-oi-of-pots",
+      "subject_id": "osmf:phenotype:orthostatic-intolerance",
+      "predicate": "phenotype_of",
+      "object_id": "osmf:condition:pots",
+      "evidence_tier": "A",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://research.opensourcemed.info/",
+          "label": "OSMF Research Tracker (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Attach guideline/criteria DOIs before publish.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-hr-biomarker-pots",
+      "subject_id": "osmf:biomarker:resting-heart-rate-orthostatic",
+      "predicate": "biomarker_of",
+      "object_id": "osmf:condition:pots",
+      "evidence_tier": "B",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://research.opensourcemed.info/",
+          "label": "OSMF Research Tracker (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Thresholds and age rules differ across definitions; not diagnostic advice.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-spike-related-long-covid",
+      "subject_id": "osmf:biomarker:spike-persistence",
+      "predicate": "related_to",
+      "object_id": "osmf:condition:long-covid",
+      "evidence_tier": "C",
+      "sources": [
+        {
+          "type": "url",
+          "value": "https://spikeprotein.site/",
+          "label": "spikeprotein.site hub (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Mechanistic/association literature is heterogeneous; not proof of causation or a clinical test order.",
+      "confidence_notes": "Demonstrates C-tier + required limitations for contested/mechanistic themes.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-spike-related-pacvs",
+      "subject_id": "osmf:biomarker:spike-persistence",
+      "predicate": "related_to",
+      "object_id": "osmf:condition:pacvs",
+      "evidence_tier": "D",
+      "sources": [
+        {
+          "type": "url",
+          "value": "https://spikeprotein.site/",
+          "label": "spikeprotein.site hub (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Contested and evolving area; included to show D-tier uncertainty UX. Do not present as established fact.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-agent-candidate-long-covid",
+      "subject_id": "osmf:agent:example-repurposing-candidate",
+      "predicate": "treats_candidate_for",
+      "object_id": "osmf:condition:long-covid",
+      "evidence_tier": "C",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://research.opensourcemed.info/",
+          "label": "OSMF Research Tracker (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Placeholder agent only. Not medical advice; not an efficacy claim.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-agent-studied-in-trial",
+      "subject_id": "osmf:agent:example-repurposing-candidate",
+      "predicate": "studied_in",
+      "object_id": "osmf:trial:example-nct-00000000",
+      "evidence_tier": "B",
+      "sources": [
+        {
+          "type": "nct",
+          "value": "NCT00000000",
+          "label": "Placeholder ClinicalTrials.gov ID"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. NCT00000000 is a placeholder, not a real trial record for this agent.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-paper-supports-pem-me-cfs",
+      "subject_id": "osmf:claim:ex-pem-of-me-cfs",
+      "predicate": "supported_by",
+      "object_id": "osmf:paper:example-review-001",
+      "evidence_tier": "C",
+      "sources": [
+        {
+          "type": "doi",
+          "value": "10.0000/osmf.example.review.001",
+          "label": "Placeholder DOI"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Shows claim←paper support edge using a fake DOI namespace for demos.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-mcas-related-long-covid",
+      "subject_id": "osmf:condition:mcas",
+      "predicate": "related_to",
+      "object_id": "osmf:condition:long-covid",
+      "evidence_tier": "C",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://research.opensourcemed.info/",
+          "label": "OSMF Research Tracker (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Comorbidity/overlap discussion only; not a causal model.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-pots-related-long-covid",
+      "subject_id": "osmf:condition:pots",
+      "predicate": "related_to",
+      "object_id": "osmf:condition:long-covid",
+      "evidence_tier": "B",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://research.opensourcemed.info/",
+          "label": "OSMF Research Tracker (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Replace with cohort/prevalence primary sources before publish.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-plasma-measured-in-long-covid",
+      "subject_id": "osmf:biomarker:spike-persistence",
+      "predicate": "measured_in",
+      "object_id": "osmf:specimen-type:plasma",
+      "evidence_tier": "C",
+      "sources": [
+        {
+          "type": "url",
+          "value": "https://spikeprotein.site/",
+          "label": "spikeprotein.site hub (example seed source)"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Illustrates biobank specimen linkage; assay methods vary widely.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "osmf:claim:ex-pem-supports-pacvs-criterion",
+      "subject_id": "osmf:phenotype:pem",
+      "predicate": "supports_criterion",
+      "object_id": "osmf:diagnostic-criterion:pacvs-draft-v0",
+      "evidence_tier": "D",
+      "sources": [
+        {
+          "type": "osmf_page",
+          "value": "https://opensourcemed.info/",
+          "label": "OSMF hub / summit placeholder"
+        }
+      ],
+      "limitations": "EXAMPLE CLAIM. Draft criteria object only; not consensus-endorsed. Shows summit workbench linkage.",
+      "status": "draft",
+      "reviewed_by": "example-curator",
+      "reviewed_at": "2026-09-18T21:00:00Z",
+      "license": "CC-BY-4.0"
+    }
+  ]
+}

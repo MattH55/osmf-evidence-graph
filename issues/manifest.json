@@ -1,0 +1,230 @@
+[
+  {
+    "num": "EG-1",
+    "title": "EG-1: Freeze schema v0.1 and ID scheme",
+    "body": "**Milestone:** EG-M1  \n**Priority:** P0  \n**Estimate:** S  \n\n### Description\nAdopt `entity` / `claim` / `dump` JSON Schemas as v0.1. Document `osmf:<type>:<slug>` IDs, evidence tiers A\u2013D, and claim status (`draft` | `published` | `superseded`).\n\n### Acceptance criteria\n- [ ] Schemas committed as source of truth (start from starter package)\n- [ ] Short `SCHEMA.md`: ID rules, predicates, tier definitions, required `limitations` for C/D\n- [ ] `schema_version` set to `0.1.0` in dump meta\n- [ ] Decision recorded: git files vs DB for authoring (can be \u201cgit for MVP\u201d)\n\n### Blocked by\n\u2014\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m1"
+    ],
+    "milestone": "EG-M1"
+  },
+  {
+    "num": "EG-2",
+    "title": "EG-2: Choose source-of-truth layout (git authoring)",
+    "body": "**Milestone:** EG-M1  \n**Priority:** P0  \n**Estimate:** S  \n\n### Description\nFor MVP, prefer versioned files (e.g. `data/entities/*.json`, `data/claims/*.json`) compiled into `dist/dump/latest.json`. Document the layout and compile script contract.\n\n### Acceptance criteria\n- [ ] Directory layout documented and created\n- [ ] `npm run build:dump` (or equivalent) concatenates entities+claims \u2192 dump\n- [ ] Dump `meta.generated_at` set at build time\n- [ ] CI fails if dump is not valid against bundled schema\n\n### Blocked by\nEG-1\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m1"
+    ],
+    "milestone": "EG-M1"
+  },
+  {
+    "num": "EG-3",
+    "title": "EG-3: JSON Schema CI validation",
+    "body": "**Milestone:** EG-M1  \n**Priority:** P0  \n**Estimate:** S  \n\n### Description\nAdd CI step validating every entity/claim file and the built dump against schemas.\n\n### Acceptance criteria\n- [ ] PR CI runs schema validation\n- [ ] Invalid ID pattern, missing C/D `limitations`, or both `object_id` + `object_literal` fails CI\n- [ ] Example dump remains `is_example: true` and is validated in CI as a fixture\n\n### Blocked by\nEG-1, EG-2\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m1"
+    ],
+    "milestone": "EG-M1"
+  },
+  {
+    "num": "EG-4",
+    "title": "EG-4: Curator authoring conventions",
+    "body": "**Milestone:** EG-M1  \n**Priority:** P1  \n**Estimate:** S  \n\n### Description\nWrite a one-pager for curators: how to add an entity, draft a claim, publish, supersede; no clinical-advice language; provenance required.\n\n### Acceptance criteria\n- [ ] `CURATING.md` with examples (copy-paste templates)\n- [ ] Checklist: sources, tier, limitations, review fields\n- [ ] Explicit \u201cnot medical advice\u201d rule\n\n### Blocked by\nEG-1\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p1",
+      "eg-m1"
+    ],
+    "milestone": "EG-M1"
+  },
+  {
+    "num": "EG-5",
+    "title": "EG-5: Seed five condition entities (real network URLs)",
+    "body": "**Milestone:** EG-M2  \n**Priority:** P0  \n**Estimate:** M  \n\n### Description\nReplace illustrative condition stubs with curated **entity** records for Long COVID, PACVS, ME/CFS, POTS, MCAS. Link real OSMF tracker/hub/spikeprotein URLs. Keep claims draft until EG-6/EG-7.\n\n### Acceptance criteria\n- [ ] Five `osmf:condition:*` entities `status: active`\n- [ ] Aliases + at least one external id where available (MeSH/MONDO/etc.)\n- [ ] `urls` point at live OSMF pages (not placeholders)\n- [ ] Still no false \u201cpublished\u201d clinical claims\n\n### Blocked by\nEG-2\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m2"
+    ],
+    "milestone": "EG-M2"
+  },
+  {
+    "num": "EG-6",
+    "title": "EG-6: Seed linking entities (phenotype, biomarker, specimen, criteria stub)",
+    "body": "**Milestone:** EG-M2  \n**Priority:** P0  \n**Estimate:** M  \n\n### Description\nAdd the minimum non-condition entities needed for embeds and demos: PEM, orthostatic intolerance, spike-persistence (research), plasma specimen type, PACVS criteria draft stub (clearly draft).\n\n### Acceptance criteria\n- [ ] \u22652 phenotypes, \u22651 biomarker, \u22651 specimen-type, \u22651 diagnostic-criterion (draft)\n- [ ] Each has stable IDs and summaries that avoid advice language\n- [ ] Spike entity links to https://spikeprotein.site/\n\n### Blocked by\nEG-5\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m2"
+    ],
+    "milestone": "EG-M2"
+  },
+  {
+    "num": "EG-7",
+    "title": "EG-7: First curated claim set (draft \u2192 published path)",
+    "body": "**Milestone:** EG-M2  \n**Priority:** P0  \n**Estimate:** M  \n\n### Description\nAuthor a small real claim set (target \u226525) for the five conditions: phenotype_of, biomarker_of, related_to, with real DOIs/PMIDs where possible. Start as `draft`; publish only after human review.\n\n### Acceptance criteria\n- [ ] \u226525 claims with real sources (doi/pmid/nct/url)\n- [ ] Every C/D claim has non-empty `limitations`\n- [ ] At least 10 claims reach `published` after named reviewer\n- [ ] Dump `meta.is_example` = `false` for the production dump artifact\n\n### Blocked by\nEG-5, EG-6, EG-4\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m2"
+    ],
+    "milestone": "EG-M2"
+  },
+  {
+    "num": "EG-8",
+    "title": "EG-8: Public dump artifact + versioning",
+    "body": "**Milestone:** EG-M2  \n**Priority:** P0  \n**Estimate:** S  \n\n### Description\nPublish `latest.json` (and optional `latest.jsonld`) via static hosting / GitHub Releases / site path. Include license and schema version.\n\n### Acceptance criteria\n- [ ] Public URL for dump documented on hub\n- [ ] Immutable dated snapshot also available (e.g. `dump-2026-09-18.json`)\n- [ ] Changelog entry when schema or published claims change\n\n### Blocked by\nEG-3, EG-7\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m2"
+    ],
+    "milestone": "EG-M2"
+  },
+  {
+    "num": "EG-9",
+    "title": "EG-9: Hub Evidence Graph landing page",
+    "body": "**Milestone:** EG-M3  \n**Priority:** P0  \n**Estimate:** M  \n\n### Description\nAdd opensourcemed.info page explaining the graph, how to cite, link to dump, browse by entity type.\n\n### Acceptance criteria\n- [ ] Landing page live with plain-language explainer\n- [ ] Links: schema docs, dump, curator guide, \u201cnot medical advice\u201d\n- [ ] Lists seed conditions with links to entity pages\n\n### Blocked by\nEG-8\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m3"
+    ],
+    "milestone": "EG-M3"
+  },
+  {
+    "num": "EG-10",
+    "title": "EG-10: Static entity pages",
+    "body": "**Milestone:** EG-M3  \n**Priority:** P0  \n**Estimate:** M  \n\n### Description\nGenerate static pages per entity: summary, claims in/out, linked OSMF tools, export buttons.\n\n### Acceptance criteria\n- [ ] One page per seed entity at stable paths (e.g. `/graph/condition/pacvs`)\n- [ ] Shows evidence tier + sources + limitations inline\n- [ ] Superseded claims visible but marked\n- [ ] Works as static site (Vercel-friendly)\n\n### Blocked by\nEG-8\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m3"
+    ],
+    "milestone": "EG-M3"
+  },
+  {
+    "num": "EG-11",
+    "title": "EG-11: Minimal read API (or static query helpers)",
+    "body": "**Milestone:** EG-M3  \n**Priority:** P1  \n**Estimate:** M  \n\n### Description\nShip either thin API routes or prebuilt per-entity JSON: `GET /entities/:id`, `GET /entities/:id/claims`. Static JSON files are acceptable for MVP.\n\n### Acceptance criteria\n- [ ] Documented endpoints or file paths\n- [ ] CORS-friendly for network site embeds\n- [ ] 404 for unknown IDs; deprecated entities still returned with status\n\n### Blocked by\nEG-8\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p1",
+      "eg-m3"
+    ],
+    "milestone": "EG-M3"
+  },
+  {
+    "num": "EG-12",
+    "title": "EG-12: Related-evidence embed (Research Tracker)",
+    "body": "**Milestone:** EG-M4  \n**Priority:** P0  \n**Estimate:** M  \n\n### Description\nEmbeddable panel on Research Tracker pages: given `osmf:` ID (or mapped local slug), show top linked claims/entities with link-out to hub entity page.\n\n### Acceptance criteria\n- [ ] Embed live on \u22653 tracker pages covering different conditions\n- [ ] Uses published claims only\n- [ ] Graceful empty state when no graph links\n- [ ] No advice language in embed chrome\n\n### Blocked by\nEG-10, EG-11\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m4"
+    ],
+    "milestone": "EG-M4"
+  },
+  {
+    "num": "EG-13",
+    "title": "EG-13: Related-evidence embed (spikeprotein.site)",
+    "body": "**Milestone:** EG-M4  \n**Priority:** P0  \n**Estimate:** M  \n\n### Description\nSame embed pattern on spikeprotein.site for spike-persistence and related condition links.\n\n### Acceptance criteria\n- [ ] Embed live on hub or key article pages\n- [ ] Uncertainty (C/D) visually distinct\n- [ ] Links back to OSMF entity pages\n\n### Blocked by\nEG-10, EG-11\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m4"
+    ],
+    "milestone": "EG-M4"
+  },
+  {
+    "num": "EG-14",
+    "title": "EG-14: Citation / export pack",
+    "body": "**Milestone:** EG-M4  \n**Priority:** P1  \n**Estimate:** S  \n\n### Description\nExport BibTeX + CSV for an entity subgraph or selected claims.\n\n### Acceptance criteria\n- [ ] CSV: claim id, subject, predicate, object, tier, sources, reviewed_at\n- [ ] BibTeX generated from claim sources where DOI/PMID exist\n- [ ] Available from entity pages\n\n### Blocked by\nEG-10\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p1",
+      "eg-m4"
+    ],
+    "milestone": "EG-M4"
+  },
+  {
+    "num": "EG-15",
+    "title": "EG-15: Local ID adapter map (tracker \u2194 graph)",
+    "body": "**Milestone:** EG-M4  \n**Priority:** P1  \n**Estimate:** M  \n\n### Description\nMapping file from existing Research Tracker / spikeprotein slugs \u2192 `osmf:` IDs so embeds don\u2019t require a full rewrite.\n\n### Acceptance criteria\n- [ ] `adapters/tracker.json` (and spikeprotein if needed) committed\n- [ ] CI checks every adapter target ID exists in dump\n- [ ] Documented how to add a mapping\n\n### Blocked by\nEG-5, EG-12\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p1",
+      "eg-m4"
+    ],
+    "milestone": "EG-M4"
+  },
+  {
+    "num": "EG-16",
+    "title": "EG-16: Provenance audit + publish gate",
+    "body": "**Milestone:** EG-M5  \n**Priority:** P0  \n**Estimate:** S  \n\n### Description\nAudit all `published` A/B claims for source + review date; block publish in CI/scripts if missing.\n\n### Acceptance criteria\n- [ ] Automated check in build\n- [ ] Audit report checked into PR or CI artifact\n- [ ] Zero published A/B claims missing sources or `reviewed_at`\n\n### Blocked by\nEG-7, EG-3\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m5"
+    ],
+    "milestone": "EG-M5"
+  },
+  {
+    "num": "EG-17",
+    "title": "EG-17: Broken-reference CI",
+    "body": "**Milestone:** EG-M5  \n**Priority:** P0  \n**Estimate:** S  \n\n### Description\nFail build if any claim references a missing entity/claim id, or site embed maps to missing id.\n\n### Acceptance criteria\n- [ ] CI covers dump + adapters + embed config\n- [ ] Clear error messages with offending ids\n\n### Blocked by\nEG-15\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p0",
+      "eg-m5"
+    ],
+    "milestone": "EG-M5"
+  },
+  {
+    "num": "EG-18",
+    "title": "EG-18: Docs: how to cite / how to extend",
+    "body": "**Milestone:** EG-M5  \n**Priority:** P1  \n**Estimate:** S  \n\n### Description\nPublic docs for external researchers: citing graph IDs, consuming the dump, proposing corrections.\n\n### Acceptance criteria\n- [ ] Cite guidelines on hub\n- [ ] Correction / PR pathway documented\n- [ ] License clarified on dump and pages\n\n### Blocked by\nEG-9\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p1",
+      "eg-m5"
+    ],
+    "milestone": "EG-M5"
+  },
+  {
+    "num": "EG-19",
+    "title": "EG-19: Success metrics instrumentation (lightweight)",
+    "body": "**Milestone:** EG-M5  \n**Priority:** P2  \n**Estimate:** S  \n\n### Description\nTrack dump downloads / entity page views / embed load counts (privacy-respecting).\n\n### Acceptance criteria\n- [ ] Basic analytics events defined\n- [ ] Weekly snapshot note in changelog or internal doc\n- [ ] Aligns with 30/90-day metrics from product brief\n\n### Blocked by\nEG-12, EG-13\n\n---\n_Part of epic: Shared Evidence Graph MVP_",
+    "labels": [
+      "evidence-graph",
+      "mvp",
+      "p2",
+      "eg-m5"
+    ],
+    "milestone": "EG-M5"
+  }
+]

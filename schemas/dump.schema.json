@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://opensourcemed.info/schemas/evidence-graph/dump.schema.json",
+  "title": "OSMF Evidence Graph Dump",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["meta", "entities", "claims"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "generated_at",
+        "publisher",
+        "is_example",
+        "license"
+      ],
+      "properties": {
+        "schema_version": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+        },
+        "generated_at": { "type": "string", "format": "date-time" },
+        "publisher": { "type": "string" },
+        "is_example": {
+          "type": "boolean",
+          "description": "true for synthetic starter data; must be false for public curated dumps"
+        },
+        "license": { "type": "string" },
+        "notes": { "type": "string" },
+        "seed_conditions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^osmf:condition:[a-z0-9-]+$"
+          }
+        }
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "https://opensourcemed.info/schemas/evidence-graph/entity.schema.json"
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "$ref": "https://opensourcemed.info/schemas/evidence-graph/claim.schema.json"
+      }
+    }
+  }
+}
