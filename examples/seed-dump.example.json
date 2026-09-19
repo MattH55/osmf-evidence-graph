@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "0.1.0",
-    "generated_at": "2026-09-19T17:22:15.110Z",
+    "generated_at": "2026-09-19T17:29:19.396Z",
     "publisher": "Open Source Medicine Foundation (provisional tracker import)",
     "is_example": true,
     "license": "CC-BY-4.0",
@@ -13335,6 +13335,138 @@
       "updated_at": "2026-09-18T21:00:00Z"
     },
     {
+      "id": "osmf:paper:pmid-21334061",
+      "type": "paper",
+      "label": "Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy, and specialist medical care for chronic fatigue syndrome (PACE): a randomised trial.",
+      "aliases": [],
+      "summary": "Lancet 2011 PACE trial; contested CBT/GET evidence base for ME/CFS.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "21334061",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21334061/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/21334061/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-22039471",
+      "type": "paper",
+      "label": "Benefit from B-lymphocyte depletion using the anti-CD20 antibody rituximab in chronic fatigue syndrome. A double-blind and placebo-controlled study.",
+      "aliases": [],
+      "summary": "PLoS One 2011 Phase 2 rituximab signal later refuted by RituxME.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "22039471",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22039471/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/22039471/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-22431963",
+      "type": "paper",
+      "label": "A Double-Blind, Placebo-Controlled, Randomized Clinical Trial of the TLR-3 Agonist Rintatolimod in Severe Cases of Chronic Fatigue Syndrome.",
+      "aliases": [],
+      "summary": "PLoS One 2012 AMP-516 Ampligen Phase 3 in severe CFS/ME.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "22431963",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22431963/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/22431963/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-23062791",
+      "type": "paper",
+      "label": "Use of lisdexamfetamine dimesylate in treatment of executive functioning deficits and chronic fatigue syndrome: a double blind, placebo-controlled study.",
+      "aliases": [],
+      "summary": "Psychiatry Res 2013: small LDX RCT in CFS with executive deficits.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "23062791",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23062791/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/23062791/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-30934066",
+      "type": "paper",
+      "label": "B-Lymphocyte Depletion in Patients With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "aliases": [],
+      "summary": "Annals 2019 RituxME Phase 3 negative for rituximab in ME/CFS.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "30934066",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30934066/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/30934066/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-36070710",
+      "type": "paper",
+      "label": "Randomized Trial of Metformin, Ivermectin, and Fluvoxamine for Covid-19.",
+      "aliases": [],
+      "summary": "NEJM 2022 COVID-OUT acute primary outcomes.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "36070710",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36070710/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/36070710/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
       "id": "osmf:paper:pmid-36894668",
       "type": "paper",
       "label": "StatPearls",
@@ -13355,6 +13487,94 @@
       ],
       "status": "active",
       "updated_at": "2026-09-19T16:57:32.049Z"
+    },
+    {
+      "id": "osmf:paper:pmid-37302406",
+      "type": "paper",
+      "label": "Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial.",
+      "aliases": [],
+      "summary": "Lancet Infect Dis 2023: metformin prevention of incident LC; ivermectin/fluvoxamine null for prevention.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "37302406",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37302406/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/37302406/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-38311655",
+      "type": "paper",
+      "label": "Randomized controlled trial of intravenous immunoglobulin for autoimmune postural orthostatic tachycardia syndrome (iSTAND).",
+      "aliases": [],
+      "summary": "Clin Auton Res 2024: IVIG vs albumin—no difference in POTS response.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "38311655",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38311655/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/38311655/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-38848477",
+      "type": "paper",
+      "label": "Nirmatrelvir-Ritonavir and Symptoms in Adults With Postacute Sequelae of SARS-CoV-2 Infection: The STOP-PASC Randomized Clinical Trial.",
+      "aliases": [],
+      "summary": "JAMA Intern Med 2024: 15-day Paxlovid null for established PASC.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "38848477",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38848477/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/38848477/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-38894576",
+      "type": "paper",
+      "label": "Growth hormone treatment for neurologic symptoms of post-acute sequelae of COVID-19.",
+      "aliases": [],
+      "summary": "Clin Transl Sci 2024: open-label n=13 somatropin pilot in neurologic PASC.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "38894576",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38894576/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/38894576/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
     },
     {
       "id": "osmf:paper:pmid-39825183",
@@ -17359,6 +17579,28 @@
       ],
       "status": "active",
       "updated_at": "2026-09-19T16:57:32.049Z"
+    },
+    {
+      "id": "osmf:paper:pmid-41911553",
+      "type": "paper",
+      "label": "The Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID: An Adaptive Randomized Trial.",
+      "aliases": [],
+      "summary": "Annals 2026 REVIVE: fluvoxamine benefit on FSS; metformin null for established LC fatigue.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "41911553",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41911553/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/41911553/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
     },
     {
       "id": "osmf:paper:pmid-41918648",
@@ -25105,6 +25347,28 @@
       "updated_at": "2026-09-19T16:57:32.049Z"
     },
     {
+      "id": "osmf:paper:pmid-42673984",
+      "type": "paper",
+      "label": "Nirmatrelvir–ritonavir targeting viral persistence in post-COVID-19 condition (long COVID) in the USA (RECOVER-VITAL): a randomised, double-blind, placebo-controlled, phase 2 trial.",
+      "aliases": [],
+      "summary": "Lancet Infect Dis 2026: RECOVER-VITAL null for 15/25-day Paxlovid in Long COVID.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "42673984",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42673984/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/42673984/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
       "id": "osmf:phenotype:orthostatic-intolerance",
       "type": "phenotype",
       "label": "Orthostatic intolerance",
@@ -25912,35 +26176,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT05597722"
+          "value": "NCT05597722",
+          "label": "NCT05597722: Addressing Cognitive Fog in Long-COVID-19 Patients"
         },
         {
-          "type": "pmid",
-          "value": "35673334"
-        },
-        {
-          "type": "pmid",
-          "value": "36899952"
-        },
-        {
-          "type": "pmid",
-          "value": "37344737"
-        },
-        {
-          "type": "pmid",
-          "value": "37396922"
-        },
-        {
-          "type": "pmid",
-          "value": "37655303"
+          "type": "url",
+          "value": "https://doi.org/10.1177/10870547231168338",
+          "label": "Successful Treatment of Post-COVID-19 ADHD-like Syndrome: A Case Report"
         }
       ],
-      "limitations": "Key refs: NCT05597722 (TERMINATED), PMID:35673334, PMID:36899952, PMID:37344737, PMID:37396922, PMID:37655303. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Sole interventional registry study terminated (n=7) without efficacy results (NCT05597722). No peer-reviewed RCT of amphetamine-dextroamphetamine for Long COVID. Case-level stimulant reports are not generalizable. Stimulant harms (CV, dependence, appetite) not characterized in this population. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "MattH55+evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). | Human-locked claim retained as tier C. Linked trial(s): NCT05597722:TERMINATED. Literature search '(Amphetamine-Dextroamphetamine) AND (\"long COVID\" OR \"post-COVID\" OR PASC)' returned 33 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
+      "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: MattH55+evidence-eval-bot. Tier unchanged (C). Prior reviewers MattH55+evidence-eval-bot (2026-09-19) graded C/published; deep-dive retains C. Off-target Europe-PMC PMIDs from prior eval removed."
     },
     {
       "id": "osmf:claim:agent-ampion-treats-long-covid",
@@ -25978,36 +26228,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "22431963",
+          "label": "PMID 22431963: A Double-Blind, Placebo-Controlled, Randomized, Clinical Trial of the TLR-3 Agon"
+        },
+        {
           "type": "nct",
-          "value": "NCT00215800"
+          "value": "NCT00215800",
+          "label": "NCT00215800: The Study of the Safety and Efficacy of Ampligen in Chronic Fatigue Syndrome"
         },
         {
-          "type": "pmid",
-          "value": "18202435"
-        },
-        {
-          "type": "pmid",
-          "value": "20713100"
-        },
-        {
-          "type": "pmid",
-          "value": "24316048"
-        },
-        {
-          "type": "pmid",
-          "value": "29730580"
-        },
-        {
-          "type": "pmid",
-          "value": "34024217"
+          "type": "url",
+          "value": "https://www.sec.gov/Archives/edgar/data/946644/000114420413006126/v333954_ex99-1.htm",
+          "label": "FDA Complete Response Letter declining Ampligen NDA for CFS"
         }
       ],
-      "limitations": "Key refs: NCT00215800 (COMPLETED), PMID:18202435, PMID:20713100, PMID:24316048, PMID:29730580, PMID:34024217. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "FDA and sponsor disagree on AMP-516 primary p-value (0.10 vs 0.047). No US approval; CRL required another controlled trial. Safety signals cited by FDA (thrombosis, cardiac events, infusion reactions/unblinding risk). Limited independent replication. Results not posted on CT.gov for NCT00215800. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "MattH55+evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). | Human-locked claim retained as tier C. Linked trial(s): NCT00215800:COMPLETED. Literature search '(Ampligen OR rintatolimod) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")' returned 136 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
+      "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: MattH55+evidence-eval-bot. Tier unchanged (C). Prior MattH55+evidence-eval-bot C/published retained. Replaced off-target TLR review PMIDs with primary AMP-516 + regulatory record."
     },
     {
       "id": "osmf:claim:agent-amygdala-insula-retraining-treats-long-covid",
@@ -27935,36 +28176,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
-          "type": "nct",
-          "value": "NCT00860236"
+          "type": "pmid",
+          "value": "21334061",
+          "label": "PMID 21334061: Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exerc"
         },
         {
-          "type": "pmid",
-          "value": "20350028"
+          "type": "url",
+          "value": "https://www.nice.org.uk/guidance/ng206",
+          "label": "NICE NG206 Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and man"
         },
         {
-          "type": "pmid",
-          "value": "23459093"
-        },
-        {
-          "type": "pmid",
-          "value": "34373540"
-        },
-        {
-          "type": "pmid",
-          "value": "36178003"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
+          "type": "url",
+          "value": "https://www.cdc.gov/me-cfs/hcp/clinical-care/index.html",
+          "label": "CDC ME/CFS clinical care"
         }
       ],
-      "limitations": "Key refs: NCT00860236 (COMPLETED), PMID:20350028, PMID:23459093, PMID:34373540, PMID:36178003, PMID:36639608. Evaluated from extracted references on 2026-09-19; not a systematic review. CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Guideline conflict (older CBT/GET-positive reviews vs NICE NG206). PACE methodological controversies. Risk of harm if CBT is paired with graded exercise that triggers PEM. Prior eval linked off-target mindfulness/meta-analysis PMIDs—replaced with PACE + NG206. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. | CBT has been studied in ME/CFS, but the evidence base is contested and guideline positions diverge; it should not be framed as solid disease-modifying clinical evidence. Linked trial status: COMPLETED. Search hits=2590."
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D/published retained after deep-dive. Contested framing preserved."
     },
     {
       "id": "osmf:claim:agent-cognitive-muscular-therapy-treats-long-covid",
@@ -29939,48 +30171,32 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
-          "type": "nct",
-          "value": "NCT05874037"
-        },
-        {
-          "type": "nct",
-          "value": "NCT07359482"
+          "type": "pmid",
+          "value": "41911553",
+          "label": "PMID 41911553: The Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID:"
         },
         {
           "type": "nct",
-          "value": "NCT04510194"
+          "value": "NCT06128967",
+          "label": "NCT06128967: REVIVE Trial — Long COVID"
         },
         {
           "type": "nct",
-          "value": "NCT06128967"
+          "value": "NCT05874037",
+          "label": "NCT05874037: Fluvoxamine for Long COVID-19"
         },
         {
           "type": "pmid",
-          "value": "33180097"
-        },
-        {
-          "type": "pmid",
-          "value": "35987197"
-        },
-        {
-          "type": "pmid",
-          "value": "36253560"
-        },
-        {
-          "type": "pmid",
-          "value": "36631691"
-        },
-        {
-          "type": "pmid",
-          "value": "37076602"
+          "value": "37302406",
+          "label": "PMID 37302406: COVID-OUT: metformin/ivermectin/fluvoxamine and incident long COVID"
         }
       ],
-      "limitations": "Key refs: NCT05874037 (COMPLETED, hasResults; symptom score -47.3 vs -31.1), NCT06128967, NCT04510194 (acute/off-target). Evaluated from extracted references on 2026-09-19; not a systematic review. Early single-trial signal for established Long COVID; not consensus. Not medical advice.",
+      "limitations": "REVIVE effect sizes modest; single adaptive trial. NCT05874037 lacks posted inferential stats and peer-reviewed primary paper. Acute-COVID fluvoxamine literature is a different question. Serious AEs 5/66 vs 2/71 on CT.gov posting for NCT05874037 warrant caution. Not disease-modifying consensus. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] Posted CT.gov primary favors fluvoxamine vs placebo in one LC RCT; keep C not B."
+      "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained. Added REVIVE peer-reviewed primary; clarified prevention vs treatment."
     },
     {
       "id": "osmf:claim:agent-fluvoxamine-treats-me-cfs",
@@ -31816,52 +32032,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
-          "type": "pmid",
-          "value": "42391726"
-        },
-        {
-          "type": "pmid",
-          "value": "42243711"
-        },
-        {
-          "type": "pmid",
-          "value": "42137701"
+          "type": "nct",
+          "value": "NCT06305793",
+          "label": "NCT06305793: RECOVER-AUTONOMIC Appendix A (IVIG)"
         },
         {
           "type": "nct",
-          "value": "NCT06305793"
-        },
-        {
-          "type": "nct",
-          "value": "NCT06305780"
-        },
-        {
-          "type": "pmid",
-          "value": "33428867"
-        },
-        {
-          "type": "pmid",
-          "value": "33753937"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
-        },
-        {
-          "type": "pmid",
-          "value": "36695182"
-        },
-        {
-          "type": "pmid",
-          "value": "38264914"
+          "value": "NCT06305780",
+          "label": "NCT06305780: RECOVER-AUTONOMIC Platform Protocol"
         }
       ],
-      "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:33428867, PMID:33753937, PMID:36639608, PMID:36695182. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Efficacy results for NCT06305793 not public. Off-target PMIDs from prior eval (generic Long COVID reviews, cardiology stats) removed. Cost/access and infusion risks relevant if used off-label. Distinct from IVIG-for-POTS evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) → Long COVID: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=True); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33428867: 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study.; PMID 33753937: Post-acute COVID-19 syndrome.; P"
+      "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained. Waiting on RECOVER appendix A primary publication."
     },
     {
       "id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-lyme",
@@ -32048,7 +32234,7 @@
       "subject_id": "osmf:agent:intravenous-immunoglobulin-ivig",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:pots",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -32057,51 +32243,26 @@
         },
         {
           "type": "pmid",
-          "value": "42391726"
+          "value": "38311655",
+          "label": "PMID 38311655: Randomized controlled trial of intravenous immunoglobulin for autoimmune postura"
         },
         {
           "type": "pmid",
-          "value": "42243711"
-        },
-        {
-          "type": "pmid",
-          "value": "42137701"
+          "value": "40653179",
+          "label": "PMID 40653179: The evidence for treatments for postural orthostatic tachycardia syndrome: a sys"
         },
         {
           "type": "nct",
-          "value": "NCT06305793"
-        },
-        {
-          "type": "nct",
-          "value": "NCT06305780"
-        },
-        {
-          "type": "pmid",
-          "value": "33753937"
-        },
-        {
-          "type": "pmid",
-          "value": "34144933"
-        },
-        {
-          "type": "pmid",
-          "value": "34319569"
-        },
-        {
-          "type": "pmid",
-          "value": "34817268"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
+          "value": "NCT06305793",
+          "label": "NCT06305793: RECOVER-AUTONOMIC IVIG (Long COVID autonomic/OI)"
         }
       ],
-      "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:33753937, PMID:34144933, PMID:34319569, PMID:34817268. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "iSTAND small (n=30), short (12 weeks), low-dose IVIG; albumin control may mask volume effects. Patient-selection (autoimmune POTS) limits generalizability. RECOVER IVIG is Long COVID OI, not idiopathic POTS. Prior off-target PMIDs removed. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) → POTS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=True); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33753937: Post-acute COVID-19 syndrome.; PMID 34144933: Postural orthostatic tachycardia syndrome (POTS): State of the science and clinical care from a"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: iSTAND Phase 2 RCT (PMID 38311655) found identical 46% response with IVIG vs albumin control; no COMPASS-31 difference. Negative controlled trial → contested/insufficient (D), not early-positive C. Prior evidence-eval-bot C upgraded→D after iSTAND primary. Keep published; not medical advice."
     },
     {
       "id": "osmf:claim:agent-iodocarb-treats-me-cfs",
@@ -32234,39 +32395,26 @@
         },
         {
           "type": "pmid",
-          "value": "41421419"
+          "value": "37302406",
+          "label": "PMID 37302406: COVID-OUT long COVID incidence secondary outcome"
+        },
+        {
+          "type": "pmid",
+          "value": "36070710",
+          "label": "PMID 36070710: COVID-OUT acute severity primary"
         },
         {
           "type": "nct",
-          "value": "NCT04510194"
-        },
-        {
-          "type": "pmid",
-          "value": "33856918"
-        },
-        {
-          "type": "pmid",
-          "value": "33941622"
-        },
-        {
-          "type": "pmid",
-          "value": "36115368"
-        },
-        {
-          "type": "pmid",
-          "value": "37076602"
-        },
-        {
-          "type": "pmid",
-          "value": "38378653"
+          "value": "NCT04510194",
+          "label": "NCT04510194: COVID-OUT"
         }
       ],
-      "limitations": "Key refs: NCT04510194 (COMPLETED), PMID:33856918, PMID:33941622, PMID:36115368, PMID:37076602, PMID:38378653. Evaluated from extracted references on 2026-09-19; not a systematic review. Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Prevention ≠ treatment of established PASC. Observational/anecdotal ivermectin-for-LC claims are uncontrolled. Regulatory/public-health bodies have warned against ivermectin for COVID outside trials. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[high] Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. | For Long COVID, extracted trials/literature do not provide solid supportive clinical efficacy for ivermectin. Broader COVID literature is contested; tracker PMID linkage may be off-target (safety/case report). CT.gov statuses: COMPLETED. Search hits=703."
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D retained after primary-source check."
     },
     {
       "id": "osmf:claim:agent-ivermectin-treats-lyme",
@@ -32281,40 +32429,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
-          "type": "pmid",
-          "value": "41421419"
+          "type": "url",
+          "value": "https://www.nice.org.uk/guidance/ng95",
+          "label": "NICE NG95 Lyme disease"
         },
         {
-          "type": "nct",
-          "value": "NCT04510194"
-        },
-        {
-          "type": "pmid",
-          "value": "18323583"
-        },
-        {
-          "type": "pmid",
-          "value": "29186062"
+          "type": "url",
+          "value": "https://www.idsociety.org/practice-guideline/lyme-disease/",
+          "label": "IDSA/AAN/ACR 2020 Lyme guidelines"
         },
         {
           "type": "pmid",
-          "value": "32047861"
-        },
-        {
-          "type": "pmid",
-          "value": "39326415"
-        },
-        {
-          "type": "pmid",
-          "value": "39947217"
+          "value": "36070710",
+          "label": "PMID 36070710: Randomized Trial of Metformin, Ivermectin, and Fluvoxamine for Covid-19 (COVID-O"
         }
       ],
-      "limitations": "Key refs: NCT04510194 (COMPLETED), PMID:18323583, PMID:29186062, PMID:32047861, PMID:39326415, PMID:39947217. Evaluated from extracted references on 2026-09-19; not a systematic review. Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Absence of evidence is not a systematic 'empty review' formalized here, but guideline omission plus lack of PubMed interventional trials is decisive for D. Do not cite acute-COVID ivermectin trials as Lyme evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[high] Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. | For Chronic Lyme / PTLDS, extracted trials/literature do not provide solid supportive clinical efficacy for ivermectin. Broader COVID literature is contested; tracker PMID linkage may be off-target (safety/case report). CT.gov statuses: COMPLETED. Search hits=18."
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D retained. Removed COVID-OUT as a Lyme source."
     },
     {
       "id": "osmf:claim:agent-journaling-treats-me-cfs",
@@ -32792,36 +32927,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "23062791",
+          "label": "PMID 23062791: Use of lisdexamfetamine dimesylate in treatment of executive functioning deficit"
+        },
+        {
           "type": "nct",
-          "value": "NCT01071044"
-        },
-        {
-          "type": "pmid",
-          "value": "27189581"
-        },
-        {
-          "type": "pmid",
-          "value": "27480574"
-        },
-        {
-          "type": "pmid",
-          "value": "27664125"
-        },
-        {
-          "type": "pmid",
-          "value": "29173175"
-        },
-        {
-          "type": "pmid",
-          "value": "31394725"
+          "value": "NCT01071044",
+          "label": "NCT01071044: Efficacy and Safety of Lisdexamfetamine Dimesylate in Adults With Chronic Fatigu"
         }
       ],
-      "limitations": "Key refs: NCT01071044 (COMPLETED), PMID:27189581, PMID:27480574, PMID:27664125, PMID:29173175, PMID:31394725. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Very small n; 6-week duration; CFS criteria era may not match modern ME/CFS (CCC/IOM) with PEM emphasis; primary endpoint was BRIEF-A not PEM/function. Industry-relevant stimulant class harms. No replication Phase 3. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 1 registry trial(s) for Lisdexamfetamine Dimesylate → ME/CFS: NCT01071044 (COMPLETED, phase=PHASE4, n=26, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 27189581: Activational and effort-related aspects of motivation: neural mechanisms and implications for psychopathology.; PMID 27480574: Inflammation Effects on Motivation and Motor Activity: Role of Dopamine.; PMID 2"
+      "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained. Replaced off-target PMIDs with Young 2013 primary."
     },
     {
       "id": "osmf:claim:agent-lithium-treats-long-covid",
@@ -33616,48 +33737,37 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "nct",
+          "value": "NCT04510194",
+          "label": "NCT04510194: COVID-OUT (acute metformin; long-COVID incidence secondary)"
+        },
+        {
           "type": "pmid",
-          "value": "40544605"
+          "value": "37302406",
+          "label": "PMID 37302406: COVID-OUT: outpatient metformin and incidence of post-COVID-19 condition"
+        },
+        {
+          "type": "pmid",
+          "value": "36070710",
+          "label": "PMID 36070710: COVID-OUT acute primary outcomes"
+        },
+        {
+          "type": "pmid",
+          "value": "41911553",
+          "label": "PMID 41911553: REVIVE: fluvoxamine and metformin for Long COVID fatigue"
         },
         {
           "type": "nct",
-          "value": "NCT04510194"
-        },
-        {
-          "type": "nct",
-          "value": "NCT06128967"
-        },
-        {
-          "type": "nct",
-          "value": "NCT06147050"
-        },
-        {
-          "type": "pmid",
-          "value": "35668219"
-        },
-        {
-          "type": "pmid",
-          "value": "36050306"
-        },
-        {
-          "type": "pmid",
-          "value": "36695182"
-        },
-        {
-          "type": "pmid",
-          "value": "38264914"
-        },
-        {
-          "type": "pmid",
-          "value": "39866113"
+          "value": "NCT06147050",
+          "label": "NCT06147050: Metformin for fatigue in adolescent Long COVID"
         }
       ],
-      "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:35668219, PMID:36050306, PMID:36695182. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited → C not B. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "CRITICAL: do not conflate COVID-OUT prevention HR 0.59 with efficacy in established PASC. REVIVE metformin arm negative for fatigue. Adolescent NCT06147050 too small/unknown status. Overweight/obesity COVID-OUT population limits generalizability of prevention finding. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited → C not B. | Metformin has a notable signal for reducing incidence of long COVID after acute infection in randomized data, but that is prevention rather than treatment of established Long COVID. Linked trials: NCT04510194:COMPLETED, NCT06128967:COMPLETED, NCT06147050:UNKNOWN. Literature includes preclinical GWI work and PACVS map notes. Search hits=1165."
+      "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained with sharpened prevention≠treatment synthesis and REVIVE negative treatment arm."
     },
     {
       "id": "osmf:claim:agent-metformin-treats-me-cfs",
@@ -35834,7 +35944,7 @@
       "subject_id": "osmf:agent:paxlovid-nirmatrelvir-ritonavir",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -35843,63 +35953,31 @@
         },
         {
           "type": "pmid",
-          "value": "42406565"
+          "value": "38848477",
+          "label": "PMID 38848477: STOP-PASC: Nirmatrelvir-Ritonavir and Symptoms in Adults With PASC"
         },
         {
           "type": "pmid",
-          "value": "42402140"
+          "value": "42673984",
+          "label": "PMID 42673984: RECOVER-VITAL: nirmatrelvir–ritonavir targeting viral persistence in long COVID"
         },
         {
           "type": "nct",
-          "value": "NCT07597902"
+          "value": "NCT05576662",
+          "label": "NCT05576662: Paxlovid for Treatment of Long Covid (STOP-PASC)"
         },
         {
           "type": "nct",
-          "value": "NCT05965726"
-        },
-        {
-          "type": "nct",
-          "value": "NCT05595369"
-        },
-        {
-          "type": "nct",
-          "value": "NCT05852873"
-        },
-        {
-          "type": "nct",
-          "value": "NCT05576662"
-        },
-        {
-          "type": "nct",
-          "value": "NCT06441955"
-        },
-        {
-          "type": "pmid",
-          "value": "35271343"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
-        },
-        {
-          "type": "pmid",
-          "value": "36951832"
-        },
-        {
-          "type": "pmid",
-          "value": "37076602"
-        },
-        {
-          "type": "pmid",
-          "value": "39866113"
+          "value": "NCT05965726",
+          "label": "NCT05965726: RECOVER-VITAL Appendix (Paxlovid)"
         }
       ],
-      "limitations": "Key refs: NCT07597902 (NOT_YET_RECRUITING), NCT05965726 (COMPLETED), NCT05595369 (COMPLETED), NCT05852873 (ACTIVE_NOT_RECRUITING), NCT05576662 (COMPLETED), PMID:35271343. Evaluated from extracted references on 2026-09-19; not a systematic review. Multiple Phase 2 LC trials exist; results mixed/limited for established PASC—early clinical signal tier C, not B. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Observational prevention-of-LC associations ≠ treatment of established PASC. STOP-PASC used 15-day course; RECOVER-VITAL tested 15 and 25 days—both null. Viral-persistence hypothesis not supported by these clinical endpoints. Drug-drug interactions via ritonavir remain relevant. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] Multiple Phase 2 LC trials exist; results mixed/limited for established PASC—early clinical signal tier C, not B. | Nirmatrelvir/ritonavir has been tested for post-COVID / long COVID in several trials; available public results are mixed and do not yet constitute solid consensus treatment evidence. Trial statuses: NOT_YET_RECRUITING, COMPLETED, COMPLETED, ACTIVE_NOT_RECRUITING, COMPLETED. Search hits=1525."
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: Two independent Phase 2 RCTs of nirmatrelvir/ritonavir for established PASC are negative: STOP-PASC (PMID 38848477) and RECOVER-VITAL (PMID 42673984, Lancet Infect Dis 2026). Observational signals for acute Paxlovid reducing later LC risk do not establish treatment efficacy. Contested/insufficient → D. Prior evidence-eval-bot C → D after STOP-PASC + RECOVER-VITAL primary review."
     },
     {
       "id": "osmf:claim:agent-peer-mentoring-treats-long-covid",
@@ -38270,52 +38348,32 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
-          "type": "nct",
-          "value": "NCT06952413"
-        },
-        {
-          "type": "nct",
-          "value": "NCT01156922"
-        },
-        {
-          "type": "nct",
-          "value": "NCT02229942"
-        },
-        {
-          "type": "nct",
-          "value": "NCT00848692"
-        },
-        {
-          "type": "nct",
-          "value": "NCT01156909"
+          "type": "pmid",
+          "value": "30934066",
+          "label": "PMID 30934066: B-Lymphocyte Depletion in Patients With ME/CFS: A Randomized, Double-Blind, Plac"
         },
         {
           "type": "pmid",
-          "value": "19375665"
+          "value": "22039471",
+          "label": "PMID 22039471: Benefit from B-lymphocyte depletion using rituximab in CFS: Phase 2"
         },
         {
           "type": "pmid",
-          "value": "30285773"
+          "value": "19566965",
+          "label": "PMID 19566965: Clinical impact of B-cell depletion with rituximab in CFS: case series"
         },
         {
-          "type": "pmid",
-          "value": "31210940"
-        },
-        {
-          "type": "pmid",
-          "value": "31379879"
-        },
-        {
-          "type": "pmid",
-          "value": "37076602"
+          "type": "nct",
+          "value": "NCT02229942",
+          "label": "NCT02229942: RituxME Phase 3"
         }
       ],
-      "limitations": "Key refs: NCT06952413 (RECRUITING), NCT01156922 (TERMINATED), NCT02229942 (COMPLETED), NCT00848692 (COMPLETED), NCT01156909 (COMPLETED), PMID:19375665. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "Self-reported primary outcomes; Canadian consensus population 2–15 years duration. Serious adverse events more frequent with rituximab (26% vs 19%). Do not extrapolate oncology B-cell depletion anecdotes. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[high] Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. | Rituximab was tested in ME/CFS including a Phase 3 program; published results did not support clinical efficacy, and the treatment claim is contested/insufficient. Registry statuses include: RECRUITING, TERMINATED, COMPLETED, COMPLETED, COMPLETED. Europe PMC hits=468."
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D retained; cited negative Phase 3 primary."
     },
     {
       "id": "osmf:claim:agent-rna-biomarker-blood-test-treats-long-covid",
@@ -38953,36 +39011,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "38894576",
+          "label": "PMID 38894576: Growth hormone treatment for neurologic symptoms of post-acute sequelae of COVID"
+        },
+        {
           "type": "nct",
-          "value": "NCT03554265"
-        },
-        {
-          "type": "pmid",
-          "value": "36334362"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "37680987"
-        },
-        {
-          "type": "pmid",
-          "value": "37759668"
-        },
-        {
-          "type": "pmid",
-          "value": "39382470"
+          "value": "NCT03554265",
+          "label": "NCT03554265: Brain and Gut Plasticity in Mild TBI or Post-acute COVID Syndrome Following Grow"
         }
       ],
-      "limitations": "Key refs: NCT03554265 (COMPLETED), PMID:36334362, PMID:36969241, PMID:37680987, PMID:37759668, PMID:39382470. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "limitations": "n=13 open-label; selection requires documented low GH response; symptoms rebound on cessation; no placebo control for symptom outcomes; GH costs/risks (edema, glucose, IGF-1 monitoring). NCT03554265 mixes mTBI and PASC. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T17:30:00Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T17:28:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 1 registry trial(s) for Somatropin → Long COVID: NCT03554265 (COMPLETED, phase=PHASE3, n=72, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 36334362: An improved Fuzzy based GWO algorithm for predicting the potential host receptor of COVID-19 infection.; PMID 36969241: Therapeutic trials for long COVID-19: A call to action from the interventions taskforce of the RECOV"
+      "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained; replaced off-target PMIDs with Wright 2024 primary."
     },
     {
       "id": "osmf:claim:agent-sonocea-sonic-augmentation-technology-treats-long-covid",

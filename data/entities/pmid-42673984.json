@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42673984",
+  "type": "paper",
+  "label": "Nirmatrelvir–ritonavir targeting viral persistence in post-COVID-19 condition (long COVID) in the USA (RECOVER-VITAL): a randomised, double-blind, placebo-controlled, phase 2 trial.",
+  "aliases": [],
+  "summary": "Lancet Infect Dis 2026: RECOVER-VITAL null for 15/25-day Paxlovid in Long COVID.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42673984",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673984/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42673984/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

@@ -11,50 +11,30 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "nct",
-      "value": "NCT06952413"
-    },
-    {
-      "type": "nct",
-      "value": "NCT01156922"
-    },
-    {
-      "type": "nct",
-      "value": "NCT02229942"
-    },
-    {
-      "type": "nct",
-      "value": "NCT00848692"
-    },
-    {
-      "type": "nct",
-      "value": "NCT01156909"
+      "type": "pmid",
+      "value": "30934066",
+      "label": "PMID 30934066: B-Lymphocyte Depletion in Patients With ME/CFS: A Randomized, Double-Blind, Plac"
     },
     {
       "type": "pmid",
-      "value": "19375665"
+      "value": "22039471",
+      "label": "PMID 22039471: Benefit from B-lymphocyte depletion using rituximab in CFS: Phase 2"
     },
     {
       "type": "pmid",
-      "value": "30285773"
+      "value": "19566965",
+      "label": "PMID 19566965: Clinical impact of B-cell depletion with rituximab in CFS: case series"
     },
     {
-      "type": "pmid",
-      "value": "31210940"
-    },
-    {
-      "type": "pmid",
-      "value": "31379879"
-    },
-    {
-      "type": "pmid",
-      "value": "37076602"
+      "type": "nct",
+      "value": "NCT02229942",
+      "label": "NCT02229942: RituxME Phase 3"
     }
   ],
-  "limitations": "Key refs: NCT06952413 (RECRUITING), NCT01156922 (TERMINATED), NCT02229942 (COMPLETED), NCT00848692 (COMPLETED), NCT01156909 (COMPLETED), PMID:19375665. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Self-reported primary outcomes; Canadian consensus population 2–15 years duration. Serious adverse events more frequent with rituximab (26% vs 19%). Do not extrapolate oncology B-cell depletion anecdotes. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[high] Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. | Rituximab was tested in ME/CFS including a Phase 3 program; published results did not support clinical efficacy, and the treatment claim is contested/insufficient. Registry statuses include: RECRUITING, TERMINATED, COMPLETED, COMPLETED, COMPLETED. Europe PMC hits=468."
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D retained; cited negative Phase 3 primary."
 }

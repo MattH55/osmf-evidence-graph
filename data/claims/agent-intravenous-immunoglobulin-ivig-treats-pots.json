@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:intravenous-immunoglobulin-ivig",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:pots",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -12,49 +12,24 @@
     },
     {
       "type": "pmid",
-      "value": "42391726"
+      "value": "38311655",
+      "label": "PMID 38311655: Randomized controlled trial of intravenous immunoglobulin for autoimmune postura"
     },
     {
       "type": "pmid",
-      "value": "42243711"
-    },
-    {
-      "type": "pmid",
-      "value": "42137701"
+      "value": "40653179",
+      "label": "PMID 40653179: The evidence for treatments for postural orthostatic tachycardia syndrome: a sys"
     },
     {
       "type": "nct",
-      "value": "NCT06305793"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06305780"
-    },
-    {
-      "type": "pmid",
-      "value": "33753937"
-    },
-    {
-      "type": "pmid",
-      "value": "34144933"
-    },
-    {
-      "type": "pmid",
-      "value": "34319569"
-    },
-    {
-      "type": "pmid",
-      "value": "34817268"
-    },
-    {
-      "type": "pmid",
-      "value": "36639608"
+      "value": "NCT06305793",
+      "label": "NCT06305793: RECOVER-AUTONOMIC IVIG (Long COVID autonomic/OI)"
     }
   ],
-  "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:33753937, PMID:34144933, PMID:34319569, PMID:34817268. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "iSTAND small (n=30), short (12 weeks), low-dose IVIG; albumin control may mask volume effects. Patient-selection (autoimmune POTS) limits generalizability. RECOVER IVIG is Long COVID OI, not idiopathic POTS. Prior off-target PMIDs removed. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) \u2192 POTS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=True); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33753937: Post-acute COVID-19 syndrome.; PMID 34144933: Postural orthostatic tachycardia syndrome (POTS): State of the science and clinical care from a"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: iSTAND Phase 2 RCT (PMID 38311655) found identical 46% response with IVIG vs albumin control; no COMPASS-31 difference. Negative controlled trial → contested/insufficient (D), not early-positive C. Prior evidence-eval-bot C upgraded→D after iSTAND primary. Keep published; not medical advice."
 }

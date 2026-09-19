@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-38311655",
+  "type": "paper",
+  "label": "Randomized controlled trial of intravenous immunoglobulin for autoimmune postural orthostatic tachycardia syndrome (iSTAND).",
+  "aliases": [],
+  "summary": "Clin Auton Res 2024: IVIG vs albumin—no difference in POTS response.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "38311655",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38311655/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/38311655/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

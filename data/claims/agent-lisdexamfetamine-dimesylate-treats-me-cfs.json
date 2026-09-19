@@ -11,34 +11,20 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "23062791",
+      "label": "PMID 23062791: Use of lisdexamfetamine dimesylate in treatment of executive functioning deficit"
+    },
+    {
       "type": "nct",
-      "value": "NCT01071044"
-    },
-    {
-      "type": "pmid",
-      "value": "27189581"
-    },
-    {
-      "type": "pmid",
-      "value": "27480574"
-    },
-    {
-      "type": "pmid",
-      "value": "27664125"
-    },
-    {
-      "type": "pmid",
-      "value": "29173175"
-    },
-    {
-      "type": "pmid",
-      "value": "31394725"
+      "value": "NCT01071044",
+      "label": "NCT01071044: Efficacy and Safety of Lisdexamfetamine Dimesylate in Adults With Chronic Fatigu"
     }
   ],
-  "limitations": "Key refs: NCT01071044 (COMPLETED), PMID:27189581, PMID:27480574, PMID:27664125, PMID:29173175, PMID:31394725. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Very small n; 6-week duration; CFS criteria era may not match modern ME/CFS (CCC/IOM) with PEM emphasis; primary endpoint was BRIEF-A not PEM/function. Industry-relevant stimulant class harms. No replication Phase 3. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. | Extracted 1 registry trial(s) for Lisdexamfetamine Dimesylate \u2192 ME/CFS: NCT01071044 (COMPLETED, phase=PHASE4, n=26, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 27189581: Activational and effort-related aspects of motivation: neural mechanisms and implications for psychopathology.; PMID 27480574: Inflammation Effects on Motivation and Motor Activity: Role of Dopamine.; PMID 2"
+  "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained. Replaced off-target PMIDs with Young 2013 primary."
 }

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-22431963",
+  "type": "paper",
+  "label": "A Double-Blind, Placebo-Controlled, Randomized Clinical Trial of the TLR-3 Agonist Rintatolimod in Severe Cases of Chronic Fatigue Syndrome.",
+  "aliases": [],
+  "summary": "PLoS One 2012 AMP-516 Ampligen Phase 3 in severe CFS/ME.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "22431963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22431963/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/22431963/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

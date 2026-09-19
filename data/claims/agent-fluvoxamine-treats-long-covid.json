@@ -11,46 +11,30 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "nct",
-      "value": "NCT05874037"
-    },
-    {
-      "type": "nct",
-      "value": "NCT07359482"
+      "type": "pmid",
+      "value": "41911553",
+      "label": "PMID 41911553: The Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID:"
     },
     {
       "type": "nct",
-      "value": "NCT04510194"
+      "value": "NCT06128967",
+      "label": "NCT06128967: REVIVE Trial — Long COVID"
     },
     {
       "type": "nct",
-      "value": "NCT06128967"
+      "value": "NCT05874037",
+      "label": "NCT05874037: Fluvoxamine for Long COVID-19"
     },
     {
       "type": "pmid",
-      "value": "33180097"
-    },
-    {
-      "type": "pmid",
-      "value": "35987197"
-    },
-    {
-      "type": "pmid",
-      "value": "36253560"
-    },
-    {
-      "type": "pmid",
-      "value": "36631691"
-    },
-    {
-      "type": "pmid",
-      "value": "37076602"
+      "value": "37302406",
+      "label": "PMID 37302406: COVID-OUT: metformin/ivermectin/fluvoxamine and incident long COVID"
     }
   ],
-  "limitations": "Key refs: NCT05874037 (COMPLETED, hasResults; symptom score -47.3 vs -31.1), NCT06128967, NCT04510194 (acute/off-target). Evaluated from extracted references on 2026-09-19; not a systematic review. Early single-trial signal for established Long COVID; not consensus. Not medical advice.",
+  "limitations": "REVIVE effect sizes modest; single adaptive trial. NCT05874037 lacks posted inferential stats and peer-reviewed primary paper. Acute-COVID fluvoxamine literature is a different question. Serious AEs 5/66 vs 2/71 on CT.gov posting for NCT05874037 warrant caution. Not disease-modifying consensus. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Posted CT.gov primary favors fluvoxamine vs placebo in one LC RCT; keep C not B."
+  "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained. Added REVIVE peer-reviewed primary; clarified prevention vs treatment."
 }

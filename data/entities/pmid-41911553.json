@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41911553",
+  "type": "paper",
+  "label": "The Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID: An Adaptive Randomized Trial.",
+  "aliases": [],
+  "summary": "Annals 2026 REVIVE: fluvoxamine benefit on FSS; metformin null for established LC fatigue.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41911553",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41911553/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41911553/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

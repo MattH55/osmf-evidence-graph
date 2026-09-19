@@ -12,33 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT05597722"
+      "value": "NCT05597722",
+      "label": "NCT05597722: Addressing Cognitive Fog in Long-COVID-19 Patients"
     },
     {
-      "type": "pmid",
-      "value": "35673334"
-    },
-    {
-      "type": "pmid",
-      "value": "36899952"
-    },
-    {
-      "type": "pmid",
-      "value": "37344737"
-    },
-    {
-      "type": "pmid",
-      "value": "37396922"
-    },
-    {
-      "type": "pmid",
-      "value": "37655303"
+      "type": "url",
+      "value": "https://doi.org/10.1177/10870547231168338",
+      "label": "Successful Treatment of Post-COVID-19 ADHD-like Syndrome: A Case Report"
     }
   ],
-  "limitations": "Key refs: NCT05597722 (TERMINATED), PMID:35673334, PMID:36899952, PMID:37344737, PMID:37396922, PMID:37655303. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Sole interventional registry study terminated (n=7) without efficacy results (NCT05597722). No peer-reviewed RCT of amphetamine-dextroamphetamine for Long COVID. Case-level stimulant reports are not generalizable. Stimulant harms (CV, dependence, appetite) not characterized in this population. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "MattH55+evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). | Human-locked claim retained as tier C. Linked trial(s): NCT05597722:TERMINATED. Literature search '(Amphetamine-Dextroamphetamine) AND (\"long COVID\" OR \"post-COVID\" OR PASC)' returned 33 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
+  "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: MattH55+evidence-eval-bot. Tier unchanged (C). Prior reviewers MattH55+evidence-eval-bot (2026-09-19) graded C/published; deep-dive retains C. Off-target Europe-PMC PMIDs from prior eval removed."
 }
