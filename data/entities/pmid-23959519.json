@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-23959519",
+  "type": "paper",
+  "label": "Randomized clinical trial of valganciclovir in a subset of CFS patients.",
+  "aliases": [],
+  "summary": "2013: small positive subset RCT.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "23959519",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23959519/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/23959519/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

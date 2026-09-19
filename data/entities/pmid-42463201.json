@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42463201",
+  "type": "paper",
+  "label": "Effect of low-dose naltrexone for long COVID: a systematic review and meta-analysis.",
+  "aliases": [],
+  "summary": "2026: observational pooled effects; no RCTs.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42463201",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463201/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42463201/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

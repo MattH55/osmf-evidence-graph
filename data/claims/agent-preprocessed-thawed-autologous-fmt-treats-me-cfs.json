@@ -12,41 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT03691987"
+      "value": "NCT03691987",
+      "label": "NCT03691987: The Comeback Study"
     },
     {
       "type": "pmid",
-      "value": "31201141"
-    },
-    {
-      "type": "pmid",
-      "value": "35046929"
-    },
-    {
-      "type": "pmid",
-      "value": "33510784"
-    },
-    {
-      "type": "pmid",
-      "value": "39301964"
-    },
-    {
-      "type": "pmid",
-      "value": "PMC13254489"
-    },
-    {
-      "type": "pmid",
-      "value": "PMC13421919"
-    },
-    {
-      "type": "pmid",
-      "value": "PMC6493311"
+      "value": "38858151",
+      "label": "PMID 38858151: Faecal microbiota transplantation (FMT) in Norwegian outpatients with mild to se"
     }
   ],
-  "limitations": "Key refs: NCT03691987 (COMPLETED), PMID:31201141, PMID:35046929, PMID:33510784, PMID:39301964, PMID:PMC13254489. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Control arm, not active therapy. Infection/procedure risks of FMT. Results unpublished. Prior PMCID noise removed. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Preprocessed Thawed Autologous Fmt \u2192 ME/CFS: NCT03691987 (COMPLETED, phase=PHASE2, n=80, relevant=True). No posted CT.gov results in this pass. Europe PMC query `(Preprocessed Thawed Autologous Fmt) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")` \u2192 3 hits. Honest bar: Preliminary claims stay D/C unless a clear multi-source clinic"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained with explicit control-arm clarification."
 }

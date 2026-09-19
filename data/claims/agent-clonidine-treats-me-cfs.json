@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:clonidine",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -11,58 +11,20 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "24493300",
+      "label": "PMID 24493300: Disease mechanisms and clonidine treatment in adolescent chronic fatigue syndrom"
+    },
+    {
       "type": "nct",
-      "value": "NCT01040429"
-    },
-    {
-      "type": "nct",
-      "value": "NCT01507701"
-    },
-    {
-      "type": "pmid",
-      "value": "24493300"
-    },
-    {
-      "type": "pmid",
-      "value": "28494812"
-    },
-    {
-      "type": "pmid",
-      "value": "27414048"
-    },
-    {
-      "type": "pmid",
-      "value": "27149955"
-    },
-    {
-      "type": "pmid",
-      "value": "22871021"
-    },
-    {
-      "type": "pmid",
-      "value": "19207771"
-    },
-    {
-      "type": "pmid",
-      "value": "19713422"
-    },
-    {
-      "type": "pmid",
-      "value": "25980576"
-    },
-    {
-      "type": "pmid",
-      "value": "32787804"
-    },
-    {
-      "type": "pmid",
-      "value": "35176758"
+      "value": "NCT01040429",
+      "label": "NCT01040429: The Norwegian Study of Chronic Fatigue Syndrome in Adolescents: Pathophysiology "
     }
   ],
-  "limitations": "Key refs: NCT01040429 (COMPLETED), PMID:24493300, PMID:28494812, PMID:27414048, PMID:27149955, PMID:19207771. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Adolescent sample; adult ME/CFS may differ. Hypotension/sedation risks of clonidine. Sympathetic 'overactivity' may be compensatory\u2014blunting it can harm function. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Clonidine \u2192 ME/CFS: NCT01040429 (COMPLETED, phase=PHASE2, n=120, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 19207771: Postural tachycardia syndrome (POTS).; PMID 19713422: Guidelines for the diagnosis and management of syncope (version 2009).; PMID 25980576: 2015 heart rhythm society expert consensus statement on the diag"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: NorCAPITAL (PMID 24493300): low-dose clonidine reduced steps/day vs placebo and is explicitly 'not clinically useful in CFS' \u2192 D. Deep-dive: TIER CHANGED C\u2192D. Removed off-target POTS/syncope guideline PMIDs."
 }

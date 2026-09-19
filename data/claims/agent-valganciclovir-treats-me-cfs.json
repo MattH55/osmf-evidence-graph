@@ -11,38 +11,25 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "23959519",
+      "label": "PMID 23959519: Randomized clinical trial to evaluate the efficacy and safety of valganciclovir "
+    },
+    {
+      "type": "pmid",
+      "value": "23080504",
+      "label": "PMID 23080504: Response to valganciclovir in chronic fatigue syndrome patients with human herpe"
+    },
+    {
       "type": "nct",
-      "value": "NCT00478465"
-    },
-    {
-      "type": "pmid",
-      "value": "41451409"
-    },
-    {
-      "type": "pmid",
-      "value": "19515747"
-    },
-    {
-      "type": "pmid",
-      "value": "30285773"
-    },
-    {
-      "type": "pmid",
-      "value": "31394725"
-    },
-    {
-      "type": "pmid",
-      "value": "33726557"
-    },
-    {
-      "type": "pmid",
-      "value": "36639608"
+      "value": "NCT00478465",
+      "label": "NCT00478465: Valganciclovir for CFS patients with elevated HHV-6/EBV titers"
     }
   ],
-  "limitations": "Key refs: NCT00478465 (COMPLETED), PMID:41451409, PMID:19515747, PMID:30285773, PMID:31394725, PMID:33726557. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "n\u224830; selected seropositive subset. Myelosuppression/renal monitoring required. Viral antibody titers imperfect enrichment. Not guideline-endorsed standard care. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Valganciclovir \u2192 ME/CFS: NCT00478465 (COMPLETED, phase=PHASE1,PHASE2, n=30, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 19515747: Epstein-Barr virus-associated lymphoproliferative disease in non-immunocompromised hosts: a status report and summary of; PMID 30285773: Chronic viral infections in myalgic encephalomyelitis/chr"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Primary Montoya RCT replaces off-target herpes/antiviral reviews."
 }

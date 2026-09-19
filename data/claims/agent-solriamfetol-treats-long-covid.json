@@ -12,41 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT06404099"
+      "value": "NCT06404099",
+      "label": "NCT06404099: RECOVER-SLEEP Appendix_A (Hypersomnia)"
     },
     {
       "type": "nct",
-      "value": "NCT06404086"
-    },
-    {
-      "type": "pmid",
-      "value": "40537100"
-    },
-    {
-      "type": "pmid",
-      "value": "35887329"
-    },
-    {
-      "type": "pmid",
-      "value": "36313516"
-    },
-    {
-      "type": "pmid",
-      "value": "39125722"
-    },
-    {
-      "type": "pmid",
-      "value": "40046430"
-    },
-    {
-      "type": "pmid",
-      "value": "40261198"
+      "value": "NCT06404086",
+      "label": "NCT06404086: RECOVER-SLEEP Platform Protocol"
     }
   ],
-  "limitations": "Key refs: NCT06404099 (COMPLETED), PMID:40537100, NCT06404086 (COMPLETED), PMID:35887329, PMID:36313516, PMID:39125722. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Results unpublished. Known BP/HR AEs of solriamfetol. Phenotype-specific (hypersomnia), not all LC. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Solriamfetol \u2192 Long COVID: NCT06404099 (COMPLETED, phase=PHASE2, n=361, relevant=True); NCT06404086 (COMPLETED, phase=PHASE2, n=830, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35887329: Proteomic Biomarkers of the Apnea Hypopnea Index and Obstructive Sleep Apnea: Insights into the Pathophysiology of Prese; PMID 36313516: "
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
 }

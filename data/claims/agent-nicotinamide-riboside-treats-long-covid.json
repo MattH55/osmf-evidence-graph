@@ -12,45 +12,14 @@
     },
     {
       "type": "nct",
-      "value": "NCT05703074"
-    },
-    {
-      "type": "pmid",
-      "value": "38668888"
-    },
-    {
-      "type": "pmid",
-      "value": "40536597"
-    },
-    {
-      "type": "pmid",
-      "value": "39495479"
-    },
-    {
-      "type": "pmid",
-      "value": "41008646"
-    },
-    {
-      "type": "pmid",
-      "value": "34400495"
-    },
-    {
-      "type": "pmid",
-      "value": "35282780"
-    },
-    {
-      "type": "pmid",
-      "value": "36551869"
-    },
-    {
-      "type": "pmid",
-      "value": "36625102"
+      "value": "NCT05703074",
+      "label": "NCT05703074: Mental Intervention and Nicotinamide Riboside Supplementation in Long Covid"
     }
   ],
-  "limitations": "Key refs: NCT05703074 (COMPLETED), PMID:38668888, PMID:40536597, PMID:39495479, PMID:41008646, PMID:34400495. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "No public efficacy. Factorial design confounds NR-alone inference. Supplement quality/dose vary. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nicotinamide Riboside \u2192 Long COVID: NCT05703074 (COMPLETED, phase=PHASE2, n=310, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34400495: Redox imbalance links COVID-19 and myalgic encephalomyelitis/chronic fatigue syndrome.; PMID 35282780: Registered clinical trials investigating treatment of long COVID: a scoping review and"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed redox/ME-CFS review off-targets as primary efficacy sources."
 }

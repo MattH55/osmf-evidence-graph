@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:plasma-exchange-procedure",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -11,50 +11,25 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "39994269",
+      "label": "PMID 39994269: Plasma exchange therapy for the post COVID-19 condition: a phase II, double-blin"
+    },
+    {
       "type": "nct",
-      "value": "NCT05445674"
+      "value": "NCT05445674",
+      "label": "NCT05445674: Plasma Exchange Therapy for Post- COVID-19 Condition"
     },
     {
       "type": "pmid",
-      "value": "37396922"
-    },
-    {
-      "type": "pmid",
-      "value": "37265584"
-    },
-    {
-      "type": "pmid",
-      "value": "37491597"
-    },
-    {
-      "type": "pmid",
-      "value": "39994269"
-    },
-    {
-      "type": "pmid",
-      "value": "33909761"
-    },
-    {
-      "type": "pmid",
-      "value": "36695182"
-    },
-    {
-      "type": "pmid",
-      "value": "38264914"
-    },
-    {
-      "type": "pmid",
-      "value": "39866113"
-    },
-    {
-      "type": "pmid",
-      "value": "4381698"
+      "value": "37491597",
+      "label": "PMID 37491597: Plasmapheresis to remove amyloid fibrin(ogen) particles for treating the post-CO"
     }
   ],
-  "limitations": "Key refs: NCT05445674 (COMPLETED), PMID:37396922, PMID:37265584, PMID:37491597, PMID:39994269, PMID:33909761. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "n=50; single protocol of six exchanges. Cost/access/invasive risks. Does not rule out other apheresis modalities, but current RCT is null. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Plasma Exchange Procedure \u2192 Long COVID: NCT05445674 (COMPLETED, phase=PHASE2, n=50, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33909761: Brazilian Guidelines of Hypertension - 2020.; PMID 36695182: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association.; PMID 38264914: 2024 Heart Dis"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: PMID 39994269 Phase 2 double-blind sham-controlled RCT: TPE safe but no efficacy vs sham on any endpoint \u2192 D. Deep-dive: TIER CHANGED C\u2192D."
 }

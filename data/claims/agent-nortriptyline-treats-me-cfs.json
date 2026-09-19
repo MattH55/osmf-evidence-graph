@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:nortriptyline",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -12,45 +12,14 @@
     },
     {
       "type": "nct",
-      "value": "NCT03844412"
-    },
-    {
-      "type": "pmid",
-      "value": "32478052"
-    },
-    {
-      "type": "pmid",
-      "value": "38984334"
-    },
-    {
-      "type": "pmid",
-      "value": "36269028"
-    },
-    {
-      "type": "pmid",
-      "value": "17488783"
-    },
-    {
-      "type": "pmid",
-      "value": "23644052"
-    },
-    {
-      "type": "pmid",
-      "value": "26357876"
-    },
-    {
-      "type": "pmid",
-      "value": "27480574"
-    },
-    {
-      "type": "pmid",
-      "value": "31379879"
+      "value": "NCT03844412",
+      "label": "NCT03844412: Vestibulodynia: Understanding Pathophysiology and Determining Appropriate Treatm"
     }
   ],
-  "limitations": "Key refs: NCT03844412 (COMPLETED), PMID:32478052, PMID:38984334, PMID:36269028, PMID:17488783, PMID:23644052. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Off-target NCT. Anticholinergic/cardiac TCA risks. Do not extrapolate vestibulodynia pain scores to ME/CFS. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nortriptyline \u2192 ME/CFS: NCT03844412 (COMPLETED, phase=PHASE2, n=209, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 17488783: Guidelines on the irritable bowel syndrome: mechanisms and practical management.; PMID 23644052: Inflammatory cytokines in depression: neurobiological mechanisms and therapeutic implications.; PMID 26357876: Infl"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: Linked NCT03844412 is vestibulodynia (pain), not ME/CFS\u2014off-target registry mapping. No adequate ME/CFS nortriptyline RCT package \u2192 D. Deep-dive: TIER CHANGED C\u2192D for non-therapeutic/off-target mapping."
 }

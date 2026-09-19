@@ -11,38 +11,20 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "35526605",
+      "label": "PMID 35526605: Neurovascular Dysregulation and Acute Exercise Intolerance in Myalgic Encephalom"
+    },
+    {
       "type": "nct",
-      "value": "NCT03674541"
-    },
-    {
-      "type": "pmid",
-      "value": "35526605"
-    },
-    {
-      "type": "pmid",
-      "value": "16518518"
-    },
-    {
-      "type": "pmid",
-      "value": "18332428"
-    },
-    {
-      "type": "pmid",
-      "value": "19375665"
-    },
-    {
-      "type": "pmid",
-      "value": "26493934"
-    },
-    {
-      "type": "pmid",
-      "value": "34991982"
+      "value": "NCT03674541",
+      "label": "NCT03674541: The Exercise Response to Pharmacologic Cholinergic Stimulation in ME/CFS"
     }
   ],
-  "limitations": "Key refs: NCT03674541 (COMPLETED), PMID:35526605, PMID:16518518, PMID:18332428, PMID:19375665, PMID:26493934. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Single-dose acute iCPET study\u2014not weeks of patient-centered fatigue/PEM outcomes. Cholinergic AEs (GI, bradycardia). Sex-stratified placebo groups complicate interpretation. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Pyridostigmine Bromide \u2192 ME/CFS: NCT03674541 (COMPLETED, phase=PHASE2, n=45, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 16518518: Anticholinesterase toxicity and oxidative stress.; PMID 18332428: Acetylcholinesterase inhibitors and Gulf War illnesses.; PMID 19375665: Autoimmune myasthenia gravis: emerging clinical and biological het"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Primary PMID 35526605 replaces Gulf War/AChE off-targets."
 }

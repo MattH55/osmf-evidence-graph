@@ -12,41 +12,24 @@
     },
     {
       "type": "nct",
-      "value": "NCT05513560"
+      "value": "NCT05513560",
+      "label": "NCT05513560: RECLAIM: Recovering From COVID-19 Lingering Symptoms Adaptive Integrative Medici"
     },
     {
       "type": "pmid",
-      "value": "37076602"
+      "value": "41715140",
+      "label": "PMID 41715140: The RECLAIM adaptive platform trial\u2026 core protocol."
     },
     {
       "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "37396922"
-    },
-    {
-      "type": "pmid",
-      "value": "38611624"
-    },
-    {
-      "type": "pmid",
-      "value": "33240091"
-    },
-    {
-      "type": "pmid",
-      "value": "35373533"
-    },
-    {
-      "type": "pmid",
-      "value": "36899952"
+      "value": "39446164",
+      "label": "PMID 39446164: Pentoxifylline in COVID-19 and considerations for its research in long COVID."
     }
   ],
-  "limitations": "Key refs: NCT05513560 (COMPLETED), PMID:37076602, PMID:36969241, PMID:37396922, PMID:38611624, PMID:33240091. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "No arm-level results. Hemorrheologic AE/bleeding considerations. Acute-COVID literature \u2260 PASC treatment. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Pentoxifylline \u2192 Long COVID: NCT05513560 (COMPLETED, phase=PHASE2,PHASE3, n=460, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33240091: Challenges for Drug Repurposing in the COVID-19 Pandemic Era.; PMID 35373533: International consensus statement on allergy and rhinology: Olfaction.; PMID 36899952: Pathogenesis Underlying "
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
 }

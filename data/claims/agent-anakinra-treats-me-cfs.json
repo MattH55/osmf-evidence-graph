@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:anakinra",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -11,46 +11,25 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "28265678",
+      "label": "PMID 28265678: Cytokine Inhibition in Patients With Chronic Fatigue Syndrome: A Randomized Tria"
+    },
+    {
+      "type": "pmid",
+      "value": "29284500",
+      "label": "PMID 29284500: Cytokine signatures in chronic fatigue syndrome patients: a Case Control Study a"
+    },
+    {
       "type": "nct",
-      "value": "NCT02108210"
-    },
-    {
-      "type": "pmid",
-      "value": "28265678"
-    },
-    {
-      "type": "pmid",
-      "value": "29284500"
-    },
-    {
-      "type": "pmid",
-      "value": "26438161"
-    },
-    {
-      "type": "pmid",
-      "value": "29462012"
-    },
-    {
-      "type": "pmid",
-      "value": "30920354"
-    },
-    {
-      "type": "pmid",
-      "value": "33743212"
-    },
-    {
-      "type": "pmid",
-      "value": "35176758"
-    },
-    {
-      "type": "pmid",
-      "value": "37076602"
+      "value": "NCT02108210",
+      "label": "NCT02108210: Cytokine Inhibition in Chronic Fatigue Syndrome Patients"
     }
   ],
-  "limitations": "Key refs: NCT02108210 (COMPLETED), PMID:28265678, PMID:29284500, PMID:26438161, PMID:29462012, PMID:30920354. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Single-center, women-only, 4-week exposure. IL-1 blockade may still be relevant in other phenotypes, but current CFS RCT evidence is null. Injection-site reactions expected with anakinra. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Anakinra \u2192 ME/CFS: NCT02108210 (COMPLETED, phase=PHASE2,PHASE3, n=50, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 29462012: Neuroinflammation and Central Sensitization in Chronic and Widespread Pain.; PMID 30920354: The Sleep-Immune Crosstalk in Health and Disease.; PMID 33743212: COVID-19 and the human innate immune syste"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: Annals RCT (PMID 28265678 / NCT02108210) null: anakinra 8% vs placebo 20% CIS-fatigue responders at 4 weeks; no benefit on secondary outcomes \u2192 contested/insufficient (D). Deep-dive 2026-09-19: TIER CHANGED C\u2192D after primary Annals RCT review. Prior evidence-eval-bot C superseded."
 }

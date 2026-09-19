@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-37223439",
+  "type": "paper",
+  "label": "Efficacy and tolerability of AXA1125 in fatigue-predominant long COVID.",
+  "aliases": [],
+  "summary": "eClinicalMedicine 2023: Phase 2a pilot; primary MRS null, fatigue secondary positive.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "37223439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37223439/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/37223439/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

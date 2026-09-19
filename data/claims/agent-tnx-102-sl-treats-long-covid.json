@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:tnx-102-sl",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -12,33 +12,14 @@
     },
     {
       "type": "nct",
-      "value": "NCT05472090"
-    },
-    {
-      "type": "pmid",
-      "value": "37907497"
-    },
-    {
-      "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "40384184"
-    },
-    {
-      "type": "pmid",
-      "value": "37680987"
-    },
-    {
-      "type": "pmid",
-      "value": "37316880"
+      "value": "NCT05472090",
+      "label": "NCT05472090: Phase 2 Study of TNX-102 SL in Patients With Multi-Site Pain Associated With PAS"
     }
   ],
-  "limitations": "Key refs: NCT05472090 (COMPLETED), PMID:37907497, PMID:36969241, PMID:40384184, PMID:37680987, PMID:37316880. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Small n=63; missing posted inferential tests. Fibromyalgia TNX-102 program is a different indication. Sedation/anticholinergic AEs. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Tnx-102 Sl \u2192 Long COVID: NCT05472090 (COMPLETED, phase=PHASE2, n=63, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 37316880: Long COVID: Costs for the German economy and health care and pension system.. Europe PMC query `(Tnx-102 Sl) AND (\"long COVID\" OR \"post-COVID\" OR PASC)` \u2192 4 hits. Honest bar: Preliminary claims stay D/C unless a "
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: NCT05472090 primary daily pain NRS \u22122.2 (TNX-102 SL) vs \u22122.0 (placebo)\u2014essentially no primary separation; no inferential stats posted \u2192 insufficient/null primary \u2192 D. Deep-dive: TIER CHANGED C\u2192D for null/near-null primary."
 }

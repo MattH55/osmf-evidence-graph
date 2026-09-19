@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:rintatolimod",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -12,49 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT05592418"
+      "value": "NCT05592418",
+      "label": "NCT05592418: Study to Evaluate the Efficacy and Safety of Ampligen in Patients With Post-COVI"
     },
     {
       "type": "pmid",
-      "value": "39947217"
-    },
-    {
-      "type": "pmid",
-      "value": "37396922"
-    },
-    {
-      "type": "pmid",
-      "value": "39988665"
-    },
-    {
-      "type": "pmid",
-      "value": "37344737"
-    },
-    {
-      "type": "pmid",
-      "value": "33391502"
-    },
-    {
-      "type": "pmid",
-      "value": "34024217"
-    },
-    {
-      "type": "pmid",
-      "value": "34181102"
-    },
-    {
-      "type": "pmid",
-      "value": "35182760"
-    },
-    {
-      "type": "pmid",
-      "value": "36464706"
+      "value": "39947217",
+      "label": "PMID 39947217: Targeting the SARS-CoV-2 reservoir in long COVID."
     }
   ],
-  "limitations": "Key refs: NCT05592418 (COMPLETED), PMID:39947217, PMID:37396922, PMID:39988665, PMID:37344737, PMID:33391502. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "n=80; IV twice-weekly logistics. Infusion reactions/unblinding risk historically noted for Ampligen. ME/CFS Ampligen evidence is a separate claim. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Rintatolimod \u2192 Long COVID: NCT05592418 (COMPLETED, phase=PHASE2, n=80, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33391502: COVID-19 and Cancer Comorbidity: Therapeutic Opportunities and Challenges.; PMID 34024217: Long COVID or post-COVID-19 syndrome: putative pathophysiology, risk factors, and treatments.; PMID 34181102: The Neuro"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: NCT05592418 CT.gov primary PROMIS Fatigue week-13 ANCOVA p=0.9851 (Ampligen \u221225.4 vs placebo \u221225.8) \u2192 null \u2192 D. Deep-dive: TIER CHANGED C\u2192D after CT.gov primary null."
 }

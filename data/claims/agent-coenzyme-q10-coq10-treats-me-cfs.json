@@ -12,73 +12,29 @@
     },
     {
       "type": "pmid",
-      "value": "41009608"
+      "value": "34444817",
+      "label": "PMID 34444817: Effect of Dietary Coenzyme Q10 Plus NADH Supplementation on Fatigue Perception a"
     },
     {
       "type": "pmid",
-      "value": "41640426"
+      "value": "35229657",
+      "label": "PMID 35229657: Does Coenzyme Q10 Plus Selenium Supplementation Ameliorate Clinical Outcomes by "
+    },
+    {
+      "type": "pmid",
+      "value": "26212172",
+      "label": "PMID 26212172: Effect of coenzyme Q10 plus nicotinamide adenine dinucleotide supplementation on"
     },
     {
       "type": "nct",
-      "value": "NCT06597682"
-    },
-    {
-      "type": "nct",
-      "value": "NCT03186027"
-    },
-    {
-      "type": "nct",
-      "value": "NCT05128292"
-    },
-    {
-      "type": "nct",
-      "value": "NCT02063126"
-    },
-    {
-      "type": "pmid",
-      "value": "34444817"
-    },
-    {
-      "type": "pmid",
-      "value": "35229657"
-    },
-    {
-      "type": "pmid",
-      "value": "25386668"
-    },
-    {
-      "type": "pmid",
-      "value": "34067632"
-    },
-    {
-      "type": "pmid",
-      "value": "26212172"
-    },
-    {
-      "type": "pmid",
-      "value": "22747645"
-    },
-    {
-      "type": "pmid",
-      "value": "33808247"
-    },
-    {
-      "type": "pmid",
-      "value": "33918736"
-    },
-    {
-      "type": "pmid",
-      "value": "34024217"
-    },
-    {
-      "type": "pmid",
-      "value": "36639608"
+      "value": "NCT03186027",
+      "label": "NCT03186027: Coenzyme Q10 Plus NADH Supplementation in Chronic Fatigue Syndrome/Myalgic Encep"
     }
   ],
-  "limitations": "Key refs: NCT03186027 (COMPLETED), PMID:34444817, NCT05128292 (COMPLETED), PMID:35229657, NCT02063126 (COMPLETED), PMID:25386668. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Mostly one research group/formulation (Reconnect). Effect sizes modest. CT.gov results modules not posted. Not a substitute for pacing/PEM-safe care. Supplement quality varies. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 3 registry trial(s) for Coenzyme Q10 (CoQ10) \u2192 ME/CFS: NCT03186027 (COMPLETED, phase=NA, n=282, relevant=True); NCT05128292 (COMPLETED, phase=NA, n=42, relevant=True); NCT02063126 (COMPLETED, phase=PHASE2,PHASE3, n=80, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 22747645: Depression and sickness behavior are Janus-faced responses to shared inflam"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Primary CoQ10 RCTs prioritized over generic inflammation reviews."
 }

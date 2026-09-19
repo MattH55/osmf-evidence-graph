@@ -11,42 +11,20 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "37223439",
+      "label": "PMID 37223439: Efficacy and tolerability of an endogenous metabolic modulator (AXA1125) in fati"
+    },
+    {
       "type": "nct",
-      "value": "NCT05152849"
-    },
-    {
-      "type": "pmid",
-      "value": "37699892"
-    },
-    {
-      "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "36349400"
-    },
-    {
-      "type": "pmid",
-      "value": "37223439"
-    },
-    {
-      "type": "pmid",
-      "value": "37316880"
-    },
-    {
-      "type": "pmid",
-      "value": "37445634"
-    },
-    {
-      "type": "pmid",
-      "value": "39326415"
+      "value": "NCT05152849",
+      "label": "NCT05152849: Efficacy, Safety, Tolerability of AXA1125 in Fatigue After COVID-19 Infection"
     }
   ],
-  "limitations": "Key refs: NCT05152849 (COMPLETED), PMID:37699892, PMID:36969241, PMID:36349400, PMID:37223439, PMID:37316880. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Failed primary bioenergetic endpoint. Fatigue secondary/exploratory framing in a pilot. No multicentre confirmatory RCT. Formulation/sponsor continuity unclear for larger development. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Axa1125 \u2192 Long COVID: NCT05152849 (COMPLETED, phase=PHASE2, n=41, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 37316880: Long COVID: Costs for the German economy and health care and pension system.; PMID 37445634: Laboratory Findings and Biomarkers in Long COVID: What Do We Know So Far? Insights into Epidemiology, Pathogene"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Replaced off-target review PMIDs with primary NCT05152849 / PMID 37223439."
 }

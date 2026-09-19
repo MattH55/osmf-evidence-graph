@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-39356507",
+  "type": "paper",
+  "label": "Lithium Aspartate for Long COVID Fatigue and Cognitive Dysfunction: A Randomized Clinical Trial.",
+  "aliases": [],
+  "summary": "JAMA Netw Open 2024: lithium aspartate null for LC fatigue/cognition.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "39356507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39356507/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/39356507/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}
