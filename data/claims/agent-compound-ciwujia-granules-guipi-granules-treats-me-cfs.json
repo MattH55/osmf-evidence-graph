@@ -12,17 +12,24 @@
     },
     {
       "type": "nct",
-      "value": "NCT06245642"
+      "value": "NCT06245642",
+      "label": "Compound Ciwujia Granules CFS Phase 4 (completed; no CT.gov results module)"
     },
     {
       "type": "pmid",
-      "value": "42543377"
+      "value": "42543377",
+      "label": "Compound Ciwujia Granules CFS multicenter RCT subgroup (2026)"
+    },
+    {
+      "type": "doi",
+      "value": "10.19540/j.cnki.cjcmm.20260323.501",
+      "label": "Zhongguo Zhong Yao Za Zhi 2026"
     }
   ],
-  "limitations": "Key refs: NCT06245642 (COMPLETED), PMID:42543377. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT06245642 completed Phase 4 (n=235) still without CT.gov results. PMID 42543377 reports multicenter RCT subgroup (heart-spleen deficiency TCM syndrome) with CFQ-11 benefit vs active control. Positive-drug-controlled TCM syndrome subgroup; English independent replication lacking \u2192 C draft not B. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Compound Ciwujia Granules, Guipi Granules \u2192 ME/CFS: NCT06245642 (COMPLETED, phase=PHASE4, n=235, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 42543377: [Compound Ciwujia Granules for chronic fatigue syndrome with syndrome of deficiency of both heart and spleen: a multicen. Europe PMC query `(Compound Ciwujia Granules, Guipi G"
+  "confidence_notes": "[2026-09-19 chase] Peer-reviewed Chinese primary found; remain C draft pending broader replication / CT.gov posting."
 }

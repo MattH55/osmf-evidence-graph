@@ -12,17 +12,18 @@
     },
     {
       "type": "nct",
-      "value": "NCT05795816"
+      "value": "NCT05795816",
+      "label": "Testofen Long COVID Phase 3 completed (no results module)"
     },
     {
       "type": "pmid",
       "value": "39599909"
     }
   ],
-  "limitations": "Key refs: NCT05795816 (COMPLETED), PMID:39599909. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT05795816 Phase 3 (n=150) completed; CT.gov results still unposted; no peer-reviewed primary in NCT search \u2192 C draft. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Testofen \u2192 Long COVID: NCT05795816 (COMPLETED, phase=PHASE3, n=150, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 39599909: Beyond Antivirals: Alternative Therapies for Long COVID.. Europe PMC query `(Testofen OR \"Fenugreek extract\") AND (\"long COVID\" OR \"post-COVID\" OR PASC)` \u2192 1 hits (top cited sampled). This evaluation does"
+  "confidence_notes": "[2026-09-19 chase] Still no posted results \u2192 C draft."
 }

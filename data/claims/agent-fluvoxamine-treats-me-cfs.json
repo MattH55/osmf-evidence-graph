@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:fluvoxamine",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -12,19 +12,27 @@
     },
     {
       "type": "nct",
-      "value": "NCT05874037"
+      "value": "NCT05874037",
+      "label": "Fluvoxamine for Long COVID (results posted; off-target for ME/CFS)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06128967",
+      "label": "REVIVE Long COVID fluvoxamine/metformin"
+    },
+    {
+      "type": "nct",
+      "value": "NCT04510194",
+      "label": "COVID-OUT acute COVID (results posted)"
     },
     {
       "type": "nct",
       "value": "NCT07359482"
     },
     {
-      "type": "nct",
-      "value": "NCT04510194"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06128967"
+      "type": "pmid",
+      "value": "41911553",
+      "label": "REVIVE Annals 2026 fluvoxamine fatigue in Long COVID"
     },
     {
       "type": "pmid",
@@ -45,12 +53,17 @@
     {
       "type": "pmid",
       "value": "39326415"
+    },
+    {
+      "type": "pmid",
+      "value": "36070710",
+      "label": "Randomized Trial of Metformin, Ivermectin, and Fluvoxamine for Covid-19. (2022)"
     }
   ],
-  "limitations": "Key refs: NCT05874037 (COMPLETED), NCT07359482 (RECRUITING), NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), PMID:19428959, PMID:23459093. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: completed Phase 2/3 NCT05874037 and Phase 3 NCT06128967/NCT04510194 target Long COVID or acute COVID, not ME/CFS. Posted LC symptom-score results do not validate an ME/CFS treats_candidate_for claim \u2192 D. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 4 registry trial(s) for Fluvoxamine \u2192 ME/CFS: NCT05874037 (COMPLETED, phase=PHASE2,PHASE3, n=191, relevant=False); NCT07359482 (RECRUITING, phase=PHASE3, n=160, relevant=False); NCT04510194 (COMPLETED, phase=PHASE3, n=1323, relevant=False); NCT06128967 (COMPLETED, phase=PHASE3, n=399, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 19428959: 5-HT(1A) r"
+  "confidence_notes": "[2026-09-19 chase] Off-target Phase 3 package for ME/CFS claim. NCT05874037 posted LC results 2026-06-25 (\u221247.3 vs \u221231.1 symptom score) but wrong condition."
 }

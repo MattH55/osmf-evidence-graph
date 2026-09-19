@@ -12,15 +12,17 @@
     },
     {
       "type": "nct",
+      "value": "NCT00498485",
+      "label": "Sodium oxybate CFS (results posted; Global Assessment p<0.04)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT02055898",
+      "label": "SAFES sodium oxybate CFS sleep EEG (results posted)"
+    },
+    {
+      "type": "nct",
       "value": "NCT01584934"
-    },
-    {
-      "type": "nct",
-      "value": "NCT02055898"
-    },
-    {
-      "type": "nct",
-      "value": "NCT00498485"
     },
     {
       "type": "pmid",
@@ -43,10 +45,10 @@
       "value": "24348701"
     }
   ],
-  "limitations": "Key refs: NCT01584934 (WITHDRAWN), NCT02055898 (COMPLETED), NCT00498485 (TERMINATED), PMID:19225604, PMID:22802155, PMID:22811766. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT00498485 Phase 4 (n\u224811 analyzable) posted Global Assessment benefit (p<0.04); NCT02055898 (n=13) posted EEG slow-wave endpoints without clear clinical efficacy package. Tiny n \u2192 C draft not B. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. | Extracted 3 registry trial(s) for Sodium Oxybate \u2192 ME/CFS: NCT01584934 (WITHDRAWN, phase=PHASE4, n=0, relevant=True); NCT02055898 (COMPLETED, phase=PHASE4, n=13, relevant=True); NCT00498485 (TERMINATED, phase=PHASE4, n=17, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 19225604: Fibromyalgia: presentation and management with a focus on pharmacological treatment.; PMID 22802155:"
+  "confidence_notes": "[2026-09-19 chase] Confirmed results modules on both NCTs; remain early C."
 }

@@ -12,7 +12,8 @@
     },
     {
       "type": "nct",
-      "value": "NCT04591210"
+      "value": "NCT04591210",
+      "label": "ACEI/ARB COVID Phase 3 completed (no results module; class-level claim)"
     },
     {
       "type": "pmid",
@@ -33,12 +34,17 @@
     {
       "type": "pmid",
       "value": "41092926"
+    },
+    {
+      "type": "pmid",
+      "value": "37740450",
+      "label": "Effects of renin-angiotensin system blockers on outcomes from COVID-19: a systematic review and meta-analysis of randomi (2024)"
     }
   ],
-  "limitations": "Key refs: NCT04591210 (COMPLETED), PMID:32201335, PMID:36695182, PMID:38264914, PMID:39866113, PMID:41092926. Evaluated from extracted references on 2026-09-19; not a systematic review. Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: class-level ACEI/ARB agent; NCT04591210 Phase 3 completed (n=372) still without CT.gov results; not drug-specific LC treatment evidence \u2192 D. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[high] Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. | Tracker lists a class-level RAS agent for Long COVID. Registry trial(s) reviewed: The COVID-RASi Trial (COVID-19). Without drug-specific completed positive trials and posted results for the named condition, evidence is insufficient for a clinical tier."
+  "confidence_notes": "[2026-09-19 chase] Class agent + unposted Phase 3 \u2192 D."
 }

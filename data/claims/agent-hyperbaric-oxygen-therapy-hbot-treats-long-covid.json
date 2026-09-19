@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:hyperbaric-oxygen-therapy-hbot",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -11,20 +11,18 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "pmid",
-      "value": "42249466"
+      "type": "nct",
+      "value": "NCT04842448",
+      "label": "HOT-LoCO HBOT Long COVID Phase 2 completed (no CT.gov results module)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06267300",
+      "label": "HBOT Phase 3 UNKNOWN status; no results"
     },
     {
       "type": "nct",
       "value": "NCT06452095"
-    },
-    {
-      "type": "nct",
-      "value": "NCT04842448"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06267300"
     },
     {
       "type": "nct",
@@ -33,6 +31,20 @@
     {
       "type": "nct",
       "value": "NCT07621068"
+    },
+    {
+      "type": "pmid",
+      "value": "40228859",
+      "label": "HOT-LoCO Phase 2: 10 HBOT sessions no better than sham (NCT04842448) (2025)"
+    },
+    {
+      "type": "pmid",
+      "value": "35821512",
+      "label": "Israeli HBOT RCT positive neurocognitive signal (2022; different program)"
+    },
+    {
+      "type": "pmid",
+      "value": "42249466"
     },
     {
       "type": "pmid",
@@ -53,12 +65,27 @@
     {
       "type": "pmid",
       "value": "38374451"
+    },
+    {
+      "type": "pmid",
+      "value": "36670365",
+      "label": "Hyperbaric oxygen therapy for long COVID (HOT-LoCO), an interim safety report from a randomised controlled trial. (2023)"
+    },
+    {
+      "type": "pmid",
+      "value": "36323462",
+      "label": "Hyperbaric oxygen for treatment of long COVID-19 syndrome (HOT-LoCO): protocol for a randomised, placebo-controlled, dou (2022)"
+    },
+    {
+      "type": "doi",
+      "value": "10.1136/bmjopen-2024-094386",
+      "label": "BMJ Open 2025 HOT-LoCO"
     }
   ],
-  "limitations": "Key refs: NCT06452095 (RECRUITING), NCT04842448 (COMPLETED), NCT06267300 (UNKNOWN), NCT04905888 (WITHDRAWN), NCT07621068 (RECRUITING), PMID:34067776. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT04842448 (HOT-LoCO Phase 2, n=80) completed without CT.gov results module, but PMID 40228859 reports no significant HBOT vs sham benefit on RAND-36 PF/RP. Separate Israeli sham-controlled RCTs (e.g. PMID 35821512; NCT04647656 lineage) reported benefit \u2014 contested package. Phase 3 NCT06267300 UNKNOWN without results \u2192 D contested. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 5 registry trial(s) for Hyperbaric Oxygen Therapy (HBOT) \u2192 Long COVID: NCT06452095 (RECRUITING, phase=NA, n=120, relevant=True); NCT04842448 (COMPLETED, phase=PHASE2, n=80, relevant=True); NCT06267300 (UNKNOWN, phase=PHASE3, n=120, relevant=True); NCT04905888 (WITHDRAWN, phase=PHASE2, n=0, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 34067776: Post-"
+  "confidence_notes": "[2026-09-19 chase] Peer-reviewed negative Phase 2 for linked NCT04842448 plus conflicting positive Israeli RCTs \u2192 contested D (was C)."
 }

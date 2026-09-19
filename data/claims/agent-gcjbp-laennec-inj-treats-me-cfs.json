@@ -12,13 +12,14 @@
     },
     {
       "type": "nct",
-      "value": "NCT01742013"
+      "value": "NCT01742013",
+      "label": "Laennec Inj CFS Phase 3 completed (no results module)"
     }
   ],
-  "limitations": "Key refs: NCT01742013 (COMPLETED). Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT01742013 Phase 3 (n=78) completed; CT.gov results still unposted; no PubMed/Europe PMC primary citing NCT \u2192 C draft. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Gcjbp Laennec Inj. \u2192 ME/CFS: NCT01742013 (COMPLETED, phase=PHASE3, n=78, relevant=True). No posted CT.gov results found in this pass. Europe PMC query `(Gcjbp Laennec Inj.) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")` \u2192 0 hits (top cited sampled). This evaluation does not invent positive efficacy; absent clear supportive published out"
+  "confidence_notes": "[2026-09-19 chase] Still no posted results or NCT-linked publication \u2192 C draft."
 }

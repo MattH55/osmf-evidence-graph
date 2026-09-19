@@ -11,20 +11,27 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "pmid",
-      "value": "40544605"
+      "type": "nct",
+      "value": "NCT04510194",
+      "label": "COVID-OUT (acute COVID; results posted; off-target for GWI)"
     },
     {
       "type": "nct",
-      "value": "NCT04510194"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06128967"
+      "value": "NCT06128967",
+      "label": "REVIVE Long COVID (off-target for GWI)"
     },
     {
       "type": "nct",
       "value": "NCT06147050"
+    },
+    {
+      "type": "pmid",
+      "value": "37302406",
+      "label": "COVID-OUT long-COVID incidence secondary outcomes (2023)"
+    },
+    {
+      "type": "pmid",
+      "value": "40544605"
     },
     {
       "type": "pmid",
@@ -45,12 +52,32 @@
     {
       "type": "pmid",
       "value": "40258841"
+    },
+    {
+      "type": "pmid",
+      "value": "38690892",
+      "label": "Favorable Antiviral Effect of Metformin on SARS-CoV-2 Viral Load in a Randomized, Placebo-Controlled Clinical Trial of C (2024)"
+    },
+    {
+      "type": "pmid",
+      "value": "36597543",
+      "label": "Outpatient treatment of Covid-19 with metformin, ivermectin, and fluvoxamine and the development of Long Covid over 10-m (2022)"
+    },
+    {
+      "type": "pmid",
+      "value": "36070710",
+      "label": "Randomized Trial of Metformin, Ivermectin, and Fluvoxamine for Covid-19. (2022)"
+    },
+    {
+      "type": "pmid",
+      "value": "41911553",
+      "label": "The Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID : An Adaptive Randomized Trial. (2026)"
     }
   ],
-  "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:36326761, PMID:37008131, PMID:37082752. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: linked NCT04510194 (COVID-OUT) and NCT06128967 (REVIVE) address acute COVID / Long COVID, not Gulf War Illness. Posted COVID-OUT results are off-target for this claim \u2192 D. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 3 registry trial(s) for Metformin \u2192 Gulf War Illness: NCT04510194 (COMPLETED, phase=PHASE3, n=1323, relevant=False); NCT06128967 (COMPLETED, phase=PHASE3, n=399, relevant=False); NCT06147050 (UNKNOWN, phase=PHASE3, n=16, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 36326761: Complexity and Challenges of the Clinical Diagnosis and Management of Long"
+  "confidence_notes": "[2026-09-19 chase] Reverted automated D\u2192C upgrade. COVID-OUT results do not evidence metformin for GWI."
 }

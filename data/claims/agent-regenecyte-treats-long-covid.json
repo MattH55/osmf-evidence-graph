@@ -12,21 +12,29 @@
     },
     {
       "type": "nct",
-      "value": "NCT07184385"
+      "value": "NCT05682560",
+      "label": "RegeneCyte Phase 2 completed (no CT.gov results module)"
     },
     {
       "type": "nct",
-      "value": "NCT05682560"
+      "value": "NCT07184385",
+      "label": "RegeneCyte Phase 3 not yet recruiting"
     },
     {
       "type": "pmid",
-      "value": "41625963"
+      "value": "41625963",
+      "label": "REGENECYTE Phase IIa RCT post-COVID fatigue (2026; NCT05682560)"
+    },
+    {
+      "type": "doi",
+      "value": "10.1016/j.eclinm.2025.103737",
+      "label": "eClinicalMedicine 2026"
     }
   ],
-  "limitations": "Key refs: NCT07184385 (NOT_YET_RECRUITING), NCT05682560 (COMPLETED), PMID:41625963. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT05682560 Phase 2 (n=30) completed without CT.gov results; PMID 41625963 reports Phase IIa RCT with fatigue improvement vs placebo. Small early trial; pivotal NCT07184385 not yet recruiting \u2192 C draft not B. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 2 registry trial(s) for Regenecyte \u2192 Long COVID: NCT07184385 (NOT_YET_RECRUITING, phase=PHASE3, n=60, relevant=True); NCT05682560 (COMPLETED, phase=PHASE2, n=30, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 41625963: REGENECYTE cord blood cell therapy in post-COVID syndrome: a phase IIa randomized, placebo-controlled trial.. Europe PMC query `(Regen"
+  "confidence_notes": "[2026-09-19 chase] Peer-reviewed Phase IIa primary found; remain C draft (n=30)."
 }
