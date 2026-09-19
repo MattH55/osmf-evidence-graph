@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42374349",
+  "type": "paper",
+  "label": "Protective role of rosmarinic acid against radiation-induced dermatitis: focus on oxidative stress and inflammation.",
+  "aliases": [],
+  "summary": "This study investigated the potential protective role of rosmarinic acid (RA) against oxidative stress, inflammation, and fibrosis induced by ionizing radiation in an experimental rat model. A total of 42 male Sprague-Dawley rats were randomly divided into seven groups (n = 6): G0, G1(14), G1(28), G2(14), G2(28), G3(14), and G3(28). While the G1 groups were exposed to radiation without treatment, the G2 groups received intraperitoneal saline, and the G3 groups were administered 20 mg/kg RA intr…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42374349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374349/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42374349/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

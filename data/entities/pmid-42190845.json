@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42190845",
+  "type": "paper",
+  "label": "Shared genetic risk between functional somatic syndromes, internalizing disorders, and immune-mediated diseases: a twin-sibling study.",
+  "aliases": [],
+  "summary": "Functional somatic syndromes frequently co-occur with internalizing disorders such as anxiety disorders and major depressive disorder. Both show familial associations with immune-mediated diseases. Here, we estimate genetic and environmental contributions to functional somatic syndromes and their overlap with immune-mediated diseases, with internalizing disorders included for comparison. The study sample consisted of 6,097,372 Swedish twins, full siblings, and half-siblings born between 1945 an…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42190845",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190845/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42190845/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

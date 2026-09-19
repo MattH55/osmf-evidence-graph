@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41563653",
+  "type": "paper",
+  "label": "Borrelia burgdorferi-Induced Neuroinflammation in Lyme Disease: A Potential Driver of Alzheimer's Disease Pathology?",
+  "aliases": [],
+  "summary": "Emerging evidence suggests that chronic infections may contribute to neurodegenerative diseases such as Alzheimer's disease (AD). One such infection is caused by Borrelia burgdorferi sensu lato (Bbsl), the spirochete complex responsible for Lyme disease, which can invade the central nervous system (CNS) and trigger Lyme neuroborreliosis (LNB). Bbsl infection is associated with persistent neuroinflammatory responses and immune evasion mechanisms, which may contribute to long-term neurological se…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41563653",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41563653/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41563653/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

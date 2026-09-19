@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42406837",
+  "type": "paper",
+  "label": "The scaffolding protein AKAP79/150 shapes innate immune responses to allergen.",
+  "aliases": [],
+  "summary": "Inhalation of house dust mite-derived allergens is a major factor leading to the development of asthma both in children and adults. Allergens stimulate Ca2+-dependent pro-inflammatory cytokine and chemokine gene expression through the opening of ORAI1 Ca2+ channels in the surface membrane of various immune cell-types within the lung. ORAI1 participates in a signalosome with the scaffolding protein A-kinase anchoring protein (AKAP)79/150 (encoded by the Akap5 gene), which binds numerous protein…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42406837",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42406837/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42406837/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

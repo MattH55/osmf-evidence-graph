@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42315046",
+  "type": "paper",
+  "label": "Association of the endosomal TLR4 pathway with dorsolateral prostatic remodeling induced by perinatal phthalate mixture exposure in rats.",
+  "aliases": [],
+  "summary": "Phthalates are endocrine disruptors that alter the homeostasis of hormone-dependent organs. Perinatal exposure to endocrine disruptors can program different organs and promote morphological and metabolic alterations, increasing susceptibility to diseases later in life, as proposed by the Developmental Origins of Health and Disease (DOHaD) hypothesis. This study evaluated the effects of perinatal exposure to a six-phthalate mixture on prostatic structure and molecules related to inflammation and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42315046",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42315046/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42315046/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

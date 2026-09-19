@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41498020",
+  "type": "paper",
+  "label": "A Unique Case of Squamous Cell Carcinoma on the Palm in a Patient with Lyme Disease.",
+  "aliases": [],
+  "summary": "Squamous cell carcinoma (SCC) is the second most common type of skin cancer following basal cell carcinoma (BCC). Risk factors for the development of SCC include exposure to ultraviolet light (UV) and non-UV-related risk factors, such as chronic wounds, Marjolin ulcers, and human papillomavirus (HPV) infection. In this case report, we report an interesting case of the development of SCC in the palm of a patient with an extensive history of Lyme disease.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41498020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41498020/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41498020/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

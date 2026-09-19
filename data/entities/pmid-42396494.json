@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42396494",
+  "type": "paper",
+  "label": "Spatial Immune Model of Alveolar Lung Infection (SIMALI) Identifies Structural Determinants of Lung Inflammation.",
+  "aliases": [],
+  "summary": "Inflammation and lung damage in response to respiratory viral infection is a major cause of morbidity and mortality. How specialized lung alveolar structures contribute to variation in inflammatory lung damage observed in patients is a gap in current knowledge. Filling this gap is important for understanding how respiratory infections can lead to persistent and chronic sequelae after acute viral infection, including post-acute sequelae of COVID-19, or \"long COVID\". Few computational models have…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42396494",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42396494/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42396494/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

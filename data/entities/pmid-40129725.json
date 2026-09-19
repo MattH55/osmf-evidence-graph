@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40129725",
+  "type": "paper",
+  "label": "Dysregulation of lipid metabolism, energy production, and oxidative stress in myalgic encephalomyelitis/chronic fatigue syndrome, Gulf War Syndrome and fibromyalgia.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), Gulf War Syndrome (GWS), and Fibromyalgia (FM) are complex, chronic illnesses with overlapping clinical features. Symptoms that are reported across these conditions include post-exertional malaise (PEM), fatigue, and pain, yet the etiology of these illnesses remains largely unknown. Diagnosis is challenging in patients with these conditions as definitive biomarkers are lacking; patients are required to meet clinical criteria and often…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40129725",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40129725/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40129725/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

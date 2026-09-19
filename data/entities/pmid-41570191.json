@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41570191",
+  "type": "paper",
+  "label": "Postinfectious Syndromes and Long-Term Sequelae after Giardia Infections.",
+  "aliases": [],
+  "summary": "Giardiasis, caused by the parasite Giardia duodenalis, is a common infection throughout the world. Acute infections can be asymptomatic, cause mild gastrointestinal symptoms, or be associated with severe, prolonged diarrhea. Most Giardia infections are self-limiting; however, a subset of symptomatic and asymptomatic persons experience infection-associated chronic conditions that can affect multiple body systems. Those conditions include stunting and impaired cognitive function in children, irri…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41570191",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41570191/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41570191/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

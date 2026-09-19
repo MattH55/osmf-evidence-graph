@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41900360",
+  "type": "paper",
+  "label": "Characterization of",
+  "aliases": [],
+  "summary": "The cause of chronic neurological effects associated with Lyme disease (LD) remains unclear. We propose that bacterial extracellular vesicles (BEVs) released by",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41900360",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41900360/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41900360/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41994257",
+  "type": "paper",
+  "label": "A review of chronic enterocolitis of rhesus macaques (",
+  "aliases": [],
+  "summary": "Chronic enterocolitis (CE) is a disease of significant concern in colony-housed rhesus macaques, leading to chronic diarrhea and severe weight loss necessitating euthanasia in up to 25% of adults. Despite over three decades of research into this syndrome, mitigating strategies have been met with variable success and chronic diarrhea remains an ongoing problem in research colonies. Some risk factors, clinicopathologic characteristics, and histopathologic characteristics have been investigated, b…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41994257",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41994257/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41994257/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

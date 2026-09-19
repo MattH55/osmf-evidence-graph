@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42283396",
+  "type": "paper",
+  "label": "Acute and chronic kidney injury following COVID-19 infection and vaccination: a narrative review.",
+  "aliases": [],
+  "summary": "This narrative review examines acute and chronic kidney injury following COVID-19 infection and vaccination, discussing the mechanism of SARS-CoV-2 entry into host cells through the ACE2 receptor - highly expressed in renal tissues - facilitating the viral invasion. Viral RNA has been detected in the urine of patients infected with SARS-CoV-2, suggesting direct renal involvement. The incidence of acute kidney injuriy (AKI) among hospitalized COVID-19 patients was particularly higher in the earl…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42283396",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42283396/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42283396/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

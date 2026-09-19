@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41991453",
+  "type": "paper",
+  "label": "Midodrine for Postural Orthostatic Tachycardia Syndrome and Neurocardiogenic Syncope: 10 Years of Real-World Experience.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41991453",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41991453/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41991453/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

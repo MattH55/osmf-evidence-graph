@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42409655",
+  "type": "paper",
+  "label": "Post-acute sequelae of COVID in children: Pulmonary assessment using impulse oscillometry and the effect of vaccination.",
+  "aliases": [],
+  "summary": "Post-acute sequelae of SARS-CoV-2 infection (PASC), also known as long COVID syndrome (LCS), is characterized by persistent symptoms following SARS-CoV-2 infection and poses significant health challenges, particularly impacting pulmonary function in children. This study aims to evaluate the effect of COVID-19 vaccination on pulmonary function in children with PASC using standardized spirometry and impulse oscillometry (IOS). This prospective, observational study was conducted from July to Septe…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42409655",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409655/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42409655/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

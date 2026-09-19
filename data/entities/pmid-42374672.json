@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42374672",
+  "type": "paper",
+  "label": "Assessment of the frequency of IgM and IgG antibodies against",
+  "aliases": [],
+  "summary": "Borreliosis, also known as Lyme disease, is a chronic, multi-organ illness that is very difficult to diagnose. It is caused by the spirochete Serum for the study was obtained from 99 randomly selected patients who reported for routine testing at the medical diagnostic laboratory in Krynica-Zdrój. The presence of IgM and IgG antibodies against In total, positive or borderline results for at least one class of anti-Borrelia antibodies were found in 22.2% of human sera. Only in two samples were th…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42374672",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374672/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42374672/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

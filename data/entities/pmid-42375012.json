@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42375012",
+  "type": "paper",
+  "label": "Association of the Primary Aldosteronism Severity Classification with Lateralization and Treatment Outcomes.",
+  "aliases": [],
+  "summary": "The 2025 clinical guideline for primary aldosteronism (PA) recommends a diagnostic and therapeutic pathway stratified by lateralization risk. The PA severity classification (PASC) integrates biochemical and clinical features and is intended to inform graded recommendations for adrenal venous sampling (AVS). We examined whether PASC is associated with AVS-defined lateralization and treatment outcomes. A retrospective multicenter cohort study. Eight tertiary centers. A total of 833 patients with…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42375012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42375012/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42375012/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

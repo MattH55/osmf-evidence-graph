@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41201149",
+  "type": "paper",
+  "label": "[Isolated Sixth Cranial Nerve Palsy as a Clinical Presentation of Neuroborreliosis].",
+  "aliases": [],
+  "summary": "Lyme disease is a zoonosis caused by spirochetes of the genus Borrelia, presenting with a broad spectrum of clinical manifestations. This heterogeneity may hinder diagnosis, particularly in regions with low prevalence. We present the case of a 65-year-old woman who attended the emergency department with a 24-hour history of diplopia upon awakening, without other neurological focal signs. Neuroborreliosis was diagnosed after identifying a history of travel to an endemic area and compatible cutan…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41201149",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41201149/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41201149/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

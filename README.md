@@ -1,12 +1,9 @@
 # OSMF Shared Evidence Graph
 
-Shared evidence-graph schemas and **git-authored** seed data for five MVP conditions:
+Shared evidence-graph schemas and **git-authored** data for post-viral / related conditions, populated from the OSMF Research Tracker (plus retained phenotype/biomarker seed nodes):
 
-- Long COVID
-- PACVS
-- ME/CFS
-- POTS
-- MCAS
+- Long COVID, PACVS, ME/CFS, POTS, MCAS
+- Lyme / PTLDS, Gulf War Illness, Other post-viral
 
 **schema_version:** `0.1.0` — see [SCHEMA.md](SCHEMA.md).
 
@@ -23,6 +20,7 @@ Shared evidence-graph schemas and **git-authored** seed data for five MVP condit
 | `data/entities/*.json` | One entity per file (named by ID slug) |
 | `data/claims/*.json` | One claim per file (named by claim slug) |
 | [`data/README.md`](data/README.md) | Data directory contract |
+| [`IMPORT.md`](IMPORT.md) | Re-run tracker → graph import |
 | `examples/seed-dump.example.json` | Checked-in compiled fixture (`is_example: true`); refreshed by `build:dump` |
 | `dist/dump/latest.json` | Build output (gitignored; produced in CI / locally) |
 
@@ -36,9 +34,21 @@ npm run validate:dump   # AJV vs schemas/dump.bundled.schema.json
 
 CI: `.github/workflows/validate-dump.yml` runs build + schema validation on push/PR. Locally, `npm run validate:dump` **fails on an invalid dump**.
 
+## Import from Research Tracker
+
+```bash
+export TRACKER_PATH=/path/to/osmf-research-tracker   # optional; auto-detects sibling /workspace
+npm run import:tracker
+npm run build:dump && npm run validate:dump
+```
+
+Details: [IMPORT.md](IMPORT.md).
+
 ## Important
 
-`examples/seed-dump.example.json` and the compiled dump are **synthetic / illustrative**. Claims, tiers, and links are structural examples for engineering and product review. They are **not** OSMF-endorsed clinical statements and are **not medical advice**. Keep `is_example: true` until curated content replaces the seed.
+`meta.is_example` remains **`true`**: paper PMIDs and condition pages come from the Research Tracker, but **claim grades are provisional auto-imports** (tier C / draft), not human evidence review. They are **not** OSMF-endorsed clinical statements and are **not medical advice**.
+
+See [IMPORT.md](IMPORT.md) to re-run the tracker import. Therapeutic agents and full clinical-trials import are deferred.
 
 ## ID scheme
 

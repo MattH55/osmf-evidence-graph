@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42361439",
+  "type": "paper",
+  "label": "Mast cell proteases and their significance in physiology, pathology, and therapeutic approaches.",
+  "aliases": [],
+  "summary": "Mast cells (MCs) are versatile, multifunctional immune cells with broad roles in physiological homeostasis and pathogenic processes. MCs are found in most tissues, including skin, lungs, intestines, and peritoneum, and they vary in numbers, types, and biological functions. MCs are implicated in host defense against various pathogens, including bacteria, viruses, and fungi. Additionally, MCs are crucial in protecting against toxins, including those present in venoms from multiple species, such a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42361439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42361439/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42361439/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

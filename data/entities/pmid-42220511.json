@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42220511",
+  "type": "paper",
+  "label": "Immune remodeling and metabolic reprogramming in chronic fatigue: insights into GPCR signaling and epigenetic regulation.",
+  "aliases": [],
+  "summary": "Inflammation-driven fatigue is a clinically significant feature of several chronic inflammatory conditions, including myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), post-COVID condition, autoimmune disease, and cancer-related fatigue. Across these conditions, partially overlapping disturbances in immune regulation, cellular metabolism, and neuroimmune signaling may contribute to persistent fatigue, despite important differences in initiating context and biological substrate. Curre…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42220511",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42220511/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42220511/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

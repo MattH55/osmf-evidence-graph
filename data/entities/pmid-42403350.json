@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42403350",
+  "type": "paper",
+  "label": "Regional Disparities in Functional and Socioeconomic Impacts of Long COVID in Brazil: A Cross-Sectional Observational Study.",
+  "aliases": [],
+  "summary": "In low- and middle-income countries such as Brazil, regional inequalities in healthcare access and socioeconomic conditions may exacerbate the functional and occupational consequences of Long COVID. This study explored between-center differences in functional and socioeconomic outcomes among individuals with Long COVID from three Brazilian centers in Brazil, while examining how these findings may have been influenced by acute disease severity, symptom burden, and contextual factors. This was a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42403350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403350/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42403350/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

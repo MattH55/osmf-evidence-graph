@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41042957",
+  "type": "paper",
+  "label": "Assessment of the accuracy of initial diagnoses and the frequency of clinical forms of Lyme disease among hospitalized patients: a single-center study.",
+  "aliases": [],
+  "summary": "Lyme borreliosis (LB) is one of the most commonly diagnosed tick-borne diseases globally, caused by Borrelia spirochetes. Despite advances in laboratory diagnostics, both overdiagnosis and underdiagnosis of LB remain significant issues. Nonspecific symptoms such as chronic fatigue or musculoskeletal complaints are often misattributed to LB, creating controversy and delaying appropriate diagnosis and treatment. To analyze clinical data and diagnostic results of patients referred to the Departmen…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41042957",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41042957/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41042957/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

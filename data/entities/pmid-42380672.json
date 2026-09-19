@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42380672",
+  "type": "paper",
+  "label": "Holter-Based Heart Rate Variability Distinguishes Adolescent Postural Orthostatic Tachycardia Syndrome from Healthy Controls.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is associated with autonomic dysregulation, but ambulatory markers that capture autonomic phenotype remain incompletely defined. To compare Holter-derived heart rate variability (HRV) metrics between adolescents with POTS and healthy controls and to derive candidate discriminatory thresholds. Retrospective case-control analysis of an existing Holter dataset (POTS n = 19, controls n = 44). Heart rate variability was processed in Kubios HRV Premium…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42380672",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380672/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42380672/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

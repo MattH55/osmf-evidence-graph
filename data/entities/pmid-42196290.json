@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42196290",
+  "type": "paper",
+  "label": "Human Endogenous Retroviruses in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Emerging Roles in Pathogenesis, Immunity, Biomarkers and Therapeutics.",
+  "aliases": [],
+  "summary": "Human endogenous retroviruses (HERVs) are potential driving forces of the pathophysiology of Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), linking post-infectious immune dysfunction to chronic inflammation and immune and neurocognitive dysfunction that are hallmark features of ME/CFS. Accumulating evidence from related autoimmune diseases and cancers has shown that reactivated HERVs can contribute to disease pathogenesis by amplifying immune activation through viral protein-media…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42196290",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42196290/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42196290/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

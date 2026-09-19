@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41843558",
+  "type": "paper",
+  "label": "Computational modeling-directed combination treatment with etanercept and mifepristone mitigates neuroinflammation in a mouse model of Gulf War Illness.",
+  "aliases": [],
+  "summary": "Gulf War Illness is a chronic multi-symptom disorder experienced by over 30% of veterans from the 1990-1991 Gulf War and is increasingly recognized to be driven by underlying persistent neuroinflammation resulting from chemical and physiological exposures experienced during deployment. Despite significant advances in identifying Gulf War-relevant exposures and underlying pathobiology, effective treatment strategies for Gulf War Illness are still largely lacking. Many studies that have evaluated…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41843558",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41843558/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41843558/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

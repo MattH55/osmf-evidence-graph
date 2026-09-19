@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42319568",
+  "type": "paper",
+  "label": "Next-generation heparin antidotes: \"Exosomes as a biocompatible alternative to protamine sulfate\".",
+  "aliases": [],
+  "summary": "Controlling bleeding is one of the most fundamental challenges in cardiac surgery. Bleeding is controlled by neutralising heparin with protamine. Our study investigates exosomes as an alternative treatment option to protamine for use in haemostasis. Rats were divided into 5 groups, with 4 rats in each group: Group 1 underwent puncture, Group 2 underwent heparinised puncture, Group 3 received exosomes prior to heparinised puncture, Group 4 received exosomes prior to heparinised puncture with hep…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42319568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42319568/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42319568/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

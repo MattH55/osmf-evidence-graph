@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42347851",
+  "type": "paper",
+  "label": "The comparative ameliorating effects of an amorphous formula of curcumin and α-glycosyl isoquercitrin on hippocampal dysfunction in a rat gulf war illness model.",
+  "aliases": [],
+  "summary": "Brain dysfunction is a primary symptom of Gulf War illness (GWI). The present study investigated the effects of an amorphous formula of curcumin (CUR) and α-glycosyl isoquercitrin (AGIQ) on neurobehaviors and adult neurogenesis and following synaptic plasticity of produced neurons in the hippocampal dentate gyrus (DG) in a rat GWI model. Ten-week-old rats received GWI-related chemicals and restraint stress for 28 days; thereafter, animals were fed either a diet without supplement or mixed with…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42347851",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42347851/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42347851/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

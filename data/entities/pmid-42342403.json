@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42342403",
+  "type": "paper",
+  "label": "Effects of auricular vagal neuromodulation therapy combined with slow-paced diaphragmatic breathing in individuals with postural tachycardia syndrome: a randomised controlled trial protocol.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a multifactorial disorder of the autonomic nervous system characterised by an excessive increase in heart rate (HR) on standing and a wide range of debilitating symptoms, including fatigue, exercise intolerance, cognitive impairment and a high prevalence of depression, anxiety and sleep disturbances. Conventional pharmacological strategies often offer limited relief and do not sufficiently address non-cardiac symptoms. Auricular vagal neuromod…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42342403",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42342403/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42342403/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

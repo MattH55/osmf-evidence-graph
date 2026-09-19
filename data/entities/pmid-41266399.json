@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41266399",
+  "type": "paper",
+  "label": "Decadelong low basal ganglia NAA/tCr from elevated tCr supports ATP depletion from mitochondrial dysfunction and neuroinflammation in Gulf War illness.",
+  "aliases": [],
+  "summary": "Reduced N-acetylaspartate (NAA)/total creatine (tCr) ratio found with long echo-time proton magnetic resonance imaging (",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41266399",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41266399/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41266399/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

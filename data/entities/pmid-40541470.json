@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40541470",
+  "type": "paper",
+  "label": "Military Exposures and Early Menopause: Findings From the Gulf War Era Cohort Study (GWECS).",
+  "aliases": [],
+  "summary": "Traumatic and environmental exposures during military service may affect reproductive health and ovarian aging, putting women veterans at risk for early menopause. We examined relationships between military exposures and possible early menopause among women 1990-1991 Gulf War veterans. This is a longitudinal analysis of data from the Gulf War Era Cohort Study. Women Gulf War veterans who completed baseline (1995) and follow-up assessments (2012) and were aged ≤45 at follow-up were included. Mil…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40541470",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40541470/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40541470/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42179241",
+  "type": "paper",
+  "label": "Comparative Analysis of Circulating Cytokines and Adrenergic Autoantibodies in Postural Orthostatic Tachycardia Syndrome, Postacute Sequelae of SARS-CoV-2, and Healthy Controls.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is increasingly recognized after SARS-CoV-2 infection. We compared autonomic phenotype, functional impact, and circulating immune markers in POTS, postacute sequelae of COVID-19 (PASC), and healthy controls. In this cross-sectional study (August 2021 to December 2022), we recruited patients with POTS (n=24) or PASC (n=24) and healthy controls (n=19). Participants underwent 10-minute active stand testing, 24-hour Holter monitoring, serum cytokine,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42179241",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42179241/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42179241/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

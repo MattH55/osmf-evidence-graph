@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40733058",
+  "type": "paper",
+  "label": "Development of Low-Dose Disulfiram Rectal Suppository Intended for Application in Post-Treatment Lyme Disease Syndrome.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40733058",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40733058/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40733058/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

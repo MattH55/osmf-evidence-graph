@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42223876",
+  "type": "paper",
+  "label": "[Transdisciplinary Expert Statement: care guide for people severely affected by ME/CFS in home-based care].",
+  "aliases": [],
+  "summary": "Many of those affected by myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) have significant care needs. However, post-exertional malaise, the defining feature of ME/CFS, means that even minor physical, orthostatic, cognitive, or sensory stressors can trigger a disproportionate worsening of health status, condition and symptoms. This results in specific requirements and significant challenges in home care. Nursing care is still provided predominantly by family caregivers, who frequent…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42223876",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42223876/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42223876/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

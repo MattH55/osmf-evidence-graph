@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41563326",
+  "type": "paper",
+  "label": "Xenodiagnosis to search for Borrelia burgdorferi after antibiotic treatment of Lyme disease: a prospective cohort study.",
+  "aliases": [],
+  "summary": "Some patients report non-specific symptoms after antibiotic therapy for Lyme disease (LD), raising questions about ongoing infection, despite no compelling evidence. We investigated whether xenodiagnosis could detect Borrelia burgdorferi in such patients, and if positive results correlated with symptoms. Participants were adults who completed antibiotic treatment for LD 3-12 months earlier (post-therapy, n=40) or had persistent symptoms for ≥ 12 months after treatment, (post-treatment LD sympto…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41563326",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41563326/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41563326/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

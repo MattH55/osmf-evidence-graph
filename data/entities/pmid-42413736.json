@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42413736",
+  "type": "paper",
+  "label": "Revisiting pharmacological actions of disodium cromoglycate in light of GPR35: New therapeutic contexts for classical drugs.",
+  "aliases": [],
+  "summary": "Mast cell stabilizers such as disodium cromoglycate have been used for decades as prophylactic anti-allergic agents, yet their molecular targets remained unknown, and their intracellular mechanisms were long debated. Identification of GPR35 as a receptor engaged by multiple mast cell stabilizers provided a new framework to reinterpret classical pharmacology. Here, historical and recent evidence linking mast cell stabilizers to GPR35 is integrated and pharmacological characteristics of GPR35 are…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42413736",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413736/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42413736/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42407187",
+  "type": "paper",
+  "label": "Jianpi Huayu decoction alleviates hepatic fibrosis involving coordinated modulation of PPARα-mediated lipid metabolic reprogramming and the ROCK pathway.",
+  "aliases": [],
+  "summary": "Hepatic fibrosis is a critical stage in the progression from chronic liver injury to hepatocellular carcinoma (HCC), yet effective therapeutic options remain limited. Jianpi Huayu Decoction (JPHY) has been used clinically in patients with HCC accompanied by hepatic fibrosis, but its anti-fibrotic mechanisms remain unclear. This study evaluated the anti-fibrotic effects of JPHY and explored potential links between metabolic regulation and tissue mechanics. A carbon tetrachloride (CCl₄)-induced m…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42407187",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407187/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42407187/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

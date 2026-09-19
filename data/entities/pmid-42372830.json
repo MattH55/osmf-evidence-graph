@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42372830",
+  "type": "paper",
+  "label": "Selective Elimination of Mast Cells via Siglec-6-Targeted Nanodelivery of Drug Payload.",
+  "aliases": [],
+  "summary": "Mast cell elimination through Siglec-6 is a minimally explored strategy for diseases characterized by mast cell overactivity or overproduction. Here, we combine nanotechnology with cell-free protein synthesis to develop a therapeutic strategy (anti-Sig6-NPmidoFab) for selectively eliminating mast cells. Nanocarriers are loaded with the protein kinase inhibitor midostaurin and conjugated with cell-free protein synthesis-enabled clickable, synthetically dimerized anti-Siglec-6 antibody fragments…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42372830",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372830/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42372830/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

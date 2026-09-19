@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42376726",
+  "type": "paper",
+  "label": "The Silent Crisis: Loneliness in Older Adults-A Critical Review of Impacts, Strategies and Path Forward.",
+  "aliases": [],
+  "summary": "Loneliness, distinct from social isolation, is a subjective sense of social disconnection exacerbating a public health crisis among older adults. Affecting ~33% of community-dwelling individuals aged 50-80 years post-COVID-19, it rivals smoking in mortality risk and drives cognitive, cardiovascular, and mental health declines. This review synthesises evidence to inform clinical strategies. A critical review of per-reviewed meta-analyses, RCTs, and prospective cohorts literature (2019-2025) was…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42376726",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42376726/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42376726/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

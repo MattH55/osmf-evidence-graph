@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42344483",
+  "type": "paper",
+  "label": "INVA8001, a novel and highly selective chymase inhibitor, ameliorates liver inflammation, fibrosis, and hyperplasia in Mdr2 knockout mice.",
+  "aliases": [],
+  "summary": "Mast cells (MCs) play a significant role in autoimmune diseases by mediating inflammatory responses, innate and adaptive responses, angiogenesis, and various pathological processes. In chronic liver diseases, MC numbers are significantly increased, and their degranulation leads to release of mediators, including chymase, which increases inflammation, activates hepatic stellate cells (HSCs), leading to fibrosis. Primary sclerosing cholangitis (PSC) is a chronic, progressive cholestatic liver dis…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42344483",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42344483/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42344483/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

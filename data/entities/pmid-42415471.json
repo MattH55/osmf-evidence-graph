@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42415471",
+  "type": "paper",
+  "label": "Safety monitoring of bivalent, quadrivalent, and 9-valent human papillomavirus vaccination in Japan: The vaccine effectiveness, networking, and universal safety (VENUS) study.",
+  "aliases": [],
+  "summary": "Safety data on human papillomavirus (HPV) vaccination in the Japanese population remain limited owing to the lack of healthcare databases available for vaccine safety assessment. In this study, we assessed the risk of adverse events of special interest (AESIs) following HPV vaccination among females aged 12-26 y using medical claims data linked to routine or catch-up vaccination records provided by municipalities. We conducted a population-based cohort study and self-controlled case series (SCC…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42415471",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42415471/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42415471/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42082813",
+  "type": "paper",
+  "label": "Risk factors for severe post-COVID condition in children, adolescents, and young adults.",
+  "aliases": [],
+  "summary": "Post-COVID condition (PCC) in children and young people (CYP, PCCcyp) remains a significant health burden. Early identification of patients at risk for severe disease, including myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), is crucial for timely and adequate care. This monocentric, observational registry study, performed at a tertiary pediatric hospital in Germany, included CYP aged 7-25 years with PCCcyp at diagnosis. Standardized clinical assessment tools and patient-reported o…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42082813",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42082813/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42082813/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

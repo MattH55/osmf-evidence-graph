@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42428085",
+  "type": "paper",
+  "label": "Hematopoietic mosaic chromosomal alterations are pleiotropic drivers of inflammaging, multimorbidity, and mortality.",
+  "aliases": [],
+  "summary": "Mosaic chromosomal alterations (mCAs) are a prevalent but poorly understood form of clonal hematopoiesis (CH). Whether mCAs contribute to disease independently of CHIP, and whether their large-scale genomic effects can be resolved to actionable targets, remain unknown. In 452,594 UK Biobank participants, we show that mCAs confer multimorbidity and mortality risk independent of CHIP. Notably, mCA-CHIP co-occurrence defines a very high-risk clonal state with synergistically elevated mortality, id…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42428085",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42428085/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42428085/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

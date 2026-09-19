@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42286686",
+  "type": "paper",
+  "label": "Two-timepoint multidomain follow-up of post-COVID condition and ME/CFS: overlapping autonomic, small-fiber, and cognitive changes.",
+  "aliases": [],
+  "summary": "Post-COVID condition (PCC) and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) show marked clinical overlap, suggesting a shared post-infectious pathophysiology. This study aims to characterize the longitudinal change of autonomic function, small-fiber integrity, cognitive performance, and clinical symptoms in PCC and ME/CFS, and to determine whether trajectories differ between diagnostic groups. Thirty-eight participants (21 PCC, 17 ME/CFS) underwent two standardized evaluations se…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42286686",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42286686/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42286686/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

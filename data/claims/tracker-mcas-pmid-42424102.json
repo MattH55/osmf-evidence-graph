@@ -1,0 +1,22 @@
+{
+  "id": "osmf:claim:tracker-mcas-pmid-42424102",
+  "subject_id": "osmf:paper:pmid-42424102",
+  "predicate": "related_to",
+  "object_id": "osmf:condition:mcas",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "pmid",
+      "value": "42424102"
+    },
+    {
+      "type": "url",
+      "value": "https://pubmed.ncbi.nlm.nih.gov/42424102/"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker PubMed feed; not human evidence-graded. Inclusion in the tracker query does not imply study quality or clinical applicability.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T16:57:32.049Z",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42395315",
+  "type": "paper",
+  "label": "Long COVID and health-related quality of life: a systematic review of immune, inflammatory, and metabolic markers.",
+  "aliases": [],
+  "summary": "Long COVID is known to be associated with prolonged multiple organ symptoms and decreased health-related quality of life (HRQoL), but the pathogenesis and relationship between immune, inflammatory, and metabolic biomarkers and HRQoL remains poorly understood. This systematic review aims to synthesize the evidence on the health-related quality of life of patients with Long COVID and to summarize the reported associations between health-related outcomes and biomarkers. We conducted a systematic s…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42395315",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395315/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42395315/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

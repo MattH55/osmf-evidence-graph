@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42423558",
+  "type": "paper",
+  "label": "Origami Metamaterials Based on Low-Melting-Point Alloy Phase Transition: Breaking the Trade-Off Between Reusability and Energy Absorption Quality.",
+  "aliases": [],
+  "summary": "Mechanical metamaterials provide a promising platform for designing energy-absorbing materials. However, the trade-off between reusability and energy absorption quality limits the overall performance of existing energy-absorbing metamaterials. To address this challenge, an origami metamaterial based on the low-melting-point alloy phase transition is proposed in this study, constructed by integrating a low-melting-point alloy skeleton into an elastomeric shell. In terms of performance, the metam…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42423558",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42423558/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42423558/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

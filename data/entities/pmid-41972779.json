@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41972779",
+  "type": "paper",
+  "label": "Pathophysiology of intracranial hypertension in cryptococcal meningoencephalitis.",
+  "aliases": [],
+  "summary": "Cryptococcal meningoencephalitis (CME) is a major cause of death and disability, and intracranial hypertension is a leading, treatable contributor to mortality and neurologic sequelae. Across CME cohorts, markedly elevated cerebrospinal fluid (CSF) opening pressure is common and often occurs despite minimal ventriculomegaly or diffuse edema on neuroimaging. This review synthesizes clinical, microbiological, imaging, pathological, and experimental evidence to define priorities for mechanistic re…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41972779",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41972779/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41972779/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

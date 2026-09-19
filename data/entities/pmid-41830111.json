@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41830111",
+  "type": "paper",
+  "label": "Illness perceptions and behavioural responses as mechanisms of change in problem-solving treatment for Veterans with Gulf War Illness.",
+  "aliases": [],
+  "summary": "Persistent 'medically unexplained' physical symptoms and syndromes (PPS), an umbrella term for symptom-based conditions with poorly understood pathophysiology and aetiology, disproportionately impact Gulf War Veterans. Behavioural interventions are efficacious and recommended as first-line treatments for PPS, but the mechanisms by which these interventions work remain unknown. This study sought to identify mechanisms of change that make problem-solving treatment (PST) efficacious for Veterans l…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41830111",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41830111/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41830111/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

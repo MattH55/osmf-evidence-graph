@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42156945",
+  "type": "paper",
+  "label": "Gut hormones in POTS and their relation to hemodynamic parameters and gastrointestinal symptoms.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is associated with multiple autonomic symptoms, including gastrointestinal (GI) complaints, and has been linked to insulin resistance. We aimed to explore HbA1c, circulating metabolic hormones (insulin, C-peptide, GIP, GLP-1, glucagon, leptin, and peptide YY) and cortisol, and their associations with hemodynamic parameters and GI symptoms in POTS. Two POTS cohorts were studied and compared with matched controls. In the fasting cohort, blood sampl…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42156945",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42156945/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42156945/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

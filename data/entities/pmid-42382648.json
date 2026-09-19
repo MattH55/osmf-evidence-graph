@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42382648",
+  "type": "paper",
+  "label": "SARS-CoV-2 reinfection: a possible contributing factor to long COVID in children and adolescents.",
+  "aliases": [],
+  "summary": "Following the end of the COVID-19 pandemic, attention shifted towards patients who developed sequelae, persistent symptoms, or relapsing or remitting symptoms of new conditions after a prior history of acute SARS-CoV-2 infection. The objective of the present study was to identify the prevalence, clinical characteristics, and potential associated factors of long COVID in children treated during the pandemic in a primary care unit. A cross-sectional analytical study was conducted from January to…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42382648",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382648/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42382648/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

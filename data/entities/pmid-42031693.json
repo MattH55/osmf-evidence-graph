@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42031693",
+  "type": "paper",
+  "label": "Characterising the clinical associations of hallucinogen persisting perception disorder: a retrospective cohort study.",
+  "aliases": [],
+  "summary": "Hallucinogen persisting perception disorder (HPPD) is characterised by episodes of altered perception linked to past psychoactive drug use, accompanied by distress and functional impairment. To date, clinical characterisation has been limited in scale. Using TriNetX, a global federated health research network of electronic health records, we conducted a retrospective cohort study comparing clinical associations in individuals with HPPD versus population and psychedelic-using controls. Cumulativ…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42031693",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42031693/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42031693/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

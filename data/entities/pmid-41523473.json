@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41523473",
+  "type": "paper",
+  "label": "Familial Mediterranean Fever: A Diagnostic and Therapeutic Challenge.",
+  "aliases": [],
+  "summary": "Recurrent pericarditis is a complex and often debilitating clinical entity characterized by repeated episodes of pericardial inflammation following an initial acute insult. The condition poses a significant diagnostic and therapeutic challenge, as its underlying causes span a wide spectrum of etiologies, including autoimmune disorders (such as systemic lupus erythematosus and rheumatoid arthritis), infectious processes (notably viral, bacterial, or tuberculous), neoplastic involvement, and a gr…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41523473",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41523473/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41523473/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

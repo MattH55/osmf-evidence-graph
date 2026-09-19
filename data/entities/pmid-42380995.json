@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42380995",
+  "type": "paper",
+  "label": "Prolonged return to work and hampered work ability: insights from a scoping review on the impact of long COVID on healthcare workers job performance.",
+  "aliases": [],
+  "summary": "Healthcare workers (HCWs) may have a higher risk of developing long COVID due to greater exposure to COVID-19, with symptoms extending beyond the acute phase impacting their daily living activities and job performance. To systematically map the existing literature on the impact of long COVID on HCWs' job performance, focusing on their time to return to work and work ability. A scoping review following PRISMA-ScR guidance included peer-reviewed studies in English or Spanish (January 2020-Decembe…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42380995",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380995/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42380995/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

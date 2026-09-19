@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41065377",
+  "type": "paper",
+  "label": "The multiplexed single-tier InBios Lyme Detect Multiplex ELISA is more sensitive than standard two-tier tests in the early stages of Lyme disease.",
+  "aliases": [],
+  "summary": "There are nearly 500,000 cases of Lyme disease each year in the United States; 10%-20% of them result in the development of a debilitating chronic disease known as post-treatment Lyme disease. Existing standardized and modified two-tier tests (STT/MTT) suffer from poor detection rates in the first weeks of infection, where the antibody response, the basis of diagnosis, is developing but is not robust enough for detection. During this early window, false negative results are common, which leads…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41065377",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41065377/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41065377/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

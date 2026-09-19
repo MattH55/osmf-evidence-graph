@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41136524",
+  "type": "paper",
+  "label": "HLA and pathogens in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and other post-infection conditions.",
+  "aliases": [],
+  "summary": "Viral infections have been widely implicated in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) pathogenesis. Recent evidence has also identified certain Human Leukocyte Antigen (HLA) alleles that are significantly associated with ME/CFS risk/protection. Here we tested the hypothesis that ME/CFS risk or protection conferred from those HLA alleles is associated with binding affinity to antigens of HHV viruses, a critical step in initiating the adaptive immune system response to forei…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41136524",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41136524/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41136524/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

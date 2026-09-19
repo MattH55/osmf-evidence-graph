@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42414303",
+  "type": "paper",
+  "label": "Primary sclerosing cholangitis displays distinct colonic mucosa topography yet a shared mast cell state with ulcerative colitis.",
+  "aliases": [],
+  "summary": "Primary sclerosing cholangitis (PSC) is a chronic, progressing cholestatic disease that often co-occurs with inflammatory bowel disease (PSC-IBD). PSC-IBD affecting the colon (PSC-ulcerative colitis or PSC-UC) resembles clinical UC, but is characterised by less severe disease flares, right-colon predominance, and a greater lifetime risk of colorectal cancer than UC alone. To elucidate differences in the underlying biology between PSC-UC and UC, here we combine single-cell mRNA and antigen recep…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42414303",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414303/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42414303/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

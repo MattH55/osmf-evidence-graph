@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42409265",
+  "type": "paper",
+  "label": "Macrophage-specific targeting of histone demethylases with small-molecule inhibitors suppresses inflammatory response in vivo.",
+  "aliases": [],
+  "summary": "Macrophages are versatile immune cells, with the ability to respond to varied intrinsic and extrinsic cues, and transition between inflammatory and pro-reparative phenotypes. A complex network of epigenetic processes, such as DNA methylation, and histone methylation and acetylation, plays key roles in modulating macrophage polarization and inflammatory gene expression. Transcriptional analysis in patients with respiratory failure, long COVID-19, and influenza revealed an augmented expression of…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42409265",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409265/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42409265/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

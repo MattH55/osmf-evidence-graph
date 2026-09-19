@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42394025",
+  "type": "paper",
+  "label": "Challenges in Preprocessing Routine Laboratory Data for Machine Learning.",
+  "aliases": [],
+  "summary": "Post-Covid syndrome remains a major clinical challenge due to the lack of specific biomarkers and reliance on exclusion criteria. Routine laboratory data offers potential for identifying biological signatures, but their use in machine learning is hampered by data quality issues. This study investigates the impact of preprocessing on classification performance using 52 laboratory parameters from the German NAPKON cohort (n = 1,292: 1,130 Covid recovered, 162 post-Covid patients), measured at fou…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42394025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394025/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42394025/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

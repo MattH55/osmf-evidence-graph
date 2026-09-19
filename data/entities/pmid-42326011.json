@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42326011",
+  "type": "paper",
+  "label": "Early life stress and the pathogenesis of visceral hypersensitivity: mechanisms and implications for disorders of gut-brain interaction.",
+  "aliases": [],
+  "summary": "Early life stress (ELS) is a major risk factor for disorders of gut-brain interaction (DGBIs), particularly irritable bowel syndrome (IBS), through the induction of persistent visceral hypersensitivity. This review synthesizes evidence from epidemiological studies, clinical observations, and preclinical models to establish ELS-induced visceral hypersensitivity as a core pathophysiological axis. I delineate the multi-level mechanisms underlying this phenomenon, encompassing: (1) central neuroend…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42326011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42326011/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42326011/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42137851",
+  "type": "paper",
+  "label": "A Perspective on Observation as Intervention in Chronic Diagnostic Complexity.",
+  "aliases": [],
+  "summary": "This patient perspective article advances observation as an intentional, rigorous form of clinical care rather than a passive absence of intervention. The recommendations arise from the lived experience of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS), informed by clinical training as a mobile equine veterinarian. Over a nine-year diagnostic course, early clinical curiosity gave way to prolonged skepticism in the context of normal examinations and laboratory findings, ultimately s…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42137851",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42137851/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42137851/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

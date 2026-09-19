@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42397484",
+  "type": "paper",
+  "label": "Therapeutic Targeting of the Bradykinin B2 Receptor in Immunological and Vascular Diseases: Insights from Kinin Biology to Clinical Outcomes.",
+  "aliases": [],
+  "summary": "Bradykinin is a nonapeptide of the kinin family with vasoactive and proinflammatory activities. While generation of kinins is mainly driven by activation of the contact system and plasma or tissue kallikreins, additional independent cascades contribute to their formation. Kinins mediate their effects through the constitutively expressed bradykinin B2 receptor and the inducible bradykinin B1 receptor. Bradykinin is the most studied kinin peptide mainly due to its potential role in the vascular s…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42397484",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42397484/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42397484/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

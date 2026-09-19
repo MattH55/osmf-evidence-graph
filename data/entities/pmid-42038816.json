@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42038816",
+  "type": "paper",
+  "label": "Vertebral remodeling with denosumab after infection control in",
+  "aliases": [],
+  "summary": "Infectious spondylodiscitis can cause progressive vertebral destruction and instability even after infection control, and some patients decline or are unsuitable for surgery. We report a 67-yr-old man with poorly controlled type 2 diabetes mellitus and hypertension who developed",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42038816",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42038816/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42038816/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

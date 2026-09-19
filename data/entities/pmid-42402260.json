@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42402260",
+  "type": "paper",
+  "label": "Time to Recovery from Long COVID: A Longitudinal Analysis of Symptom Duration and Risk Factors Using Accelerated Failure Time Models.",
+  "aliases": [],
+  "summary": "Long COVID comprises heterogeneous symptoms that may persist for months to years after acute SARS-CoV-2 infection. While prevalence is well described, less is known about symptom duration and determinants of recovery. We conducted a multicenter longitudinal cohort study across 12 institutions in Korea (December 2022-March 2025), enrolling adults with confirmed infection and uninfected controls. Participants were followed for up to 22 months with repeated assessments of symptoms, vaccination, an…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42402260",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402260/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42402260/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

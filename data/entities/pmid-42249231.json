@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42249231",
+  "type": "paper",
+  "label": "Novel activity and participation scales for children, adolescents, and young adults with postacute infection and vaccination syndromes and/or ME/CFS.",
+  "aliases": [],
+  "summary": "Children, adolescents, and young adults (CYP) with postacute infection and vaccination syndromes (PAIVS), and/or myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), experience profound loss in activity and participation. We introduce and psychometrically validate two new brief, age-adapted, and domain-specific questionnaires for clinical use assessing activity and participation in this vulnerable patient group. For this, 91 patients (aged 10-25 years) were assessed at the Munich Chroni…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42249231",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42249231/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42249231/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

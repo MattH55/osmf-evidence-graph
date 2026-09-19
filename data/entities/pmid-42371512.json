@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42371512",
+  "type": "paper",
+  "label": "Mapping the occupational therapy process in response to COVID-19 and long COVID: A scoping review.",
+  "aliases": [],
+  "summary": "COVID-19 and long COVID have had an impact worldwide on people's participation in occupations. Occupational therapists play a role in supporting individuals' recovery and participation in daily life. This present study undertook a scoping review of research on COVID-19 and long COVID to map the occupational therapy process with this population, including evaluation, intervention and outcomes. Three online databases were searched to identify research papers published between 2020 and 2023 from a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42371512",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42371512/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42371512/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

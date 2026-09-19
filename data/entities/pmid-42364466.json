@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42364466",
+  "type": "paper",
+  "label": "Artificial intelligence-enhanced nurse navigation for monitoring and care of long COVID.",
+  "aliases": [],
+  "summary": "Long COVID is a multisystem condition with challenging diagnosis. Nurse-navigation, a patient-centered intervention, can enhance education and care access. Analyzing patient-nurse text message exchanges using natural language processing (NLP) enables automated extraction of clinical information, potentially supporting early identification of long COVID. We aimed to evaluate a digital nurse navigation platform integrating a predictive model for long COVID identification as a triage-assisting too…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42364466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42364466/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42364466/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42148468",
+  "type": "paper",
+  "label": "Phenotypes of Chronic Overlapping Pain Multimorbidity in Rheumatology: A Population-Based Claims Study.",
+  "aliases": [],
+  "summary": "This study aims to characterize the burden and distinct patterns of chronic overlapping pain conditions (COPCs) multimorbidity in adults with autoimmune rheumatic diseases (ARDs). We analyzed 2008 to 2021 data from the Merative MarketScan Commercial Claims and Encounters Database, identifying 149,742 patients with ARDs (ankylosing spondylitis, psoriatic arthritis, rheumatoid arthritis, Sjögren disease, systemic lupus erythematosus, and systemic sclerosis) using International Classification of D…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42148468",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42148468/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42148468/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

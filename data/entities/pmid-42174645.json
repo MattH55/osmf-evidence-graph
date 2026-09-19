@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42174645",
+  "type": "paper",
+  "label": "A systematic scoping review and conceptual analysis of new-onset fibromyalgia manifestations after non-hospitalized COVID-19: empirics, definitions, methodologies, pathophysiology, mapping of literat…",
+  "aliases": [],
+  "summary": "The global coronavirus pandemic has led to a quiet wave of a chronic illness referred to as 'Long/Post Covid-19 syndrome' (LC) which bears a notable resemblance to functional-somatic or 'fibromyalgia-type' syndromes, and whose pathophysiology is undetermined. The lack of effective therapies for LC is straining healthcare systems worldwide and causing widespread public health and socioeconomic concerns. \"Fibromyalgia\" is a controversial chronic pain condition of unknown etiology largely attribut…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42174645",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42174645/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42174645/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

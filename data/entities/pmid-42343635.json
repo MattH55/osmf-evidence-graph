@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42343635",
+  "type": "paper",
+  "label": "Esculetin attenuates migraine-like pain via CGRP suppression and meningeal mast cell modulation in rat models.",
+  "aliases": [],
+  "summary": "Growing evidence suggests that esculetin, a 5-lipoxygenase inhibitor, has pharmacotherapeutic potential due to its various pharmacological properties, such as potent anti-inflammatory, anti-nociceptive, and γ-aminobutyric acid type A (GABA 越来越多的证据表明，秦皮乙素作为一种5-脂氧合酶抑制剂，因其具有强效抗炎、抗伤害感受及γ-氨基丁酸A型（GABA",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42343635",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42343635/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42343635/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

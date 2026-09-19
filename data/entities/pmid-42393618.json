@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42393618",
+  "type": "paper",
+  "label": "Self-management of long COVID symptoms with over-the-counter medicines and other non-prescribed therapies: a cross-sectional survey.",
+  "aliases": [],
+  "summary": "The high prevalence of long COVID globally necessitates investigation into its self-management, especially given the absence of definitive and effective treatments and uneven access to healthcare services. This study surveyed the use of over-the-counter (OTC) medicines, supplements, remedies, and other non-prescription therapies for managing long COVID symptoms in the UK. It aimed to identify the range of treatments used for self-management, explore the sources of these treatments, factors infl…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42393618",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393618/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42393618/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42277526",
+  "type": "paper",
+  "label": "[Pain in post-acute infection syndromes: clinical classification and practical management].",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42277526",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42277526/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42277526/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

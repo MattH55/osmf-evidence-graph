@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42277311",
+  "type": "paper",
+  "label": "Significant aggravation of pre-existing myalgic encephalomyelitis/chronic fatigue syndrome following proton beam therapy for sphenoid wing meningioma: case report.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating multisystem disorder characterized by profound fatigue, post-exertional malaise (PEM), immune dysregulation, and mitochondrial dysfunction. While radiation exposure has been linked to fatigue syndromes with overlapping pathophysiology, no previous reports have described the effects of therapeutic radiation, including proton beam radiotherapy (PBRT), in patients with ME/CFS. We report the case of a 46-year-old woman wi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42277311",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42277311/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42277311/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

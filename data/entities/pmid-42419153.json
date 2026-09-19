@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42419153",
+  "type": "paper",
+  "label": "Caffeic acid attenuates stress-induced colon inflammation and barrier disruption in Sprague-Dawley rats.",
+  "aliases": [],
+  "summary": "Chronic stress promotes colonic inflammation by sustaining activation of the hypothalamic-pituitary-adrenal (HPA) axis, inducing oxidative stress, and disrupting barrier integrity, thereby exacerbating inflammatory bowel disease and irritable bowel syndrome. Therefore, there is a need for therapeutic compounds that can ameliorate stress-induced colonic inflammation. Caffeic acid (CA), a naturally occurring polyphenol found in coffee and tea, has shown potential anti-inflammatory and antioxidant…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42419153",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42419153/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42419153/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

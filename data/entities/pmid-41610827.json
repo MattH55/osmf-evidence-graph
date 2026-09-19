@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41610827",
+  "type": "paper",
+  "label": "The distinct etiology and imaging features of pediatric pulmonary embolism: dominance of Mycoplasma pneumoniae-associated in-situ thrombosis and severity risk stratification.",
+  "aliases": [],
+  "summary": "Pediatric pulmonary embolism (PE) incidence has shown a steady rise in recent years, underscoring a distinct and evolving etiological landscape. Infection-related PE, notably Mycoplasma pneumoniae (MPP), now accounts for an increasing proportion of pediatric PE cases, raising questions about a distinct in-situ thrombosis (ISPAT) pathophysiology. We aimed to systematically characterize the etiological spectrum of childhood PE and identify independent predictors of severe disease. We conducted a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41610827",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41610827/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41610827/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

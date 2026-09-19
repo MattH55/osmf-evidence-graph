@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42129014",
+  "type": "paper",
+  "label": "Sleep in myalgic encephalomyelitis/chronic fatigue syndrome shows marked night-to-night fluctuation under free-living conditions-results from a matched case-control study.",
+  "aliases": [],
+  "summary": "Unrefreshing and non-restorative sleep is a hallmark complaint in people with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). However, little is known about their habitual sleep and night-to-night fluctuations under real-life conditions. This study aimed to characterize sleep, and the intraindividual variability (IIV) of sleep in people living with ME/CFS compared with matched controls. In this case-control study, 38 ME/CFS and 38 controls wore a wrist accelerometer continuously fo…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42129014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42129014/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42129014/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

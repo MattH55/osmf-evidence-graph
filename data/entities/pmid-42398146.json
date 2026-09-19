@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42398146",
+  "type": "paper",
+  "label": "Symptom, functional, and medication overlap between long COVID and fibromyalgia.",
+  "aliases": [],
+  "summary": "Long COVID (LC/PASC) and Fibromyalgia (FM) share prominent pain, fatigue, and cognitive symptoms and are often difficult to distinguish clinically. The authors compared LC/PASC and FM using harmonized questionnaires assessing symptoms, function, and medication burden to quantify phenotype overlap and inform biomarker development. The authors analyzed a harmonized dataset including LC/PASC participants and FM-only comparators. Measures included age, sex, BMI, FIQR/SIQR-equivalent, BDI, CSI, MPQ,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42398146",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398146/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42398146/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

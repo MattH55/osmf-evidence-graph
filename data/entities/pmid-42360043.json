@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42360043",
+  "type": "paper",
+  "label": "Comparison of Proteomic Analysis of Cerebrospinal Fluid From Neurological Patients With and Without Amyotrophic Lateral Sclerosis.",
+  "aliases": [],
+  "summary": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder characterised by progressive muscle weakness in both bulbar and extremity muscles, leading to a diverse clinical phenotype with motor and non-motor symptoms. Approximately 85% of ALS cases are sporadic (sALS), while the remaining 10%-15% are familial (fALS). Biological biomarkers of sporadic ALS remain poorly understood, hindering precise patient screening, delaying diagnosis and negatively affecting prognosis. This study aims…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42360043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42360043/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42360043/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

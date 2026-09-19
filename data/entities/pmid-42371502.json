@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42371502",
+  "type": "paper",
+  "label": "The Time Course of Serum Iron and Serum Ferritin Concentrations Post-COVID-19 and Influenza Vaccinations.",
+  "aliases": [],
+  "summary": "Temporal responses of serum iron and ferritin in COVID-19 infection and vaccination remain insufficiently characterized. This case report presents their timeline after SARS-CoV-2 and influenza vaccinations and may serve as a model for future studies. The approach can be extended to cohort studies or investigations of other acute-phase reactants. A vaccination protocol with a defined timeline can provide a template for COVID-19 and long COVID studies. Blood samples were collected from vaccinatio…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42371502",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42371502/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42371502/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

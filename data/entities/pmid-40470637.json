@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40470637",
+  "type": "paper",
+  "label": "Physical Activity and Functioning Following Tai Chi and a Wellness Comparison Intervention in Veterans with Gulf War Illness.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a highly prevalent chronic, multisymptomatic condition associated with worsening physical health and quality of life among veterans. Specifically, GWI symptoms may disrupt physical functioning that negatively impacts overall health. Complementary and integrative health interventions that promote physical activity, such as Tai Chi, may be critical to addressing physical functioning in veterans with GWI. The present study is a secondary analysis of data from a randomized…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40470637",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40470637/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40470637/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

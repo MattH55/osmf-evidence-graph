@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42081697",
+  "type": "paper",
+  "label": "The prevalence of cardiac symptoms in Ehlers-Danlos syndrome and hypermobility spectrum disorder: a pilot study.",
+  "aliases": [],
+  "summary": "The authors compared palpitations, presyncope, syncope, and postural orthostatic tachycardia syndrome (POTS) prevalence among patients with hypermobile Ehlers-Danlos syndrome (hEDS) and hypermobility spectrum disorder (HSD). A retrospective analysis of patients referred for cardiac evaluation at the New York Institute of Technology Ehlers-Danlos Syndrome/Hypermobility Treatment Center between January 2019 and November 2023 was conducted. hEDS and HSD patients underwent cardiac evaluation and we…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42081697",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42081697/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42081697/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

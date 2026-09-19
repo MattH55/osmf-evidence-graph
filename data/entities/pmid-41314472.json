@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41314472",
+  "type": "paper",
+  "label": "Guidelines for Lyme borreliosis: post-treatment Lyme disease syndrome (PTLDS).",
+  "aliases": [],
+  "summary": "Persistent symptoms following appropriate treatment of confirmed Lyme borreliosis (LB) require a systematic clinical reassessment. The diagnostic approach should verify the accuracy of the initial diagnosis, adherence to and adequacy of antibiotic therapy, and consider potential sequelae or differential diagnoses such as new-onset diseases or comorbidities. When no alternative explanation is found, symptoms may correspond to Post-Treatment Lyme Disease Syndrome (PTLDS), as defined by the French…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41314472",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41314472/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41314472/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41486473",
+  "type": "paper",
+  "label": "Corticosteroid Therapy and Long-Term Outcomes of Post-Infectious Inflammatory Syndrome in Non-HIV Immunosuppressed Cryptococcal Meningitis: A Multicenter Case Series.",
+  "aliases": [],
+  "summary": "Post-infectious inflammatory response syndrome (PIIRS) is recognized as a cause of neurologic deterioration in previously healthy patients with cryptococcal meningoencephalitis (CM). However, data on non-human immunodeficiency virus (HIV), immunosuppressed patients remain limited. Between July 2018 and April 2025, 13 non-HIV immunosuppressed patients with CM who subsequently developed PIIRS were included. Clinical features, Karnofsky performance scores, cerebrospinal fluid (CSF) parameters, and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41486473",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41486473/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41486473/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

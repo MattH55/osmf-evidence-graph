@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41648243",
+  "type": "paper",
+  "label": "Modeling Inflammation-Driven Colon Hypertrophy and Motility Changes in Gulf War Illness.",
+  "aliases": [],
+  "summary": "Gastrointestinal (GI) symptoms are a prominent feature of Gulf War Illness (GWI). Animal models attribute them to pyridostigmine bromide (PB) exposure, which induces smooth muscle hypertrophy, neuroinflammation, and motility impairment. However, animal studies only provide static snapshots of disease progression and can only partially resolve how inflammatory, neuronal, and biomechanical processes interact dynamically over time. To address this gap, we developed a computational model that coupl…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41648243",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41648243/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41648243/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

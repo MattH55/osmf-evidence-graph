@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42147023",
+  "type": "paper",
+  "label": "Response: Commentary: Cognitive behavioural therapy for the treatment of chronic fatigue syndrome in adults: a short analysis of the meta-analysis.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42147023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42147023/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42147023/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

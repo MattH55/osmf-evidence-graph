@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42100733",
+  "type": "paper",
+  "label": "Chronic stress and cognitive dysfunction in myalgic encephalomyelitis/chronic fatigue syndrome: HPA axis dysregulation and hippocampal plasticity.",
+  "aliases": [],
+  "summary": "Cognitive dysfunction is a common and disabling clinical feature of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), often described by patients as \"brain fog.\" These symptoms typically manifest as difficulties in attention, memory, and concentration. Chronic stress has been proposed as an important contributing factor in ME/CFS. The hypothalamic-pituitary-adrenal (HPA) axis plays a central role in the stress response, and prolonged adverse stress may contribute to HPA axis dysregul…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42100733",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42100733/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42100733/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

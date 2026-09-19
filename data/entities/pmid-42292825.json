@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42292825",
+  "type": "paper",
+  "label": "Integrative machine learning and network toxicology framework for assessing environmental pollutant TCDD-induced osteoarthritis risk: a computational cheminformatics approach.",
+  "aliases": [],
+  "summary": "Osteoarthritis (OA) is a prevalent degenerative joint disease influenced by both genetic susceptibility and environmental factors. Increasing evidence suggests that exposure to persistent environmental pollutants, such as 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), may contribute to OA progression; however, the molecular mechanisms underlying these effects remain unclear. Therefore, this study aimed to elucidate the potential molecular interactions and mechanisms by which TCDD may influence OA…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42292825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42292825/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42292825/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41195425",
+  "type": "paper",
+  "label": "Guidelines for diagnosis and treatment in neurology - Lyme neuroborreliosis.",
+  "aliases": [],
+  "summary": "Lyme disease is the most common tick-borne infectious disease in Europe. Neurological manifestations occur in 3-15% of infections and can present as polyradiculitis, meningitis, and rarely as encephalomyelitis. The disease is treatable with antibiotics. The S3 guideline \"Neuroborreliosis\" has been updated in accordance with the methodological standards of the \"Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V.\" (AWMF register number 030/071). Eighteen AWMF member…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41195425",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41195425/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41195425/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

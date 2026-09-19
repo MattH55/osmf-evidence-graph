@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42299106",
+  "type": "paper",
+  "label": "Rolling Up Transition Metal Chalcogenides/Oxide Heterostructures Enables Polarity-Tunable and High-Switchable Memristors.",
+  "aliases": [],
+  "summary": "Harnessing transition metal dichalcogenides (TMDCs) for memristors provides a promising pathway toward high-density data storage and neuromorphic functionalities. Yet the single operation mode and insufficient on/off ratio extremely restrict the ultimate device performance. Here, we design and construct a high-order superlattice-based memristor by rolling up oxide/TMDCs heterostructures, which exhibits tunable resistive switching polarity and a high on/off ratio. Four types of heterostructures…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42299106",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299106/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42299106/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

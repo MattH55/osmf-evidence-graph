@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42400138",
+  "type": "paper",
+  "label": "Coronary artery dilatation in neonates: A novel case series.",
+  "aliases": [],
+  "summary": "BackgroundCoronary artery dilatation (CAD) in neonates is an uncommon but clinically important finding on echocardiography. Reported associations include multisystem inflammatory syndrome in the newborn (MIS-N) following COVID-19 infection, congenital cardiac malformations, and perinatal inflammatory states. In the post-COVID era, CAD has been reported more frequently.MethodsThis retrospective, record-based case series conducted at a Government Medical College in South India describes the clini…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42400138",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400138/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42400138/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

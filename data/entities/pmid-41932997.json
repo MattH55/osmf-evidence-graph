@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41932997",
+  "type": "paper",
+  "label": "Proteomic signatures in cerebrospinal fluid and their clinical associations in patients with ME/CFS.",
+  "aliases": [],
+  "summary": "This study evaluated the cerebrospinal fluid (CSF) proteomes from 31 patients diagnosed with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). We quantified 902 proteins, each expressed in at least eleven samples, and systematically categorized clinical factors relevant to ME/CFS symptoms-including autonomic dysfunction, neuroinflammation and metabolic disturbances. Differentially expressed protein and pathway analyses evaluated protein features associated with both postural orthosta…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41932997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41932997/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41932997/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42119693",
+  "type": "paper",
+  "label": "What is the Role of \"the Psyche\"? Long COVID and ME/CFS as Test Cases for Evidence-Based and Patient-Centered Psychiatry and Psychotherapy.",
+  "aliases": [],
+  "summary": "The role of psychological factors in the development and course of Long Covid (LC) and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) remains a subject of controversial debate. We argue that psychologizing LC and ME/CFS carries significant risks: it leads to potentially harmful therapies, invalidates the patients&apos; experience of illness, hinders effective interventions such as pacing, diverts focus from necessary physical diagnostics and treatment, disadvantages patients in med…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42119693",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42119693/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42119693/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

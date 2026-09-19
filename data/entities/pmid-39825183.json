@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-39825183",
+  "type": "paper",
+  "label": "\"They Make It So Hard on You\": How Rurality Shapes Veterans' Health Experiences When Managing Gulf War Illness.",
+  "aliases": [],
+  "summary": "Gulf War illness (GWI) is characterized by multiple, persistent symptoms (e.g., fatigue, musculoskeletal pain, concentration problems, and gastrointestinal disorders) across more than one body system that are severe enough to interfere with daily functioning. For Veterans in rural areas, the confluence of geographic barriers and GWI may create unique challenges when navigating health care, given the range of specialty care needed to support GWI. However, little is known about how rural Veterans…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "39825183",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39825183/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/39825183/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

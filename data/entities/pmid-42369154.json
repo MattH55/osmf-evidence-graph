@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42369154",
+  "type": "paper",
+  "label": "Longitudinal trajectories of hematological indices and serum metalloproteinases-2 and 9 over 1 year after moderate and severe COVID-19.",
+  "aliases": [],
+  "summary": "The long-term clinical burden of Coronavirus disease (COVID-19) remains substantial, yet one-year cohort evidence linking blood-based biomarkers to persistent sequelae is limited. We conducted a longitudinal study in adults aged 18-80 years who were classified as moderate or severe COVID-19 or non-COVID-19 controls. Blood was collected at four time points through 360 days after infection or hospital discharge. Cytokines were quantified by flow cytometry. MMP-2 and MMP-9 levels and activity were…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42369154",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42369154/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42369154/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

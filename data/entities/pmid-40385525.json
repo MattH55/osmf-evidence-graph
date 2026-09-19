@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40385525",
+  "type": "paper",
+  "label": "Physical Activity and Suicidal Ideation Among Gulf War Era Veterans.",
+  "aliases": [],
+  "summary": "This study from a national sample of Gulf War Veterans (",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40385525",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40385525/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40385525/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

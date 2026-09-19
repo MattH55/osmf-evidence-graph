@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42345003",
+  "type": "paper",
+  "label": "Treatment Approaches for Omalizumab-Refractory Chronic Spontaneous Urticaria.",
+  "aliases": [],
+  "summary": "Chronic spontaneous urticaria (CSU) is a mast cell-driven disease that impairs health-related quality of life. Although omalizumab is a cornerstone treatment for patients uncontrolled with up-dosed second-generation H1-antihistamines, some patients remain partially responsive or refractory. This narrative review summarizes current concepts in defining, predicting, and managing omalizumab-refractory CSU. Response assessment should rely on validated patient-reported outcome measures, particularly…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42345003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42345003/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42345003/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

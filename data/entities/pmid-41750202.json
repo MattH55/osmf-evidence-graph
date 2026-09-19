@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41750202",
+  "type": "paper",
+  "label": "Acute Disseminated Encephalomyelitis (ADEM): Current View into Etiopathogenesis and Clinical Features.",
+  "aliases": [],
+  "summary": "Acute disseminated encephalomyelitis (ADEM) is a rare, immune-mediated demyelinating disorder of the central nervous system (CNS) that predominantly affects children and young adults. ADEM typically follows an infectious or, less commonly, immunization-related trigger, and despite decades of clinical observation, its etiopathogenesis remains only partially understood. Clinically, the diagnosis of ADEM continues to pose significant challenges due to the absence of disease-specific biomarkers and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41750202",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41750202/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41750202/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

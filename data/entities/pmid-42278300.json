@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42278300",
+  "type": "paper",
+  "label": "Irisin Signaling Resistance in Myalgic Encephalomyelitis: A Proposed Mechanistic Framework for Post-Exertional Malaise Involving the TSP-1-HSP90α-αvβ5 Axis.",
+  "aliases": [],
+  "summary": "Myalgic Encephalomyelitis (ME) is a chronic, multisystem disease characterized by systemic metabolic dysfunction and post-exertional malaise (PEM). In this study, we investigated the dysregulation of irisin, an exercise-induced myokine, and its potential antagonism by thrombospondin-1 (TSP-1). In a cross-sectional study (92 ME patients vs. 44 sedentary healthy controls), plasma irisin and TSP-1 levels were measured at baseline and after a 90 min mechanical stress challenge applied to induce PEM…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42278300",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42278300/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42278300/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

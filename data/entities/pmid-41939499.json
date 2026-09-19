@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41939499",
+  "type": "paper",
+  "label": "The Role of Borrelia Burgdorferi in the Etiology of Chronic Urticaria.",
+  "aliases": [],
+  "summary": "Lyme borreliosis/European borreliosis (LB/EB) is a multisystemic infection caused by the bacterium The aim of this paper was to determine how much In the 13-year period from January 1, 2013 to December 31, 2025, a study of all manifestations of Lyme borreliosis was conducted on a sample of 1,059 patients, treated and monitored in the Private practice of an infectious disease specialist. The research was retrospective-prospective, descriptive, clinical and analytical. It was carried out in three…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41939499",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41939499/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41939499/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

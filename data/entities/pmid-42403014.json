@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42403014",
+  "type": "paper",
+  "label": "Dendritic Cell α-Ketoglutarate Regulates Tfh Polarization in Allergy.",
+  "aliases": [],
+  "summary": "Initiation of allergic responses requires activation of specialized subsets of T follicular helper (Tfh) cells called Tfh13 cells. Differentiation of these cells from naïve CD4",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42403014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403014/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42403014/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

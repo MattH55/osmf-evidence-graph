@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42116852",
+  "type": "paper",
+  "label": "MOGAD optic neuritis post enterovirus meningitis: a new association.",
+  "aliases": [],
+  "summary": "Myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) is a rare autoimmune demyelinating disorder of the central nervous system, typically presenting with optic neuritis, transverse myelitis or acute disseminated encephalomyelitis. While viral triggers such as Epstein-Barr virus and adenovirus have been reported, an association with enterovirus meningitis is not well documented. We report a 17-year-old female who presented with enterovirus meningitis confirmed by cerebrospinal…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42116852",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42116852/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42116852/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

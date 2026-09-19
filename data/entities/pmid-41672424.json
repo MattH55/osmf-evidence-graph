@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41672424",
+  "type": "paper",
+  "label": "Lactate, Capnia, and Fat Oxidation as Therapeutic Axes for SARS-CoV-2 Spike Protein-Induced Sequelae.",
+  "aliases": [],
+  "summary": "Metabolic alterations characterize a large subset of those with post-acute COVID-19 syndrome, and similar symptoms affect those with post-acute COVID-19 vaccination syndrome. These symptoms are characterized by the triumvirate of post-acute COVID-19 (vaccination) syndrome symptoms: post-exertional malaise, fatigue, and cognitive impairment, commonly referred to as brain fog. These symptoms can be recreated through perturbations that disrupt mitochondria, and spike protein has been observed to d…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41672424",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41672424/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41672424/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

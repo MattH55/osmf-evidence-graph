@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41976810",
+  "type": "paper",
+  "label": "Testing a Personalised Dysautonomia Management Protocol in Patients with Orthostatic Intolerance and a Diagnosis of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome or Long COVID.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41976810",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41976810/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41976810/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

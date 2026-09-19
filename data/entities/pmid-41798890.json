@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41798890",
+  "type": "paper",
+  "label": "Macrophage Immune-Competent Colon Assembloids for Functional Interrogation of Neuroinflammation-Induced Colonic Dysmotility.",
+  "aliases": [],
+  "summary": "Background and Aims: Functional gastrointestinal disorders affect ∼40% of the global population and are frequently characterized by colonic dysmotility. Symptomatic manifestations of colonic dysmotility significantly reduce quality of life in inflammatory bowel disease, diabetes, and Gulf War Illness. Current in vitro models lack the integration of functional physiology with immune and neuronal complexity required to establish causal links between neuroinflammation and dysmotility. Here, an imm…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41798890",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41798890/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41798890/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

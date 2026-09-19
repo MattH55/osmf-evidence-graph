@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41575124",
+  "type": "paper",
+  "label": "[Microangiopathies thrombotiques].",
+  "aliases": [],
+  "summary": "THROMBOTIC MICROANGIOPATHIES. The syndrome of thrombotic microangiopathy (TMA) is defined by the combination of mechanical hemolytic anemia, consumptive thrombocytopenia, and organ failure secondary to microvascular obstruction by microthrombi. TMAs include thrombotic thrombocytopenic purpura and atypical hemolytic uremic syndrome and require specific therapies that have significantly improved the prognosis ; post-infectious HUS (including shigatoxin-associated HUS), and secondary TMAs that occ…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41575124",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41575124/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41575124/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

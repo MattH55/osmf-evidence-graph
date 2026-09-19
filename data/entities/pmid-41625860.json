@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41625860",
+  "type": "paper",
+  "label": "West Nile Virus as a Trigger for Acute Inflammatory Demyelinating Polyneuropathy: Exploring Intravenous Immunoglobulin (IVIG) Efficacy and Disease Variability.",
+  "aliases": [],
+  "summary": "West Nile virus (WNV) is a rare trigger of acute inflammatory demyelinating polyneuropathy (AIDP), more commonly associated with meningoencephalitis. This case highlights an atypical post-infectious presentation of WNV-associated AIDP following recent viral illness and explores the associated diagnostic and therapeutic challenges. A 36-year-old male patient with heavy alcohol use, chronic tobacco exposure, and a recent upper respiratory infection developed rapidly progressive bilateral weakness…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41625860",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41625860/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41625860/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

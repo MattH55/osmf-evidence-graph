@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-39860380",
+  "type": "paper",
+  "label": "Localization of Microvascular Changes in Systemic Disease Without Retinopathy Using Optical Coherence Tomography Angiography (OCTA).",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "39860380",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39860380/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/39860380/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41598737",
+  "type": "paper",
+  "label": "Anti-GQ1b Antibody Syndrome: A Clinician-Oriented Perspective on Diagnostics, Therapy, and Atypical Phenotypes-With an Illustrative 16-Case Institutional Series.",
+  "aliases": [],
+  "summary": "Anti-GQ1b antibody syndrome (AGABS) unifies triad-defined Miller Fisher syndrome (MFS), Bickerstaff brainstem encephalitis (BBE), and the ophthalmoplegic variant of Guillain-Barré syndrome (GBS-O) under a post-infectious immune mechanism centered on IgG to disialosyl gangliosides. The spectrum also encompasses triad-minus phenotypes-acute ophthalmoparesis without ataxia, acute vestibular syndrome, optic involvement, and acute sensory-ataxic neuropathy. A molecular-mimicry model with complement-…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41598737",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41598737/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41598737/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41754542",
+  "type": "paper",
+  "label": "Long COVID and Reduced Thrombosis in Antihistamine-Treated Patients: An Observational Study in the Metropolitan Area of Barcelona.",
+  "aliases": [],
+  "summary": "Early evidence from a nursing home in Yepes (Toledo, Spain) indicated that antihistamines combined with azithromycin prevented deaths and hospitalizations during the first COVID-19 wave. Subsequent data from the Consorci Sanitari de Terrassa (CST) showed that patients chronically taking antihistamines had significantly reduced hospital admissions and mortality. However, a concerning rise in long COVID incidence (2-5%) after the third infection and a doubling of thrombosis rates in patients over…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41754542",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754542/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41754542/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

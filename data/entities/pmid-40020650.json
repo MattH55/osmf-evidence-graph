@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40020650",
+  "type": "paper",
+  "label": "The association between Gulf War Illness and suicidal thoughts and behaviors among Gulf War Era Veterans.",
+  "aliases": [],
+  "summary": "The rate of death by suicide is elevated among Veterans of all eras. Chronic symptoms of pain, depression, and sleep disturbances are also common among Veterans, and these symptoms are associated with suicidal thoughts and behaviors. About 25% of the 697,000 Gulf War Era Veterans deployed to the Persian Gulf theater in 1990-1991 remain afflicted with chronic, unexplained symptoms known as Gulf War Illness (GWI). This study used data from a national sample of Gulf War Veterans (N = 1142) who com…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40020650",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40020650/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40020650/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

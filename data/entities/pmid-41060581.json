@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41060581",
+  "type": "paper",
+  "label": "Burkitt in disguise: clonal transformation of incidentally detected gallbladder diffuse large B-cell lymphoma in a liver transplant recipient.",
+  "aliases": [],
+  "summary": "Post-transplant lymphoproliferative disorders (PTLDs) typically arise months to years after solid-organ transplantation and are frequently driven by Epstein-Barr virus (EBV). However, EBV-negative monomorphic PTLDs are increasingly recognized as an alternative pathogenesis. We report a case of a 64-year-old man who underwent liver transplantation and was found to have a minute focus of diffuse large B-cell lymphoma (DLBCL) in the resected gallbladder. Given the absence of residual disease and t…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41060581",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41060581/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41060581/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

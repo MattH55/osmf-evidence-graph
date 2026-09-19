@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40674535",
+  "type": "paper",
+  "label": "Charting a Path Toward New Treatments for Lyme Infection-Associated Chronic Illnesses",
+  "aliases": [],
+  "summary": "Around 10-20% of people who contract Lyme disease, the most common tickborne disease in the U.S., develop persistent, often debilitating symptoms such as chronic pain, fatigue, and cognitive dysfunction. Lyme infection-associated chronic illnesses (IACI) share symptoms common to other IACI such as Long COVID and myalgic encephalomyelitis/chronic fatigue syndrome. Despite the chronic impact on the quality of life for many people, there are currently no validated interventions to treat Lyme IACI.…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40674535",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40674535/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40674535/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42402140",
+  "type": "paper",
+  "label": "[Long-COVID syndrome and lung-specific abnormalities following COVID-19].",
+  "aliases": [],
+  "summary": "Following the acute phase of a SARS-CoV-2 infection, post-COVID - or long-COVID - syndrome may develop. This condition is characterized by unpleasant, persistent or new-onset symptoms following the acute phase of the infection. It might lead to an impaired health-related quality of life of affected patients and may involve multiple organ systems. It often poses diagnostic and therapeutic challenges for the healthcare system, and its exact course and outcomes are not yet fully understood. A mult…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42402140",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402140/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42402140/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

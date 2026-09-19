@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41561283",
+  "type": "paper",
+  "label": "Preventable Pulmonary Sequelae of Measles: A Case Report of an Adult Patient With Cystic Bronchiectasis.",
+  "aliases": [],
+  "summary": "Bronchiectasis is a chronic structural lung disease characterized by irreversible bronchial dilation and persistent productive cough. In non-cystic fibrosis cases, post-infectious etiologies must be considered. Measles, a preventable and highly contagious viral illness, can cause transient immunosuppression, predisposing individuals to secondary infections and long-term pulmonary complications, including non-cystic fibrosis bronchiectasis. Vaccination against measles significantly reduces the i…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41561283",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41561283/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41561283/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

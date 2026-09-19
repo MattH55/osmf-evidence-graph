@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42366757",
+  "type": "paper",
+  "label": "Flow cytometry-based basophil and mast cell activation tests for IgE-mediated food and drug allergy: have we crossed the Rubicon?",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42366757",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366757/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42366757/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

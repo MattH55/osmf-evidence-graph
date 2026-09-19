@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42355859",
+  "type": "paper",
+  "label": "A Follow-Up Study of the Supraaortic and Intracranial Vessels, Cerebrovascular Reactivity, Brain Vascular Lesions and Atrophy in Patients with Rheumatoid Arthritis.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42355859",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42355859/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42355859/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

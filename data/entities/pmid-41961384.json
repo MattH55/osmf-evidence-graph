@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41961384",
+  "type": "paper",
+  "label": "Spermidine Attenuates Neuroimmune Dysfunction in Gulf War Illness via Modulation of the Gut- Brain Axis.",
+  "aliases": [],
+  "summary": "Gulf War illness (GWI) affects nearly one-third of US veterans deployed during the 1990-1991 Gulf War (GW) and is characterized by chronic fatigue, neuroinflammation, and gut dysbiosis. Through comprehensive fecal metabolomics sequencing, our lab previously reported the depletion of beneficial metabolites including spermidine in the preclinical GWI mouse model. Spermidine is an endogenously synthesized polyamine known for its anti-inflammatory and mucosal barrier protective effects in various p…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41961384",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41961384/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41961384/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

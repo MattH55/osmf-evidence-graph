@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41619056",
+  "type": "paper",
+  "label": "Gulf War Illness: Neurological Impacts, Pathophysiological Insights, and Therapeutic Prospects.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a chronic, multi-system condition affecting a substantial proportion of veterans deployed during the 1990-1991 Gulf War. Neurological complications, including cognitive impairment, musculoskeletal pain, fatigue, depression, and migraine, represent a major clinical burden. Evidence implicates neuroinflammation, oxidative stress, mitochondrial dysfunction, and epigenetic dysregulation as central mechanisms, with emerging data suggesting early tauopathy and sex-specific i…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41619056",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41619056/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41619056/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

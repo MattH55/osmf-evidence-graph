@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42368852",
+  "type": "paper",
+  "label": "Associated thromboembolic events to the post COVID syndrome: a systematic review and meta-analysis.",
+  "aliases": [],
+  "summary": "The COVID-19 pandemic has imposed a substantial worldwide health burden; a fraction of people develops post-COVID syndrome, in which symptoms persist long after the initial phase of infection. Although these individuals may be more susceptible to developing thromboembolic events, the extent and significance of this link remain uncertain. This systematic review and meta-analysis sought to explore the prevalence of thromboembolic events in people with post-COVID syndrome, therefore addressing kno…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42368852",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42368852/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42368852/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

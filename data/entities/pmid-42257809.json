@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42257809",
+  "type": "paper",
+  "label": "Treatment of Headache in Children and Adolescents with POTS.",
+  "aliases": [],
+  "summary": "This review provides an overview of POTS in children and adolescents with headaches, with a focus on the pharmacologic and non-pharmacologic treatment approaches. Current research in headache and POTS focuses on an individualized management that includes a multi-tiered patient-centric approach that selects treatments to match specific phenotypes. The management of pediatric POTS and headache requires the individualized characterization of a patient's phenotype, an assessment of an individual's…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42257809",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42257809/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42257809/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

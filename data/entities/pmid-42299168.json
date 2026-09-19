@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42299168",
+  "type": "paper",
+  "label": "Dysautonomia and Postural Orthostatic Tachycardia Syndrome (POTS) in the ENT Clinic: Differentiating Orthostatic Dizziness From Vestibular Migraine and Persistent Postural-Perceptual Dizziness (PPPD).",
+  "aliases": [],
+  "summary": "One of the most common complaints in ENT clinics is dizziness. Although most cases are caused by vestibular neuritis and benign paroxysmal positional vertigo (BPPV), a significant number of patients experience non-vestibular dizziness. One non-vestibular cause is postural orthostatic tachycardia syndrome (POTS), which presents with symptoms similar to vestibular migraine (VM) and persistent postural perceptual dizziness (PPPD). Dizziness from POTS is related to dysautonomia rather than the vest…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42299168",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299168/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42299168/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

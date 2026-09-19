@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42358486",
+  "type": "paper",
+  "label": "Redefining pandemic resilience: a roadmap for post-infectious syndrome preparedness and health system transformation.",
+  "aliases": [],
+  "summary": "Post-infectious syndromes like Long COVID and ME/CFS lead to disability and economic losses globally, especially in lower-income countries. These involve complex multisystem issues such as immune disturbances, inflammation, autonomic dysregulation, vascular problems, altered metabolism, and tissue damage. Re-infections increase the risk of disability and complications. Healthcare delays diagnosis and neglects long-term effects. We propose a three-part healthcare approach: primary care screening…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42358486",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42358486/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42358486/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

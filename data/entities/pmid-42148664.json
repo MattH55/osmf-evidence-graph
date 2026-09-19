@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42148664",
+  "type": "paper",
+  "label": "Designing studies for post-treatment Lyme disease and other infection-associated chronic illnesses.",
+  "aliases": [],
+  "summary": "Infection-associated chronic illnesses (IACIs) encompass a spectrum of poorly understood syndromes often marked by significant neurologic and multisystem symptoms following an infectious event. This review focuses on several diseases representative of the IACI spectrum. These are post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and multiple sclerosis (MS). Their clinical and biological complexity, combined with a lack of clear…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42148664",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42148664/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42148664/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

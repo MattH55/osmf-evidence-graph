@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42399828",
+  "type": "paper",
+  "label": "Understanding heterogeneity in paediatric long COVID research: an overview of reviews and recommendations for future pandemics.",
+  "aliases": [],
+  "summary": "Studies of Long COVID or Post-COVID-19 condition in children and young people have varied considerably in their reported prevalences. We aimed to examine the methodological heterogeneity underlying this variability and explore whether methodological characteristics were correlated with reported Long COVID outcome prevalence, in order to inform recommendations to improve reporting in future pandemic-related epidemiological research. We conducted an overview of reviews with a narrative synthesis,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42399828",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399828/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42399828/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

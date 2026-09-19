@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41564315",
+  "type": "paper",
+  "label": "Neuraltherapeutic Medicine in Post-Acute COVID-19 Vaccination Syndrome (PACVS): A Critical Review with a Case Report.",
+  "aliases": [],
+  "summary": "IntroductionPost-acute COVID-19 vaccination syndrome (PACVS) emerges as a syndrome of persistent symptoms of a multisystemic nature, even in previously healthy people. Its pathophysiology involves a neural phase characterized by the neuroimmune reflex and persistent secondary neurogenic inflammation. Frequent manifestations such as dysautonomia, neurological alterations, and musculoskeletal symptoms have been described.ObjectiveTo review the current evidence on PACVS and explore the therapeutic…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41564315",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41564315/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41564315/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

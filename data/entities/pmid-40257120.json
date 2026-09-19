@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40257120",
+  "type": "paper",
+  "label": "US military veterans' perceived concordance with their providers regarding persistent physical symptoms prospectively predicts satisfaction with care and adherence to care plans.",
+  "aliases": [],
+  "summary": "Medically unexplained, persistent physical symptoms and syndromes are commonly seen in primary care. These are debilitating for patients and difficult to treat, causing frustration for patients and providers. This study investigates how well US military veterans with multiple persistent physical symptoms (PPS), called Gulf War illness (GWI), agree with their healthcare providers about their illness. This agreement, called perceived concordance, is hypothesized to influence veterans' satisfactio…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40257120",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40257120/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40257120/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

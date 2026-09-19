@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40620354",
+  "type": "paper",
+  "label": "Editorial: Brain dysfunction in Gulf War illness: pathophysiology and treatment.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40620354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40620354/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40620354/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

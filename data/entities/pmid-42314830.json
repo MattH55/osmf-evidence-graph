@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42314830",
+  "type": "paper",
+  "label": "Critical evaluation of the key mediators causing life-threatening symptoms during human anaphylaxis.",
+  "aliases": [],
+  "summary": "Most pathophysiologically oriented anaphylaxis reviews list a plethora of mediators purportedly involved in symptom development during severe anaphylaxis. However, how many mediators are responsible for life-threatening anaphylaxis symptoms? In a recent review, we analysed available human data and determined that leukotrienes are unlikely to represent important direct mediators during anaphylaxis. Herein, we review the role of platelet-activating factor, another supposed mediator directly causi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42314830",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42314830/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42314830/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

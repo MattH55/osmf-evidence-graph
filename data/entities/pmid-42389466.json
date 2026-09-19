@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42389466",
+  "type": "paper",
+  "label": "Engineering",
+  "aliases": [],
+  "summary": "Lactic acid bacteria are commonly used to convert carbohydrates into valuable products like lactic acid, but they currently rely on carbon sources from food crops, raising sustainability and cost concerns. Lignocellulosic waste is a more sustainable alternative, yet these bacteria cannot naturally break down cellulose to grow on it. Efficient cellulose degradation requires synergetic action of multiple cellulolytic enzymes, each operating through distinct mechanisms. To design genetic construct…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42389466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42389466/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42389466/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

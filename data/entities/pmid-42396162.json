@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42396162",
+  "type": "paper",
+  "label": "Higher-order brain processes, rather than early processing, underlie sensory problems in ME/CFS: evidence from ERPs.",
+  "aliases": [],
+  "summary": "Patients with Myalgic Encephalomyelitis (ME)/Chronic Fatigue Syndrome (CFS) experience significant sensory problems that affect their personal, social and occupational life. However, there is no clear understanding of how the sensory problems manifest in ME/CFS. Neuroimaging studies have provided indirect evidence of the involvement of sensory brain areas in ME/CFS. This novel systematically examined the role of early sensory processing and late information processing brain systems in ME/CFS pa…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42396162",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42396162/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42396162/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

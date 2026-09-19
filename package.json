@@ -9,7 +9,8 @@
   },
   "scripts": {
     "build:dump": "node scripts/build-dump.js",
-    "validate:dump": "node scripts/validate-dump.js"
+    "validate:dump": "node scripts/validate-dump.js",
+    "import:tracker": "node scripts/import_from_research_tracker.mjs"
   },
   "dependencies": {
     "ajv": "^8.17.1",

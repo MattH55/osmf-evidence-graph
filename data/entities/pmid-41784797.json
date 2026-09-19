@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41784797",
+  "type": "paper",
+  "label": "From post-infectious glomerulonephritis to complement-mediated aHUS: a diagnostic challenge.",
+  "aliases": [],
+  "summary": "Post-infectious glomerulonephritis (PIGN) and atypical hemolytic uremic syndrome (aHUS) can overlap due to alternative complement pathway dysregulation. We report a 4-year-old boy with edema, hypertension, hematuria, and reduced urine output. Laboratory findings included hemoglobin of 11.5 g/dL, platelets of 350 × 10",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41784797",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41784797/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41784797/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

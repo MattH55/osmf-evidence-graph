@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42392788",
+  "type": "paper",
+  "label": "[Status analysis of clinical outcome for treatment of long COVID with traditional Chinese and western medicines].",
+  "aliases": [],
+  "summary": "This study sorted out the clinical outcome of traditional Chinese and western medicines in the treatment of long COVID to lay the foundation for the construction of a core indicator set. Search was made on some databases and platforms from their inception to December 2024, which included eight databases of CNKI, Wanfang, SinoMed, VIP, PubMed, Cochrane Library, EMbase, and Web of Science and three clinical research protocol registration platforms, namely the Chinese Clinical Trial Registry(ChiCT…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42392788",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42392788/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42392788/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

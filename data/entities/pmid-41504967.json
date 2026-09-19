@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41504967",
+  "type": "paper",
+  "label": "Frequency and predictive role of intestinal parasitic infections with irritable bowel syndrome in Egyptian patients: a case-control study.",
+  "aliases": [],
+  "summary": "Irritable bowel syndrome (IBS) is a common disorder of gut-brain interaction with multifactorial pathophysiology, including post-infectious mechanisms. In endemic regions, intestinal parasitic infections remain highly frequent and may contribute to persistent gastrointestinal symptoms; however, their role in IBS is often under-recognized and insufficiently studied. This study aimed to compare the frequency and species distribution of intestinal parasitic infections among IBS patients and health…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41504967",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41504967/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41504967/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42175450",
+  "type": "paper",
+  "label": "Post COVID-19 treated with AstraZeneca vaccine exacerbates arthritis with susceptibility to herpes in an older woman: A case report.",
+  "aliases": [],
+  "summary": "Rheumatoid arthritis (RA) is an autoimmune inflammatory disorder that has seriously affected human health worldwide. This report describes a rare case of herpes infection, secondary to RA, that emerged after coronavirus disease 2019 (COVID-19) infection or vaccination. Despite pharmacological intervention for arthritis, herpes, and mental health symptoms, the patient's condition has not improved. A 70-year-old female homemaker, weighing 110 lbs, sought urgent care for persistent dysphoric mood…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42175450",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42175450/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42175450/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

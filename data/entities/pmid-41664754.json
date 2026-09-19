@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41664754",
+  "type": "paper",
+  "label": "A Case of Viral Myositis.",
+  "aliases": [],
+  "summary": "Benign acute childhood myositis (BACM) is a post-viral syndrome characterized by calf pain and tenderness, causing difficulty walking. We present a case of BACM secondary to an acute viral illness, where a 12-year-old boy presented with two weeks of a viral prodrome followed by bilateral calf pain and inability to ambulate. Laboratory evaluation revealed elevated creatine phosphokinase (CPK) and aspartate aminotransferase (AST), as well as leukopenia and thrombocytopenia. Renal function was nor…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41664754",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41664754/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41664754/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

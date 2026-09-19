@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42289444",
+  "type": "paper",
+  "label": "Fatigue-associated gut bacteria in Japanese healthy adults characterized by metagenomic analysis.",
+  "aliases": [],
+  "summary": "Emerging evidence suggests that fatigue caused by accumulated stress may serve as a prodromal symptom of psychiatric disorders, and gut microbiome dysbiosis has been reported in many such conditions. However, little is known about microbial and metabolic signatures associated with fatigue in otherwise healthy individuals. This study aimed to investigate associations between fatigue, the gut microbiome, and fecal metabolites in healthy Japanese adults. We identified characteristic microbial and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42289444",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42289444/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42289444/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

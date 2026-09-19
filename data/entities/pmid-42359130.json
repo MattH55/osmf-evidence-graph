@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42359130",
+  "type": "paper",
+  "label": "Patient roadmap and economic burden of chronic tick-borne illness and post-treatment Lyme disease syndrome in Ireland, and public health issues arising.",
+  "aliases": [],
+  "summary": "Lyme borreliosis (LB), commonly referred to as Lyme disease (LD), is a prominent global health issue, exhibiting a seroprevalence rate of 14.5%. Heightened incidence levels of LD have been recorded in parts of Europe, Poland, Eastern Europe, and the Baltic States. The research aimed to inform the cost of LD and post-treatment Lyme disease syndrome (PTLDS) in Ireland through results from a patient questionnaire, disease modelling, the construction of a patient roadmap, and attempts to arrive at…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42359130",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42359130/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42359130/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40985958",
+  "type": "paper",
+  "label": "Evidence-Based Clinical Effectiveness of Kundalini Yoga: Systematic Review of RCTs Across Multiple Health Conditions.",
+  "aliases": [],
+  "summary": "Kundalini Yoga (KY) integrates breathwork, meditation, dynamic movement, and chanting, and has gained recognition as a therapeutic intervention. Despite promising results from individual randomized controlled trials (RCTs), to our knowledge, no systematic review has exclusively synthesized RCT evidence on KY across health domains. To critically assess the clinical effectiveness and safety of KY interventions across diverse cognitive, psychological, emotional, sleep-related, and physical health…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40985958",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40985958/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40985958/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

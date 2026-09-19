@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41949563",
+  "type": "paper",
+  "label": "Midodrine hydrochloride as a treatment for postural orthostatic tachycardia syndrome: A systematic review and meta-analysis.",
+  "aliases": [],
+  "summary": "The aim of this review is to evaluate the evidence for midodrine as a treatment for patients with postural orthostatic tachycardia syndrome (POTS). We conducted a systematic review of the literature to identify studies which evaluate midodrine treatment in patients with POTS. Random-effects meta-analysis was used to determine the impact of midodrine on symptoms compared to placebo and beta-blockers. A total of 14 studies with 968 patients were included which took place between 2000 and 2017. Th…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41949563",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41949563/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41949563/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

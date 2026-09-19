@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40014289",
+  "type": "paper",
+  "label": "The role of the working alliance in improving outcomes among veterans with Gulf War Illness: a longitudinal study.",
+  "aliases": [],
+  "summary": "Military Veterans with Gulf War Illness (GWI), a \"medically unexplained\" persistent physical syndrome (PPS), have difficult experiences of care, in part, due to non-concordant relationships with their healthcare providers. A critical factor in improving care for this population may be the working alliance, which is the extent to which patients and providers agree on the goals and tasks of treatment and have a shared bond. The present study examined if, for Veterans with GWI, perceptions of the…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40014289",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40014289/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40014289/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

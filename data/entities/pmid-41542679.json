@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41542679",
+  "type": "paper",
+  "label": "Metabolic Basis of Post-Infectious Sequelae After Ebola Virus Disease.",
+  "aliases": [],
+  "summary": "Ebola virus disease (EVD) survivors often present with clinical sequelae after acute disease resolution, called post-Ebola syndrome (PES). Why some survivors develop these sequelae and others do not is poorly defined. Altered metabolism has been noted in acute EVD but not studied in PES. We identified differential expression of metabolites involved in multiple metabolic pathways in EVD survivors with PES. This included the tricarboxylic acid cycle, amino acid, nucleotide, and short chain fatty…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41542679",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41542679/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41542679/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

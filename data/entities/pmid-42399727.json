@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42399727",
+  "type": "paper",
+  "label": "Association between light exposure patterns and multidimensional health outcomes in individuals with myalgic encephalomyelitis/chronic fatigue syndrome: findings from an observational cross-sectional…",
+  "aliases": [],
+  "summary": "Light is a major environmental factor regulating circadian rhythms, sleep- wake cycles, and mood-related behaviors. Patients with Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) often experience circadian disruption and poor sleep quality, which severely compromise their quality of life; however, the relationship between light exposure and illness severity remains largely unknown. An observational cross-sectional cohort secondary study used collected data from 100 ME/CFS patients an…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42399727",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399727/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42399727/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

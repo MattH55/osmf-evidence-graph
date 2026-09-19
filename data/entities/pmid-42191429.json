@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42191429",
+  "type": "paper",
+  "label": "Physiological and clinical comparison of active stand and head-up tilt tests in Postural Orthostatic Tachycardia Syndrome (POTS).",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42191429",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42191429/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42191429/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41859638",
+  "type": "paper",
+  "label": "Acute Functional Colonic Dysmotility Mimicking Mechanical Bowel Obstruction Following Self-Limited Diarrheal Illness: A Case Report.",
+  "aliases": [],
+  "summary": "Acute constipation following diarrheal illness is commonly encountered and is often benign. However, when absolute constipation persists despite adequate hydration, preserved mobility, and failure of multiple laxative classes, it can closely mimic mechanical bowel obstruction and create significant diagnostic uncertainty. We report a case of a 56-year-old female with a previously normal daily bowel habit who developed acute obstipation following a self-limited diarrheal episode, unresponsive to…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41859638",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41859638/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41859638/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

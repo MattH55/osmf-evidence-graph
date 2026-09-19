@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42375682",
+  "type": "paper",
+  "label": "Exploring differences in protein cargo of extracellular vesicles from ME/CFS patient plasma compared to healthy controls.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a chronic and debilitating disease characterized by post-exertional malaise, fatigue and pain. Yet, its underlying biological mechanisms remain poorly understood. Extracellular vesicles (EVs) are nanoparticles carrying biological cargo and are involved in cell-cell communication. Plasma EVs reflect several disease states and may serve as minimally invasive biomarkers. In this exploratory study, we characterized the plasma EV profile…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42375682",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42375682/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42375682/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

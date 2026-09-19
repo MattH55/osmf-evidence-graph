@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42384384",
+  "type": "paper",
+  "label": "Cognitive Rehabilitation and Functional Outcomes in Long COVID-Related Cognitive Impairment: A Randomized Clinical Trial.",
+  "aliases": [],
+  "summary": "Cognitive impairment is common in long COVID and severely affects daily life, with no proven treatments to date. To evaluate the ability of cognitive rehabilitation (CR) to improve goal attainment, cognitive, and clinical outcomes in individuals with cognitive impairment as part of long COVID. This multicenter, single-blind, 2-arm, parallel-group randomized clinical trial was conducted at 3 sites in England between February 2023 and March 2024. Participants were adults aged 30 to 60 years with…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42384384",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384384/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42384384/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

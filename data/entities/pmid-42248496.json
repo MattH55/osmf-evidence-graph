@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42248496",
+  "type": "paper",
+  "label": "What are we treating? The need for broader provider understanding of POTS, its nature, and care.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) as conventionally defined is a chronic condition (typically > 3 months duration) incorporating reproducible symptoms of orthostatic intolerance (including dizziness/lightheadedness, and near-syncope) in the absence of orthostatic hypotension (ie, absence of a sustained systolic blood pressure drop > 20mmHg with upright posture). More recently, however, the :POTS: landscape as applied by many clinicians has broadened; the term :POTS: has become in…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42248496",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42248496/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42248496/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

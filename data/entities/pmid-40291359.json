@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40291359",
+  "type": "paper",
+  "label": "Isolated Muscular NK/T Cell Lymphoma: A Rare Presentation of Post-Transplant Lymphoproliferative Disorders.",
+  "aliases": [],
+  "summary": "Posttransplant lymphoproliferative disorders (PTLDs) represent a spectrum of malignancies occurring in transplant recipients under immunosuppression, often linked with Epstein-Barr Virus infection. PTLD has a varied presentation, and isolated muscular involvement is infrequent. Here, we present the case of a 47-year-old female renal transplant recipient presenting with acute left knee joint swelling, initially suggestive of an infective or inflammatory etiology. Biopsy revealed high-grade non-H…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40291359",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40291359/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40291359/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42381644",
+  "type": "paper",
+  "label": "Voice Outcomes of Patients Intubated for Critical COVID Illness: A Multicenter Study.",
+  "aliases": [],
+  "summary": "Characterize the long-term vocal outcomes of patients who required ICU care for COVID-19 infection. Prospective cohort study. Multi-institutional North American Airway Collaborative Study. Patients with a COVID-19 diagnosis requiring ICU admission were identified via ICD-10 codes and recruited after discharge to complete patient-reported outcome measures (PROM) in voice (Voice Handicap Index: VHI-10), communication (Communicative Participation Item Bank: CPIB), and breathing (Clinical COPD Ques…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42381644",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42381644/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42381644/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

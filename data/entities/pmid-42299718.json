@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42299718",
+  "type": "paper",
+  "label": "Pathophysiology and emerging treatments for dermographic, cholinergic and cold urticaria.",
+  "aliases": [],
+  "summary": "Chronic inducible urticarias (CIndUs), including symptomatic dermographism (SD), cholinergic urticaria (CholU) and cold urticaria (ColdU), are mast cell (MC)-driven conditions triggered by subtype-specific, definite and reproducible stimuli. Although often considered self-limiting, these diseases can persist for years and significantly impair quality of life. Current evidence suggests that CIndUs involve heterogeneous underlying mechanisms, including both immunoglobulin E (IgE)-dependent and Ig…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42299718",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299718/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42299718/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

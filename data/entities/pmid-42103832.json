@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42103832",
+  "type": "paper",
+  "label": "Interpreting hand grip strength in hospital employees with post-COVID syndrome compared to non-infected controls: a case-control study.",
+  "aliases": [],
+  "summary": "Post-COVID syndrome (PCS) is characterized by a variety of persistent symptoms following SARS-CoV-2 infection, including fatigue among others. Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a related neurological disorder primarily characterized by severe fatigue and post-exertional malaise. This exploratory study aimed to assess hand grip strength (HGS) in individuals with PCS to evaluate muscular performance and fatigability and to explore potential HGS-derived parameters asso…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42103832",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42103832/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42103832/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

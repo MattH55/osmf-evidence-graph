@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41945548",
+  "type": "paper",
+  "label": "Tirzepatide and Autonomic Dysfunction: Insights From Postural Orthostatic Tachycardia Syndrome.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41945548",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945548/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41945548/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

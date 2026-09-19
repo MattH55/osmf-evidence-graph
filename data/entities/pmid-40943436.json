@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40943436",
+  "type": "paper",
+  "label": "Evaluation of the Therapeutic Potential of Synthetic Growth Hormone-Releasing Hormone Antagonist MIA-690 as a Cognitive Modulator in a Mouse Model of Gulf War Illness.",
+  "aliases": [],
+  "summary": "Gulf War illness (GWI) is a multi-symptom disorder affecting veterans of the Persian Gulf operations. Persistent neuroendocrine dysregulation contributes to impairing cognitive capacity and generates anxiety-like behavior. Effective treatments for this illness are challenging due to compromised metabolism, increased oxidative stress and neuroinflammation, perpetuated by chronic stress and hypothalamic-pituitary-adrenal (HPA) axis dysfunction. This neuroinflammation can be alleviated with synthe…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40943436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40943436/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40943436/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

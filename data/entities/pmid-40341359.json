@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40341359",
+  "type": "paper",
+  "label": "Persistent enteric neuroinflammation chronically impairs colonic motility in a pyridostigmine bromide-induced mouse model of Gulf War illness.",
+  "aliases": [],
+  "summary": "Neuroplasticity in the adult colon enables the enteric nervous system (ENS) to adaptively remodel in response to acute inflammation, preserving motility. However, chronic inflammation may drive maladaptive neuroplasticity, resulting in gastrointestinal dysmotility, a hallmark of functional gastrointestinal disorders, including Gulf War illness (GWI). GWI affects ∼30% of Gulf War veterans and has been linked to oral toxic exposures during combat, such as pyridostigmine bromide (PB). To explore m…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40341359",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40341359/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40341359/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

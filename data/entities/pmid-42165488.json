@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42165488",
+  "type": "paper",
+  "label": "Presumed Postural Tachycardia Syndrome: 12-Lead Electrocardiograms During Tilt Table Testing Unmask an Atrial Tachycardia.",
+  "aliases": [],
+  "summary": "Tilt table testing is commonly used to evaluate orthostatic intolerance and syncope and is typically performed with three-lead electrocardiography (ECG) monitoring, which limits P-wave interpretation. A 21-year-old woman with congenitally corrected transposition of the great arteries presented with recurrent tachy-palpitations and near syncope and was presumed to have postural tachycardia syndrome (POTS) after extensive noninvasive testing. During head-up tilt table testing incorporating interm…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42165488",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42165488/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42165488/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

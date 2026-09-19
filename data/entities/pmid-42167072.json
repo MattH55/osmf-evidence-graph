@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42167072",
+  "type": "paper",
+  "label": "Longitudinal association of mental-health problems with subsequent diagnosis of persistent somatic symptom disorders: A large-scale registry-based observational study in primary care.",
+  "aliases": [],
+  "summary": "Somatic symptoms of common persistent somatic symptom (PSS) syndromes like irritable bowel syndrome (IBS), chronic fatigue syndrome (CFS), and fibromyalgia (FM) are not fully attributed to well-established biomedical pathological processes. These syndromes are often under-recognized and diagnosis is often delayed. This study assessed the extent to which mental health problems precede the onset of IBS, CFS, and FM diagnoses using large-scale registry-based data from primary care settings. Data f…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42167072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42167072/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42167072/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

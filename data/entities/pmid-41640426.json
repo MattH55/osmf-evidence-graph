@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41640426",
+  "type": "paper",
+  "label": "Case Report: A case of post-viral inflammatory insomnia: observed sleep restoration associated with histamine-targeted interventions and implications for mast cell pathways.",
+  "aliases": [],
+  "summary": "Mast cell-mediated inflammation has been proposed as a potential contributor to neuroinflammatory insomnia and dysautonomia, but objective clinical documentation remains limited. Histamine and related immune mediators can disrupt circadian rhythm, arousal systems, and autonomic stability. Conventional pharmacological therapies for sleep restoration often fail to address these inflammatory mechanisms. A previously healthy and active 74-year-old male presented with post-viral dysautonomia and sev…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41640426",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41640426/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41640426/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

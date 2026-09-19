@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41660222",
+  "type": "paper",
+  "label": "Survival after primary and booster COVID-19 vaccination in patients with COPD.",
+  "aliases": [],
+  "summary": "This study aimed to evaluate the primary vaccination status against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the administration of variant-modified vaccine boosters and the 1-year survival due to coronavirus disease 2019 (COVID-19) in individuals over 65 years old diagnosed with chronic obstructive pulmonary disease (COPD). This cross-sectional study was conducted between July 2021 and February 2023. Among 108 COPD patients registered with the home healthcare unit, 97 were…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41660222",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41660222/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41660222/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42070213",
+  "type": "paper",
+  "label": "The new PORT needs the same old evidence-based standards.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42070213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42070213/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42070213/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

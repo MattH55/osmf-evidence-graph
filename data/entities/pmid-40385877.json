@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40385877",
+  "type": "paper",
+  "label": "Prevalence of Rheumatoid Factor and Anti-citrullinated Protein Antibodies in Patients With Post-treatment Lyme Disease.",
+  "aliases": [],
+  "summary": "Post-treatment Lyme disease (PTLD) occurs in a portion of patients after initial antibiotic treatment of Lyme disease (LD) and is often characterized by arthralgia without synovitis. Rheumatoid factor (RF) and anti-citrullinated protein antibodies (ACPA) are often used to assess joint pain in this setting; however, their clinical utility remains unknown. Our objective was to define the frequency of these autoantibodies in a large cohort of carefully characterized patients with PTLD meeting a re…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40385877",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40385877/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40385877/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

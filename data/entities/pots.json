@@ -3,26 +3,16 @@
   "type": "condition",
   "label": "POTS",
   "aliases": [
-    "postural orthostatic tachycardia syndrome",
-    "dysautonomia (POTS)"
+    "postural orthostatic tachycardia syndrome"
   ],
-  "summary": "Orthostatic intolerance syndrome with excessive heart-rate increase on standing; common comorbidity in post-viral cohorts.",
-  "external_ids": [
-    {
-      "system": "mesh",
-      "value": "D054971"
-    },
-    {
-      "system": "other",
-      "value": "example-seed"
-    }
-  ],
+  "summary": "POTS – Postural Orthostatic Tachycardia Syndrome",
+  "external_ids": [],
   "urls": [
     {
       "rel": "tracker",
-      "href": "https://research.opensourcemed.info/"
+      "href": "https://research.opensourcemed.info/pots.html"
     }
   ],
   "status": "active",
-  "updated_at": "2026-09-18T21:00:00Z"
+  "updated_at": "2026-09-19T16:57:32.049Z"
 }

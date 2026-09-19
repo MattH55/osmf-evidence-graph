@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42385306",
+  "type": "paper",
+  "label": "Psychological and medical outcomes of post-COVID-19 patients: A longitudinal study.",
+  "aliases": [],
+  "summary": "The coronavirus disease (COVID-19) pandemic affected different populations from a physical and psychological point of view. Psychological characteristics can have an impact on adjustment to illness conditions and increase the risk of persistence of physical symptoms and psychopathology. This prospective study examined possible changes in psychological and medical symptoms in people with post-COVID-19 condition by looking at which investigated variables could significantly predict anxiety and de…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42385306",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385306/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42385306/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

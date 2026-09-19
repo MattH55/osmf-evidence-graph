@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42372895",
+  "type": "paper",
+  "label": "Characterization of a lytic polysaccharide monooxygenase important for utilization of chitin in Chitinibacter mangrovi FCG-7.",
+  "aliases": [],
+  "summary": "Lytic polysaccharide monooxygenases (LPMOs) are crucial for recalcitrant biomass degradation. We characterized CmLPMO10, an AA10 LPMO from Chitinibacter mangrovi FCG-7, and demonstrated its essential role in α-chitin utilization through transcriptomics and gene deletion. Biochemically, CmLPMO10 is a robust enzyme with optimal activity at 50 °C and pH 7.0, featuring unique regioselectivity: C1-specific oxidative activity on chitin and C1/C4 activity on cellulose. CmLPMO10 showed the strongest sy…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42372895",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372895/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42372895/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

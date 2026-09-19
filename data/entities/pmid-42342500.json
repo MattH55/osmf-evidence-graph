@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42342500",
+  "type": "paper",
+  "label": "[Cardiorespiratory functional disorders: A transnosologic approach].",
+  "aliases": [],
+  "summary": "Functional disorders affecting the cardiorespiratory system are common. Non-cardiac chest pain affects more than 10% of the population. It can result from gastro-oesophageal reflux or chest wall disorders but is also very often associated with anxiodepressive disorders, particularly panic disorder. Postural orthostatic tachycardia syndrome (POTS), a rarer entity, is characterized by a sharp increase in heart rate without orthostatic hypotension when standing. The pathophysiological mechanisms o…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42342500",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42342500/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42342500/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

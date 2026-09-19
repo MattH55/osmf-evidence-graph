@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41808193",
+  "type": "paper",
+  "label": "Efficacy of Simparica and Simparica TRIO for the prevention of Borrelia burgdorferi by Ixodes scapularis.",
+  "aliases": [],
+  "summary": "Both Simparica® and Simparica TRIO® chewable tablets are efficacious within 12 h against existing Ixodes scapularis infestations and within 24 h against re-infestations for 1 month. It is therefore expected that treatment with either product prevents Lyme infections due to their efficacy against I. scapularis ticks before the anticipated transmission of Borrelia burgdorferi by infected ticks. In total, four laboratory studies were conducted in which dogs were randomly allocated to two treatment…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41808193",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41808193/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41808193/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

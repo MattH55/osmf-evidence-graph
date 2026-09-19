@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41990050",
+  "type": "paper",
+  "label": "Comparison of lymphocyte populations, cytokine, and autoantibody profile in patients with rheumatoid arthritis: a study of cases with COVID-19 and controls without COVID-19.",
+  "aliases": [],
+  "summary": "The SARS-CoV-2 pandemic is associated with the development of acute respiratory distress syndrome (ARDS) and post-COVID syndrome (PCS). PSC has been linked to autoimmune diseases, including rheumatoid arthritis (RA), a condition characterized by chronic joint pain driven by dysregulated immune response. This study aims to evaluate the impact of SARS-CoV-2 infection on patients with RA. A total of 300 RA patients were included in the study, categorized into two groups: patients with a history of…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41990050",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41990050/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41990050/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40579044",
+  "type": "paper",
+  "label": "DTI-Derived Evaluation of Glymphatic System Function in Veterans with Chronic Multisymptom Illness.",
+  "aliases": [],
+  "summary": "Chronic multisymptom illness (CMI) includes symptoms of fatigue, pain, and sleep difficulties, as well as neurologic, respiratory, and gastrointestinal problems and is particularly common in veterans from the 1990-1991 Gulf War and the Afghanistan and Iraq Wars. Glymphatic system function may play an important role in the etiopathology of CMI but has not been addressed. DTI-derived analysis along the perivascular space provides a promising proxy for glymphatic system function by evaluating the…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40579044",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40579044/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40579044/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

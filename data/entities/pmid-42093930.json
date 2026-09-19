@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42093930",
+  "type": "paper",
+  "label": "A unified spectrum model for the anti-GQ1b antibody syndromes: from pathophysiology to a new diagnostic framework.",
+  "aliases": [],
+  "summary": "Bickerstaff Brainstem Encephalitis (BBE) is a rare, post-infectious autoimmune disorder characterized by ophthalmoplegia, ataxia, and altered consciousness. Its significant clinical and serological overlap with Miller Fisher syndrome (MFS) and Guillain-Barré syndrome (GBS) creates diagnostic challenges, particularly in atypical or seronegative presentations. These conditions are collectively understood as components of the anti-GQ1b antibody syndrome, a spectrum of neuro-immune disorders. This…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42093930",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42093930/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42093930/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

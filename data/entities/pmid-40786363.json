@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40786363",
+  "type": "paper",
+  "label": "Mitochondrial Impairment in Healthy Controls With Recent Headache and Multiple Symptoms.",
+  "aliases": [],
+  "summary": "Persistent headache and multiple symptoms have each been tied to mitochondrial dysfunction. We assess whether reported recent headache and multiple symptoms (last two weeks) relate to bioenergetics in individuals who do not meet criteria for chronic multisymptom illness (CMI). Twenty participants screening negative for CMI rated the presence/absence and severity (0-10) of recent (last two weeks) headache and multiple symptoms and underwent Eighteen of 20 participants successfully depressed PCr…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40786363",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40786363/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40786363/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

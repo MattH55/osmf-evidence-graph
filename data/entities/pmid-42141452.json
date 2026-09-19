@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42141452",
+  "type": "paper",
+  "label": "Chronic fatigue syndrome in nursing practice: a concept analysis.",
+  "aliases": [],
+  "summary": "Nurses are essential in chronic fatigue syndrome (CFS) management, serving as care coordinators and patient advocates, but currently lack a unified guiding framework. CFS affects about 0.89% of the global population based on CDC-1994 criteria, with higher prevalence in women. Since its initial definition in 1988, over 25 diagnostic criteria have been introduced, leading to ongoing confusion about core symptoms and diagnosis. This inconsistency poses significant challenges for nurses, including…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42141452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42141452/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42141452/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

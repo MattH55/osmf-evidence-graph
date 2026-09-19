@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42212259",
+  "type": "paper",
+  "label": "Cardiopulmonary exercise test results do not change over two sequential days in patients with chronic fatigue syndrome.",
+  "aliases": [],
+  "summary": "Two consecutive cardiopulmonary exercise tests (CPETs) performed 24 hours apart are increasingly used to determine post-exertional malaise (PEM) and disability in patients with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). Declines in functional capacity on Day 2 reflect impaired recovery and PEM. However, reports have variably described a reduction in peak oxygen consumption (VO Accordingly, maximal bicycle ergometer CPETs were performed on two consecutive days in 58 patients wi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42212259",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212259/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42212259/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

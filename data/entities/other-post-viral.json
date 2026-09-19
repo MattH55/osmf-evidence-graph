@@ -1,0 +1,19 @@
+{
+  "id": "osmf:condition:other-post-viral",
+  "type": "condition",
+  "label": "Other Post-Viral & Post-Infectious Syndromes",
+  "aliases": [
+    "post-viral syndrome",
+    "post-infectious syndrome"
+  ],
+  "summary": "Other Post-Viral & Post-Infectious Syndromes",
+  "external_ids": [],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/other-post-viral.html"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

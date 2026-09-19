@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42347019",
+  "type": "paper",
+  "label": "Nasal Cytology as a Local Biomarker of Airway Inflammation: A Paradigm Shift in Precision Medicine.",
+  "aliases": [],
+  "summary": "Biomarker-driven approaches have markedly improved the stratification and management of airway inflammatory diseases. However, in everyday clinical practice, these strategies still rely mainly on systemic indicators, which often provide only an indirect view of the inflammatory processes occurring within the airway mucosa. This limitation becomes particularly evident in chronic conditions such as chronic rhinosinusitis with nasal polyps (CRSwNP), where local inflammatory patterns may not relate…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42347019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42347019/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42347019/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

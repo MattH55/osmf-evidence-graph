@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41611520",
+  "type": "paper",
+  "label": "Post-infection disorders of gut-brain interaction: results of the Rome Foundation Global Epidemiology Study.",
+  "aliases": [],
+  "summary": "Post-infection disorders of gut-brain interaction (PI-DGBI) are a subset of chronic gastrointestinal disorders triggered by acute infectious gastroenteritis. These conditions impose a significant burden on patients' quality of life. This study aimed to determine the prevalence of PI-DGBI and assess associated risk factors among participants in the Rome Foundation Global Epidemiology Study. Data were extracted from an online survey involving 54 127 participants across 26 countries. PI-DGBI were…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41611520",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41611520/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41611520/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42316559",
+  "type": "paper",
+  "label": "Epithelial Duox2 Drives Chronic Colitis-Associated Fibrosis via the NLRP3-IL-33-Mast Cell Axis.",
+  "aliases": [],
+  "summary": "Intestinal fibrosis is a common and serious complication of chronic inflammatory bowel disease (IBD) associated with stricture and obstruction. Although oxidative stress has been associated with IBD, how Duox2, the major source of ROS in gut epithelium, promotes fibrosis remains unknown. The goal of our study is to determine the role of Duox2 in IBD fibrosis. GEO datasets were analyzed using bioinformatics to find the main pathogenic factors. AOM/DSS-induced chronic colitis mouse model was esta…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42316559",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42316559/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42316559/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

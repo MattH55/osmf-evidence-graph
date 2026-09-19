@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42284918",
+  "type": "paper",
+  "label": "UHPLC-Q-Exactive Orbitrap MS-based brain-gut metabolomics implicates multi-pathway modulation by Ginseng stem-leaf saponins in chronic fatigue syndrome mice.",
+  "aliases": [],
+  "summary": "Ginseng stem-leaf saponins (GSLS) were evaluated as potential bioactive food ingredients by characterizing brain-gut metabolic disturbances in a chronic fatigue syndrome (CFS) mouse model and assessing the regulatory effects of GSLS using ultra-high-performance liquid chromatography-Q-Exactive Orbitrap mass spectrometry (UHPLC-Q-Exactive Orbitrap MS). Male C57BL/6 mice were assigned to control, model, positive control, and GSLS groups (n = 6). A long-term forced-swimming induction protocol was…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42284918",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42284918/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42284918/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

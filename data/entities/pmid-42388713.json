@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42388713",
+  "type": "paper",
+  "label": "Non-invasive assessment of glymphatic dysfunction in middle cerebral artery stenosis based on DTI-ALPS and ro-ALPS.",
+  "aliases": [],
+  "summary": "Middle cerebral artery stenosis (MCA-S) impairs cerebral perfusion and vascular pulsatility, potentially disrupting cerebrospinal fluid dynamics. We evaluated perivascular diffusivity in MCA-S using diffusion tensor image analysis along the perivascular space (DTI-ALPS) index and the redirected ALPS (ro-ALPS) index, and assessed their clinical correlations. Thirty-seven patients with MCA-S and 41 matched healthy controls (HCs) underwent MRI and cognitive function testing. We compared the DTI-AL…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42388713",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42388713/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42388713/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

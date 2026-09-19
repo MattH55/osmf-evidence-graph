@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41640912",
+  "type": "paper",
+  "label": "Sweet's Syndrome: A Case of Fever and Painful Erythematous Nodules Following a Viral-Like Illness.",
+  "aliases": [],
+  "summary": "Sweet's syndrome, or acute febrile neutrophilic dermatosis, is an uncommon inflammatory disorder characterized by the abrupt onset of fever, neutrophilia, and painful erythematous skin lesions. We report the case of a previously healthy woman who developed high fever, severe migratory arthralgias, and multiple tender erythematous nodules with pustular features following a recent viral-like illness. Laboratory evaluation revealed marked inflammatory activation with otherwise unremarkable hematol…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41640912",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41640912/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41640912/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

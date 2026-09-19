@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41453563",
+  "type": "paper",
+  "label": "Post-infectious Guillain-Barré syndrome during a cholera outbreak in Yemen: A pediatric case with confirmed Campylobacter exposure.",
+  "aliases": [],
+  "summary": "Yemen's prolonged conflict and fragile healthcare infrastructure have created a setting where infectious diseases like cholera frequently overlap with under-recognized post-infectious autoimmune conditions. In this context, we report a pediatric case of Guillain-Barré syndrome (GBS) following recent Campylobacter jejuni infection during a laboratory-confirmed cholera outbreak in rural Southern Yemen. The 12-year-old patient presented with acute flaccid paralysis and respiratory failure after a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41453563",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41453563/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41453563/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

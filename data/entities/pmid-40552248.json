@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40552248",
+  "type": "paper",
+  "label": "Subepithelial Lesions of the Ocular Surface: A Review.",
+  "aliases": [],
+  "summary": "Subepithelial lesions of the ocular surface represent a diverse group of pathologies which may be difficult to diagnose clinically. Some of these lesions are relatively uncommon, may result in systemic manifestations, or occur secondary to systemic disease. The purpose of this review is to summarize current approaches to the diagnosis and management of six subepithelial conjunctival lesions. The standard for the diagnosis of subconjunctival lesions remains histopathologic evaluation; however, h…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40552248",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40552248/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40552248/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

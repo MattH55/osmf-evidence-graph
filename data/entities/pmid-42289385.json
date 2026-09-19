@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42289385",
+  "type": "paper",
+  "label": "Photodistributed RIME Syndrome Treated With Etanercept.",
+  "aliases": [],
+  "summary": "Reactive infectious mucocutaneous eruption (RIME) is a post-infectious mucositis which primarily affects pediatric patients. We report a 14-year-old girl with recent intensive sun exposure who developed RIME in a photodistributed pattern. Treatment with etanercept yielded clinical improvement. Potential mechanisms underlying photodistributed RIME syndrome are discussed, with comparison to photodistributed instances of Stevens-Johnson syndrome.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42289385",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42289385/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42289385/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

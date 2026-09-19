@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42205163",
+  "type": "paper",
+  "label": "Central noradrenergic deficiency in post-infectious chronic fatigue: neurobehavioral correlates.",
+  "aliases": [],
+  "summary": "Fatigue, brain fog and post-exertional malaise are major features of post-infectious myalgic encephalomyelitis/chronic fatigue syndrome and post-acute sequelae of severe acute respiratory syndrome coronavirus 2. To date, no specific neurotransmitter abnormalities have been found in either condition. We examined the possibility of central catecholaminergic involvement and clinical correlates in post-infectious myalgic encephalomyelitis/chronic fatigue syndrome and post-acute sequelae of severe a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42205163",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42205163/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42205163/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

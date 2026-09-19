@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42265463",
+  "type": "paper",
+  "label": "Risk factors for EBV reactivation and impact of graft composition following GVHD prophylaxis with rabbit ATG or PTCy.",
+  "aliases": [],
+  "summary": "EBV reactivation is frequent after allogeneic HCT and can lead to post-transplant lymphoproliferative disorder (PTLD). While ATG and PTCy are established strategies to prevent GVHD, their comparative impact on EBV reactivation remains insufficiently characterized. We conducted a retrospective study in patients who received either rabbit ATG or PTCy. Primary endpoints were incidences of positive and high-level EBV DNAemia (≥10⁴ copies/mL). Secondary endpoints were incidence of PTLD, predictive r…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42265463",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42265463/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42265463/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

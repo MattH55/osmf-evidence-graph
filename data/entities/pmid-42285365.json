@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42285365",
+  "type": "paper",
+  "label": "Dysautonomia and joint hypermobility reflect a distinct subtype in eosinophilic esophagitis.",
+  "aliases": [],
+  "summary": "Joint hypermobility (JH) and autonomic symptoms commonly coexist and are associated with gastrointestinal symptoms and poor quality of life. Gastric and duodenal mast cells (MCs) may be increased in these patients; however, their relevance to eosinophilic esophagitis (EoE) is unclear. We aimed to understand the relationship between autonomic symptoms and JH in EoE with symptoms, QOL, and MCs. Eighty EoE patients undergoing esophagogastroduodenoscopy at Lurie Children's Hospital (January 2021 to…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42285365",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42285365/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42285365/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

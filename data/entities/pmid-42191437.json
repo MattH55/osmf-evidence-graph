@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42191437",
+  "type": "paper",
+  "label": "[Post-COVID postural orthostatic tachycardia syndrome: Documentation of a hyperadrenergic phenotype by comprehensive autonomic testing].",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a form of dysautonomia characterized by an excessive increase in heart rate upon standing, in the absence of orthostatic hypotension. Post-infectious forms, particularly following SARS-CoV-2 infection, have been increasingly reported. We report the case of a 34-year-old woman presenting with persistent palpitations, marked fatigue, and orthostatic intolerance that developed two weeks after a mild COVID-19 infection. Standard cardiological eval…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42191437",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42191437/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42191437/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42158223",
+  "type": "paper",
+  "label": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Successful Therapeutic Plasma Exchange Treatment After SARS-CoV-2 Infection-A Case Report.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a complex neuroimmunological disorder characterized by disabling symptoms that are often difficult to manage. More recently, in the context of SARS-CoV-2 infection, potential pathophysiological overlaps and disease modulation have been hypothesized. Our successful case highlights the need to investigate novel therapeutic approaches, including plasma exchange.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42158223",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42158223/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42158223/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41939897",
+  "type": "paper",
+  "label": "Immune dysregulation in pediatric tic disorders: mechanisms, biomarkers, and therapeutic frontiers.",
+  "aliases": [],
+  "summary": "Tic Disorders (TDs) are common neurodevelopmental disorders characterized by complex pathophysiological mechanisms. A growing body of evidence in recent years suggests that immune system dysregulation plays a critical role in the pathogenesis and clinical course of TDs in a subset of pediatric patients. This review aims to systematically summarize the current understanding of the core mechanisms of immune dysregulation in pediatric TDs, potential biomarkers, and related therapeutic frontiers. W…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41939897",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41939897/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41939897/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

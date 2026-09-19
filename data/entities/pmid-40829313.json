@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40829313",
+  "type": "paper",
+  "label": "Age- and sex-associated effects of C18 ceramide sphingolipids on osteoclastogenesis in experimental models of Gulf War Illness.",
+  "aliases": [],
+  "summary": "Approximately 60 % of Gulf War Illness (GWI) cases are correlated with toxic exposure to permethrin (PER) and pyridostigmine bromide (PB) in Veterans. Among the known hallmarks of GWI, pathological changes in bone of Veterans with GWI are poorly understood due to the lack of relevant experimental models of osteoclastogenesis. Emerging metabolomic studies have reported that GWI symptoms are positively correlated with the accelerated prevalence of ceramide sphingolipids in the serum. According to…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40829313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40829313/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40829313/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

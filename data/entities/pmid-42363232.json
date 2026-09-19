@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42363232",
+  "type": "paper",
+  "label": "Outcomes and prognostic factors in patients with systemic mastocytosis and an associated myeloid neoplasm: an international ECNM registry study.",
+  "aliases": [],
+  "summary": "Systemic mastocytosis (SM) is a spectrum of hematologic disorders characterized by accumulation of atypical mast cells (MCs) in extracutaneous organs. SM with an associated hematologic neoplasm (SM-AHN), the most frequent subtype of advanced SM, is predominantly associated with myeloid neoplasms, consistent with shared clonal architecture. Because of its rarity and heterogeneity, robust outcome data aligned with contemporary classifications are needed to inform risk stratification. We analyzed…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42363232",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363232/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42363232/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

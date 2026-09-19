@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42260029",
+  "type": "paper",
+  "label": "Health-related quality of life changes in patients with Q-fever fatigue syndrome: a four-year follow-up study, 10 years post-infection.",
+  "aliases": [],
+  "summary": "Q-fever can cause long-term health complications such as Q-fever Fatigue Syndrome (QFS), which may severely impact patients' Health-Related Quality of Life (HRQoL). This study investigated change of HRQoL in QFS patients over time, and explored predictors associated with change using longitudinal data. In this prospective observational study questionnaires were administered among Dutch individuals with self-reported QFS who were registered at Q-support, a foundation that supports, advises and i…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42260029",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42260029/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42260029/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

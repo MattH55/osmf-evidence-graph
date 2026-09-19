@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41466718",
+  "type": "paper",
+  "label": "Complex chronic adverse events following immunization: a systemic critique and reform proposal for vaccine pharmacovigilance.",
+  "aliases": [],
+  "summary": "The COVID-19 pandemic has renewed attention to complex chronic health conditions that challenge conventional biomedical paradigms. Syndromes such as postural orthostatic tachycardia syndrome and myalgic encephalomyelitis/chronic fatigue syndrome have gained broader visibility through the lens of Long COVID. As global vaccination campaigns expanded, a subset of individuals began reporting similarly persistent, multisystem symptoms following COVID-19 immunization-informally referred to as post-CO…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41466718",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41466718/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41466718/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42243711",
+  "type": "paper",
+  "label": "Human parvovirus B19-associated Guillain-Barré syndrome diagnosed by cerebrospinal fluid targeted next-generation sequencing: a case report and literature review.",
+  "aliases": [],
+  "summary": "Guillain-Barré syndrome (GBS) is a post-infectious autoimmune disorder of the peripheral nerves. While human parvovirus B19 (B19V) is a recognized rare trigger, its diagnosis can be challenging without advanced molecular techniques. A 24-year-old male presented with acute symmetrical limb weakness and paresthesia following a prodrome of diarrhea, fever, and joint pain. Cerebrospinal fluid (CSF) analysis showed albuminocytological dissociation. Electromyography indicated acute motor and sensory…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42243711",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42243711/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42243711/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

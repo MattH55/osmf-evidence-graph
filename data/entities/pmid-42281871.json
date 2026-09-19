@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42281871",
+  "type": "paper",
+  "label": "Clinical predictors of SARS-CoV-2 vaccine immunogenicity in kidney transplant recipients at a rural center.",
+  "aliases": [],
+  "summary": "Kidney transplant recipients (KTR) have impaired immune responses to vaccination and remain at increased risk for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection despite mRNA coronavirus disease 2019 (COVID-19) vaccination. Data from rural and medically underserved transplant populations remain limited. To evaluate serologic response to a two dose mRNA SARS-CoV-2 vaccination series and identify clinical factors associated with antibody response in KTR. This single center…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42281871",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42281871/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42281871/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

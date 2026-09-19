@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42314808",
+  "type": "paper",
+  "label": "Ethnopharmacological investigation of Elaeocarpus sylvestris leaf extract in mitigating atopic dermatitis-like lesions via inflammatory signaling modulation.",
+  "aliases": [],
+  "summary": "Historically, Elaeocarpus sylvestris has served as a traditional medicinal agent for inflammatory disorders across East Asia. Recent studies have reported its antioxidant and anti-inflammatory activities, supporting its potential as a natural therapeutic resource for inflammatory skin diseases such as atopic dermatitis (AD). However, its pharmacological relevance to AD and the cellular signaling cascades remain insufficiently elucidated. This study aimed to pharmacologically validate the tradit…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42314808",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42314808/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42314808/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

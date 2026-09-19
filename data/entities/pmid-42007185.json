@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42007185",
+  "type": "paper",
+  "label": "Understanding the Nature and Impact of Chest Pain in Postural Orthostatic Tachycardia Syndrome.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a chronic autonomic disorder that predominantly affects female patients of childbearing age. Chest pain is a common and debilitating symptom in POTS, but the nature of the chest pain and the patient experience surrounding it remain poorly understood. A qualitative descriptive design was used. Sixteen patients diagnosed with POTS who were experiencing chest pain were recruited. Semistructured video interviews were conducted that explored the na…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42007185",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42007185/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42007185/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

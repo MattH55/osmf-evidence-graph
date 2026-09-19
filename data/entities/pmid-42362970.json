@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42362970",
+  "type": "paper",
+  "label": "SARS-CoV-2 and diabetes: a post-pandemic reappraisal.",
+  "aliases": [],
+  "summary": "The COVID-19 pandemic was a dynamic and often confusing period for clinical and biomedical research. As severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spread globally, knowledge accumulated rapidly through publications that were frequently based on preliminary or sometimes conflicting evidence, yet these papers played a critical role in shaping evolving medical, research and societal responses. Early in the pandemic, diabetes emerged as one of the strongest predictors of severe CO…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42362970",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42362970/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42362970/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

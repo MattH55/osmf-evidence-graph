@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42258389",
+  "type": "paper",
+  "label": "Psychiatric and behavioral symptoms after pediatric herpes simplex virus type 1 encephalitis: An exploratory case series.",
+  "aliases": [],
+  "summary": "To exploratively describe long-term psychiatric and behavioral symptoms in pediatric survivors of herpes simplex virus type 1 encephalitis. In this retrospective descriptive case series conducted at two tertiary pediatric centers, admissions from 2000 to 2022 were screened for confirmed herpes simplex virus type 1 encephalitis. Eight families completed validated parentand self-report questionnaires assessing emotional and behavioral symptoms. Analyses were descriptive. Mean age at disease onset…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42258389",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42258389/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42258389/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

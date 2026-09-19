@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42400735",
+  "type": "paper",
+  "label": "Exercise remodels the skeletal muscle immune microenvironment to ameliorate type 2 diabetes mellitus-induced muscle atrophy: From immunometabolism to organ crosstalk.",
+  "aliases": [],
+  "summary": "Type 2 diabetes mellitus (T2DM) complicated by muscle atrophy (diabetic sarcopenia) significantly increases mortality risk, with immunometabolic imbalance-driven disruption of the skeletal muscle microenvironment as a core mechanism. This review focuses on the immune cell-myocyte crosstalk network to elucidate the pathological mechanisms of T2DM-induced muscle atrophy, the local remodeling effects of exercise, and systemic organ crosstalk. In the T2DM state, M1/M2 imbalance and metabolic reprog…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42400735",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400735/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42400735/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

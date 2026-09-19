@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42327770",
+  "type": "paper",
+  "label": "Chronic spontaneous cholinergic urticaria: advances in immunological mechanisms focusing on neuro-immune crosstalk and novel targeted therapeutic strategies.",
+  "aliases": [],
+  "summary": "Chronic spontaneous cholinergic urticaria (CSU-Chol) is a chronic inflammatory skin disorder characterized by intense pruritus and small wheals triggered by a rise in core body temperature. This review aims to systematically elucidate its complex pathogenesis, with a particular focus on the pivotal role of neuro-immune crosstalk in disease initiation and progression. We will provide an in-depth analysis of key immunological components, including aberrant mast cell activation, autoimmune respons…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42327770",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42327770/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42327770/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

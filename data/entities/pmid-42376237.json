@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42376237",
+  "type": "paper",
+  "label": "A randomised, placebo-controlled, triple-blind clinical trial to investigate the efficacy of",
+  "aliases": [],
+  "summary": "Cognitive impairment is frequent in post-COVID-19 syndrome (PCS). The understanding of the pathogenesis is still limited. Key factors such as neuroinflammation, neurovascular dysfunction, and disruption of cellular energy metabolism have been identified. There are no evidence-based treatments targeting the pathologic mechanisms of cognitive impairment associated with PCS available to date. Thus, treatment is directed towards symptom relief. EGb 761 In this prospective, multicentre, randomised,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42376237",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42376237/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42376237/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

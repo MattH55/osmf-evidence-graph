@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42086409",
+  "type": "paper",
+  "label": "Erythroid-hormonal axis in long COVID.",
+  "aliases": [],
+  "summary": "Long COVID may reflect a failure of coordinated physiological recovery rather than persistent infection. Emerging evidence identifies inflammation-driven disruption of erythropoiesis and hormonal balance as central mechanisms linking immune dysregulation, metabolic stress, and persistent symptoms. This framework positions erythroid-endocrine pathways as key determinants of recovery and promising therapeutic targets.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42086409",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42086409/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42086409/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

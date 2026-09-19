@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41046949",
+  "type": "paper",
+  "label": "Hypercholesterolemia enhances early dissemination and Borrelia burgdorferi burden in a mouse model.",
+  "aliases": [],
+  "summary": "The Lyme disease spirochete, Borrelia burgdorferi, requires cholesterol to grow. The spirochete acquires cholesterol from the host to form cholesterol glycolipids, which are then incorporated into the spirochete's membrane. This study aimed to determine whether higher levels of serum cholesterol could facilitate the infection and contribute to the pathogenesis of Lyme disease. We investigated the effect of acute and chronic hypercholesterolemia on spirochetal infection in C3H/HeJ mice fed a hig…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41046949",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41046949/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41046949/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

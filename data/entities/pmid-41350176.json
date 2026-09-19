@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41350176",
+  "type": "paper",
+  "label": "The lingering shadow of epidemics: post-acute sequelae across history.",
+  "aliases": [],
+  "summary": "The SARS-CoV-2 pandemic has drawn global attention to post-acute infection syndromes (PAIS), with millions affected by post-acute sequelae of COVID-19 (PASC, or Long COVID). While Long COVID is newly defined, PAIS have been described for over a century following epidemic infections. Multiple pathogens - including influenza, Epstein-Barr virus, and Borrelia burgdorferi, among others - can precipitate persistent, poorly understood symptoms. Chronic illnesses such as myalgic encephalomyelitis/chro…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41350176",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41350176/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41350176/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

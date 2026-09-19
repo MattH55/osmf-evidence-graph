@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42007006",
+  "type": "paper",
+  "label": "Elevated blood viscosity is associated with dysautonomia in long COVID symptoms.",
+  "aliases": [],
+  "summary": "Long COVID is associated with elevated inflammatory and antibody levels. Elevated plasma proteins can increase blood viscosity and decrease blood flow. Our aim is to evaluate if blood viscosity is associated with long COVID outcomes. We conducted a cross-sectional study and included a sample of patients enrolled in our long COVID clinic. We estimated whole blood viscosity (WBV) using two previously validated formulas and compared it with the NASA lean test, COMPASS-31 scale as measures of dysau…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42007006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42007006/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42007006/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

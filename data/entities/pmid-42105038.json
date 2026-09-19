@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42105038",
+  "type": "paper",
+  "label": "Feasibility, Adherence, Acceptance and Usability of a Multimodal Telemonitoring for Pediatric Post-COVID Syndrome: A Bicentric Pilot Study.",
+  "aliases": [],
+  "summary": "Existing healthcare infrastructure struggles to meet the complex care required for pediatric Post-COVID Syndrome (pPCS). Telemonitoring offers potential to enhance care access, reduce patient burden, and ensure continuity. This study introduces and evaluates a novel, multimodal telemonitoring concept for pPCS with high translational potential for broader pediatric chronic and post-infectious conditions. Telemonitoring included a patient app, digital sensors (spirometer, smartwatch), Patient Rep…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42105038",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42105038/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42105038/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

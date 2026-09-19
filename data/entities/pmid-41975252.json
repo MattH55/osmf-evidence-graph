@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41975252",
+  "type": "paper",
+  "label": "Pediatric syncope in the emergency department: a risk-stratified diagnostic and disposition pathway.",
+  "aliases": [],
+  "summary": "BACKGROUND: Pediatric syncope accounts for 1–3% of emergency department (ED) visits. Although most cases are benign, 4% are caused by cardiac disease and 3% by seizures, which carry a risk of sudden death or neurologic injury if missed. Vasovagal syncope accounts for 52–74% of cases and postural orthostatic tachycardia syndrome (POTS) for approximately 13%. OBJECTIVE: To provide an emergency-department risk-stratified diagnostic and disposition framework for pediatric syncope. KEY FINDINGS: A u…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41975252",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41975252/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41975252/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

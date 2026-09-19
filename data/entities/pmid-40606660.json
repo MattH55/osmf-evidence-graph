@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40606660",
+  "type": "paper",
+  "label": "Epigenetic study of the long-term effects of gulf War illness.",
+  "aliases": [],
+  "summary": "Gulf War Illness is a chronic multisymptomatic disorder that affects as many as 25-35% of the military personnel who were sent to the Persian Gulf war in 1991. The illness has many debilitating symptoms, including cognitive problems, gastrointestinal symptoms, and musculoskeletal pain. Those so afflicted have been sick for more than 30 years and, therefore, it has become imperative to understand the etiology of Gulf War Illness and then produce treatments to ease the symptoms. We hypothesized t…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40606660",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40606660/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40606660/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

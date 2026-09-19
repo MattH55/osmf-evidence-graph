@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41484970",
+  "type": "paper",
+  "label": "Effect of COVID-19 vaccination and SARS-CoV-2 infection status on mortality risk in patients with chronic obstructive pulmonary disease: a nationwide population-based cohort study.",
+  "aliases": [],
+  "summary": "BACKGROUND: The coronavirus disease 2019 (COVID-19) vaccination is suggested to be effective in improving outcomes of chronic obstructive pulmonary disease (COPD). However, real-world evidence on long-term mortality among individuals with COPD, accounting for both vaccination and COVID-19 infection status, remains sparse. METHODS: A retrospective cohort study was conducted using datasets from the Korean National Health Insurance system. Through two-step propensity score matching, 716 individual…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41484970",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41484970/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41484970/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

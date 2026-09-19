@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42368884",
+  "type": "paper",
+  "label": "The Rare Trio: Concomitant Bone Marrow Involvement by Smoldering Myeloma and Systemic Mastocytosis with an Associated Hematologic Neoplasm and ALECT-2 Renal Amyloidosis - A Case Report and Literature…",
+  "aliases": [],
+  "summary": "Systemic mastocytosis (SM) is a clonal disorder characterized by abnormal accumulation of mast cells in various tissues and is categorized into distinct subtypes per the World Health Organization (WHO) 2022 classification. When SM is associated with another hematologic neoplasm, typically of myeloid lineage, it is classified as systemic mastocytosis with an associated hematologic neoplasm (SM-AHN). Coexistence with plasma cell dyscrasias is rare, with fewer than 15 published cases involving eit…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42368884",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42368884/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42368884/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

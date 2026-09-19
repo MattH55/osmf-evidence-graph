@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42037722",
+  "type": "paper",
+  "label": "Postural orthostatic tachycardia syndrome: when dysautonomia misleads: a mechanistic argument for compensatory orthostatic tachycardia.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is defined by chronic orthostatic intolerance accompanied by an excessive increment in sinus heart rate on standing in the absence of significant orthostatic hypotension. Contemporary reviews and consensus statements appropriately frame POTS as involving autonomic regulation. Yet the bedside phenotype most often observed-marked tachycardia with preserved blood pressure-also supports a hemodynamic interpretation: an intact baroreflex driving tachy…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42037722",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42037722/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42037722/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

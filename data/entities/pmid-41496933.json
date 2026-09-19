@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41496933",
+  "type": "paper",
+  "label": "Malnutrition, contaminated water, and post-infectious neuropathies: lessons from the Guillain-Barré syndrome outbreak in Gaza.",
+  "aliases": [],
+  "summary": "The cases of malnutrition, water insecurity, and the collapse of the health system, turning into a humanitarian crisis, have been illustrated by the 2025 outbreak of Guillain-Barré syndrome (GBS) in Gaza, which is a form of treatable post-infectious neuropathy. Toward the end of August 2025, there were reports of over 90 cases and at least 10 deaths due to shortages of intravenous immunoglobulin, plasma-exchange filters, and ventilators. GBS-inducing enteric pathogens such as",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41496933",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41496933/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41496933/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42033863",
+  "type": "paper",
+  "label": "Toxic exposure and rates of suicidal thoughts and behaviors among U.S. military veterans.",
+  "aliases": [],
+  "summary": "Exposure to toxic substances has been linked to poorer mental health among U.S. military veterans broadly, but less is known about specific psychiatric outcomes, such as suicidal thoughts and behaviors (STBs). In the current observational cohort study, we investigated toxic exposure and STBs using data from 248,926 veterans enrolled in the Million Veteran Program (MVP). Exposures to nine toxins (Agent Orange, chemical/biological weapons, anthrax vaccine, solvents/fuels, petroleum combustion pro…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42033863",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42033863/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42033863/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

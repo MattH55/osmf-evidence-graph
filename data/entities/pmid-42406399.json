@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42406399",
+  "type": "paper",
+  "label": "Postacute COVID-19 Symptoms and Health Care Utilization and Spending Among Traditional Medicare Beneficiaries.",
+  "aliases": [],
+  "summary": "Postacute sequelae of SARS-CoV-2 infection include fatigue, respiratory symptoms, and cognitive dysfunction. However, the extent to which these symptoms contribute to increased health care utilization and spending among Medicare beneficiaries remains unclear. To quantify differences in postacute symptoms and health care utilization and spending between traditional Medicare beneficiaries with COVID-19 and matched control beneficiaries without COVID-19. This cohort study used traditional Medicare…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42406399",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42406399/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42406399/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

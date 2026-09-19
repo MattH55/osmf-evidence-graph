@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41819240",
+  "type": "paper",
+  "label": "Lipocalin-2 perpetuates postoperative and post-infectious neuroinflammation and anxiety-like behavior.",
+  "aliases": [],
+  "summary": "Lipocalin-2 (LCN2) is a pleiotropic cytokine with well-established roles in immune defense, iron metabolism, and inflammation that has been used as a biomarker for kidney injury, cancer, and infection. Recent work has also suggested a role for LCN2 in brain function and behavior, suggesting that LCN2 excess could be a driver of neuropsychiatric complications of infectious and inflammatory conditions. Here, we show that LCN2 levels remain elevated in both the brain and circulation for weeks afte…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41819240",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819240/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41819240/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

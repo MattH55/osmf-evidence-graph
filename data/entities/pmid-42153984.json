@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42153984",
+  "type": "paper",
+  "label": "Long-term outcomes in patients with postural orthostatic tachycardia syndrome with an average follow-up of over 20 years.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a chronic form of orthostatic intolerance that primarily affects female patients. There are scarce data evaluating the long-term outcomes in POTS. This study sought to evaluate the long-term impacts of POTS over multiple decades in adult patients. Past research participants at the VUMC Autonomic Dysfunction Center Research Unit (symptomatic ≥10 years) were recruited to participate in the study. A custom survey was administered at one time poin…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42153984",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42153984/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42153984/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

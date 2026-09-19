@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41835354",
+  "type": "paper",
+  "label": "Mechanistic Insights and Emerging Therapeutic Strategies in Recurrent Pericarditis.",
+  "aliases": [],
+  "summary": "Recurrent pericarditis is a heterogeneous and often debilitating inflammatory disorder characterized by recurrent flares following a symptom-free interval of at least 4 to 6 weeks. Although most cases in developed countries are idiopathic or post-viral, the condition may arise from autoimmune disease, post-cardiac injury syndromes, infection, or systemic inflammatory disorders. Traditional management with nonsteroidal anti-inflammatory drugs, colchicine, and corticosteroids has historically pro…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41835354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41835354/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41835354/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

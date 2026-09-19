@@ -5,25 +5,16 @@
   "aliases": [
     "myalgic encephalomyelitis",
     "chronic fatigue syndrome",
-    "MECFS"
+    "CFS"
   ],
-  "summary": "Myalgic encephalomyelitis / chronic fatigue syndrome; post-infectious subset overlaps other post-viral syndromes.",
-  "external_ids": [
-    {
-      "system": "mesh",
-      "value": "D015673"
-    },
-    {
-      "system": "other",
-      "value": "example-seed"
-    }
-  ],
+  "summary": "ME/CFS – Myalgic Encephalomyelitis / Chronic Fatigue Syndrome",
+  "external_ids": [],
   "urls": [
     {
       "rel": "tracker",
-      "href": "https://research.opensourcemed.info/"
+      "href": "https://research.opensourcemed.info/me-cfs.html"
     }
   ],
   "status": "active",
-  "updated_at": "2026-09-18T21:00:00Z"
+  "updated_at": "2026-09-19T16:57:32.049Z"
 }

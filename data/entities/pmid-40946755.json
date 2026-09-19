@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40946755",
+  "type": "paper",
+  "label": "Case report: Recipient-derived, late-onset post-transplant lymphoproliferative disorder involving a transplanted liver.",
+  "aliases": [],
+  "summary": "Post-transplant lymphoproliferative disorders (PTLD) are severe complications of transplantation associated with poor outcomes. Compared to early-onset PTLDs, late-onset PTLDs are much less associated with allograft localization. Herein, we report a case of Epstein-Barr virus (EBV)-negative lymphoma involving a graft 7 years after liver transplantation. A 45-year-old man presented with hepatomegaly 7 years after liver transplantation. Liver puncture biopsy revealed B-cell lymphoma with a high p…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40946755",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40946755/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40946755/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

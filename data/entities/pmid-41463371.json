@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41463371",
+  "type": "paper",
+  "label": "Investigating the Eye as a Biomarker of Gulf War Illness: Sphingolipid and Eicosanoid Composition in Tears and Plasma.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a chronic multi-symptom condition affecting veterans of the 1990-1991 Gulf War, with ocular discomfort increasingly recognized among its manifestations. This pilot study evaluated whether lipid alterations in tears and plasma could serve as potential biomarkers of GWI. Participants included Gulf War-era veterans seen in the Miami Veterans Affairs Hospital eye clinic from 2018-2022. Cases met GWI criteria, while controls were non-deployed, age- and gender-matched vetera…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41463371",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41463371/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41463371/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42380577",
+  "type": "paper",
+  "label": "SARS-CoV-2 inhibitory, anti-inflammatory, antibacterial activity of black chokeberry (Aronia melanocarpa (Michx.) Elliott) branches' extracts and proanthocyanidins, and their synergistic interaction…",
+  "aliases": [],
+  "summary": "Bacteria and viruses' potential collaboration has been reported to result in enhanced infection pathogenesis. New antimicrobial agents are necessary, but stronger synthetic antibiotics cause more severe side effects. The relevance of natural agents has increased in the post-COVID-19 period also due to COVID-induced cytokine storm, causing severe complications. This study aimed to evaluate Aronia melanocarpa branches for producing anti-SARS-CoV-2, anti-inflammatory, and antimicrobial preparation…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42380577",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380577/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42380577/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

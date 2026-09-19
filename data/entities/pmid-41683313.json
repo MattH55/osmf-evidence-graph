@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41683313",
+  "type": "paper",
+  "label": "Informed Therapeutic Microbiome Modulation for Post-Infectious Irritable Bowel Syndrome: Pilot Experience of a Microbiome Clinic.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41683313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41683313/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41683313/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

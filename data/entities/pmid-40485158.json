@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40485158",
+  "type": "paper",
+  "label": "Long COVID as an Infection-Associated Chronic Condition: Implications.",
+  "aliases": [],
+  "summary": "A link between infection and chronic illness has been recognized, along with the complexities of interactions between pathogen, environment, host genetics, route of exposure, and timing of outcomes. The COVID-19 pandemic has brought this issue to the forefront and Long COVID is recognized to be an infection associated chronic condition. However, given the wide range of Long COVID presentations, the singular expression gives a false sense of simplicity. Long COVID is best considered as a group o…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40485158",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40485158/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40485158/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

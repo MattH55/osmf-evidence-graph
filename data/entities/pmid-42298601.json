@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42298601",
+  "type": "paper",
+  "label": "Self-management support needs for individuals with Myalgic Encephalomyelitis and their next of kin - a qualitative study.",
+  "aliases": [],
+  "summary": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a complex, disabling condition with limited evidence-based treatment options. Self-management support is recommended to improve people's coping and quality of life, yet little is known about whether the provided self-management support meet individuals with ME/CFS and their next of kins needs. The aim of this study was to explore the self-management support needs of individuals with ME/CFS and their next of kin, and to identify barr…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42298601",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42298601/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42298601/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

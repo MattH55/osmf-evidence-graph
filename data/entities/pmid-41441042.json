@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41441042",
+  "type": "paper",
+  "label": "Metabolomics-Based Machine Learning Diagnostics of Post-Acute Sequelae of SARS-CoV-2 Infection.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41441042",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41441042/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41441042/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

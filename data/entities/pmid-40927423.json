@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40927423",
+  "type": "paper",
+  "label": "Fatigue, interoplastic and nociplastic distress in myalgic encephalomyelitis/chronic fatigue syndrome, Gulf War Illness, and chronic idiopathic fatigue.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and Gulf War Illness (GWI) have similar profiles of pain (nociception), visceral interoception, and tenderness (central sensitization) that may be due to dysfunction of midbrain and medulla descending antinociceptive and antiinteroceptive mechanisms. If so, then dolorimetry, a proxy for tenderness, may be correlated with subjective symptoms. The relationship with fatigue was assessed in Chronic Idiopathic Fatigue (CIF). Cohorts of ME/C…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40927423",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40927423/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40927423/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

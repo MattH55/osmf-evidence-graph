@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42380427",
+  "type": "paper",
+  "label": "Using new approach methodologies (NAMs) to investigate ZnONPs and UVR induced skin sensitization.",
+  "aliases": [],
+  "summary": "Zinc oxide nanoparticles (ZnONPs) are widely used in sunscreens and cosmetics; however, increasing evidence suggests their potential to induce skin toxicity, particularly under conditions of skin function disruption. Here, we investigated the mechanisms underlying allergic skin inflammation triggered by repeated ZnONPs exposure following UVR damage using an in vivo hairless mouse model and in vitro Adverse Outcome Pathway (AOP)-based new approach methodologies (NAMs). Co-exposure to ZnONPs and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42380427",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380427/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42380427/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

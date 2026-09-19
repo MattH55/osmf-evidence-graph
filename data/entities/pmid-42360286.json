@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42360286",
+  "type": "paper",
+  "label": "Protein-Free Diet Aggravates Food Allergy Response via the Consumption of Glycochenodeoxycholic Acid in a Murine Model.",
+  "aliases": [],
+  "summary": "Amino acid-based formulas (AAFs) are increasingly consumed in infants with food allergy (FA), while the effects of their long-term consumption on FA remain poorly known. This study investigated the effects of the long-term consumption of AAFs on FA by subjecting neonatal mice to an amino acid-based diet (AAD). Long-term consumption of AAD exacerbated allergic symptoms, Th2 responses, and mast cell activation and concurrently suppressed the differentiation of CD103",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42360286",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42360286/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42360286/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

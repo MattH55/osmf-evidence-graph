@@ -1,0 +1,22 @@
+{
+  "imported_at": "2026-09-19T16:57:32.049Z",
+  "import_date": "2026-09-19",
+  "tracker_path": "/workspace/osmf-research-tracker",
+  "conditions": [
+    "long-covid",
+    "pacvs",
+    "me-cfs",
+    "pots",
+    "mcas",
+    "lyme",
+    "gulf-war-illness",
+    "other-post-viral"
+  ],
+  "counts": {
+    "conditions": 8,
+    "papers": 535,
+    "claims": 544
+  },
+  "missing_html": [],
+  "notes": "Provisional auto-import from Research Tracker PubMed feeds. Grades are not human-curated. Agents and clinical_trials deferred."
+}

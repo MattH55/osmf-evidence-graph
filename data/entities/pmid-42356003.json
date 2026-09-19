@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42356003",
+  "type": "paper",
+  "label": "Multimorbidity in Chronic Overlapping Pain Conditions: From Burden to Integrated Care.",
+  "aliases": [],
+  "summary": "Chronic overlapping pain conditions (COPCs) refer to a set of chronic pain disorders that frequently co-occur and may involve partially overlapping mechanisms. The U.S. National Institutes of Health currently recognizes ten COPCs: fibromyalgia, painful temporomandibular disorders, chronic low back pain, chronic migraine headache, chronic tension-type headache, irritable bowel syndrome, endometriosis, interstitial cystitis/bladder pain syndrome, vulvodynia, and myalgic encephalomyelitis/chronic…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42356003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356003/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42356003/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

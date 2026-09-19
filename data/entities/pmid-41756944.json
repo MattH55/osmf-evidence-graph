@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41756944",
+  "type": "paper",
+  "label": "Making the best of a sticky situation: Infection-mediated endothelial activation promotes new interactions with adhesins of the host-adapted Lyme disease spirochete.",
+  "aliases": [],
+  "summary": "Lyme disease, caused by the spirochete",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41756944",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41756944/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41756944/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

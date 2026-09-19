@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42278463",
+  "type": "paper",
+  "label": "Raman Spectroscopy Combined with Machine Learning Reveals Myalgic Encephalomyelitis-Associated Biomolecular Signatures at Rest and After Standardized Stress.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis (ME) is characterized by profound fatigue, post-exertional malaise (PEM), and cognitive dysfunction. Despite its clinical significance, the pathophysiology of PEM and disease heterogeneity remain unclear, and no validated biomarkers are available for rapid diagnosis or monitoring. We aimed to develop a screening approach combining label-free Raman spectroscopy (RS) and machine learning modeling (ML) to detect biomolecular changes in blood plasma and differentiate patie…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42278463",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42278463/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42278463/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

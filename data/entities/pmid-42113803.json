@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42113803",
+  "type": "paper",
+  "label": "Vagus Nerve Stimulation in Cardiac Disease: A Systematic Review of Randomized Clinical Trials.",
+  "aliases": [],
+  "summary": "Cardiac arrhythmias remain a major cause of morbidity and mortality, and current therapies have notable limitations. Vagus nerve stimulation (VNS), which modulates autonomic tone, has emerged as a potential adjunctive treatment. This systematic review evaluated the efficacy of invasive and noninvasive VNS in patients with atrial fibrillation, heart failure, myocardial infarction, and other rhythm disorders. A search of PubMed, Scopus, and Web of Science identified 21 randomized controlled trial…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42113803",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42113803/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42113803/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

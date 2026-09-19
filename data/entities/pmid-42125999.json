@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42125999",
+  "type": "paper",
+  "label": "Molecular Mimicry Between Epstein-Barr Virus and Human Herpesvirus-6 Proteins and Central Nervous System Proteins: Implications for T and B Cell Immunogenicity in an In Silico Study.",
+  "aliases": [],
+  "summary": "The Epstein-Barr virus (EBV) and human herpesvirus 6 (HHV-6) are frequently linked to neuropsychiatric illnesses such as multiple sclerosis, depression, and chronic fatigue syndrome/myalgic encephalomyelitis. These viruses may induce autoimmune reactions by molecular mimicry, leading to damage to self-epitopes in the central nervous system (CNS). This study seeks to explore the common pentapeptides present in EBV and HHV-6 viral antigens alongside various CNS-related proteins via molecular mimi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42125999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42125999/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42125999/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

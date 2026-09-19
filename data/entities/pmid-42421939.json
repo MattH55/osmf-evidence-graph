@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42421939",
+  "type": "paper",
+  "label": "New-onset allergic diseases after SARS-CoV-2 infection: mechanistic hypotheses and emerging strategies for risk stratification.",
+  "aliases": [],
+  "summary": "Multinational cohort studies consistently associate SARS-CoV-2 infection with elevated incidence of allergic diseases, with hazard ratios of 2.25 for asthma and 1.23 for allergic rhinitis persisting beyond six months post-infection; whether this excess risk reflects",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42421939",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421939/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42421939/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

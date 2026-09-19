@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42368558",
+  "type": "paper",
+  "label": "Microthrombi targeted nano-micelle synchronizing endothelial gap opening and matrix decompression for augmenting drug perfusion within pancreatic cancer.",
+  "aliases": [],
+  "summary": "Local inhibition of the \"patching\" function of tumor-associated platelets against neutrophil infiltration-caused vascular breaches has been used as an \"enhanced permeability and retention (EPR) amplification\" strategy. Nevertheless, the vascular leakage-resulted elevation of interstitial fluid pressure (IFP) could impact tumoral perfusion and convection of nanodrugs. Especially for hypoperfused and desmoplastic pancreatic ductal adenocarcinoma (PDAC), solely relying on vascular destruction woul…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42368558",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42368558/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42368558/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

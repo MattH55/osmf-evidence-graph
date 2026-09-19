@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42038075",
+  "type": "paper",
+  "label": "Protocol for a multicenter observational study on fatigue across physical-mental conditions within the German center for mental health.",
+  "aliases": [],
+  "summary": "Fatigue is a common and debilitating symptom across a wide range of chronic physical and mental health conditions. It affects physical, cognitive, and emotional functioning and substantially reduces quality of life. Despite its clinical relevance, fatigue research remains largely diagnosis-specific, resulting in limited understanding of cross-diagnostic patterns and the interplay between somatic, psychological, and psychosocial factors. Comparative data spanning different physical and mental he…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42038075",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42038075/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42038075/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

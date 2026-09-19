@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41893059",
+  "type": "paper",
+  "label": "Ischemic Stroke as the First Manifestation of Takayasu Arteritis: A Case Report.",
+  "aliases": [],
+  "summary": "Ischemic stroke in young adults is uncommon and is frequently associated with rare etiologies, including autoimmune diseases and vasculitis. Takayasu arteritis (TA) is a chronic inflammatory large-vessel arteriopathy involving the aorta and its major branches and may result in cerebral ischemia due to arterial stenosis or thrombosis. We report the case of a 26-year-old woman with a history of suspected rheumatoid arthritis and Lyme disease who presented with acute left-sided hemiparesis and dys…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41893059",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41893059/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41893059/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

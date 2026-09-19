@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40703523",
+  "type": "paper",
+  "label": "Aberrant T-cell phenotypes in a cohort of patients with post-treatment Lyme disease.",
+  "aliases": [],
+  "summary": "Post-treatment Lyme Disease (PTLD) is a poorly understood complication of",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40703523",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40703523/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40703523/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

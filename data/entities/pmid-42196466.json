@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42196466",
+  "type": "paper",
+  "label": "Comprehensive Immunophenotyping of Monocytes and Dendritic Cells Suggests Distinct Pathophysiology in Chronic Fatigue Syndrome and Long COVID.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and long Coronavirus Disease 2019 (long COVID) are complex chronic conditions that often follow infectious triggers with overlapping clinical features but poorly defined pathophysiological relationships. This study aimed to identify disease-specific immune signatures through multiparameter immunophenotyping of monocytes, dendritic cells, and T cell subsets. A total of 207 participants were included (ME/CFS: n = 103; long COVID: n = 63;…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42196466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42196466/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42196466/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

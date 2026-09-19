@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42104344",
+  "type": "paper",
+  "label": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome diagnostic reporting in the 2021-2023 National Health Interview Survey.",
+  "aliases": [],
+  "summary": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a chronic disabling illness characterized by activity limitations associated with fatigue, post-exertional malaise (PEM), unrefreshing sleep, memory and concentration problems, orthostatic intolerance and painful discomfort. While typically considered to be a chronic condition, some persons who have had ME/CFS report no longer having the disorder. Here, the prevalence and characteristics of adults in the United States who self-repor…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42104344",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42104344/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42104344/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

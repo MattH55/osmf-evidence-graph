@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42370768",
+  "type": "paper",
+  "label": "Idiopathic anaphylaxis and histamine dysregulation: Revisiting pathophysiologic assumptions.",
+  "aliases": [],
+  "summary": "Idiopathic anaphylaxis (IA) is a diagnosis of exclusion, and the etiology remains elusive. Research on immunoglobulin E (IgE)-mediated anaphylaxis has identified histamine as the immune system mediator, but dietary histamine's potential role in IA is often overlooked. For some individuals, excessive histamine may cause IA and mimic signs and symptoms of IgE-mediated anaphylaxis.1 This review provides an overview of IA and the potential role of histamine in symptom manifestation. It aims to enha…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42370768",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42370768/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42370768/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

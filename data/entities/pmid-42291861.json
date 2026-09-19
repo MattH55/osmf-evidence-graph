@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42291861",
+  "type": "paper",
+  "label": "Approach to Fatigue in Primary Care: A Practical Diagnostic Framework for General Practitioners.",
+  "aliases": [],
+  "summary": "Fatigue is one of the most common presenting complaints in primary care and poses a significant diagnostic challenge due to its multifactorial aetiology. While the majority of cases are benign and self-limiting, fatigue may also represent an early manifestation of serious underlying pathology. This review distinguishes between acute fatigue, typically transient and associated with intercurrent illness or lifestyle factors, and chronic fatigue, defined as fatigue persisting for six or more weeks…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42291861",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42291861/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42291861/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42274123",
+  "type": "paper",
+  "label": "Dynamic microclot profiling: thromboelastography advances precision management in long COVID and myalgic encephalomyelitis/chronic fatigue syndrome.",
+  "aliases": [],
+  "summary": "Long COVID and myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) share overlapping symptoms, and emerging evidence implicates persistent fibrinoid microclots in their pathophysiology, contributing to impaired microcirculation. This review explores the role of microclots and evaluates thromboelastography (TEG) as a potential diagnostic tool. A comprehensive literature review was conducted using major biomedical databases. Studies indicate microclots are prevalent in both conditions. Lo…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42274123",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274123/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42274123/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

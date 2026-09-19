@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41009608",
+  "type": "paper",
+  "label": "Gulf War Illness, Fibromyalgia, Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID Overlap in Common Symptoms and Underlying Biological Mechanisms: Implications for Future Therapeutic…",
+  "aliases": [],
+  "summary": "Although Gulf War Illness (GWI), fibromyalgia (FM), myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and long COVID have distinct origins, in this article we have reviewed evidence that these disorders comprise a group of so-called low-energy associated disorders with overlapping common symptoms underlying pathology. In particular, evidence for mitochondrial dysfunction, oxidative stress, inflammation, immune dysregulation, neuroendocrine dysfunction, disrupted brain-gut-microbiome a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41009608",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41009608/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41009608/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

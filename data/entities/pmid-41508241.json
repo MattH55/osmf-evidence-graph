@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41508241",
+  "type": "paper",
+  "label": "[Mechanism of Keke Tablets in treating post-infection cough based on network pharmacology and metabolomics].",
+  "aliases": [],
+  "summary": "This study aimed to evaluate the therapeutic effect of Keke Tablets(KKP) on post-infectious cough(PIC) in rat models and to explore its potential mechanism of action. PIC models were established through exposure to cigarette smoke, capsaicin atomization, and nasal instillation of lipopolysaccharide. Hematoxylin-eosin(HE) staining was used to evaluate the morphological changes in the trachea and lung tissue, while enzyme-linked immunosorbent assay(ELISA) kits were used to determine the cytokine…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41508241",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41508241/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41508241/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

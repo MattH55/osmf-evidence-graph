@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42229474",
+  "type": "paper",
+  "label": "Comorbidities in Ehlers-Danlos syndromes and hypermobile spectrum disorders.",
+  "aliases": [],
+  "summary": "hypermobile spectrum disorders (HSD) and Ehlers-Danlos syndromes (EDS) are connective tissue disorders often associated with systemic manifestations such as mast cell activation syndrome (MCAS), postural orthostatic tachycardia syndrome (POTS), irritable bowel syndrome (IBS), and autoimmune conditions, including spondyloarthritis (SpA). The overlap of these conditions complicates diagnosis and treatment. This study investigates the prevalence of MCAS and other comorbidities, as well as patterns…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42229474",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42229474/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42229474/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

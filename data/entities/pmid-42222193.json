@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42222193",
+  "type": "paper",
+  "label": "Mitochondrial Bioenergetic Approach to Restore Veteran Vitality: A Feasibility Pilot.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42222193",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42222193/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42222193/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

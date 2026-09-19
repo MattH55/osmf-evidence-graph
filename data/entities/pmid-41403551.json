@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41403551",
+  "type": "paper",
+  "label": "Immunoglobulins are beneficial in SARS-CoV-2 vaccine-induced small fibre neuropathy even 3 years after onset.",
+  "aliases": [],
+  "summary": "SARS-CoV-2 vaccination (SC2V) can be complicated by post-acute COVID-19 vaccination syndrome (PACVS). One manifestation of PACVS is small fibre neuropathy (SFN). A positive effect of intravenous immunoglobulins (IVIGs) even 3 years after the onset of PACVS is not known. The patient is a 52-year-old woman who developed PACVS after the second BNT162b2 vaccination in June 2021, which manifested clinically with SFN, myopericarditis, coagulopathy, and ocular, dermatologic, immunologic, and central n…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41403551",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41403551/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41403551/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

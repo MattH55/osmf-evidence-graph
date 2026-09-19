@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42367370",
+  "type": "paper",
+  "label": "\"That's not my silo\": Navigating fragmented long COVID care in the mid-Atlantic United States.",
+  "aliases": [],
+  "summary": "Long COVID is a chronic illness affecting multiple organ systems, which can be at odds with a highly specialized and siloed U.S. healthcare system. Patients frequently see multiple specialists for diverse symptoms, creating substantial coordination challenges. We conducted a qualitative study using semi-structured interviews with 69 U.S. Mid-Atlantic adults diagnosed with or suspected of having Long COVID, recruited through a Long COVID clinic, MyChart patient-portal outreach, and snowball samp…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42367370",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367370/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42367370/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42347267",
+  "type": "paper",
+  "label": "Anti-",
+  "aliases": [],
+  "summary": "Lyme borreliosis is a multisystemic tick-borne infection caused by The study included 45 patients and 45 age and sex matched controls. Serum samples were tested for anti- Overall, anti- IgG seropositivity was numerically higher among patients with CKD of unknown etiology than among healthy controls; however, this difference was not statistically significant. Larger, risk-factor-adjusted studies are needed to clarify whether",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42347267",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42347267/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42347267/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

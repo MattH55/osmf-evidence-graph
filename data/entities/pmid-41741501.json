@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41741501",
+  "type": "paper",
+  "label": "Pilot study of psilocybin in patients with post-treatment lyme disease.",
+  "aliases": [],
+  "summary": "Lyme disease, caused by the bacterium Borrelia burgdorferi, is the most common vector-borne disease in the United States and Europe. Although antibiotics effectively treat most cases, an estimated 10-20% of patients develop post-treatment Lyme disease (PTLD), a chronic syndrome marked by fatigue, pain, cognitive difficulties, mood disturbance, and reduced quality of life. There are no established treatments for PTLD. The serotonin 2A receptor agonist psychedelic psilocybin has recently shown po…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41741501",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41741501/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41741501/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

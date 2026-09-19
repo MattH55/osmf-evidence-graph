@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41024925",
+  "type": "paper",
+  "label": "Reassessing Chronic Lyme Disease and Post-Treatment Lyme Disease Syndrome as Focal Infections.",
+  "aliases": [],
+  "summary": "The complete clinical spectrum of Lyme borreliosis has been recognized for nearly 50 years, yet its diagnosis remains challenging due to the heterogeneity of symptoms. While many symptoms are likely nonspecific, a recurring cluster, including severe fatigue, brain fog, cognitive decline, memory impairment, joint and muscle pain, limb numbness, headaches, and low-grade fever, is often labeled in the scientific literature as post-treatment Lyme disease syndrome (PTLDS), and in the popular media a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41024925",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41024925/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41024925/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}
