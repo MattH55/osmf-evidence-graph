@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:cold-water-hydrotherapy",
+  "type": "agent",
+  "label": "Cold Water Hydrotherapy",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Industry, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Cold%20Water%20Hydrotherapy",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Cold%20Water%20Hydrotherapy"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/cold-water-hydrotherapy/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

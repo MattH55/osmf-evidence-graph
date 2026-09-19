@@ -1,0 +1,27 @@
+{
+  "id": "osmf:claim:agent-sirolimus-low-dose-rapamycin-treats-long-covid",
+  "subject_id": "osmf:agent:sirolimus-low-dose-rapamycin",
+  "predicate": "treats_candidate_for",
+  "object_id": "osmf:condition:long-covid",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/agents/sirolimus-low-dose-rapamycin/",
+      "label": "OSMF Research Tracker (therapeutic agent)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06960928"
+    },
+    {
+      "type": "nct",
+      "value": "NCT04948203"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:04:30.227Z",
+  "license": "CC-BY-4.0"
+}

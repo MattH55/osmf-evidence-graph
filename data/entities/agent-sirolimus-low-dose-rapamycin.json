@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:sirolimus-low-dose-rapamycin",
+  "type": "agent",
+  "label": "Sirolimus (low-dose Rapamycin)",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Immunomodulatory, Sponsor Type: Other Investigational for listed conditions. 2 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Sirolimus",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Sirolimus"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/sirolimus-low-dose-rapamycin/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

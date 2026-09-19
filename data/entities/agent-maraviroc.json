@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:maraviroc",
+  "type": "agent",
+  "label": "Maraviroc",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Industry, Unknown / General CCR5 antagonist studied for persistent immune activation (often + statin). 300mg BID; LFT monitoring. Very early/experimental for these conditions. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Maraviroc",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Maraviroc"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/maraviroc/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:training-in-the-management-of-functional-disorders",
+  "type": "agent",
+  "label": "Training In The Management Of Functional Disorders",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Training%20In%20The%20Management%20Of%20Functional%20Disorders",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Training%20In%20The%20Management%20Of%20Functional%20Disorders"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/training-in-the-management-of-functional-disorders/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

@@ -44,15 +44,15 @@ function byId(a, b) {
 
 function buildNotes() {
   let importLine =
-    "Papers and related_to claims were auto-imported from OSMF Research Tracker PubMed feeds (provisional; evidence_tier C / status draft).";
+    "Papers/related_to and agents/treats_candidate_for were auto-imported from OSMF Research Tracker (provisional; status draft; no A/B tiers from this import).";
   if (fs.existsSync(PROVENANCE_PATH)) {
     try {
       const p = JSON.parse(fs.readFileSync(PROVENANCE_PATH, "utf8"));
-      if (p.imported_at) {
-        importLine += ` Last tracker import: ${p.imported_at}.`;
+      if (p.imported_at || p.agents_imported_at) {
+        importLine += ` Last paper import: ${p.imported_at || "n/a"}; last agent import: ${p.agents_imported_at || "n/a"}.`;
       }
       if (p.counts) {
-        importLine += ` Counts at import: ${p.counts.conditions} conditions, ${p.counts.papers} papers, ${p.counts.claims} claims.`;
+        importLine += ` Counts: ${p.counts.conditions || 0} conditions, ${p.counts.papers || 0} papers, ${p.counts.claims || 0} paper claims, ${p.counts.agents || 0} agents, ${p.counts.agent_claims || 0} agent claims.`;
       }
     } catch (_) {
       /* ignore */
@@ -60,10 +60,11 @@ function buildNotes() {
   }
   return [
     "ILLUSTRATIVE / PROVISIONAL DUMP (is_example: true).",
-    "Condition entities and PubMed paper nodes are real Tracker-backed IDs (PMIDs), but claim grades are NOT human evidence-curated.",
+    "Condition entities, PubMed paper nodes, and therapeutic agent nodes are Tracker-backed, but claim grades are NOT human evidence-curated.",
     importLine,
-    "Do not treat draft C-tier related_to edges as clinical recommendations or study-quality endorsements.",
-    "Therapeutic agents (~600) and multi-MB clinical_trials JSON are deferred to a follow-up import wave.",
+    "Do not treat draft related_to or treats_candidate_for edges as clinical recommendations, efficacy endorsements, or dosing advice.",
+    "Agent Evidence Level is tracker metadata mapped Moderate→C and Preliminary/Anecdotal→D only.",
+    "Multi-MB clinical_trials JSON remains deferred to a follow-up import wave.",
     "Kept seed phenotypes/biomarkers (PEM, orthostatic intolerance, spike persistence, etc.) are structural examples pending curator re-grade.",
   ].join(" ");
 }

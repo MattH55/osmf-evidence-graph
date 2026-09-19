@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:a1-ff-arag-petct",
+  "type": "agent",
+  "label": "A.1 - [¹⁸F]F-Arag Pet/Ct",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=A.1%20-%20%5B%C2%B9%E2%81%B8F%5DF-Arag%20Pet%2FCt",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=A.1%20-%20%5B%C2%B9%E2%81%B8F%5DF-Arag%20Pet%2FCt"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/a1-ff-arag-petct/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

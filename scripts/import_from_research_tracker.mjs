@@ -11,7 +11,8 @@
  *
  * Does NOT invent evidence tiers A/B or clinical recommendations.
  * All imported paper→condition claims are tier C / draft / provisional.
- * Therapeutic agents and clinical_trials JSON are intentionally out of scope.
+ * Therapeutic agents: see import_agents_from_research_tracker.mjs (npm run import:tracker:agents).
+ * clinical_trials bulk JSON remains out of scope here.
  */
 "use strict";
 
@@ -293,7 +294,7 @@ function main() {
     },
     missing_html: missingHtml,
     notes:
-      "Provisional auto-import from Research Tracker PubMed feeds. Grades are not human-curated. Agents and clinical_trials deferred.",
+      "Provisional auto-import from Research Tracker PubMed feeds. Grades are not human-curated. Agents via import:tracker:agents; clinical_trials deferred.",
   };
   writeJson(path.join(ROOT, "data", "import-provenance.json"), provenance);
 

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:mindfulness-mindful-awareness-practices",
+  "type": "agent",
+  "label": "Mindfulness - Mindful Awareness Practices",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Other Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Mindfulness%20-%20Mindful%20Awareness%20Practices",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Mindfulness%20-%20Mindful%20Awareness%20Practices"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/mindfulness-mindful-awareness-practices/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

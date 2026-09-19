@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:l-glutamine",
+  "type": "agent",
+  "label": "L-Glutamine",
+  "aliases": [],
+  "summary": "Not specified Depletion documented; acute COVID RCT benefit on hospital stay. Alternative TCA substrate. 5-10g/day typical. GI tolerance variable. Supportive for gut/immune recovery; limited PASC-specific data. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Glutamine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Glutamine"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/l-glutamine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

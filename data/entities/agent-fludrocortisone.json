@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:fludrocortisone",
+  "type": "agent",
+  "label": "Fludrocortisone",
+  "aliases": [],
+  "summary": "Not specified Observational + guideline support for volume expansion in low-BP POTS. ~43% success obs. Low evidence per guidelines. Monitor electrolytes, supine HTN. For hypovolemic phenotype. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Fludrocortisone",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Fludrocortisone"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/fludrocortisone/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:montelukast",
+  "type": "agent",
+  "label": "Montelukast",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Leukotriene receptor antagonist used as add-on in MCAS and sometimes respiratory phenotypes in long COVID. 10mg daily. Supported by observational MCAS data and urticaria RCTs. Low risk; consider for MCAS-overlap with incomplete antihistamine response. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Montelukast",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Montelukast"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/montelukast/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

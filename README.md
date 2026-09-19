@@ -39,6 +39,7 @@ CI: `.github/workflows/validate-dump.yml` runs build + schema validation on push
 ```bash
 export TRACKER_PATH=/path/to/osmf-research-tracker   # optional; auto-detects sibling /workspace
 npm run import:tracker
+npm run import:tracker:agents
 npm run build:dump && npm run validate:dump
 ```
 
@@ -46,9 +47,9 @@ Details: [IMPORT.md](IMPORT.md).
 
 ## Important
 
-`meta.is_example` remains **`true`**: paper PMIDs and condition pages come from the Research Tracker, but **claim grades are provisional auto-imports** (tier C / draft), not human evidence review. They are **not** OSMF-endorsed clinical statements and are **not medical advice**.
+`meta.is_example` remains **`true`**: paper PMIDs, condition pages, and therapeutic agent nodes come from the Research Tracker, but **claim grades are provisional auto-imports** (paper `related_to` tier C; agent `treats_candidate_for` C/D from tracker Evidence Level — never A/B), not human evidence review. They are **not** OSMF-endorsed clinical statements, **not medical advice**, and **not dosing guidance**.
 
-See [IMPORT.md](IMPORT.md) to re-run the tracker import. Therapeutic agents and full clinical-trials import are deferred.
+See [IMPORT.md](IMPORT.md) to re-run tracker imports (`import:tracker` for papers; `import:tracker:agents` for therapeutic agents). Full clinical-trials JSON import remains deferred.
 
 ## ID scheme
 

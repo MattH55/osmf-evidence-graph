@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:mind-body-intervention-1",
+  "type": "agent",
+  "label": "Mind Body Intervention #1",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Mind%20Body%20Intervention%20%231",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Mind%20Body%20Intervention%20%231"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/mind-body-intervention-1/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

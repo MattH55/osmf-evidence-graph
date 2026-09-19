@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:pyridostigmine-bromide",
+  "type": "agent",
+  "label": "Pyridostigmine Bromide",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Acetylcholinesterase inhibitor. RCT support for hemodynamics in POTS. 30-60mg TID. Targeted for hyperadrenergic POTS. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Pyridostigmine%20Bromide",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Pyridostigmine%20Bromide"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/pyridostigmine-bromide/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

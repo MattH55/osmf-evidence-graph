@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:l-arginine-vitamin-c",
+  "type": "agent",
+  "label": "L-Arginine + Vitamin C",
+  "aliases": [],
+  "summary": "Not specified Single-blind RCT n=56 showed large fatigue reduction (8.7% vs 80.1% placebo) and 6MWT gains; targets documented arginine depletion. Doses studied ~1-2g L-arginine + vit C. Promising for fatigue; OTC, low cost. Replication warranted. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Arginine%20%2B%20Vitamin%20C",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Arginine%20%2B%20Vitamin%20C"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/l-arginine-vitamin-c/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

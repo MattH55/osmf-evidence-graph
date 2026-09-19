@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:montelukast-tablets-oral-treatment",
+  "type": "agent",
+  "label": "Montelukast Tablets Oral Treatment",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Immunomodulatory, Sponsor Type: Other Leukotriene antagonist (10mg daily) for MCAS/inflammatory overlap. Supported by MCAS obs + urticaria RCTs. Low-risk add-on. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Montelukast%20Tablets%20Oral%20Treatment",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Montelukast%20Tablets%20Oral%20Treatment"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/montelukast-tablets-oral-treatment/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

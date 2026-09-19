@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:stimulate-icp",
+  "type": "agent",
+  "label": "Stimulate-Icp",
+  "aliases": [],
+  "summary": "Not specified Investigational for listed conditions. 0 associated trial(s) and 1 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Stimulate-Icp",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Stimulate-Icp"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/stimulate-icp/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

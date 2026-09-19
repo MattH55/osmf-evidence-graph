@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:inhalation-of-sterile-distilled-non-pyrogenic-water",
+  "type": "agent",
+  "label": "Inhalation Of Sterile Distilled Non-Pyrogenic Water",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Inhalation%20Of%20Sterile%20Distilled%20Non-Pyrogenic%20Water",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Inhalation%20Of%20Sterile%20Distilled%20Non-Pyrogenic%20Water"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/inhalation-of-sterile-distilled-non-pyrogenic-water/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

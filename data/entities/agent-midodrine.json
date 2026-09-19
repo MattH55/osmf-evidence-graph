@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:midodrine",
+  "type": "agent",
+  "label": "Midodrine",
+  "aliases": [],
+  "summary": "Not specified Systematic review + obs data ~34% success for hemodynamic benefit. VA guideline moderate evidence. 2.5-10mg TID. Vasopressor; supine hypertension risk. Useful for hypotensive POTS. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Midodrine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Midodrine"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/midodrine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

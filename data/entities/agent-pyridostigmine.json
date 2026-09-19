@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:pyridostigmine",
+  "type": "agent",
+  "label": "Pyridostigmine",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Crossover RCT + review supports hemodynamic benefit, esp hyperadrenergic POTS. 30-60mg TID. Reasonable targeted option. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/compound/4991",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/4991"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/pyridostigmine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

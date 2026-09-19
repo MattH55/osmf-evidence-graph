@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:pfizer-biontech-mrna-covid-19-vaccine",
+  "type": "agent",
+  "label": "Pfizer-Biontech Mrna Covid-19 Vaccine",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Pfizer-Biontech%20Mrna%20Covid-19%20Vaccine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Pfizer-Biontech%20Mrna%20Covid-19%20Vaccine"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/pfizer-biontech-mrna-covid-19-vaccine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:paxlovid-nirmatrelvir-ritonavir",
+  "type": "agent",
+  "label": "Paxlovid (Nirmatrelvir + Ritonavir)",
+  "aliases": [],
+  "summary": "Antiviral / Persistence, Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Network Investigational for listed conditions. 5 associated trial(s) and 3 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Paxlovid",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Paxlovid"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/paxlovid-nirmatrelvir-ritonavir/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

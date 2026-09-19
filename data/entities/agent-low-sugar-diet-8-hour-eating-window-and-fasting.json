@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:low-sugar-diet-8-hour-eating-window-and-fasting",
+  "type": "agent",
+  "label": "Low Sugar Diet, 8 Hour Eating Window And Fasting",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Low%20Sugar%20Diet%2C%208%20Hour%20Eating%20Window%20And%20Fasting",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Low%20Sugar%20Diet%2C%208%20Hour%20Eating%20Window%20And%20Fasting"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/candidate-therapeutics.html"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

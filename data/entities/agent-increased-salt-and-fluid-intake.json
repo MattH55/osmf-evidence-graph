@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:increased-salt-and-fluid-intake",
+  "type": "agent",
+  "label": "Increased Salt And Fluid Intake",
+  "aliases": [],
+  "summary": "Not specified Investigational for listed conditions. 0 associated trial(s) and 1 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Increased%20Salt%20And%20Fluid%20Intake",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Increased%20Salt%20And%20Fluid%20Intake"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/increased-salt-and-fluid-intake/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

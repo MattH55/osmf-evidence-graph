@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:neuromuscular-evaluation",
+  "type": "agent",
+  "label": "Neuromuscular Evaluation",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 2 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Neuromuscular%20Evaluation",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Neuromuscular%20Evaluation"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/neuromuscular-evaluation/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

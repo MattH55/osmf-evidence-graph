@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:lumbrokinase",
+  "type": "agent",
+  "label": "Lumbrokinase",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Mount Sinai RCT recruiting (NCT06511050) for microclots in Long COVID/ME-CFS. Fibrinolytic. 20-40mg 2-3x/day protocols. Low bleeding risk but caution with anticoagulants. Rigorous trial underway; currently research-only. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Lumbrokinase",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Lumbrokinase"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/lumbrokinase/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

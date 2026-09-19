@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:advice-literature-with-naturopathy",
+  "type": "agent",
+  "label": "Advice Literature With Naturopathy",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Advice%20Literature%20With%20Naturopathy",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Advice%20Literature%20With%20Naturopathy"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/advice-literature-with-naturopathy/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

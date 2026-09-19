@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:effect-on-inflammation-after-chronic-pns-stimulation",
+  "type": "agent",
+  "label": "Effect On Inflammation After Chronic Pns Stimulation",
+  "aliases": [],
+  "summary": "Anti-inflammatory, Enrollment: Estimated, Immunomodulatory, Neurological / Autonomic Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Effect%20On%20Inflammation%20After%20Chronic%20Pns%20Stimulation",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Effect%20On%20Inflammation%20After%20Chronic%20Pns%20Stimulation"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/effect-on-inflammation-after-chronic-pns-stimulation/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

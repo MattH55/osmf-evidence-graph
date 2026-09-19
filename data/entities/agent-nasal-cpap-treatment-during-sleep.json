@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:nasal-cpap-treatment-during-sleep",
+  "type": "agent",
+  "label": "Nasal Cpap Treatment During Sleep",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Fed, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Nasal%20Cpap%20Treatment%20During%20Sleep",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Nasal%20Cpap%20Treatment%20During%20Sleep"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/nasal-cpap-treatment-during-sleep/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

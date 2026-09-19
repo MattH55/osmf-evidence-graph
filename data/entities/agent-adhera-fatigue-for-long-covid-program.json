@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:adhera-fatigue-for-long-covid-program",
+  "type": "agent",
+  "label": "Adhera® Fatigue For Long Covid Program",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Industry, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Adhera%C2%AE%20Fatigue%20For%20Long%20Covid%20Program",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Adhera%C2%AE%20Fatigue%20For%20Long%20Covid%20Program"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/adhera-fatigue-for-long-covid-program/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

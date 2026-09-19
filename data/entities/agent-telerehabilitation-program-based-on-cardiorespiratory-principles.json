@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:telerehabilitation-program-based-on-cardiorespiratory-principles",
+  "type": "agent",
+  "label": "Telerehabilitation Program Based On Cardiorespiratory Principles",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Telerehabilitation%20Program%20Based%20On%20Cardiorespiratory%20Principles",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Telerehabilitation%20Program%20Based%20On%20Cardiorespiratory%20Principles"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/telerehabilitation-program-based-on-cardiorespiratory-principles/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

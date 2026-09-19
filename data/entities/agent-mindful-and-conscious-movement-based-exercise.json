@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:mindful-and-conscious-movement-based-exercise",
+  "type": "agent",
+  "label": "Mindful And Conscious Movement-Based Exercise",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Mindful%20And%20Conscious%20Movement-Based%20Exercise",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Mindful%20And%20Conscious%20Movement-Based%20Exercise"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/mindful-and-conscious-movement-based-exercise/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "osmf:claim:agent-enhanced-external-counterpulsation-treats-long-covid",
+  "subject_id": "osmf:agent:enhanced-external-counterpulsation",
+  "predicate": "treats_candidate_for",
+  "object_id": "osmf:condition:long-covid",
+  "evidence_tier": "D",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/agents/enhanced-external-counterpulsation/",
+      "label": "OSMF Research Tracker (therapeutic agent)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT07492953"
+    },
+    {
+      "type": "nct",
+      "value": "NCT05668039"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:04:30.227Z",
+  "license": "CC-BY-4.0"
+}

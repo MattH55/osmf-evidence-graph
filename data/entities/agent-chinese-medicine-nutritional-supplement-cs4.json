@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:chinese-medicine-nutritional-supplement-cs4",
+  "type": "agent",
+  "label": "Chinese Medicine Nutritional Supplement Cs4",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Chinese%20Medicine%20Nutritional%20Supplement%20Cs4",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Chinese%20Medicine%20Nutritional%20Supplement%20Cs4"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/chinese-medicine-nutritional-supplement-cs4/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:nmn",
+  "type": "agent",
+  "label": "Nmn",
+  "aliases": [],
+  "summary": "Not specified Investigational for listed conditions. 0 associated trial(s) and 1 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Nmn",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Nmn"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/nmn/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

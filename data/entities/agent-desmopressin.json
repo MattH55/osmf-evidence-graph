@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:desmopressin",
+  "type": "agent",
+  "label": "Desmopressin",
+  "aliases": [],
+  "summary": "Not specified Crossover RCT n=30: no HR change but reduced symptom score. Risk of hyponatremia/nocturia. Limited role for select POTS. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Desmopressin",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Desmopressin"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/desmopressin/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}
