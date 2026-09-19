@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:moderna-mrna-covid-19-vaccine",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05212610"
+    },
+    {
+      "type": "pmid",
+      "value": "33497610"
+    },
+    {
+      "type": "pmid",
+      "value": "34715347"
+    },
+    {
+      "type": "pmid",
+      "value": "36580913"
+    },
+    {
+      "type": "pmid",
+      "value": "37165196"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05212610 (COMPLETED), PMID:33497610, PMID:34715347, PMID:36580913, PMID:37165196, PMID:38264914. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. | Registry entries link Moderna Mrna Covid-19 Vaccine to Long COVID contexts, but vaccination is not established therapy for existing Long COVID. Statuses: COMPLETED. Search hits=2626."
 }

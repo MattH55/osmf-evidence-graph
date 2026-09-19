@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT04622293"
+    },
+    {
+      "type": "pmid",
+      "value": "39125722"
+    },
+    {
+      "type": "pmid",
+      "value": "39150700"
+    },
+    {
+      "type": "pmid",
+      "value": "40046430"
+    },
+    {
+      "type": "pmid",
+      "value": "40261198"
+    },
+    {
+      "type": "pmid",
+      "value": "41076550"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT04622293 (COMPLETED), PMID:39125722, PMID:39150700, PMID:40046430, PMID:40261198, PMID:41076550. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Solriamfetol Oral Tablet [Sunosi] \u2192 ME/CFS: NCT04622293 (COMPLETED, phase=PHASE4, n=44, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 39125722: Comprehensive Review of COVID-19: Epidemiology, Pathogenesis, Advancement in Diagnostic and Detection Techniques, and Po; PMID 39150700: Insights from a 10-year Australasian idiopathic"
 }

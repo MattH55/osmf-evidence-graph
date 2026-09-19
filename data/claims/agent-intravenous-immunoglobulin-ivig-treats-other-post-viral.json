@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:intravenous-immunoglobulin-ivig",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:other-post-viral",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -29,11 +29,32 @@
     {
       "type": "nct",
       "value": "NCT06305780"
+    },
+    {
+      "type": "pmid",
+      "value": "22185868"
+    },
+    {
+      "type": "pmid",
+      "value": "32298803"
+    },
+    {
+      "type": "pmid",
+      "value": "32493739"
+    },
+    {
+      "type": "pmid",
+      "value": "33176455"
+    },
+    {
+      "type": "pmid",
+      "value": "33753937"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:22185868, PMID:32298803, PMID:32493739, PMID:33176455. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) \u2192 Other Post-Viral & Post-Infectious Syndromes: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=False); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 22185868: Myocarditis.; PMID 32298803: Are we facing a crashing wave of neuropsychiatric seq"
 }

@@ -25,11 +25,32 @@
     {
       "type": "nct",
       "value": "NCT06128967"
+    },
+    {
+      "type": "pmid",
+      "value": "33180097"
+    },
+    {
+      "type": "pmid",
+      "value": "35987197"
+    },
+    {
+      "type": "pmid",
+      "value": "36253560"
+    },
+    {
+      "type": "pmid",
+      "value": "36631691"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT05874037 (COMPLETED, hasResults; symptom score -47.3 vs -31.1), NCT06128967, NCT04510194 (acute/off-target). Evaluated from extracted references on 2026-09-19; not a systematic review. Early single-trial signal for established Long COVID; not consensus. Not medical advice.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Posted CT.gov primary favors fluvoxamine vs placebo in one LC RCT; keep C not B."
 }

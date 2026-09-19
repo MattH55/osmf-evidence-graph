@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT06980636"
+    },
+    {
+      "type": "pmid",
+      "value": "37810369"
+    },
+    {
+      "type": "pmid",
+      "value": "38579075"
+    },
+    {
+      "type": "pmid",
+      "value": "40671020"
+    },
+    {
+      "type": "pmid",
+      "value": "42296071"
+    },
+    {
+      "type": "pmid",
+      "value": "42719314"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06980636 (RECRUITING), PMID:37810369, PMID:38579075, PMID:40671020, PMID:42296071, PMID:42719314. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Shengmai Liquid \u2192 Long COVID: NCT06980636 (RECRUITING, phase=PHASE4, n=100, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 37810369: Expert consensus on the use of traditional Chinese medicine for the treatment of common symptoms of post-COVID-19 short-; PMID 38579075: Advances in the application of traditional Chinese medicine"
 }

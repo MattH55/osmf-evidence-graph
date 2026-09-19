@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05911906"
+    },
+    {
+      "type": "pmid",
+      "value": "32201335"
+    },
+    {
+      "type": "pmid",
+      "value": "33146552"
+    },
+    {
+      "type": "pmid",
+      "value": "33892403"
+    },
+    {
+      "type": "pmid",
+      "value": "35271343"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05911906 (COMPLETED), PMID:32201335, PMID:33146552, PMID:33892403, PMID:35271343, PMID:37076602. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Remdesivir \u2192 Long COVID: NCT05911906 (COMPLETED, phase=PHASE4, n=73, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 33146552: Global Initiative for the Diagnosis, Management, and Prevention of Chroni"
 }

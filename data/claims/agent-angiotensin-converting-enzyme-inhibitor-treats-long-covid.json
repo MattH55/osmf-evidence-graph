@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:angiotensin-converting-enzyme-inhibitor",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT04591210"
+    },
+    {
+      "type": "pmid",
+      "value": "32201335"
+    },
+    {
+      "type": "pmid",
+      "value": "32526206"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT04591210 (COMPLETED), PMID:32201335, PMID:32526206, PMID:36695182, PMID:38264914, PMID:39866113. Evaluated from extracted references on 2026-09-19; not a systematic review. Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. | Tracker lists a class-level RAS agent for Long COVID. Registry trial(s) reviewed: The COVID-RASi Trial (COVID-19). Without drug-specific completed positive trials and posted results for the named condition, evidence is insufficient for a clinical tier."
 }

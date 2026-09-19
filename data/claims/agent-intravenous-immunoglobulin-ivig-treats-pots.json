@@ -29,11 +29,32 @@
     {
       "type": "nct",
       "value": "NCT06305780"
+    },
+    {
+      "type": "pmid",
+      "value": "33753937"
+    },
+    {
+      "type": "pmid",
+      "value": "34144933"
+    },
+    {
+      "type": "pmid",
+      "value": "34319569"
+    },
+    {
+      "type": "pmid",
+      "value": "34817268"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:33753937, PMID:34144933, PMID:34319569, PMID:34817268. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) \u2192 POTS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=True); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33753937: Post-acute COVID-19 syndrome.; PMID 34144933: Postural orthostatic tachycardia syndrome (POTS): State of the science and clinical care from a"
 }

@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:rituximab",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -29,11 +29,32 @@
     {
       "type": "nct",
       "value": "NCT01156909"
+    },
+    {
+      "type": "pmid",
+      "value": "19375665"
+    },
+    {
+      "type": "pmid",
+      "value": "30285773"
+    },
+    {
+      "type": "pmid",
+      "value": "31210940"
+    },
+    {
+      "type": "pmid",
+      "value": "31379879"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT06952413 (RECRUITING), NCT01156922 (TERMINATED), NCT02229942 (COMPLETED), NCT00848692 (COMPLETED), NCT01156909 (COMPLETED), PMID:19375665. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. | Rituximab was tested in ME/CFS including a Phase 3 program; published results did not support clinical efficacy, and the treatment claim is contested/insufficient. Registry statuses include: RECRUITING, TERMINATED, COMPLETED, COMPLETED, COMPLETED. Europe PMC hits=468."
 }

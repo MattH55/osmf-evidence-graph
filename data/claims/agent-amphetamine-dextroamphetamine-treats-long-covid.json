@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05597722"
+    },
+    {
+      "type": "pmid",
+      "value": "35673334"
+    },
+    {
+      "type": "pmid",
+      "value": "36899952"
+    },
+    {
+      "type": "pmid",
+      "value": "37344737"
+    },
+    {
+      "type": "pmid",
+      "value": "37396922"
+    },
+    {
+      "type": "pmid",
+      "value": "37655303"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT05597722 (TERMINATED), PMID:35673334, PMID:36899952, PMID:37344737, PMID:37396922, PMID:37655303. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "MattH55+evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). | Human-locked claim retained as tier C. Linked trial(s): NCT05597722:TERMINATED. Literature search '(Amphetamine-Dextroamphetamine) AND (\"long COVID\" OR \"post-COVID\" OR PASC)' returned 33 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
 }

@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05619653"
+    },
+    {
+      "type": "pmid",
+      "value": "32750108"
+    },
+    {
+      "type": "pmid",
+      "value": "33909761"
+    },
+    {
+      "type": "pmid",
+      "value": "36253560"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
+    },
+    {
+      "type": "pmid",
+      "value": "37518181"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05619653 (ACTIVE_NOT_RECRUITING), PMID:32750108, PMID:33909761, PMID:36253560, PMID:37076602, PMID:37518181. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Losartan \u2192 Long COVID: NCT05619653 (ACTIVE_NOT_RECRUITING, phase=PHASE3, n=279, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32750108: Endothelial dysfunction in COVID-19: a position paper of the ESC Working Group for Atherosclerosis and Vascular Biology,; PMID 33909761: Brazilian Guidelines of Hypertension - 2020.; PMID 3625"
 }

@@ -17,11 +17,32 @@
     {
       "type": "nct",
       "value": "NCT04948203"
+    },
+    {
+      "type": "pmid",
+      "value": "32422178"
+    },
+    {
+      "type": "pmid",
+      "value": "35668219"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06960928 (RECRUITING), NCT04948203 (ACTIVE_NOT_RECRUITING), PMID:32422178, PMID:35668219, PMID:36695182, PMID:38264914. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. | Extracted 2 registry trial(s) for Sirolimus (low-dose Rapamycin) \u2192 Long COVID: NCT06960928 (RECRUITING, phase=PHASE3, n=80, relevant=True); NCT04948203 (ACTIVE_NOT_RECRUITING, phase=PHASE2,PHASE3, n=60, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32422178: Pulmonary fibrosis and COVID-19: the potential role for antifibrotic therapy.; PMID 35668219: The burde"
 }

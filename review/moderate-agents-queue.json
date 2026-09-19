@@ -1,0 +1,2409 @@
+[
+  {
+    "claim_id": "osmf:claim:agent-amphetamine-dextroamphetamine-treats-long-covid",
+    "agent_id": "osmf:agent:amphetamine-dextroamphetamine",
+    "agent": "Amphetamine-Dextroamphetamine",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05597722",
+        "title": "Addressing Cognitive Fog in Long-COVID-19 Patients",
+        "status": "TERMINATED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2023-04-04",
+        "completion_date": "2023-05-18",
+        "primary_completion_date": "2023-05-18",
+        "last_updated": "2024-07-22"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/amphetamine-dextroamphetamine",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-amphetamine-dextroamphetamine-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/amphetamine-dextroamphetamine/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-ampligen-treats-me-cfs",
+    "agent_id": "osmf:agent:ampligen",
+    "agent": "Ampligen",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Sponsor Type: Industry, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT00215800",
+        "title": "The Study of the Safety and Efficacy of Ampligen in Chronic Fatigue Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "1998-12",
+        "completion_date": "2004-02",
+        "primary_completion_date": "2004-02",
+        "last_updated": "2013-04-17"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/ampligen",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-ampligen-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/ampligen/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-angiotensin-converting-enzyme-inhibitor-treats-long-covid",
+    "agent_id": "osmf:agent:angiotensin-converting-enzyme-inhibitor",
+    "agent": "Angiotensin Converting Enzyme Inhibitor",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT04591210",
+        "title": "The COVID-RASi Trial (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2021-01-27",
+        "completion_date": "2024-12-30",
+        "primary_completion_date": "2024-12-30",
+        "last_updated": "2026-01-28"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/angiotensin-converting-enzyme-inhibitor",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-angiotensin-converting-enzyme-inhibitor-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/angiotensin-converting-enzyme-inhibitor/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-angiotensin-ii-receptor-blockers-treats-long-covid",
+    "agent_id": "osmf:agent:angiotensin-ii-receptor-blockers",
+    "agent": "Angiotensin Ii Receptor Blockers",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT04591210",
+        "title": "The COVID-RASi Trial (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2021-01-27",
+        "completion_date": "2024-12-30",
+        "primary_completion_date": "2024-12-30",
+        "last_updated": "2026-01-28"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/angiotensin-ii-receptor-blockers",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-angiotensin-ii-receptor-blockers-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/angiotensin-ii-receptor-blockers/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-baricitinib-treats-long-covid",
+    "agent_id": "osmf:agent:baricitinib",
+    "agent": "Baricitinib",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06631287",
+        "title": "Randomized Double-Blind Placebo-Controlled Trial EValuating Baricitinib on PERSistent NEurologic and Cardiopulmonary Symptoms of Long COVID",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-10-21",
+        "completion_date": "2027-07-01",
+        "primary_completion_date": "2026-11-01",
+        "last_updated": "2026-05-11"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/baricitinib",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-baricitinib-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/baricitinib/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-baricitinib-4-mg-treats-long-covid",
+    "agent_id": "osmf:agent:baricitinib-4-mg",
+    "agent": "Baricitinib 4 Mg",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05858515",
+        "title": "REVERSE-Long COVID-19 With Baricitinib Study",
+        "status": "WITHDRAWN",
+        "phase": "PHASE3",
+        "size_category": null,
+        "start_date": "2024-10-21",
+        "completion_date": "2029-12-30",
+        "primary_completion_date": "2027-12-31",
+        "last_updated": "2025-01-31"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/baricitinib-4-mg",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-baricitinib-4-mg-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/candidate-therapeutics.html"
+  },
+  {
+    "claim_id": "osmf:claim:agent-behavioral-treats-long-covid",
+    "agent_id": "osmf:agent:behavioral",
+    "agent": "Behavioral",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Network, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06441955",
+        "title": "Covid-19 Long Haul Preventative and Health Promotion Care Clinical Trial Acceleration Program.",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-03-01",
+        "completion_date": "2030-09-30",
+        "primary_completion_date": "2030-09-30",
+        "last_updated": "2024-11-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/behavioral",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-behavioral-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/behavioral/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-biopsychological-treats-long-covid",
+    "agent_id": "osmf:agent:biopsychological",
+    "agent": "Biopsychological",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Network, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06441955",
+        "title": "Covid-19 Long Haul Preventative and Health Promotion Care Clinical Trial Acceleration Program.",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-03-01",
+        "completion_date": "2030-09-30",
+        "primary_completion_date": "2030-09-30",
+        "last_updated": "2024-11-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/biopsychological",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-biopsychological-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/biopsychological/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-cognitive-behavioural-therapy-treats-me-cfs",
+    "agent_id": "osmf:agent:cognitive-behavioural-therapy",
+    "agent": "Cognitive Behavioural Therapy",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Neurological / Autonomic, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT00860236",
+        "title": "Giardia Induced Fatigue and Functional Gastrointestinal Diseases",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2009-03",
+        "completion_date": "2010-06",
+        "primary_completion_date": "2010-06",
+        "last_updated": "2017-03-03"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/cognitive-behavioural-therapy",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-cognitive-behavioural-therapy-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/cognitive-behavioural-therapy/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-compound-ciwujia-granules-guipi-granules-treats-me-cfs",
+    "agent_id": "osmf:agent:compound-ciwujia-granules-guipi-granules",
+    "agent": "Compound Ciwujia Granules, Guipi Granules",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Industry, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06245642",
+        "title": "Compound Ciwujia Granules Treat Chronic Fatigue Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-19",
+        "completion_date": "2025-01-16",
+        "primary_completion_date": "2025-01-16",
+        "last_updated": "2025-09-23"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/compound-ciwujia-granules-guipi-granules",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-compound-ciwujia-granules-guipi-granules-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/compound-ciwujia-granules-guipi-granules/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-dapagliflozin-treats-long-covid",
+    "agent_id": "osmf:agent:dapagliflozin",
+    "agent": "Dapagliflozin",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06907251",
+        "title": "Dapagliflozin for Long COVID Syndrome",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-09-01",
+        "completion_date": "2029-06-30",
+        "primary_completion_date": "2028-06-30",
+        "last_updated": "2026-07-01"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/dapagliflozin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-dapagliflozin-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/dapagliflozin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-digital-cognitive-behavioral-intervention-rxwell-treats-long-covid",
+    "agent_id": "osmf:agent:digital-cognitive-behavioral-intervention-rxwell",
+    "agent": "Digital Cognitive Behavioral Intervention-Rxwell",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05597722",
+        "title": "Addressing Cognitive Fog in Long-COVID-19 Patients",
+        "status": "TERMINATED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2023-04-04",
+        "completion_date": "2023-05-18",
+        "primary_completion_date": "2023-05-18",
+        "last_updated": "2024-07-22"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/digital-cognitive-behavioral-intervention-rxwell",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-digital-cognitive-behavioral-intervention-rxwell-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/digital-cognitive-behavioral-intervention-rxwell/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-fluvoxamine-treats-long-covid",
+    "agent_id": "osmf:agent:fluvoxamine",
+    "agent": "Fluvoxamine",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05874037",
+        "title": "Fluvoxamine for Long COVID-19",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2023-05-15",
+        "completion_date": "2025-03-15",
+        "primary_completion_date": "2025-03-15",
+        "last_updated": "2026-06-25"
+      },
+      {
+        "nct_id": "NCT07359482",
+        "title": "sElective Serotonin reuPtake inhibitoRs In posT-covid After COVID-19",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-06-04",
+        "completion_date": "2028-05-01",
+        "primary_completion_date": "2027-12-31",
+        "last_updated": "2026-06-09"
+      },
+      {
+        "nct_id": "NCT04510194",
+        "title": "COVID-OUT: Early Outpatient Treatment for SARS-CoV-2 Infection (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2021-01-01",
+        "completion_date": "2022-12-14",
+        "primary_completion_date": "2022-12-14",
+        "last_updated": "2026-04-24"
+      },
+      {
+        "nct_id": "NCT06128967",
+        "title": "A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in Participants With Long COVID-19: The REVIVE Trial",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-10-18",
+        "completion_date": "2025-08-01",
+        "primary_completion_date": "2025-07-01",
+        "last_updated": "2026-04-13"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/fluvoxamine",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-fluvoxamine-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/fluvoxamine/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-fluvoxamine-treats-me-cfs",
+    "agent_id": "osmf:agent:fluvoxamine",
+    "agent": "Fluvoxamine",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05874037",
+        "title": "Fluvoxamine for Long COVID-19",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2023-05-15",
+        "completion_date": "2025-03-15",
+        "primary_completion_date": "2025-03-15",
+        "last_updated": "2026-06-25"
+      },
+      {
+        "nct_id": "NCT07359482",
+        "title": "sElective Serotonin reuPtake inhibitoRs In posT-covid After COVID-19",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-06-04",
+        "completion_date": "2028-05-01",
+        "primary_completion_date": "2027-12-31",
+        "last_updated": "2026-06-09"
+      },
+      {
+        "nct_id": "NCT04510194",
+        "title": "COVID-OUT: Early Outpatient Treatment for SARS-CoV-2 Infection (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2021-01-01",
+        "completion_date": "2022-12-14",
+        "primary_completion_date": "2022-12-14",
+        "last_updated": "2026-04-24"
+      },
+      {
+        "nct_id": "NCT06128967",
+        "title": "A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in Participants With Long COVID-19: The REVIVE Trial",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-10-18",
+        "completion_date": "2025-08-01",
+        "primary_completion_date": "2025-07-01",
+        "last_updated": "2026-04-13"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/fluvoxamine",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-fluvoxamine-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/fluvoxamine/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-gcjbp-laennec-inj-treats-me-cfs",
+    "agent_id": "osmf:agent:gcjbp-laennec-inj",
+    "agent": "Gcjbp Laennec Inj.",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT01742013",
+        "title": "Investigator Initiated Clinical Study to Explore the Efficacy and Safety of Human Placenta Hydrolysate in the Chronic Fatigue Patients",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2013-01",
+        "completion_date": "2013-09",
+        "primary_completion_date": "2013-08",
+        "last_updated": "2013-09-26"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/gcjbp-laennec-inj",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-gcjbp-laennec-inj-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/gcjbp-laennec-inj/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-genetic-treats-long-covid",
+    "agent_id": "osmf:agent:genetic",
+    "agent": "Genetic",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Network, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06441955",
+        "title": "Covid-19 Long Haul Preventative and Health Promotion Care Clinical Trial Acceleration Program.",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-03-01",
+        "completion_date": "2030-09-30",
+        "primary_completion_date": "2030-09-30",
+        "last_updated": "2024-11-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/genetic",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-genetic-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/genetic/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-hyperbaric-oxygen-therapy-hbot-treats-me-cfs",
+    "agent_id": "osmf:agent:hyperbaric-oxygen-therapy-hbot",
+    "agent": "Hyperbaric Oxygen Therapy (HBOT)",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Enrollment: Estimated, Neurological / Autonomic, Sponsor Type: Other",
+    "key_studies": "['PMID:42249466']",
+    "studies": [
+      {
+        "pmid": "42249466",
+        "title": "Hyperbaric oxygen therapy improves clinical symptoms and functional capacity and modulates thalamic connectivity in ME/CFS: a prospective co",
+        "pub_date": "2026-06-06",
+        "excerpt": "Hyperbaric oxygen therapy (HBOT) has been proposed as a treatment for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), but evidence remains limited. This study evaluated its clinical effectiveness and feasibility, as well as associated functional brain changes. Thirty patients with ME/CF...",
+        "source_page": "me-cfs"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06452095",
+        "title": "Recovering From COVID-19 Lingering Symptoms Adaptive Integrative Medicine Trial - Effect of Hyperbaric Oxygen Therapy for the Treatment of P",
+        "status": "RECRUITING",
+        "phase": "NA",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-01-01",
+        "completion_date": "2029-12-31",
+        "primary_completion_date": "2029-12-31",
+        "last_updated": "2026-02-23"
+      },
+      {
+        "nct_id": "NCT04842448",
+        "title": "Safety and Efficacy of Hyperbaric Oxygen Therapy for Long COVID Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2021-09-15",
+        "completion_date": "2024-06-17",
+        "primary_completion_date": "2023-09-27",
+        "last_updated": "2024-08-22"
+      },
+      {
+        "nct_id": "NCT06267300",
+        "title": "Treatment of Post-COVID-19 With Hyperbaric Oxygen Therapy: a Randomized, Controlled Trial",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-10-01",
+        "completion_date": "2026-04-01",
+        "primary_completion_date": "2025-10-01",
+        "last_updated": "2024-02-28"
+      },
+      {
+        "nct_id": "NCT04905888",
+        "title": "Hyperbaric Oxygen for Long COVID-19 Pulmonary Sequela",
+        "status": "WITHDRAWN",
+        "phase": "PHASE2",
+        "size_category": null,
+        "start_date": "2021-11-08",
+        "completion_date": "2023-12-31",
+        "primary_completion_date": "2022-12-31",
+        "last_updated": "2024-01-23"
+      },
+      {
+        "nct_id": "NCT07621068",
+        "title": "Hyperbaric Oxygen Therapy for Chronic Fatigue Syndrome (CFS)",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-06",
+        "completion_date": "2027-06",
+        "primary_completion_date": "2027-06",
+        "last_updated": "2026-06-02"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/hyperbaric-oxygen-therapy-hbot",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-hyperbaric-oxygen-therapy-hbot-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/hyperbaric-oxygen-therapy-hbot/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-hyperbaric-oxygen-therapy-hbot-treats-long-covid",
+    "agent_id": "osmf:agent:hyperbaric-oxygen-therapy-hbot",
+    "agent": "Hyperbaric Oxygen Therapy (HBOT)",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Enrollment: Estimated, Neurological / Autonomic, Sponsor Type: Other",
+    "key_studies": "['PMID:42249466']",
+    "studies": [
+      {
+        "pmid": "42249466",
+        "title": "Hyperbaric oxygen therapy improves clinical symptoms and functional capacity and modulates thalamic connectivity in ME/CFS: a prospective co",
+        "pub_date": "2026-06-06",
+        "excerpt": "Hyperbaric oxygen therapy (HBOT) has been proposed as a treatment for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), but evidence remains limited. This study evaluated its clinical effectiveness and feasibility, as well as associated functional brain changes. Thirty patients with ME/CF...",
+        "source_page": "me-cfs"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06452095",
+        "title": "Recovering From COVID-19 Lingering Symptoms Adaptive Integrative Medicine Trial - Effect of Hyperbaric Oxygen Therapy for the Treatment of P",
+        "status": "RECRUITING",
+        "phase": "NA",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-01-01",
+        "completion_date": "2029-12-31",
+        "primary_completion_date": "2029-12-31",
+        "last_updated": "2026-02-23"
+      },
+      {
+        "nct_id": "NCT04842448",
+        "title": "Safety and Efficacy of Hyperbaric Oxygen Therapy for Long COVID Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2021-09-15",
+        "completion_date": "2024-06-17",
+        "primary_completion_date": "2023-09-27",
+        "last_updated": "2024-08-22"
+      },
+      {
+        "nct_id": "NCT06267300",
+        "title": "Treatment of Post-COVID-19 With Hyperbaric Oxygen Therapy: a Randomized, Controlled Trial",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-10-01",
+        "completion_date": "2026-04-01",
+        "primary_completion_date": "2025-10-01",
+        "last_updated": "2024-02-28"
+      },
+      {
+        "nct_id": "NCT04905888",
+        "title": "Hyperbaric Oxygen for Long COVID-19 Pulmonary Sequela",
+        "status": "WITHDRAWN",
+        "phase": "PHASE2",
+        "size_category": null,
+        "start_date": "2021-11-08",
+        "completion_date": "2023-12-31",
+        "primary_completion_date": "2022-12-31",
+        "last_updated": "2024-01-23"
+      },
+      {
+        "nct_id": "NCT07621068",
+        "title": "Hyperbaric Oxygen Therapy for Chronic Fatigue Syndrome (CFS)",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-06",
+        "completion_date": "2027-06",
+        "primary_completion_date": "2027-06",
+        "last_updated": "2026-06-02"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/hyperbaric-oxygen-therapy-hbot",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-hyperbaric-oxygen-therapy-hbot-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/hyperbaric-oxygen-therapy-hbot/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-igpro20-treats-long-covid",
+    "agent_id": "osmf:agent:igpro20",
+    "agent": "Igpro20",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Industry",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06524739",
+        "title": "Double-blind, Randomized, Placebo-controlled Study Evaluating Efficacy and Safety of IgPro20 in Post-COVID-19 POTS",
+        "status": "TERMINATED",
+        "phase": "PHASE3",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2024-08-28",
+        "completion_date": "2025-07-11",
+        "primary_completion_date": "2025-06-20",
+        "last_updated": "2026-04-13"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/igpro20",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-igpro20-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/igpro20/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-immulina-tm-treats-long-covid",
+    "agent_id": "osmf:agent:immulina-tm",
+    "agent": "Immulina Tm",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05524532",
+        "title": "Effects of Immulina TM Supplements With PASC Patients",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2023-07-20",
+        "completion_date": "2025-07-29",
+        "primary_completion_date": "2025-07-29",
+        "last_updated": "2025-08-14"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/immulina-tm",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-immulina-tm-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/immulina-tm/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-other-post-viral",
+    "agent_id": "osmf:agent:intravenous-immunoglobulin-ivig",
+    "agent": "Intravenous Immunoglobulin (IVIG)",
+    "condition_id": "osmf:condition:other-post-viral",
+    "condition": "Other Post-Viral & Post-Infectious Syndromes",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Immunomodulatory, Neurological / Autonomic",
+    "key_studies": "['PMID:42391726', 'PMID:42391726', 'PMID:42391726']",
+    "studies": [
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "lyme"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "me-cfs"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "long-covid"
+      },
+      {
+        "pmid": "42243711",
+        "title": "Human parvovirus B19-associated Guillain-Barr\u00e9 syndrome diagnosed by cerebrospinal fluid targeted next-generation sequencing: a case report ",
+        "pub_date": "2026-06-05",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a post-infectious autoimmune disorder of the peripheral nerves. While human parvovirus B19 (B19V) is a recognized rare trigger, its diagnosis can be challenging without advanced molecular techniques. A 24-year-old male presented with acute symmetrical limb weakness a...",
+        "source_page": "other-post-viral"
+      },
+      {
+        "pmid": "42137701",
+        "title": "Isolated Arterial Hypertension as a Rare Early Manifestation of Guillain-Barr\u00e9 Syndrome: A Case Report.",
+        "pub_date": "2026-05-15",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a well-known post-infectious acute polyradiculoneuritis, classically characterized by ascending muscle weakness. While dysautonomia affects up to two-thirds of patients, it almost always follows the onset of motor deficits. Arterial hypertension, when presenting as a...",
+        "source_page": "other-post-viral"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06305793",
+        "title": "RECOVER-AUTONOMIC: Platform Protocol, Appendix A (IVIG)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2026-07-01",
+        "primary_completion_date": "2026-03-23",
+        "last_updated": "2026-06-03"
+      },
+      {
+        "nct_id": "NCT06305780",
+        "title": "RECOVER-AUTONOMIC Platform Protocol",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2025-07-09",
+        "primary_completion_date": "2025-07-09",
+        "last_updated": "2026-02-20"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/intravenous-immunoglobulin-ivig",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-intravenous-immunoglobulin-ivig-treats-other-post-viral",
+    "tracker_url": "https://research.opensourcemed.info/agents/intravenous-immunoglobulin-ivig/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-long-covid",
+    "agent_id": "osmf:agent:intravenous-immunoglobulin-ivig",
+    "agent": "Intravenous Immunoglobulin (IVIG)",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Immunomodulatory, Neurological / Autonomic",
+    "key_studies": "['PMID:42391726', 'PMID:42391726', 'PMID:42391726']",
+    "studies": [
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "lyme"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "me-cfs"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "long-covid"
+      },
+      {
+        "pmid": "42243711",
+        "title": "Human parvovirus B19-associated Guillain-Barr\u00e9 syndrome diagnosed by cerebrospinal fluid targeted next-generation sequencing: a case report ",
+        "pub_date": "2026-06-05",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a post-infectious autoimmune disorder of the peripheral nerves. While human parvovirus B19 (B19V) is a recognized rare trigger, its diagnosis can be challenging without advanced molecular techniques. A 24-year-old male presented with acute symmetrical limb weakness a...",
+        "source_page": "other-post-viral"
+      },
+      {
+        "pmid": "42137701",
+        "title": "Isolated Arterial Hypertension as a Rare Early Manifestation of Guillain-Barr\u00e9 Syndrome: A Case Report.",
+        "pub_date": "2026-05-15",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a well-known post-infectious acute polyradiculoneuritis, classically characterized by ascending muscle weakness. While dysautonomia affects up to two-thirds of patients, it almost always follows the onset of motor deficits. Arterial hypertension, when presenting as a...",
+        "source_page": "other-post-viral"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06305793",
+        "title": "RECOVER-AUTONOMIC: Platform Protocol, Appendix A (IVIG)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2026-07-01",
+        "primary_completion_date": "2026-03-23",
+        "last_updated": "2026-06-03"
+      },
+      {
+        "nct_id": "NCT06305780",
+        "title": "RECOVER-AUTONOMIC Platform Protocol",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2025-07-09",
+        "primary_completion_date": "2025-07-09",
+        "last_updated": "2026-02-20"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/intravenous-immunoglobulin-ivig",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-intravenous-immunoglobulin-ivig-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/intravenous-immunoglobulin-ivig/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-lyme",
+    "agent_id": "osmf:agent:intravenous-immunoglobulin-ivig",
+    "agent": "Intravenous Immunoglobulin (IVIG)",
+    "condition_id": "osmf:condition:lyme",
+    "condition": "Chronic Lyme / PTLDS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Immunomodulatory, Neurological / Autonomic",
+    "key_studies": "['PMID:42391726', 'PMID:42391726', 'PMID:42391726']",
+    "studies": [
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "lyme"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "me-cfs"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "long-covid"
+      },
+      {
+        "pmid": "42243711",
+        "title": "Human parvovirus B19-associated Guillain-Barr\u00e9 syndrome diagnosed by cerebrospinal fluid targeted next-generation sequencing: a case report ",
+        "pub_date": "2026-06-05",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a post-infectious autoimmune disorder of the peripheral nerves. While human parvovirus B19 (B19V) is a recognized rare trigger, its diagnosis can be challenging without advanced molecular techniques. A 24-year-old male presented with acute symmetrical limb weakness a...",
+        "source_page": "other-post-viral"
+      },
+      {
+        "pmid": "42137701",
+        "title": "Isolated Arterial Hypertension as a Rare Early Manifestation of Guillain-Barr\u00e9 Syndrome: A Case Report.",
+        "pub_date": "2026-05-15",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a well-known post-infectious acute polyradiculoneuritis, classically characterized by ascending muscle weakness. While dysautonomia affects up to two-thirds of patients, it almost always follows the onset of motor deficits. Arterial hypertension, when presenting as a...",
+        "source_page": "other-post-viral"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06305793",
+        "title": "RECOVER-AUTONOMIC: Platform Protocol, Appendix A (IVIG)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2026-07-01",
+        "primary_completion_date": "2026-03-23",
+        "last_updated": "2026-06-03"
+      },
+      {
+        "nct_id": "NCT06305780",
+        "title": "RECOVER-AUTONOMIC Platform Protocol",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2025-07-09",
+        "primary_completion_date": "2025-07-09",
+        "last_updated": "2026-02-20"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/intravenous-immunoglobulin-ivig",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-intravenous-immunoglobulin-ivig-treats-lyme",
+    "tracker_url": "https://research.opensourcemed.info/agents/intravenous-immunoglobulin-ivig/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-pots",
+    "agent_id": "osmf:agent:intravenous-immunoglobulin-ivig",
+    "agent": "Intravenous Immunoglobulin (IVIG)",
+    "condition_id": "osmf:condition:pots",
+    "condition": "POTS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Immunomodulatory, Neurological / Autonomic",
+    "key_studies": "['PMID:42391726', 'PMID:42391726', 'PMID:42391726']",
+    "studies": [
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "lyme"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "me-cfs"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "long-covid"
+      },
+      {
+        "pmid": "42243711",
+        "title": "Human parvovirus B19-associated Guillain-Barr\u00e9 syndrome diagnosed by cerebrospinal fluid targeted next-generation sequencing: a case report ",
+        "pub_date": "2026-06-05",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a post-infectious autoimmune disorder of the peripheral nerves. While human parvovirus B19 (B19V) is a recognized rare trigger, its diagnosis can be challenging without advanced molecular techniques. A 24-year-old male presented with acute symmetrical limb weakness a...",
+        "source_page": "other-post-viral"
+      },
+      {
+        "pmid": "42137701",
+        "title": "Isolated Arterial Hypertension as a Rare Early Manifestation of Guillain-Barr\u00e9 Syndrome: A Case Report.",
+        "pub_date": "2026-05-15",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a well-known post-infectious acute polyradiculoneuritis, classically characterized by ascending muscle weakness. While dysautonomia affects up to two-thirds of patients, it almost always follows the onset of motor deficits. Arterial hypertension, when presenting as a...",
+        "source_page": "other-post-viral"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06305793",
+        "title": "RECOVER-AUTONOMIC: Platform Protocol, Appendix A (IVIG)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2026-07-01",
+        "primary_completion_date": "2026-03-23",
+        "last_updated": "2026-06-03"
+      },
+      {
+        "nct_id": "NCT06305780",
+        "title": "RECOVER-AUTONOMIC Platform Protocol",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2025-07-09",
+        "primary_completion_date": "2025-07-09",
+        "last_updated": "2026-02-20"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/intravenous-immunoglobulin-ivig",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-intravenous-immunoglobulin-ivig-treats-pots",
+    "tracker_url": "https://research.opensourcemed.info/agents/intravenous-immunoglobulin-ivig/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-me-cfs",
+    "agent_id": "osmf:agent:intravenous-immunoglobulin-ivig",
+    "agent": "Intravenous Immunoglobulin (IVIG)",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Immunomodulatory, Neurological / Autonomic",
+    "key_studies": "['PMID:42391726', 'PMID:42391726', 'PMID:42391726']",
+    "studies": [
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "lyme"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "me-cfs"
+      },
+      {
+        "pmid": "42391726",
+        "title": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long CO",
+        "pub_date": "2026-07-03",
+        "excerpt": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infectio...",
+        "source_page": "long-covid"
+      },
+      {
+        "pmid": "42243711",
+        "title": "Human parvovirus B19-associated Guillain-Barr\u00e9 syndrome diagnosed by cerebrospinal fluid targeted next-generation sequencing: a case report ",
+        "pub_date": "2026-06-05",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a post-infectious autoimmune disorder of the peripheral nerves. While human parvovirus B19 (B19V) is a recognized rare trigger, its diagnosis can be challenging without advanced molecular techniques. A 24-year-old male presented with acute symmetrical limb weakness a...",
+        "source_page": "other-post-viral"
+      },
+      {
+        "pmid": "42137701",
+        "title": "Isolated Arterial Hypertension as a Rare Early Manifestation of Guillain-Barr\u00e9 Syndrome: A Case Report.",
+        "pub_date": "2026-05-15",
+        "excerpt": "Guillain-Barr\u00e9 syndrome (GBS) is a well-known post-infectious acute polyradiculoneuritis, classically characterized by ascending muscle weakness. While dysautonomia affects up to two-thirds of patients, it almost always follows the onset of motor deficits. Arterial hypertension, when presenting as a...",
+        "source_page": "other-post-viral"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06305793",
+        "title": "RECOVER-AUTONOMIC: Platform Protocol, Appendix A (IVIG)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2026-07-01",
+        "primary_completion_date": "2026-03-23",
+        "last_updated": "2026-06-03"
+      },
+      {
+        "nct_id": "NCT06305780",
+        "title": "RECOVER-AUTONOMIC Platform Protocol",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2025-07-09",
+        "primary_completion_date": "2025-07-09",
+        "last_updated": "2026-02-20"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/intravenous-immunoglobulin-ivig",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-intravenous-immunoglobulin-ivig-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/intravenous-immunoglobulin-ivig/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-ivabradine-treats-long-covid",
+    "agent_id": "osmf:agent:ivabradine",
+    "agent": "Ivabradine",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Enrollment: Estimated, Neurological / Autonomic, Sponsor Type: Fed",
+    "key_studies": "['See linked studies']",
+    "studies": [
+      {
+        "title": "Consistent HR reduction across studies; selective If channel blocker \u2014 HR reduction without other cardiovascular effects; COVIVA published Frontiers N",
+        "pub_date": "",
+        "excerpt": "Consistent HR reduction across studies; selective If channel blocker \u2014 HR reduction without other cardiovascular effects; COVIVA published Frontiers Neurol July 2025",
+        "source": "PACVS Evidence Map"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT06305806",
+        "title": "RECOVER-AUTONOMIC: Platform Protocol, Appendix B (Ivabradine)",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-03-11",
+        "completion_date": "2025-12-17",
+        "primary_completion_date": "2025-10-13",
+        "last_updated": "2026-02-20"
+      },
+      {
+        "nct_id": "NCT05481177",
+        "title": "Ivabradine for Long-Term Effects of COVID-19 With POTS Cohort",
+        "status": "UNKNOWN",
+        "phase": "PHASE4",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-06-14",
+        "completion_date": "2024-09-01",
+        "primary_completion_date": "2024-09-01",
+        "last_updated": "2023-11-29"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/ivabradine",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-ivabradine-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/ivabradine/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-ivermectin-treats-lyme",
+    "agent_id": "osmf:agent:ivermectin",
+    "agent": "Ivermectin",
+    "condition_id": "osmf:condition:lyme",
+    "condition": "Chronic Lyme / PTLDS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['PMID:41421419']",
+    "studies": [
+      {
+        "pmid": "41421419",
+        "title": "Methemoglobinemia induced by dapsone, hydroxychloroquine, and rifampin combination for post-treatment Lyme disease syndrome: A case report.",
+        "pub_date": "2025-12-21",
+        "excerpt": "A patient presented to the emergency department with drug-induced methemoglobinemia due to a combination of medications prescribed for post-treatment Lyme disease syndrome (PTLDS). This case highlights the potential risks of dapsone, hydroxychloroquine (HCQ), and rifampin for the management of PTLDS...",
+        "source_page": "lyme"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT04510194",
+        "title": "COVID-OUT: Early Outpatient Treatment for SARS-CoV-2 Infection (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2021-01-01",
+        "completion_date": "2022-12-14",
+        "primary_completion_date": "2022-12-14",
+        "last_updated": "2026-04-24"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/ivermectin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-ivermectin-treats-lyme",
+    "tracker_url": "https://research.opensourcemed.info/agents/ivermectin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-ivermectin-treats-long-covid",
+    "agent_id": "osmf:agent:ivermectin",
+    "agent": "Ivermectin",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['PMID:41421419']",
+    "studies": [
+      {
+        "pmid": "41421419",
+        "title": "Methemoglobinemia induced by dapsone, hydroxychloroquine, and rifampin combination for post-treatment Lyme disease syndrome: A case report.",
+        "pub_date": "2025-12-21",
+        "excerpt": "A patient presented to the emergency department with drug-induced methemoglobinemia due to a combination of medications prescribed for post-treatment Lyme disease syndrome (PTLDS). This case highlights the potential risks of dapsone, hydroxychloroquine (HCQ), and rifampin for the management of PTLDS...",
+        "source_page": "lyme"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT04510194",
+        "title": "COVID-OUT: Early Outpatient Treatment for SARS-CoV-2 Infection (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2021-01-01",
+        "completion_date": "2022-12-14",
+        "primary_completion_date": "2022-12-14",
+        "last_updated": "2026-04-24"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/ivermectin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-ivermectin-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/ivermectin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-lisdexamfetamine-dimesylate-treats-me-cfs",
+    "agent_id": "osmf:agent:lisdexamfetamine-dimesylate",
+    "agent": "Lisdexamfetamine Dimesylate",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT01071044",
+        "title": "Efficacy and Safety of Lisdexamfetamine Dimesylate in Adults With Chronic Fatigue Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2009-11",
+        "completion_date": "2011-03",
+        "primary_completion_date": "2011-03",
+        "last_updated": "2025-09-09"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/lisdexamfetamine-dimesylate",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-lisdexamfetamine-dimesylate-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/lisdexamfetamine-dimesylate/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-losartan-treats-long-covid",
+    "agent_id": "osmf:agent:losartan",
+    "agent": "Losartan",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05619653",
+        "title": "Myocardial Protection in Patients With Post-acute Inflammatory Cardiac Involvement Due to COVID-19",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2022-12-12",
+        "completion_date": "2026-03-31",
+        "primary_completion_date": "2025-08-08",
+        "last_updated": "2025-12-09"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/losartan",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-losartan-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/losartan/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-metformin-treats-gulf-war-illness",
+    "agent_id": "osmf:agent:metformin",
+    "agent": "Metformin",
+    "condition_id": "osmf:condition:gulf-war-illness",
+    "condition": "Gulf War Illness",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Metabolic / Mitochondrial",
+    "key_studies": "['PMID:40544605']",
+    "studies": [
+      {
+        "pmid": "40544605",
+        "title": "Mitochondria-targeted therapy with metformin and MitoQ reduces oxidative stress, improves mitochondrial function, and restores metabolic hom",
+        "pub_date": "2025-06-23",
+        "excerpt": "Gulf War Illness (GWI) is a cluster of medically unexplained chronic symptoms, including neurological and gastrointestinal impairments, and muscle fatigue, suffered by veterans of the Persian Gulf War. A GWI model in C57BL/6 mice exposed to the nerve gas prophylactic pyridostigmine-bromide (PB) and ...",
+        "source_page": "gulf-war-illness"
+      },
+      {
+        "title": "Clinician-diagnosed long COVID halved at 6 months (RR 0.495; 95% CI 0.155\u20130.995); prevention not treatment; concordance across two independent trials ",
+        "pub_date": "",
+        "excerpt": "Clinician-diagnosed long COVID halved at 6 months (RR 0.495; 95% CI 0.155\u20130.995); prevention not treatment; concordance across two independent trials strengthens signal",
+        "source": "PACVS Evidence Map"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT04510194",
+        "title": "COVID-OUT: Early Outpatient Treatment for SARS-CoV-2 Infection (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2021-01-01",
+        "completion_date": "2022-12-14",
+        "primary_completion_date": "2022-12-14",
+        "last_updated": "2026-04-24"
+      },
+      {
+        "nct_id": "NCT06128967",
+        "title": "A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in Participants With Long COVID-19: The REVIVE Trial",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-10-18",
+        "completion_date": "2025-08-01",
+        "primary_completion_date": "2025-07-01",
+        "last_updated": "2026-04-13"
+      },
+      {
+        "nct_id": "NCT06147050",
+        "title": "Effect of Metformin in Reducing Fatigue in Long COVID in Adolescents",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2024-04",
+        "completion_date": "2024-12",
+        "primary_completion_date": "2024-10",
+        "last_updated": "2024-03-04"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/metformin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-metformin-treats-gulf-war-illness",
+    "tracker_url": "https://research.opensourcemed.info/agents/metformin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-metformin-treats-me-cfs",
+    "agent_id": "osmf:agent:metformin",
+    "agent": "Metformin",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Metabolic / Mitochondrial",
+    "key_studies": "['PMID:40544605']",
+    "studies": [
+      {
+        "pmid": "40544605",
+        "title": "Mitochondria-targeted therapy with metformin and MitoQ reduces oxidative stress, improves mitochondrial function, and restores metabolic hom",
+        "pub_date": "2025-06-23",
+        "excerpt": "Gulf War Illness (GWI) is a cluster of medically unexplained chronic symptoms, including neurological and gastrointestinal impairments, and muscle fatigue, suffered by veterans of the Persian Gulf War. A GWI model in C57BL/6 mice exposed to the nerve gas prophylactic pyridostigmine-bromide (PB) and ...",
+        "source_page": "gulf-war-illness"
+      },
+      {
+        "title": "Clinician-diagnosed long COVID halved at 6 months (RR 0.495; 95% CI 0.155\u20130.995); prevention not treatment; concordance across two independent trials ",
+        "pub_date": "",
+        "excerpt": "Clinician-diagnosed long COVID halved at 6 months (RR 0.495; 95% CI 0.155\u20130.995); prevention not treatment; concordance across two independent trials strengthens signal",
+        "source": "PACVS Evidence Map"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT04510194",
+        "title": "COVID-OUT: Early Outpatient Treatment for SARS-CoV-2 Infection (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2021-01-01",
+        "completion_date": "2022-12-14",
+        "primary_completion_date": "2022-12-14",
+        "last_updated": "2026-04-24"
+      },
+      {
+        "nct_id": "NCT06128967",
+        "title": "A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in Participants With Long COVID-19: The REVIVE Trial",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-10-18",
+        "completion_date": "2025-08-01",
+        "primary_completion_date": "2025-07-01",
+        "last_updated": "2026-04-13"
+      },
+      {
+        "nct_id": "NCT06147050",
+        "title": "Effect of Metformin in Reducing Fatigue in Long COVID in Adolescents",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2024-04",
+        "completion_date": "2024-12",
+        "primary_completion_date": "2024-10",
+        "last_updated": "2024-03-04"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/metformin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-metformin-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/metformin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-metformin-treats-long-covid",
+    "agent_id": "osmf:agent:metformin",
+    "agent": "Metformin",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Metabolic / Mitochondrial",
+    "key_studies": "['PMID:40544605']",
+    "studies": [
+      {
+        "pmid": "40544605",
+        "title": "Mitochondria-targeted therapy with metformin and MitoQ reduces oxidative stress, improves mitochondrial function, and restores metabolic hom",
+        "pub_date": "2025-06-23",
+        "excerpt": "Gulf War Illness (GWI) is a cluster of medically unexplained chronic symptoms, including neurological and gastrointestinal impairments, and muscle fatigue, suffered by veterans of the Persian Gulf War. A GWI model in C57BL/6 mice exposed to the nerve gas prophylactic pyridostigmine-bromide (PB) and ...",
+        "source_page": "gulf-war-illness"
+      },
+      {
+        "title": "Clinician-diagnosed long COVID halved at 6 months (RR 0.495; 95% CI 0.155\u20130.995); prevention not treatment; concordance across two independent trials ",
+        "pub_date": "",
+        "excerpt": "Clinician-diagnosed long COVID halved at 6 months (RR 0.495; 95% CI 0.155\u20130.995); prevention not treatment; concordance across two independent trials strengthens signal",
+        "source": "PACVS Evidence Map"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT04510194",
+        "title": "COVID-OUT: Early Outpatient Treatment for SARS-CoV-2 Infection (COVID-19)",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2021-01-01",
+        "completion_date": "2022-12-14",
+        "primary_completion_date": "2022-12-14",
+        "last_updated": "2026-04-24"
+      },
+      {
+        "nct_id": "NCT06128967",
+        "title": "A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in Participants With Long COVID-19: The REVIVE Trial",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-10-18",
+        "completion_date": "2025-08-01",
+        "primary_completion_date": "2025-07-01",
+        "last_updated": "2026-04-13"
+      },
+      {
+        "nct_id": "NCT06147050",
+        "title": "Effect of Metformin in Reducing Fatigue in Long COVID in Adolescents",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2024-04",
+        "completion_date": "2024-12",
+        "primary_completion_date": "2024-10",
+        "last_updated": "2024-03-04"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/metformin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-metformin-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/metformin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-microcrystalline-cellulose-treats-long-covid",
+    "agent_id": "osmf:agent:microcrystalline-cellulose",
+    "agent": "Microcrystalline Cellulose",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Enrollment: Estimated, Neurological / Autonomic, Sponsor Type: Industry",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05795816",
+        "title": "Effectiveness of Testofen Compared to Placebo on Long COVID Symptoms",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2023-10-25",
+        "completion_date": "2025-01-31",
+        "primary_completion_date": "2025-01-30",
+        "last_updated": "2025-03-10"
+      },
+      {
+        "nct_id": "NCT06348212",
+        "title": "Effect of Probiotic Strain Lactobacillus Paracasei PS23 on Brain Fog in People With Long COVID",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-04",
+        "completion_date": "2025-12",
+        "primary_completion_date": "2025-08",
+        "last_updated": "2024-04-04"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/microcrystalline-cellulose",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-microcrystalline-cellulose-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/microcrystalline-cellulose/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-moderna-covid-19-vaccine-treats-long-covid",
+    "agent_id": "osmf:agent:moderna-covid-19-vaccine",
+    "agent": "Moderna Covid-19 Vaccine",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Network, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06441955",
+        "title": "Covid-19 Long Haul Preventative and Health Promotion Care Clinical Trial Acceleration Program.",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-03-01",
+        "completion_date": "2030-09-30",
+        "primary_completion_date": "2030-09-30",
+        "last_updated": "2024-11-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/moderna-covid-19-vaccine",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-moderna-covid-19-vaccine-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/moderna-covid-19-vaccine/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-moderna-mrna-covid-19-vaccine-treats-long-covid",
+    "agent_id": "osmf:agent:moderna-mrna-covid-19-vaccine",
+    "agent": "Moderna Mrna Covid-19 Vaccine",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05212610",
+        "title": "Assessing Safety of Coronavirus Infection (COVID-19) Messenger RNA (mRNA) Vaccine Administration in the Setting of a Previous Adverse Reacti",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2022-03-21",
+        "completion_date": "2025-03-07",
+        "primary_completion_date": "2025-03-07",
+        "last_updated": "2026-03-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/moderna-mrna-covid-19-vaccine",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-moderna-mrna-covid-19-vaccine-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/moderna-mrna-covid-19-vaccine/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-montelukast-treats-mcas",
+    "agent_id": "osmf:agent:montelukast",
+    "agent": "Montelukast",
+    "condition_id": "osmf:condition:mcas",
+    "condition": "MCAS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [
+      {
+        "title": "2nd most commonly used drug after antihistamines in idiopathic MCAS; RCT evidence from urticaria (34 RCTs) shows modest benefit of adding LTRA to anti",
+        "pub_date": "",
+        "excerpt": "2nd most commonly used drug after antihistamines in idiopathic MCAS; RCT evidence from urticaria (34 RCTs) shows modest benefit of adding LTRA to anti-H1; cysteinyl leukotriene elevation documented during MCAS episodes",
+        "source": "PACVS Evidence Map"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT04695704",
+        "title": "Efficacy of Montelukast in Mild-moderate Respiratory Symptoms in Patients With Long-COVID-19:",
+        "status": "TERMINATED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2021-08-11",
+        "completion_date": "2023-08-28",
+        "primary_completion_date": "2023-07-24",
+        "last_updated": "2024-07-03"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/montelukast",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-montelukast-treats-mcas",
+    "tracker_url": "https://research.opensourcemed.info/agents/montelukast/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-montelukast-treats-long-covid",
+    "agent_id": "osmf:agent:montelukast",
+    "agent": "Montelukast",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [
+      {
+        "title": "2nd most commonly used drug after antihistamines in idiopathic MCAS; RCT evidence from urticaria (34 RCTs) shows modest benefit of adding LTRA to anti",
+        "pub_date": "",
+        "excerpt": "2nd most commonly used drug after antihistamines in idiopathic MCAS; RCT evidence from urticaria (34 RCTs) shows modest benefit of adding LTRA to anti-H1; cysteinyl leukotriene elevation documented during MCAS episodes",
+        "source": "PACVS Evidence Map"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT04695704",
+        "title": "Efficacy of Montelukast in Mild-moderate Respiratory Symptoms in Patients With Long-COVID-19:",
+        "status": "TERMINATED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2021-08-11",
+        "completion_date": "2023-08-28",
+        "primary_completion_date": "2023-07-24",
+        "last_updated": "2024-07-03"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/montelukast",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-montelukast-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/montelukast/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-multidisciplinary-approach-treats-long-covid",
+    "agent_id": "osmf:agent:multidisciplinary-approach",
+    "agent": "Multidisciplinary Approach",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Network, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06441955",
+        "title": "Covid-19 Long Haul Preventative and Health Promotion Care Clinical Trial Acceleration Program.",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-03-01",
+        "completion_date": "2030-09-30",
+        "primary_completion_date": "2030-09-30",
+        "last_updated": "2024-11-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/multidisciplinary-approach",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-multidisciplinary-approach-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/multidisciplinary-approach/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-nutritional-blend-immunerecov-treats-long-covid",
+    "agent_id": "osmf:agent:nutritional-blend-immunerecov",
+    "agent": "Nutritional Blend (Immunerecov).",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Immunomodulatory, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06166030",
+        "title": "IMMUNERECOV CONTRIBUTES TO IMPROVEMENT OF RESPIRATORY AND IMMUNOLOGICAL RESPONSE IN POST-COVID-19 PATIENTS.",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2023-12-10",
+        "completion_date": "2024-12-15",
+        "primary_completion_date": "2024-12-10",
+        "last_updated": "2023-12-12"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/nutritional-blend-immunerecov",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-nutritional-blend-immunerecov-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/nutritional-blend-immunerecov/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-paxlovid-nirmatrelvir-ritonavir-treats-long-covid",
+    "agent_id": "osmf:agent:paxlovid-nirmatrelvir-ritonavir",
+    "agent": "Paxlovid (Nirmatrelvir + Ritonavir)",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Antiviral / Persistence, Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Network",
+    "key_studies": "['PMID:42406565', 'PMID:42402140']",
+    "studies": [
+      {
+        "pmid": "42406565",
+        "title": "Evaluation of nirmatrelvir/ritonavir treatment for COVID-19 on health-related\u00a0outcomes: a global economic value systematic literature review",
+        "pub_date": "2026-07-06",
+        "excerpt": "Nirmatrelvir/ritonavir (NMV/r) A systematic search of Embase, PubMed, Cochrane, and EconLit and of conference and health technology assessment agency websites was performed to identify economic analyses published between January 2022 and October 2025. Of the 33 included economic evaluations, most we...",
+        "source_page": "long-covid"
+      },
+      {
+        "pmid": "42402140",
+        "title": "[Long-COVID syndrome and lung-specific abnormalities following COVID-19].",
+        "pub_date": "2026-07-05",
+        "excerpt": "Following the acute phase of a SARS-CoV-2 infection, post-COVID - or long-COVID - syndrome may develop. This condition is characterized by unpleasant, persistent or new-onset symptoms following the acute phase of the infection. It might lead to an impaired health-related quality of life of affected ...",
+        "source_page": "long-covid"
+      },
+      {
+        "title": "No significant symptom improvement in either trial; viral persistence as sole causal mechanism for established long COVID not supported by RCT evidenc",
+        "pub_date": "",
+        "excerpt": "No significant symptom improvement in either trial; viral persistence as sole causal mechanism for established long COVID not supported by RCT evidence",
+        "source": "PACVS Evidence Map"
+      }
+    ],
+    "trials": [
+      {
+        "nct_id": "NCT07597902",
+        "title": "SARS-CoV-2 and Herpesvirus Inhibition for Ending Long COVID Dysfunction",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-06-01",
+        "completion_date": "2028-06-30",
+        "primary_completion_date": "2028-06-30",
+        "last_updated": "2026-05-19"
+      },
+      {
+        "nct_id": "NCT05965726",
+        "title": "RECOVER-VITAL: Platform Protocol, Appendix to Measure the Effects of Paxlovid on Long COVID Symptoms",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-07-26",
+        "completion_date": "2025-03-13",
+        "primary_completion_date": "2024-12-05",
+        "last_updated": "2026-03-27"
+      },
+      {
+        "nct_id": "NCT05595369",
+        "title": "RECOVER-VITAL: Platform Protocol to Measure the Effects of Antiviral Therapies on Long COVID Symptoms",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-07-26",
+        "completion_date": "2025-03-13",
+        "primary_completion_date": "2024-08-06",
+        "last_updated": "2025-12-02"
+      },
+      {
+        "nct_id": "NCT05852873",
+        "title": "PAxlovid loNg cOvid-19 pRevention triAl With recruitMent In the Community in Norway",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Very Large (1000+ participants)",
+        "start_date": "2023-05-12",
+        "completion_date": "2027-06-11",
+        "primary_completion_date": "2025-09-09",
+        "last_updated": "2025-11-21"
+      },
+      {
+        "nct_id": "NCT05576662",
+        "title": "Paxlovid for Treatment of Long Covid",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2022-11-08",
+        "completion_date": "2023-09-12",
+        "primary_completion_date": "2023-08-14",
+        "last_updated": "2025-09-04"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/paxlovid-nirmatrelvir-ritonavir",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-paxlovid-nirmatrelvir-ritonavir-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/paxlovid-nirmatrelvir-ritonavir/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-pfizer-biontech-mrna-covid-19-vaccine-treats-long-covid",
+    "agent_id": "osmf:agent:pfizer-biontech-mrna-covid-19-vaccine",
+    "agent": "Pfizer-Biontech Mrna Covid-19 Vaccine",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05212610",
+        "title": "Assessing Safety of Coronavirus Infection (COVID-19) Messenger RNA (mRNA) Vaccine Administration in the Setting of a Previous Adverse Reacti",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2022-03-21",
+        "completion_date": "2025-03-07",
+        "primary_completion_date": "2025-03-07",
+        "last_updated": "2026-03-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/pfizer-biontech-mrna-covid-19-vaccine",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-pfizer-biontech-mrna-covid-19-vaccine-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/pfizer-biontech-mrna-covid-19-vaccine/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-physiological-evaluation-treats-long-covid",
+    "agent_id": "osmf:agent:physiological-evaluation",
+    "agent": "Physiological Evaluation",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Network, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06441955",
+        "title": "Covid-19 Long Haul Preventative and Health Promotion Care Clinical Trial Acceleration Program.",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-03-01",
+        "completion_date": "2030-09-30",
+        "primary_completion_date": "2030-09-30",
+        "last_updated": "2024-11-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/physiological-evaluation",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-physiological-evaluation-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/physiological-evaluation/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-pirfenidone-treats-long-covid",
+    "agent_id": "osmf:agent:pirfenidone",
+    "agent": "Pirfenidone",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Repurposed Drug, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06928272",
+        "title": "Long Covid (LC)-REVITALIZE - A Long Covid Repurposed Drug Study",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2025-09-10",
+        "completion_date": "2027-12",
+        "primary_completion_date": "2026-12",
+        "last_updated": "2026-04-03"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/pirfenidone",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-pirfenidone-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/pirfenidone/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-prednisolone-treats-long-covid",
+    "agent_id": "osmf:agent:prednisolone",
+    "agent": "Prednisolone",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05619653",
+        "title": "Myocardial Protection in Patients With Post-acute Inflammatory Cardiac Involvement Due to COVID-19",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2022-12-12",
+        "completion_date": "2026-03-31",
+        "primary_completion_date": "2025-08-08",
+        "last_updated": "2025-12-09"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/prednisolone",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-prednisolone-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/prednisolone/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-pycnogenol-treats-long-covid",
+    "agent_id": "osmf:agent:pycnogenol",
+    "agent": "Pycnogenol\u00ae",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05890534",
+        "title": "Pycnogenol\u00ae in Post-COVID-19 Condition",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2023-06-07",
+        "completion_date": "2025-01-31",
+        "primary_completion_date": "2024-11-05",
+        "last_updated": "2026-04-29"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/pycnogenol",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-pycnogenol-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/pycnogenol/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-regenecyte-treats-long-covid",
+    "agent_id": "osmf:agent:regenecyte",
+    "agent": "Regenecyte",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Industry, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT07184385",
+        "title": "A Study of Human Umbilical Cord Blood (REGENECYTE) Infusion in Patients With Post-COVID Condition",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2026-03-31",
+        "completion_date": "2027-09-30",
+        "primary_completion_date": "2027-06-30",
+        "last_updated": "2025-09-23"
+      },
+      {
+        "nct_id": "NCT05682560",
+        "title": "Human Umbilical Cord Blood (RegeneCyte) Infusion in Patients with Post-COVID Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2023-05-04",
+        "completion_date": "2025-02-27",
+        "primary_completion_date": "2024-07-26",
+        "last_updated": "2025-03-24"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/regenecyte",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-regenecyte-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/regenecyte/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-remdesivir-treats-long-covid",
+    "agent_id": "osmf:agent:remdesivir",
+    "agent": "Remdesivir",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05911906",
+        "title": "An Open-label, Clinical Feasibility Study of the Efficacy of Remdesivir for Long-COVID.",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2024-10-08",
+        "completion_date": "2025-09-17",
+        "primary_completion_date": "2025-09-17",
+        "last_updated": "2026-02-20"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/remdesivir",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-remdesivir-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/remdesivir/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-rituximab-treats-me-cfs",
+    "agent_id": "osmf:agent:rituximab",
+    "agent": "Rituximab",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06952413",
+        "title": "Study of the Efficacy and Safety for Rituximab in Myalgia Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)",
+        "status": "RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2025-04-09",
+        "completion_date": "2027-10-31",
+        "primary_completion_date": "2026-09-30",
+        "last_updated": "2025-04-30"
+      },
+      {
+        "nct_id": "NCT01156922",
+        "title": "B-cell Depletion Using the Monoclonal Anti-CD20 Antibody Rituximab in Very Severe Chronic Fatigue Syndrome",
+        "status": "TERMINATED",
+        "phase": "PHASE2",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2010-06",
+        "completion_date": "2016-04",
+        "primary_completion_date": "2016-04",
+        "last_updated": "2024-03-04"
+      },
+      {
+        "nct_id": "NCT02229942",
+        "title": "B-lymphocyte Depletion Using Rituximab in Chronic Fatigue Syndrome/ Myalgic Encephalopathy (CFS/ME). A Randomized Phase-III Study.",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2014-09",
+        "completion_date": "2017-11",
+        "primary_completion_date": "2017-09",
+        "last_updated": "2021-05-11"
+      },
+      {
+        "nct_id": "NCT00848692",
+        "title": "Drug Intervention in Chronic Fatigue Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2008-06",
+        "completion_date": "2010-06",
+        "primary_completion_date": "2010-06",
+        "last_updated": "2021-05-11"
+      },
+      {
+        "nct_id": "NCT01156909",
+        "title": "B-cell Depletion Using the Monoclonal Anti-CD20 Antibody Rituximab in Chronic Fatigue Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2010-10",
+        "completion_date": "2014-02",
+        "primary_completion_date": "2014-02",
+        "last_updated": "2014-09-01"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/rituximab",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-rituximab-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/rituximab/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-shengmai-liquid-treats-long-covid",
+    "agent_id": "osmf:agent:shengmai-liquid",
+    "agent": "Shengmai Liquid",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06980636",
+        "title": "A Trial of Shengmai Liquid for Long COVID Fatigue.",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2025-12-01",
+        "completion_date": "2026-11-30",
+        "primary_completion_date": "2026-10-30",
+        "last_updated": "2026-02-09"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/shengmai-liquid",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-shengmai-liquid-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/shengmai-liquid/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-sildenafil-treats-me-cfs",
+    "agent_id": "osmf:agent:sildenafil",
+    "agent": "Sildenafil",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT00598585",
+        "title": "Use of Sildenafil (Viagra) to Alter Fatigue, Functional Status and Impaired Cerebral Blood Flow in Patients With CFS",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2002-07",
+        "completion_date": "2010-12",
+        "primary_completion_date": "2010-12",
+        "last_updated": "2017-06-27"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/sildenafil",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-sildenafil-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/sildenafil/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-sirolimus-low-dose-rapamycin-treats-long-covid",
+    "agent_id": "osmf:agent:sirolimus-low-dose-rapamycin",
+    "agent": "Sirolimus (low-dose Rapamycin)",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Immunomodulatory, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06960928",
+        "title": "Low Dose Sirolimus in People With Post-Acute Sequelae of COVID-19 (PASC) Long COVID-19",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2025-04-18",
+        "completion_date": "2027-05-31",
+        "primary_completion_date": "2026-12-31",
+        "last_updated": "2026-05-18"
+      },
+      {
+        "nct_id": "NCT04948203",
+        "title": "Assessing the Efficacy of Sirolimus in Patients With COVID-19 Pneumonia for Prevention of Post-COVID Fibrosis",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2021-07-09",
+        "completion_date": "2026-12",
+        "primary_completion_date": "2026-12",
+        "last_updated": "2025-12-15"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/sirolimus-low-dose-rapamycin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-sirolimus-low-dose-rapamycin-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/sirolimus-low-dose-rapamycin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-sodium-oxybate-treats-me-cfs",
+    "agent_id": "osmf:agent:sodium-oxybate",
+    "agent": "Sodium Oxybate",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT01584934",
+        "title": "Sodium Oxybate in Patients With Chronic Fatigue Syndrome.",
+        "status": "WITHDRAWN",
+        "phase": "PHASE4",
+        "size_category": null,
+        "start_date": "2013-06",
+        "completion_date": "2015-12",
+        "primary_completion_date": "2015-06",
+        "last_updated": "2022-12-15"
+      },
+      {
+        "nct_id": "NCT02055898",
+        "title": "SWS And Daytime Functioning in Chronic FatiguE Syndrome (SAFFE)",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2014-04",
+        "completion_date": "2015-08",
+        "primary_completion_date": "2015-08",
+        "last_updated": "2020-11-18"
+      },
+      {
+        "nct_id": "NCT00498485",
+        "title": "Use of Xyrem to Improve Sleep in Chronic Fatigue Syndrome",
+        "status": "TERMINATED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2007-05",
+        "completion_date": "2008-12",
+        "primary_completion_date": "2008-12",
+        "last_updated": "2016-05-19"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/sodium-oxybate",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-sodium-oxybate-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/sodium-oxybate/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-solriamfetol-oral-tablet-sunosi-treats-me-cfs",
+    "agent_id": "osmf:agent:solriamfetol-oral-tablet-sunosi",
+    "agent": "Solriamfetol Oral Tablet [Sunosi]",
+    "condition_id": "osmf:condition:me-cfs",
+    "condition": "ME/CFS",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT04622293",
+        "title": "A Trial of Solriamfetol in the Treatment of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Small (<50 participants)",
+        "start_date": "2021-04-27",
+        "completion_date": "2024-12-01",
+        "primary_completion_date": "2024-09-01",
+        "last_updated": "2025-04-06"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/solriamfetol-oral-tablet-sunosi",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-solriamfetol-oral-tablet-sunosi-treats-me-cfs",
+    "tracker_url": "https://research.opensourcemed.info/agents/solriamfetol-oral-tablet-sunosi/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-somatropin-treats-long-covid",
+    "agent_id": "osmf:agent:somatropin",
+    "agent": "Somatropin",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT03554265",
+        "title": "Brain and Gut Plasticity in Mild TBI or Post-acute COVID Syndrome Following Growth Hormone Therapy",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2018-08-06",
+        "completion_date": "2023-10-04",
+        "primary_completion_date": "2023-10-04",
+        "last_updated": "2025-03-05"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/somatropin",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-somatropin-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/somatropin/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-testofen-treats-long-covid",
+    "agent_id": "osmf:agent:testofen",
+    "agent": "Testofen",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Industry, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05795816",
+        "title": "Effectiveness of Testofen Compared to Placebo on Long COVID Symptoms",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "size_category": "Medium (50-199 participants)",
+        "start_date": "2023-10-25",
+        "completion_date": "2025-01-31",
+        "primary_completion_date": "2025-01-30",
+        "last_updated": "2025-03-10"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/testofen",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-testofen-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/testofen/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-thiamine-vitamin-b1-treats-long-covid",
+    "agent_id": "osmf:agent:thiamine-vitamin-b1",
+    "agent": "Thiamine (Vitamin B1)",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Actual, Sponsor Type: Other, Unknown / General",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT05642923",
+        "title": "Post-COVID-19 Chronic Fatigue Syndrome",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2023-01-08",
+        "completion_date": "2025-03-05",
+        "primary_completion_date": "2024-06-01",
+        "last_updated": "2025-03-10"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/thiamine-vitamin-b1",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-thiamine-vitamin-b1-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/thiamine-vitamin-b1/"
+  },
+  {
+    "claim_id": "osmf:claim:agent-upadacitinib-treats-long-covid",
+    "agent_id": "osmf:agent:upadacitinib",
+    "agent": "Upadacitinib",
+    "condition_id": "osmf:condition:long-covid",
+    "condition": "Long COVID",
+    "current_tier": "C",
+    "status": "draft",
+    "tracker_evidence_level": "Moderate",
+    "mechanism": "Enrollment: Estimated, Repurposed Drug, Sponsor Type: Other",
+    "key_studies": "['See linked studies']",
+    "studies": [],
+    "trials": [
+      {
+        "nct_id": "NCT06928272",
+        "title": "Long Covid (LC)-REVITALIZE - A Long Covid Repurposed Drug Study",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "size_category": "Large (200-999 participants)",
+        "start_date": "2025-09-10",
+        "completion_date": "2027-12",
+        "primary_completion_date": "2026-12",
+        "last_updated": "2026-04-03"
+      }
+    ],
+    "desk_url": "https://desk.opensourcemed.info/entity/osmf/agent/upadacitinib",
+    "claim_url": "https://desk.opensourcemed.info/claim/osmf/claim/agent-upadacitinib-treats-long-covid",
+    "tracker_url": "https://research.opensourcemed.info/agents/upadacitinib/"
+  }
+]

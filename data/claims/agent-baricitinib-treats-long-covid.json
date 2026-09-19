@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT06631287"
+    },
+    {
+      "type": "pmid",
+      "value": "33743212"
+    },
+    {
+      "type": "pmid",
+      "value": "35216673"
+    },
+    {
+      "type": "pmid",
+      "value": "35271343"
+    },
+    {
+      "type": "pmid",
+      "value": "36253560"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06631287 (RECRUITING), PMID:33743212, PMID:35216673, PMID:35271343, PMID:36253560, PMID:37076602. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Baricitinib \u2192 Long COVID: NCT06631287 (RECRUITING, phase=PHASE3, n=550, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 33743212: COVID-19 and the human innate immune system.; PMID 35216673: A blood atlas of COVID-19 defines hallmarks of disease severity and specificity.; PMID 35271343: The immunology and immunopathology of COVI"
 }

@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05619653"
+    },
+    {
+      "type": "pmid",
+      "value": "32201335"
+    },
+    {
+      "type": "pmid",
+      "value": "32637987"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05619653 (ACTIVE_NOT_RECRUITING), PMID:32201335, PMID:32637987, PMID:36695182, PMID:38264914, PMID:39866113. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results \u2192 early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Prednisolone \u2192 Long COVID: NCT05619653 (ACTIVE_NOT_RECRUITING, phase=PHASE3, n=279, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 32637987: The emerging spectrum of COVID-19 neurology: clinical, rad"
 }

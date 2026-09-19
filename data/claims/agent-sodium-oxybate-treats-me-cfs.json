@@ -21,11 +21,32 @@
     {
       "type": "nct",
       "value": "NCT00498485"
+    },
+    {
+      "type": "pmid",
+      "value": "19225604"
+    },
+    {
+      "type": "pmid",
+      "value": "22802155"
+    },
+    {
+      "type": "pmid",
+      "value": "22811766"
+    },
+    {
+      "type": "pmid",
+      "value": "24289848"
+    },
+    {
+      "type": "pmid",
+      "value": "24348701"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT01584934 (WITHDRAWN), NCT02055898 (COMPLETED), NCT00498485 (TERMINATED), PMID:19225604, PMID:22802155, PMID:22811766. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. | Extracted 3 registry trial(s) for Sodium Oxybate \u2192 ME/CFS: NCT01584934 (WITHDRAWN, phase=PHASE4, n=0, relevant=True); NCT02055898 (COMPLETED, phase=PHASE4, n=13, relevant=True); NCT00498485 (TERMINATED, phase=PHASE4, n=17, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 19225604: Fibromyalgia: presentation and management with a focus on pharmacological treatment.; PMID 22802155:"
 }
