@@ -12,7 +12,8 @@
     },
     {
       "type": "nct",
-      "value": "NCT05795816"
+      "value": "NCT05795816",
+      "label": "Testofen vs placebo (MCC is placebo arm context)"
     },
     {
       "type": "nct",
@@ -39,10 +40,10 @@
       "value": "36701528"
     }
   ],
-  "limitations": "Key refs: NCT05795816 (COMPLETED), NCT06348212 (UNKNOWN), PMID:21821740, PMID:21876164, PMID:23102010, PMID:27287427. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: label is placebo/excipient (Testofen trial comparator context NCT05795816), not a therapeutic \u2192 D. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Microcrystalline Cellulose' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 240 hits but do not establish a treatable-agent evidence base."
+  "confidence_notes": "[2026-09-19 chase] Non-therapeutic placebo-class label retained as D."
 }

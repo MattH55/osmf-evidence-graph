@@ -11,16 +11,18 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "pmid",
-      "value": "42249466"
+      "type": "nct",
+      "value": "NCT07621068",
+      "label": "ME/CFS HBOT recruiting"
+    },
+    {
+      "type": "nct",
+      "value": "NCT04842448",
+      "label": "HOT-LoCO Long COVID (off-target for ME/CFS claim)"
     },
     {
       "type": "nct",
       "value": "NCT06452095"
-    },
-    {
-      "type": "nct",
-      "value": "NCT04842448"
     },
     {
       "type": "nct",
@@ -31,8 +33,13 @@
       "value": "NCT04905888"
     },
     {
-      "type": "nct",
-      "value": "NCT07621068"
+      "type": "pmid",
+      "value": "40228859",
+      "label": "HOT-LoCO negative Phase 2 (Long COVID)"
+    },
+    {
+      "type": "pmid",
+      "value": "42249466"
     },
     {
       "type": "pmid",
@@ -53,12 +60,22 @@
     {
       "type": "pmid",
       "value": "37907497"
+    },
+    {
+      "type": "pmid",
+      "value": "36670365",
+      "label": "Hyperbaric oxygen therapy for long COVID (HOT-LoCO), an interim safety report from a randomised controlled trial. (2023)"
+    },
+    {
+      "type": "pmid",
+      "value": "36323462",
+      "label": "Hyperbaric oxygen for treatment of long COVID-19 syndrome (HOT-LoCO): protocol for a randomised, placebo-controlled, dou (2022)"
     }
   ],
-  "limitations": "Key refs: NCT07621068 (RECRUITING), PMID:42249466. Evaluated from extracted references on 2026-09-19; not a systematic review. ME/CFS-specific HBOT trial is recruiting; no completed confirmatory RCT results. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: ME/CFS-specific HBOT trials still recruiting (NCT07621068); linked completed NCT04842448 is Long COVID (HOT-LoCO negative). No completed confirmatory ME/CFS RCT results \u2192 C draft. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Recruiting ME/CFS HBOT RCT + small cohort PMID; early signal only (C/draft)."
+  "confidence_notes": "[2026-09-19 chase] No ME/CFS-specific completed pivotal results; LC HBOT evidence contested/off-target."
 }

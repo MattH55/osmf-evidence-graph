@@ -12,7 +12,13 @@
     },
     {
       "type": "nct",
-      "value": "NCT05890534"
+      "value": "NCT05890534",
+      "label": "PYCNOVID Pycnogenol post-COVID Phase 3 (completed; no results module)"
+    },
+    {
+      "type": "pmid",
+      "value": "38879571",
+      "label": "PYCNOVID study protocol (2024)"
     },
     {
       "type": "pmid",
@@ -33,12 +39,17 @@
     {
       "type": "pmid",
       "value": "37080828"
+    },
+    {
+      "type": "doi",
+      "value": "10.1186/s13063-024-08187-6",
+      "label": "Trials 2024 protocol"
     }
   ],
-  "limitations": "Key refs: NCT05890534 (COMPLETED), PMID:35566252, PMID:36043493, PMID:36364899, PMID:36639608, PMID:37080828. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT05890534 PYCNOVID Phase 3 (n=153) completed; CT.gov results still unposted. PMID 38879571 is protocol only; preprint PPR1039664 not treated as peer-reviewed primary \u2192 C draft not B. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Pycnogenol\u00ae \u2192 Long COVID: NCT05890534 (COMPLETED, phase=PHASE3, n=153, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 35566252: Flavonoids as Potential Anti-Inflammatory Molecules: A Review.; PMID 36043493: The potential role of ischaemia-reperfusion injury in chronic, relapsing diseases such as rheumatoid arthritis, Long COV; "
+  "confidence_notes": "[2026-09-19 chase] Still no posted CT.gov results / peer-reviewed primary outcomes paper \u2192 C draft."
 }

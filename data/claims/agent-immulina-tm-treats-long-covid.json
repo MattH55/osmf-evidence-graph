@@ -12,7 +12,8 @@
     },
     {
       "type": "nct",
-      "value": "NCT05524532"
+      "value": "NCT05524532",
+      "label": "Immulina PASC Phase 3 completed (no results module)"
     },
     {
       "type": "pmid",
@@ -35,10 +36,10 @@
       "value": "42325367"
     }
   ],
-  "limitations": "Key refs: NCT05524532 (COMPLETED), PMID:35204236, PMID:37388814, PMID:39179099, PMID:40722944, PMID:42325367. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT05524532 Phase 3 (n=101) completed; CT.gov results still unposted; no clear peer-reviewed primary outcome paper in NCT citation search \u2192 C draft. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Immulina Tm \u2192 Long COVID: NCT05524532 (COMPLETED, phase=PHASE3, n=101, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 35204236: Cyanobacteria and Algae-Derived Bioactive Metabolites as Antiviral Agents: Evidence, Mode of Action, and Scope for Furth; PMID 37388814: The pathophysiology of postacute sequelae of COVID-19 (PASC): Po"
+  "confidence_notes": "[2026-09-19 chase] No new posted results or primary publication \u2192 C draft."
 }

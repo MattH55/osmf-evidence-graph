@@ -12,11 +12,23 @@
     },
     {
       "type": "nct",
-      "value": "NCT06305806"
+      "value": "NCT06305806",
+      "label": "RECOVER-AUTONOMIC ivabradine appendix (completed Phase 2; no efficacy results)"
     },
     {
       "type": "nct",
-      "value": "NCT05481177"
+      "value": "NCT06305780",
+      "label": "RECOVER-AUTONOMIC platform (enrollment results only)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT05481177",
+      "label": "Ivabradine LC Phase 4 UNKNOWN status"
+    },
+    {
+      "type": "pmid",
+      "value": "41720282",
+      "label": "RECOVER-AUTONOMIC design and rationale (2026)"
     },
     {
       "type": "pmid",
@@ -39,10 +51,10 @@
       "value": "39326415"
     }
   ],
-  "limitations": "Key refs: NCT06305806 (COMPLETED), NCT05481177 (UNKNOWN), PMID:32201335, PMID:34024217, PMID:35176758, PMID:35307156. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: RECOVER-AUTONOMIC ivabradine appendix NCT06305806 completed Phase 2 (n=181) without efficacy results posted; NCT05481177 UNKNOWN. Platform NCT06305780 results module is enrollment counts only. Design paper PMID 41720282. No posted primary efficacy \u2192 C draft. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 2 registry trial(s) for Ivabradine \u2192 Long COVID: NCT06305806 (COMPLETED, phase=PHASE2, n=181, relevant=True); NCT05481177 (UNKNOWN, phase=PHASE4, n=250, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 34024217: Long COVID or"
+  "confidence_notes": "[2026-09-19 chase] Still awaiting RECOVER ivabradine efficacy posting \u2192 C draft."
 }

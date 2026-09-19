@@ -11,6 +11,16 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "nct",
+      "value": "NCT06305780",
+      "label": "RECOVER-AUTONOMIC platform (enrollment results only; Long COVID)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06305793",
+      "label": "RECOVER-AUTONOMIC IVIG appendix (Long COVID/POTS)"
+    },
+    {
       "type": "pmid",
       "value": "42391726"
     },
@@ -21,14 +31,6 @@
     {
       "type": "pmid",
       "value": "42137701"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06305793"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06305780"
     },
     {
       "type": "pmid",
@@ -51,10 +53,10 @@
       "value": "36639608"
     }
   ],
-  "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:19375665, PMID:19781793, PMID:21871249, PMID:27885969. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: linked RECOVER platform NCT06305780/NCT06305793 target Long COVID autonomic/POTS appendices, not ME/CFS. NCT06305780 results module posts enrollment counts only (not efficacy for this claim condition). Off-target registry linkage \u2192 tier D. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) \u2192 ME/CFS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=False); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 19375665: Autoimmune myasthenia gravis: emerging clinical and biological heterogeneity.; PMID 19781793: Critical role of nocicepto"
+  "confidence_notes": "[2026-09-19 chase] Reverted automated D\u2192C upgrade. Off-target NCTs for ME/CFS; platform results are enrollment, not condition-specific efficacy."
 }

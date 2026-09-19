@@ -12,7 +12,8 @@
     },
     {
       "type": "nct",
-      "value": "NCT05212610"
+      "value": "NCT05212610",
+      "label": "mRNA COVID vaccine additional dose reactions (results posted; not LC treatment)"
     },
     {
       "type": "pmid",
@@ -35,10 +36,10 @@
       "value": "37165196"
     }
   ],
-  "limitations": "Key refs: NCT05212610 (COMPLETED), PMID:33497610, PMID:34281357, PMID:34715347, PMID:35614233, PMID:37165196. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Results chase 2026-09-19: NCT05212610 Phase 4 completed with results (allergy/reaction endpoints for additional doses), not a treatment trial of established Long COVID \u2192 D. Not medical advice.",
   "status": "draft",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-chase-bot",
+  "reviewed_at": "2026-09-19T17:52:50Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. | Registry entries link Pfizer-Biontech Mrna Covid-19 Vaccine to Long COVID contexts, but vaccination is not established therapy for existing Long COVID. Statuses: COMPLETED. Search hits=2557."
+  "confidence_notes": "[2026-09-19 chase] Results module present but wrong question (vaccine reactogenicity), not LC treatment efficacy."
 }
