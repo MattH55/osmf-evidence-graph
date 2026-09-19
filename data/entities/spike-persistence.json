@@ -1,0 +1,18 @@
+{
+  "id": "osmf:biomarker:spike-persistence",
+  "type": "biomarker",
+  "label": "Spike protein persistence (research)",
+  "aliases": [
+    "SARS-CoV-2 spike persistence"
+  ],
+  "summary": "Research biomarker/mechanism theme tracked on spikeprotein.site; not a standalone clinical diagnostic.",
+  "external_ids": [],
+  "urls": [
+    {
+      "rel": "spikeprotein",
+      "href": "https://spikeprotein.site/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

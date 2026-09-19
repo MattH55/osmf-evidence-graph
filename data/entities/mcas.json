@@ -1,0 +1,23 @@
+{
+  "id": "osmf:condition:mcas",
+  "type": "condition",
+  "label": "MCAS",
+  "aliases": [
+    "mast cell activation syndrome"
+  ],
+  "summary": "Disorder of episodic mast-cell mediator release; frequently discussed comorbidity in post-viral illness cohorts.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "example-seed"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

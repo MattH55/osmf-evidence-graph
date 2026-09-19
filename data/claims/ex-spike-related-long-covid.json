@@ -1,0 +1,20 @@
+{
+  "id": "osmf:claim:ex-spike-related-long-covid",
+  "subject_id": "osmf:biomarker:spike-persistence",
+  "predicate": "related_to",
+  "object_id": "osmf:condition:long-covid",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "url",
+      "value": "https://spikeprotein.site/",
+      "label": "spikeprotein.site hub (example seed source)"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Mechanistic/association literature is heterogeneous; not proof of causation or a clinical test order.",
+  "confidence_notes": "Demonstrates C-tier + required limitations for contested/mechanistic themes.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

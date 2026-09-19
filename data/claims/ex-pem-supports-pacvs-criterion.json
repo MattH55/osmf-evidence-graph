@@ -1,0 +1,19 @@
+{
+  "id": "osmf:claim:ex-pem-supports-pacvs-criterion",
+  "subject_id": "osmf:phenotype:pem",
+  "predicate": "supports_criterion",
+  "object_id": "osmf:diagnostic-criterion:pacvs-draft-v0",
+  "evidence_tier": "D",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://opensourcemed.info/",
+      "label": "OSMF hub / summit placeholder"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Draft criteria object only; not consensus-endorsed. Shows summit workbench linkage.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

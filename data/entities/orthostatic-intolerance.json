@@ -1,0 +1,18 @@
+{
+  "id": "osmf:phenotype:orthostatic-intolerance",
+  "type": "phenotype",
+  "label": "Orthostatic intolerance",
+  "aliases": [
+    "OI"
+  ],
+  "summary": "Symptoms provoked by upright posture and improved by recumbence.",
+  "external_ids": [
+    {
+      "system": "hpo",
+      "value": "HP:0012677"
+    }
+  ],
+  "urls": [],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

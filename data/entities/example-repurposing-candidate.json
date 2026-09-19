@@ -1,0 +1,23 @@
+{
+  "id": "osmf:agent:example-repurposing-candidate",
+  "type": "agent",
+  "label": "Example repurposing candidate",
+  "aliases": [
+    "EXAMPLE-AGENT"
+  ],
+  "summary": "Placeholder agent entity for RepurpOS linkage demos. Replace with a real curated agent before publish.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "example-seed-agent"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

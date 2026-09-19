@@ -1,0 +1,27 @@
+{
+  "id": "osmf:condition:pacvs",
+  "type": "condition",
+  "label": "PACVS",
+  "aliases": [
+    "post-acute COVID-19 vaccination syndrome"
+  ],
+  "summary": "Post-acute syndrome reported after COVID-19 vaccination; diagnostic criteria under active consensus work.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "example-seed"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/"
+    },
+    {
+      "rel": "summit",
+      "href": "https://opensourcemed.info/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

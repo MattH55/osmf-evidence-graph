@@ -1,0 +1,19 @@
+{
+  "id": "osmf:claim:ex-hr-biomarker-pots",
+  "subject_id": "osmf:biomarker:resting-heart-rate-orthostatic",
+  "predicate": "biomarker_of",
+  "object_id": "osmf:condition:pots",
+  "evidence_tier": "B",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/",
+      "label": "OSMF Research Tracker (example seed source)"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Thresholds and age rules differ across definitions; not diagnostic advice.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

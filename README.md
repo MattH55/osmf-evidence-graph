@@ -1,6 +1,6 @@
-# OSMF Shared Evidence Graph — starter schema
+# OSMF Shared Evidence Graph
 
-Starter JSON Schema and **example** seed dump for the five MVP conditions:
+Shared evidence-graph schemas and **git-authored** seed data for five MVP conditions:
 
 - Long COVID
 - PACVS
@@ -8,45 +8,42 @@ Starter JSON Schema and **example** seed dump for the five MVP conditions:
 - POTS
 - MCAS
 
-## Files
+**schema_version:** `0.1.0` — see [SCHEMA.md](SCHEMA.md).
+
+## Authoring decision (MVP)
+
+**Git files are the source of truth** for MVP authoring (not a database). Edit JSON under `data/`, then compile a dump. A DB/CMS can be considered later.
+
+## Layout
 
 | Path | Purpose |
 |------|---------|
-| `schemas/entity.schema.json` | Entity objects (`osmf:…` IDs) |
-| `schemas/claim.schema.json` | Claim-centric knowledge units |
-| `schemas/dump.schema.json` | Versioned public dump bundle |
-| `examples/seed-dump.example.json` | Illustrative dataset (not curated truth) |
+| [`SCHEMA.md`](SCHEMA.md) | ID scheme, entity types, predicates, tiers A–D, claim status, git-for-MVP |
+| `schemas/` | JSON Schema v0.1 (`entity`, `claim`, `dump`, bundled dump) |
+| `data/entities/*.json` | One entity per file (named by ID slug) |
+| `data/claims/*.json` | One claim per file (named by claim slug) |
+| [`data/README.md`](data/README.md) | Data directory contract |
+| `examples/seed-dump.example.json` | Checked-in compiled fixture (`is_example: true`); refreshed by `build:dump` |
+| `dist/dump/latest.json` | Build output (gitignored; produced in CI / locally) |
+
+## Build & validate
+
+```bash
+npm ci
+npm run build:dump      # → dist/dump/latest.json (+ refreshes examples/seed-dump.example.json)
+npm run validate:dump   # AJV vs schemas/dump.bundled.schema.json
+```
+
+CI (`.github/workflows/validate-dump.yml`) runs the same build + validate on every push/PR and **fails on an invalid dump**.
 
 ## Important
 
-`examples/seed-dump.example.json` is **synthetic / illustrative**. Claims, tiers, and links are structural examples for engineering and product review. They are not OSMF-endorsed clinical statements. Replace with curated content before any public “published” use.
+`examples/seed-dump.example.json` and the compiled dump are **synthetic / illustrative**. Claims, tiers, and links are structural examples for engineering and product review. They are **not** OSMF-endorsed clinical statements and are **not medical advice**. Keep `is_example: true` until curated content replaces the seed.
 
 ## ID scheme
 
-`osmf:<type>:<slug>`
-
-Types in MVP: `condition`, `phenotype`, `biomarker`, `agent`, `trial`, `paper`, `cohort`, `specimen-type`, `diagnostic-criterion`, `vaccine-lot`.
-
-## Validate (optional)
-
-```bash
-npx --yes ajv-cli validate -s schemas/dump.schema.json -d examples/seed-dump.example.json --spec=draft2020
-```
+`osmf:<type>:<slug>` — full rules in [SCHEMA.md](SCHEMA.md).
 
 ## License note
 
-Schema is for OSMF network use. Attach your preferred data license on real dumps (`license` field on claims / dump meta).
-
-## Validation
-
-A bundled schema (inline entity/claim defs) is at `schemas/dump.bundled.schema.json` for offline validators that do not resolve remote `$ref`s.
-
-```bash
-python3 -m venv .venv && .venv/bin/pip install jsonschema
-.venv/bin/python -c "import json; from jsonschema import Draft202012Validator; \
-s=json.load(open('schemas/dump.bundled.schema.json')); \
-d=json.load(open('examples/seed-dump.example.json')); \
-Draft202012Validator(s).validate(d); print('ok')"
-```
-
-The example dump was validated successfully against the bundled schema on 2026-09-18.
+Schema is for OSMF network use. Dump `meta.license` / claim `license` carry the data license (seed uses `CC-BY-4.0`).

@@ -1,0 +1,11 @@
+{
+  "id": "osmf:specimen-type:plasma",
+  "type": "specimen-type",
+  "label": "Plasma",
+  "aliases": [],
+  "summary": "Banked plasma specimen type for biobank-readiness linkage demos.",
+  "external_ids": [],
+  "urls": [],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

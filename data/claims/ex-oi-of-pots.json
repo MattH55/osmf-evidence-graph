@@ -1,0 +1,19 @@
+{
+  "id": "osmf:claim:ex-oi-of-pots",
+  "subject_id": "osmf:phenotype:orthostatic-intolerance",
+  "predicate": "phenotype_of",
+  "object_id": "osmf:condition:pots",
+  "evidence_tier": "A",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/",
+      "label": "OSMF Research Tracker (example seed source)"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Attach guideline/criteria DOIs before publish.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "osmf:diagnostic-criterion:pacvs-draft-v0",
+  "type": "diagnostic-criterion",
+  "label": "PACVS diagnostic criteria (draft v0 example)",
+  "aliases": [],
+  "summary": "Placeholder criteria object for summit workbench demos. Not a published consensus.",
+  "external_ids": [],
+  "urls": [
+    {
+      "rel": "summit",
+      "href": "https://opensourcemed.info/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}
