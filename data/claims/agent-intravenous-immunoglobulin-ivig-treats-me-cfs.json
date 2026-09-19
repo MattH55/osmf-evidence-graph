@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:intravenous-immunoglobulin-ivig",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -29,11 +29,32 @@
     {
       "type": "nct",
       "value": "NCT06305780"
+    },
+    {
+      "type": "pmid",
+      "value": "19375665"
+    },
+    {
+      "type": "pmid",
+      "value": "19781793"
+    },
+    {
+      "type": "pmid",
+      "value": "21871249"
+    },
+    {
+      "type": "pmid",
+      "value": "27885969"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:19375665, PMID:19781793, PMID:21871249, PMID:27885969. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) \u2192 ME/CFS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=False); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 19375665: Autoimmune myasthenia gravis: emerging clinical and biological heterogeneity.; PMID 19781793: Critical role of nocicepto"
 }

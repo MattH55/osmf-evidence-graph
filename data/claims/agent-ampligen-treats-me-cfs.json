@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT00215800"
+    },
+    {
+      "type": "pmid",
+      "value": "18202435"
+    },
+    {
+      "type": "pmid",
+      "value": "20713100"
+    },
+    {
+      "type": "pmid",
+      "value": "24316048"
+    },
+    {
+      "type": "pmid",
+      "value": "29730580"
+    },
+    {
+      "type": "pmid",
+      "value": "34024217"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT00215800 (COMPLETED), PMID:18202435, PMID:20713100, PMID:24316048, PMID:29730580, PMID:34024217. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "MattH55+evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). | Human-locked claim retained as tier C. Linked trial(s): NCT00215800:COMPLETED. Literature search '(Ampligen OR rintatolimod) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")' returned 136 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
 }

@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:cognitive-behavioural-therapy",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT00860236"
+    },
+    {
+      "type": "pmid",
+      "value": "20350028"
+    },
+    {
+      "type": "pmid",
+      "value": "23459093"
+    },
+    {
+      "type": "pmid",
+      "value": "34373540"
+    },
+    {
+      "type": "pmid",
+      "value": "36178003"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT00860236 (COMPLETED), PMID:20350028, PMID:23459093, PMID:34373540, PMID:36178003, PMID:36639608. Evaluated from extracted references on 2026-09-19; not a systematic review. CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. | CBT has been studied in ME/CFS, but the evidence base is contested and guideline positions diverge; it should not be framed as solid disease-modifying clinical evidence. Linked trial status: COMPLETED. Search hits=2590."
 }

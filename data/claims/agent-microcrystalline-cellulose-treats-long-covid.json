@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:microcrystalline-cellulose",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -17,11 +17,32 @@
     {
       "type": "nct",
       "value": "NCT06348212"
+    },
+    {
+      "type": "pmid",
+      "value": "21821740"
+    },
+    {
+      "type": "pmid",
+      "value": "21876164"
+    },
+    {
+      "type": "pmid",
+      "value": "23102010"
+    },
+    {
+      "type": "pmid",
+      "value": "27287427"
+    },
+    {
+      "type": "pmid",
+      "value": "36701528"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05795816 (COMPLETED), NCT06348212 (UNKNOWN), PMID:21821740, PMID:21876164, PMID:23102010, PMID:27287427. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Microcrystalline Cellulose' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 240 hits but do not establish a treatable-agent evidence base."
 }

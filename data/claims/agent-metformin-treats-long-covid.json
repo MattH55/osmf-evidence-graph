@@ -25,11 +25,32 @@
     {
       "type": "nct",
       "value": "NCT06147050"
+    },
+    {
+      "type": "pmid",
+      "value": "35668219"
+    },
+    {
+      "type": "pmid",
+      "value": "36050306"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:35668219, PMID:36050306, PMID:36695182. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited \u2192 C not B. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited \u2192 C not B. | Metformin has a notable signal for reducing incidence of long COVID after acute infection in randomized data, but that is prevention rather than treatment of established Long COVID. Linked trials: NCT04510194:COMPLETED, NCT06128967:COMPLETED, NCT06147050:UNKNOWN. Literature includes preclinical GWI work and PACVS map notes. Search hits=1165."
 }

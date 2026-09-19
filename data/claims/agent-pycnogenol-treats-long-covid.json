@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05890534"
+    },
+    {
+      "type": "pmid",
+      "value": "35566252"
+    },
+    {
+      "type": "pmid",
+      "value": "36043493"
+    },
+    {
+      "type": "pmid",
+      "value": "36364899"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
+    },
+    {
+      "type": "pmid",
+      "value": "37080828"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05890534 (COMPLETED), PMID:35566252, PMID:36043493, PMID:36364899, PMID:36639608, PMID:37080828. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Pycnogenol\u00ae \u2192 Long COVID: NCT05890534 (COMPLETED, phase=PHASE3, n=153, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 35566252: Flavonoids as Potential Anti-Inflammatory Molecules: A Review.; PMID 36043493: The potential role of ischaemia-reperfusion injury in chronic, relapsing diseases such as rheumatoid arthritis, Long COV; "
 }

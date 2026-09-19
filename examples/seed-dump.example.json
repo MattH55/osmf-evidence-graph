@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "0.1.0",
-    "generated_at": "2026-09-19T17:04:30.813Z",
+    "generated_at": "2026-09-19T17:22:15.110Z",
     "publisher": "Open Source Medicine Foundation (provisional tracker import)",
     "is_example": true,
     "license": "CC-BY-4.0",
@@ -25913,13 +25913,34 @@
         {
           "type": "nct",
           "value": "NCT05597722"
+        },
+        {
+          "type": "pmid",
+          "value": "35673334"
+        },
+        {
+          "type": "pmid",
+          "value": "36899952"
+        },
+        {
+          "type": "pmid",
+          "value": "37344737"
+        },
+        {
+          "type": "pmid",
+          "value": "37396922"
+        },
+        {
+          "type": "pmid",
+          "value": "37655303"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT05597722 (TERMINATED), PMID:35673334, PMID:36899952, PMID:37344737, PMID:37396922, PMID:37655303. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "MattH55+evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained after evidence check (terminated small Phase 4, n=7). | Human-locked claim retained as tier C. Linked trial(s): NCT05597722:TERMINATED. Literature search '(Amphetamine-Dextroamphetamine) AND (\"long COVID\" OR \"post-COVID\" OR PASC)' returned 33 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
     },
     {
       "id": "osmf:claim:agent-ampion-treats-long-covid",
@@ -25959,13 +25980,34 @@
         {
           "type": "nct",
           "value": "NCT00215800"
+        },
+        {
+          "type": "pmid",
+          "value": "18202435"
+        },
+        {
+          "type": "pmid",
+          "value": "20713100"
+        },
+        {
+          "type": "pmid",
+          "value": "24316048"
+        },
+        {
+          "type": "pmid",
+          "value": "29730580"
+        },
+        {
+          "type": "pmid",
+          "value": "34024217"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT00215800 (COMPLETED), PMID:18202435, PMID:20713100, PMID:24316048, PMID:29730580, PMID:34024217. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "MattH55+evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). | Human-locked claim retained as tier C. Linked trial(s): NCT00215800:COMPLETED. Literature search '(Ampligen OR rintatolimod) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")' returned 136 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
     },
     {
       "id": "osmf:claim:agent-amygdala-insula-retraining-treats-long-covid",
@@ -26064,7 +26106,7 @@
       "subject_id": "osmf:agent:angiotensin-converting-enzyme-inhibitor",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -26074,20 +26116,41 @@
         {
           "type": "nct",
           "value": "NCT04591210"
+        },
+        {
+          "type": "pmid",
+          "value": "32201335"
+        },
+        {
+          "type": "pmid",
+          "value": "32526206"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT04591210 (COMPLETED), PMID:32201335, PMID:32526206, PMID:36695182, PMID:38264914, PMID:39866113. Evaluated from extracted references on 2026-09-19; not a systematic review. Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. | Tracker lists a class-level RAS agent for Long COVID. Registry trial(s) reviewed: The COVID-RASi Trial (COVID-19). Without drug-specific completed positive trials and posted results for the named condition, evidence is insufficient for a clinical tier."
     },
     {
       "id": "osmf:claim:agent-angiotensin-ii-receptor-blockers-treats-long-covid",
       "subject_id": "osmf:agent:angiotensin-ii-receptor-blockers",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -26097,13 +26160,34 @@
         {
           "type": "nct",
           "value": "NCT04591210"
+        },
+        {
+          "type": "pmid",
+          "value": "32201335"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
+        },
+        {
+          "type": "pmid",
+          "value": "41092926"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT04591210 (COMPLETED), PMID:32201335, PMID:36695182, PMID:38264914, PMID:39866113, PMID:41092926. Evaluated from extracted references on 2026-09-19; not a systematic review. Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Class-level agent (ACEI/ARB) without drug-specific supportive LC treatment results in extracted refs. | Tracker lists a class-level RAS agent for Long COVID. Registry trial(s) reviewed: The COVID-RASi Trial (COVID-19). Without drug-specific completed positive trials and posted results for the named condition, evidence is insufficient for a clinical tier."
     },
     {
       "id": "osmf:claim:agent-anhydrous-enol-oxaloacetate-a-medical-food-treats-long-covid",
@@ -26539,7 +26623,7 @@
       "subject_id": "osmf:agent:baricitinib-4-mg",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -26549,13 +26633,34 @@
         {
           "type": "nct",
           "value": "NCT05858515"
+        },
+        {
+          "type": "pmid",
+          "value": "33743212"
+        },
+        {
+          "type": "pmid",
+          "value": "35216673"
+        },
+        {
+          "type": "pmid",
+          "value": "35271343"
+        },
+        {
+          "type": "pmid",
+          "value": "36253560"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05858515 (WITHDRAWN), PMID:33743212, PMID:35216673, PMID:35271343, PMID:36253560, PMID:37076602. Evaluated from extracted references on 2026-09-19; not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Extracted 1 registry trial(s) for Baricitinib 4 Mg → Long COVID: NCT05858515 (WITHDRAWN, phase=PHASE3, n=0, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 33743212: COVID-19 and the human innate immune system.; PMID 35216673: A blood atlas of COVID-19 defines hallmarks of disease severity and specificity.; PMID 35271343: The immunology and immunopathology of CO"
     },
     {
       "id": "osmf:claim:agent-baricitinib-treats-long-covid",
@@ -26572,13 +26677,34 @@
         {
           "type": "nct",
           "value": "NCT06631287"
+        },
+        {
+          "type": "pmid",
+          "value": "33743212"
+        },
+        {
+          "type": "pmid",
+          "value": "35216673"
+        },
+        {
+          "type": "pmid",
+          "value": "35271343"
+        },
+        {
+          "type": "pmid",
+          "value": "36253560"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06631287 (RECRUITING), PMID:33743212, PMID:35216673, PMID:35271343, PMID:36253560, PMID:37076602. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Baricitinib → Long COVID: NCT06631287 (RECRUITING, phase=PHASE3, n=550, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 33743212: COVID-19 and the human innate immune system.; PMID 35216673: A blood atlas of COVID-19 defines hallmarks of disease severity and specificity.; PMID 35271343: The immunology and immunopathology of COVI"
     },
     {
       "id": "osmf:claim:agent-basiclow-tech-telerehabilitation-decision-support-system-treats-long-covid",
@@ -26608,7 +26734,7 @@
       "subject_id": "osmf:agent:behavioral",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -26618,13 +26744,34 @@
         {
           "type": "nct",
           "value": "NCT06441955"
+        },
+        {
+          "type": "pmid",
+          "value": "33753937"
+        },
+        {
+          "type": "pmid",
+          "value": "34373540"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "38493795"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06441955 (RECRUITING), PMID:33753937, PMID:34373540, PMID:36695182, PMID:38264914, PMID:38493795. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Behavioral' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 11424 hits but do not establish a treatable-agent evidence base."
     },
     {
       "id": "osmf:claim:agent-bio-300-oral-suspension-treats-long-covid",
@@ -26723,7 +26870,7 @@
       "subject_id": "osmf:agent:biopsychological",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -26733,13 +26880,34 @@
         {
           "type": "nct",
           "value": "NCT06441955"
+        },
+        {
+          "type": "pmid",
+          "value": "34678213"
+        },
+        {
+          "type": "pmid",
+          "value": "35796878"
+        },
+        {
+          "type": "pmid",
+          "value": "38188051"
+        },
+        {
+          "type": "pmid",
+          "value": "39127088"
+        },
+        {
+          "type": "pmid",
+          "value": "40048451"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06441955 (RECRUITING), PMID:34678213, PMID:35796878, PMID:38188051, PMID:39127088, PMID:40048451. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Biopsychological' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 28 hits but do not establish a treatable-agent evidence base."
     },
     {
       "id": "osmf:claim:agent-biosound-therapy-system-treats-long-covid",
@@ -27759,7 +27927,7 @@
       "subject_id": "osmf:agent:cognitive-behavioural-therapy",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:me-cfs",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -27769,13 +27937,34 @@
         {
           "type": "nct",
           "value": "NCT00860236"
+        },
+        {
+          "type": "pmid",
+          "value": "20350028"
+        },
+        {
+          "type": "pmid",
+          "value": "23459093"
+        },
+        {
+          "type": "pmid",
+          "value": "34373540"
+        },
+        {
+          "type": "pmid",
+          "value": "36178003"
+        },
+        {
+          "type": "pmid",
+          "value": "36639608"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT00860236 (COMPLETED), PMID:20350028, PMID:23459093, PMID:34373540, PMID:36178003, PMID:36639608. Evaluated from extracted references on 2026-09-19; not a systematic review. CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. | CBT has been studied in ME/CFS, but the evidence base is contested and guideline positions diverge; it should not be framed as solid disease-modifying clinical evidence. Linked trial status: COMPLETED. Search hits=2590."
     },
     {
       "id": "osmf:claim:agent-cognitive-muscular-therapy-treats-long-covid",
@@ -28049,13 +28238,18 @@
         {
           "type": "nct",
           "value": "NCT06245642"
+        },
+        {
+          "type": "pmid",
+          "value": "42543377"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06245642 (COMPLETED), PMID:42543377. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Compound Ciwujia Granules, Guipi Granules → ME/CFS: NCT06245642 (COMPLETED, phase=PHASE4, n=235, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 42543377: [Compound Ciwujia Granules for chronic fatigue syndrome with syndrome of deficiency of both heart and spleen: a multicen. Europe PMC query `(Compound Ciwujia Granules, Guipi G"
     },
     {
       "id": "osmf:claim:agent-comprehensive-rehabilitation-treats-long-covid",
@@ -28624,13 +28818,34 @@
         {
           "type": "nct",
           "value": "NCT06907251"
+        },
+        {
+          "type": "pmid",
+          "value": "35176758"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06907251 (NOT_YET_RECRUITING), PMID:35176758, PMID:36695182, PMID:37076602, PMID:38264914, PMID:39866113. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Dapagliflozin → Long COVID: NCT06907251 (NOT_YET_RECRUITING, phase=PHASE3, n=192, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 35176758: Long COVID: post-acute sequelae of COVID-19 with a cardiovascular focus.; PMID 36695182: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association.; PMID "
     },
     {
       "id": "osmf:claim:agent-decompartmentalization-framework-treats-me-cfs",
@@ -28886,7 +29101,7 @@
       "subject_id": "osmf:agent:digital-cognitive-behavioral-intervention-rxwell",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -28896,13 +29111,34 @@
         {
           "type": "nct",
           "value": "NCT05597722"
+        },
+        {
+          "type": "pmid",
+          "value": "33166287"
+        },
+        {
+          "type": "pmid",
+          "value": "34024217"
+        },
+        {
+          "type": "pmid",
+          "value": "34373540"
+        },
+        {
+          "type": "pmid",
+          "value": "36639608"
+        },
+        {
+          "type": "pmid",
+          "value": "41092926"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05597722 (TERMINATED), PMID:33166287, PMID:34024217, PMID:34373540, PMID:36639608, PMID:41092926. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Digital Cognitive Behavioral Intervention-Rxwell' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 1818 hits but do not establish a treatable-agent evidence base."
     },
     {
       "id": "osmf:claim:agent-digital-physiotherapy-practice-treats-long-covid",
@@ -29717,13 +29953,34 @@
         {
           "type": "nct",
           "value": "NCT06128967"
+        },
+        {
+          "type": "pmid",
+          "value": "33180097"
+        },
+        {
+          "type": "pmid",
+          "value": "35987197"
+        },
+        {
+          "type": "pmid",
+          "value": "36253560"
+        },
+        {
+          "type": "pmid",
+          "value": "36631691"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT05874037 (COMPLETED, hasResults; symptom score -47.3 vs -31.1), NCT06128967, NCT04510194 (acute/off-target). Evaluated from extracted references on 2026-09-19; not a systematic review. Early single-trial signal for established Long COVID; not consensus. Not medical advice.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Posted CT.gov primary favors fluvoxamine vs placebo in one LC RCT; keep C not B."
     },
     {
       "id": "osmf:claim:agent-fluvoxamine-treats-me-cfs",
@@ -29752,13 +30009,34 @@
         {
           "type": "nct",
           "value": "NCT06128967"
+        },
+        {
+          "type": "pmid",
+          "value": "19428959"
+        },
+        {
+          "type": "pmid",
+          "value": "23459093"
+        },
+        {
+          "type": "pmid",
+          "value": "33666147"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
+        },
+        {
+          "type": "pmid",
+          "value": "39326415"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05874037 (COMPLETED), NCT07359482 (RECRUITING), NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), PMID:19428959, PMID:23459093. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 4 registry trial(s) for Fluvoxamine → ME/CFS: NCT05874037 (COMPLETED, phase=PHASE2,PHASE3, n=191, relevant=False); NCT07359482 (RECRUITING, phase=PHASE3, n=160, relevant=False); NCT04510194 (COMPLETED, phase=PHASE3, n=1323, relevant=False); NCT06128967 (COMPLETED, phase=PHASE3, n=399, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 19428959: 5-HT(1A) r"
     },
     {
       "id": "osmf:claim:agent-fmg-treats-me-cfs",
@@ -29923,18 +30201,19 @@
           "value": "NCT01742013"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT01742013 (COMPLETED). Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Gcjbp Laennec Inj. → ME/CFS: NCT01742013 (COMPLETED, phase=PHASE3, n=78, relevant=True). No posted CT.gov results found in this pass. Europe PMC query `(Gcjbp Laennec Inj.) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")` → 0 hits (top cited sampled). This evaluation does not invent positive efficacy; absent clear supportive published out"
     },
     {
       "id": "osmf:claim:agent-genetic-treats-long-covid",
       "subject_id": "osmf:agent:genetic",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -29944,13 +30223,34 @@
         {
           "type": "nct",
           "value": "NCT06441955"
+        },
+        {
+          "type": "pmid",
+          "value": "26553804"
+        },
+        {
+          "type": "pmid",
+          "value": "32761142"
+        },
+        {
+          "type": "pmid",
+          "value": "33692530"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06441955 (RECRUITING), PMID:26553804, PMID:32761142, PMID:33692530, PMID:36695182, PMID:38264914. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Genetic' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 11505 hits but do not establish a treatable-agent evidence base."
     },
     {
       "id": "osmf:claim:agent-graded-dobutamine-infusions-treats-me-cfs",
@@ -30620,13 +30920,34 @@
         {
           "type": "nct",
           "value": "NCT07621068"
+        },
+        {
+          "type": "pmid",
+          "value": "34067776"
+        },
+        {
+          "type": "pmid",
+          "value": "34163217"
+        },
+        {
+          "type": "pmid",
+          "value": "35875883"
+        },
+        {
+          "type": "pmid",
+          "value": "36215063"
+        },
+        {
+          "type": "pmid",
+          "value": "38374451"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06452095 (RECRUITING), NCT04842448 (COMPLETED), NCT06267300 (UNKNOWN), NCT04905888 (WITHDRAWN), NCT07621068 (RECRUITING), PMID:34067776. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 5 registry trial(s) for Hyperbaric Oxygen Therapy (HBOT) → Long COVID: NCT06452095 (RECRUITING, phase=NA, n=120, relevant=True); NCT04842448 (COMPLETED, phase=PHASE2, n=80, relevant=True); NCT06267300 (UNKNOWN, phase=PHASE3, n=120, relevant=True); NCT04905888 (WITHDRAWN, phase=PHASE2, n=0, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 34067776: Post-"
     },
     {
       "id": "osmf:claim:agent-hyperbaric-oxygen-therapy-hbot-treats-me-cfs",
@@ -30663,13 +30984,34 @@
         {
           "type": "nct",
           "value": "NCT07621068"
+        },
+        {
+          "type": "pmid",
+          "value": "24752591"
+        },
+        {
+          "type": "pmid",
+          "value": "28506916"
+        },
+        {
+          "type": "pmid",
+          "value": "34067776"
+        },
+        {
+          "type": "pmid",
+          "value": "35875883"
+        },
+        {
+          "type": "pmid",
+          "value": "37907497"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT07621068 (RECRUITING), PMID:42249466. Evaluated from extracted references on 2026-09-19; not a systematic review. ME/CFS-specific HBOT trial is recruiting; no completed confirmatory RCT results. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Recruiting ME/CFS HBOT RCT + small cohort PMID; early signal only (C/draft)."
     },
     {
       "id": "osmf:claim:agent-hyperbaric-treats-me-cfs",
@@ -30745,7 +31087,7 @@
       "subject_id": "osmf:agent:igpro20",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -30755,13 +31097,18 @@
         {
           "type": "nct",
           "value": "NCT06524739"
+        },
+        {
+          "type": "pmid",
+          "value": "41089328"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06524739 (TERMINATED), PMID:41089328. Evaluated from extracted references on 2026-09-19; not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Extracted 1 registry trial(s) for Igpro20 → Long COVID: NCT06524739 (TERMINATED, phase=PHASE3, n=16, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 41089328: Immunotherapies for postural orthostatic tachycardia syndrome, other common autonomic disorders, and Long COVID: current. Europe PMC query `(Igpro20) AND (\"long COVID\" OR \"post-COVID\" OR PASC)` → 1 hits (top cited sampled)"
     },
     {
       "id": "osmf:claim:agent-il-6-treats-long-covid",
@@ -30824,13 +31171,34 @@
         {
           "type": "nct",
           "value": "NCT05524532"
+        },
+        {
+          "type": "pmid",
+          "value": "35204236"
+        },
+        {
+          "type": "pmid",
+          "value": "37388814"
+        },
+        {
+          "type": "pmid",
+          "value": "39179099"
+        },
+        {
+          "type": "pmid",
+          "value": "40722944"
+        },
+        {
+          "type": "pmid",
+          "value": "42325367"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05524532 (COMPLETED), PMID:35204236, PMID:37388814, PMID:39179099, PMID:40722944, PMID:42325367. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Immulina Tm → Long COVID: NCT05524532 (COMPLETED, phase=PHASE3, n=101, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 35204236: Cyanobacteria and Algae-Derived Bioactive Metabolites as Antiviral Agents: Evidence, Mode of Action, and Scope for Furth; PMID 37388814: The pathophysiology of postacute sequelae of COVID-19 (PASC): Po"
     },
     {
       "id": "osmf:claim:agent-immunoadsorption-treats-long-covid",
@@ -31466,20 +31834,41 @@
         {
           "type": "nct",
           "value": "NCT06305780"
+        },
+        {
+          "type": "pmid",
+          "value": "33428867"
+        },
+        {
+          "type": "pmid",
+          "value": "33753937"
+        },
+        {
+          "type": "pmid",
+          "value": "36639608"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:33428867, PMID:33753937, PMID:36639608, PMID:36695182. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) → Long COVID: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=True); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33428867: 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study.; PMID 33753937: Post-acute COVID-19 syndrome.; P"
     },
     {
       "id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-lyme",
       "subject_id": "osmf:agent:intravenous-immunoglobulin-ivig",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:lyme",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -31505,20 +31894,41 @@
         {
           "type": "nct",
           "value": "NCT06305780"
+        },
+        {
+          "type": "pmid",
+          "value": "15870014"
+        },
+        {
+          "type": "pmid",
+          "value": "25077519"
+        },
+        {
+          "type": "pmid",
+          "value": "27976670"
+        },
+        {
+          "type": "pmid",
+          "value": "32984564"
+        },
+        {
+          "type": "pmid",
+          "value": "39326415"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:15870014, PMID:25077519, PMID:27976670, PMID:32984564. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) → Chronic Lyme / PTLDS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=False); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 15870014: In vitro expanded human CD4+CD25+ regulatory T cells suppress effector T cell proliferation.; PMID 2507751"
     },
     {
       "id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-me-cfs",
       "subject_id": "osmf:agent:intravenous-immunoglobulin-ivig",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:me-cfs",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -31544,20 +31954,41 @@
         {
           "type": "nct",
           "value": "NCT06305780"
+        },
+        {
+          "type": "pmid",
+          "value": "19375665"
+        },
+        {
+          "type": "pmid",
+          "value": "19781793"
+        },
+        {
+          "type": "pmid",
+          "value": "21871249"
+        },
+        {
+          "type": "pmid",
+          "value": "27885969"
+        },
+        {
+          "type": "pmid",
+          "value": "36639608"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:19375665, PMID:19781793, PMID:21871249, PMID:27885969. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) → ME/CFS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=False); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 19375665: Autoimmune myasthenia gravis: emerging clinical and biological heterogeneity.; PMID 19781793: Critical role of nocicepto"
     },
     {
       "id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-other-post-viral",
       "subject_id": "osmf:agent:intravenous-immunoglobulin-ivig",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:other-post-viral",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -31583,13 +32014,34 @@
         {
           "type": "nct",
           "value": "NCT06305780"
+        },
+        {
+          "type": "pmid",
+          "value": "22185868"
+        },
+        {
+          "type": "pmid",
+          "value": "32298803"
+        },
+        {
+          "type": "pmid",
+          "value": "32493739"
+        },
+        {
+          "type": "pmid",
+          "value": "33176455"
+        },
+        {
+          "type": "pmid",
+          "value": "33753937"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:22185868, PMID:32298803, PMID:32493739, PMID:33176455. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) → Other Post-Viral & Post-Infectious Syndromes: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=False); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 22185868: Myocarditis.; PMID 32298803: Are we facing a crashing wave of neuropsychiatric seq"
     },
     {
       "id": "osmf:claim:agent-intravenous-immunoglobulin-ivig-treats-pots",
@@ -31622,13 +32074,34 @@
         {
           "type": "nct",
           "value": "NCT06305780"
+        },
+        {
+          "type": "pmid",
+          "value": "33753937"
+        },
+        {
+          "type": "pmid",
+          "value": "34144933"
+        },
+        {
+          "type": "pmid",
+          "value": "34319569"
+        },
+        {
+          "type": "pmid",
+          "value": "34817268"
+        },
+        {
+          "type": "pmid",
+          "value": "36639608"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:33753937, PMID:34144933, PMID:34319569, PMID:34817268. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) → POTS: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=True); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33753937: Post-acute COVID-19 syndrome.; PMID 34144933: Postural orthostatic tachycardia syndrome (POTS): State of the science and clinical care from a"
     },
     {
       "id": "osmf:claim:agent-iodocarb-treats-me-cfs",
@@ -31718,20 +32191,41 @@
         {
           "type": "nct",
           "value": "NCT05481177"
+        },
+        {
+          "type": "pmid",
+          "value": "32201335"
+        },
+        {
+          "type": "pmid",
+          "value": "34024217"
+        },
+        {
+          "type": "pmid",
+          "value": "35176758"
+        },
+        {
+          "type": "pmid",
+          "value": "35307156"
+        },
+        {
+          "type": "pmid",
+          "value": "39326415"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06305806 (COMPLETED), NCT05481177 (UNKNOWN), PMID:32201335, PMID:34024217, PMID:35176758, PMID:35307156. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 2 registry trial(s) for Ivabradine → Long COVID: NCT06305806 (COMPLETED, phase=PHASE2, n=181, relevant=True); NCT05481177 (UNKNOWN, phase=PHASE4, n=250, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 34024217: Long COVID or"
     },
     {
       "id": "osmf:claim:agent-ivermectin-treats-long-covid",
       "subject_id": "osmf:agent:ivermectin",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -31745,20 +32239,41 @@
         {
           "type": "nct",
           "value": "NCT04510194"
+        },
+        {
+          "type": "pmid",
+          "value": "33856918"
+        },
+        {
+          "type": "pmid",
+          "value": "33941622"
+        },
+        {
+          "type": "pmid",
+          "value": "36115368"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
+        },
+        {
+          "type": "pmid",
+          "value": "38378653"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT04510194 (COMPLETED), PMID:33856918, PMID:33941622, PMID:36115368, PMID:37076602, PMID:38378653. Evaluated from extracted references on 2026-09-19; not a systematic review. Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. | For Long COVID, extracted trials/literature do not provide solid supportive clinical efficacy for ivermectin. Broader COVID literature is contested; tracker PMID linkage may be off-target (safety/case report). CT.gov statuses: COMPLETED. Search hits=703."
     },
     {
       "id": "osmf:claim:agent-ivermectin-treats-lyme",
       "subject_id": "osmf:agent:ivermectin",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:lyme",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -31772,13 +32287,34 @@
         {
           "type": "nct",
           "value": "NCT04510194"
+        },
+        {
+          "type": "pmid",
+          "value": "18323583"
+        },
+        {
+          "type": "pmid",
+          "value": "29186062"
+        },
+        {
+          "type": "pmid",
+          "value": "32047861"
+        },
+        {
+          "type": "pmid",
+          "value": "39326415"
+        },
+        {
+          "type": "pmid",
+          "value": "39947217"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT04510194 (COMPLETED), PMID:18323583, PMID:29186062, PMID:32047861, PMID:39326415, PMID:39947217. Evaluated from extracted references on 2026-09-19; not a systematic review. Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. | For Chronic Lyme / PTLDS, extracted trials/literature do not provide solid supportive clinical efficacy for ivermectin. Broader COVID literature is contested; tracker PMID linkage may be off-target (safety/case report). CT.gov statuses: COMPLETED. Search hits=18."
     },
     {
       "id": "osmf:claim:agent-journaling-treats-me-cfs",
@@ -32258,13 +32794,34 @@
         {
           "type": "nct",
           "value": "NCT01071044"
+        },
+        {
+          "type": "pmid",
+          "value": "27189581"
+        },
+        {
+          "type": "pmid",
+          "value": "27480574"
+        },
+        {
+          "type": "pmid",
+          "value": "27664125"
+        },
+        {
+          "type": "pmid",
+          "value": "29173175"
+        },
+        {
+          "type": "pmid",
+          "value": "31394725"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT01071044 (COMPLETED), PMID:27189581, PMID:27480574, PMID:27664125, PMID:29173175, PMID:31394725. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 1 registry trial(s) for Lisdexamfetamine Dimesylate → ME/CFS: NCT01071044 (COMPLETED, phase=PHASE4, n=26, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 27189581: Activational and effort-related aspects of motivation: neural mechanisms and implications for psychopathology.; PMID 27480574: Inflammation Effects on Motivation and Motor Activity: Role of Dopamine.; PMID 2"
     },
     {
       "id": "osmf:claim:agent-lithium-treats-long-covid",
@@ -32331,13 +32888,34 @@
         {
           "type": "nct",
           "value": "NCT05619653"
+        },
+        {
+          "type": "pmid",
+          "value": "32750108"
+        },
+        {
+          "type": "pmid",
+          "value": "33909761"
+        },
+        {
+          "type": "pmid",
+          "value": "36253560"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
+        },
+        {
+          "type": "pmid",
+          "value": "37518181"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05619653 (ACTIVE_NOT_RECRUITING), PMID:32750108, PMID:33909761, PMID:36253560, PMID:37076602, PMID:37518181. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Losartan → Long COVID: NCT05619653 (ACTIVE_NOT_RECRUITING, phase=PHASE3, n=279, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32750108: Endothelial dysfunction in COVID-19: a position paper of the ESC Working Group for Atherosclerosis and Vascular Biology,; PMID 33909761: Brazilian Guidelines of Hypertension - 2020.; PMID 3625"
     },
     {
       "id": "osmf:claim:agent-low-carbohydrate-diet-intervention-treats-long-covid",
@@ -32974,7 +33552,7 @@
       "subject_id": "osmf:agent:metformin",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:gulf-war-illness",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -32996,13 +33574,34 @@
         {
           "type": "nct",
           "value": "NCT06147050"
+        },
+        {
+          "type": "pmid",
+          "value": "36326761"
+        },
+        {
+          "type": "pmid",
+          "value": "37008131"
+        },
+        {
+          "type": "pmid",
+          "value": "37082752"
+        },
+        {
+          "type": "pmid",
+          "value": "37189617"
+        },
+        {
+          "type": "pmid",
+          "value": "40258841"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:36326761, PMID:37008131, PMID:37082752. Evaluated from extracted references on 2026-09-19; not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Extracted 3 registry trial(s) for Metformin → Gulf War Illness: NCT04510194 (COMPLETED, phase=PHASE3, n=1323, relevant=False); NCT06128967 (COMPLETED, phase=PHASE3, n=399, relevant=False); NCT06147050 (UNKNOWN, phase=PHASE3, n=16, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 36326761: Complexity and Challenges of the Clinical Diagnosis and Management of Long"
     },
     {
       "id": "osmf:claim:agent-metformin-treats-long-covid",
@@ -33031,13 +33630,34 @@
         {
           "type": "nct",
           "value": "NCT06147050"
+        },
+        {
+          "type": "pmid",
+          "value": "35668219"
+        },
+        {
+          "type": "pmid",
+          "value": "36050306"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:35668219, PMID:36050306, PMID:36695182. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited → C not B. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited → C not B. | Metformin has a notable signal for reducing incidence of long COVID after acute infection in randomized data, but that is prevention rather than treatment of established Long COVID. Linked trials: NCT04510194:COMPLETED, NCT06128967:COMPLETED, NCT06147050:UNKNOWN. Literature includes preclinical GWI work and PACVS map notes. Search hits=1165."
     },
     {
       "id": "osmf:claim:agent-metformin-treats-me-cfs",
@@ -33066,13 +33686,34 @@
         {
           "type": "nct",
           "value": "NCT06147050"
+        },
+        {
+          "type": "pmid",
+          "value": "18923511"
+        },
+        {
+          "type": "pmid",
+          "value": "23798298"
+        },
+        {
+          "type": "pmid",
+          "value": "30317530"
+        },
+        {
+          "type": "pmid",
+          "value": "30496104"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:18923511, PMID:23798298, PMID:30317530. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 3 registry trial(s) for Metformin → ME/CFS: NCT04510194 (COMPLETED, phase=PHASE3, n=1323, relevant=False); NCT06128967 (COMPLETED, phase=PHASE3, n=399, relevant=True); NCT06147050 (UNKNOWN, phase=PHASE3, n=16, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 18923511: The molecular neurobiology of depression.; PMID 23798298: Lack of exercise is a major"
     },
     {
       "id": "osmf:claim:agent-methyl-p-plus-nutrient-formula-treats-me-cfs",
@@ -33171,7 +33812,7 @@
       "subject_id": "osmf:agent:microcrystalline-cellulose",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -33185,13 +33826,34 @@
         {
           "type": "nct",
           "value": "NCT06348212"
+        },
+        {
+          "type": "pmid",
+          "value": "21821740"
+        },
+        {
+          "type": "pmid",
+          "value": "21876164"
+        },
+        {
+          "type": "pmid",
+          "value": "23102010"
+        },
+        {
+          "type": "pmid",
+          "value": "27287427"
+        },
+        {
+          "type": "pmid",
+          "value": "36701528"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05795816 (COMPLETED), NCT06348212 (UNKNOWN), PMID:21821740, PMID:21876164, PMID:23102010, PMID:27287427. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Microcrystalline Cellulose' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 240 hits but do not establish a treatable-agent evidence base."
     },
     {
       "id": "osmf:claim:agent-microdosing-of-mindfulness-treats-long-covid",
@@ -33451,7 +34113,7 @@
       "subject_id": "osmf:agent:moderna-covid-19-vaccine",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -33461,20 +34123,41 @@
         {
           "type": "nct",
           "value": "NCT06441955"
+        },
+        {
+          "type": "pmid",
+          "value": "33497610"
+        },
+        {
+          "type": "pmid",
+          "value": "36580913"
+        },
+        {
+          "type": "pmid",
+          "value": "37165196"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "38642570"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06441955 (RECRUITING), PMID:33497610, PMID:36580913, PMID:37165196, PMID:38264914, PMID:38642570. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. | Registry entries link Moderna Covid-19 Vaccine to Long COVID contexts, but vaccination is not established therapy for existing Long COVID. Statuses: RECRUITING. Search hits=3388."
     },
     {
       "id": "osmf:claim:agent-moderna-mrna-covid-19-vaccine-treats-long-covid",
       "subject_id": "osmf:agent:moderna-mrna-covid-19-vaccine",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -33484,13 +34167,34 @@
         {
           "type": "nct",
           "value": "NCT05212610"
+        },
+        {
+          "type": "pmid",
+          "value": "33497610"
+        },
+        {
+          "type": "pmid",
+          "value": "34715347"
+        },
+        {
+          "type": "pmid",
+          "value": "36580913"
+        },
+        {
+          "type": "pmid",
+          "value": "37165196"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05212610 (COMPLETED), PMID:33497610, PMID:34715347, PMID:36580913, PMID:37165196, PMID:38264914. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. | Registry entries link Moderna Mrna Covid-19 Vaccine to Long COVID contexts, but vaccination is not established therapy for existing Long COVID. Statuses: COMPLETED. Search hits=2626."
     },
     {
       "id": "osmf:claim:agent-montelukast-tablets-oral-treatment-treats-long-covid",
@@ -33520,7 +34224,7 @@
       "subject_id": "osmf:agent:montelukast",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -33530,20 +34234,41 @@
         {
           "type": "nct",
           "value": "NCT04695704"
+        },
+        {
+          "type": "pmid",
+          "value": "34067776"
+        },
+        {
+          "type": "pmid",
+          "value": "34563706"
+        },
+        {
+          "type": "pmid",
+          "value": "34991982"
+        },
+        {
+          "type": "pmid",
+          "value": "36456834"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT04695704 (TERMINATED), PMID:34067776, PMID:34563706, PMID:34991982, PMID:36456834, PMID:37076602. Evaluated from extracted references on 2026-09-19; not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Extracted 1 registry trial(s) for Montelukast → Long COVID: NCT04695704 (TERMINATED, phase=PHASE3, n=86, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 34067776: Post-COVID-19 Syndrome and the Potential Benefits of Exercise.; PMID 34563706: Mast cell activation symptoms are prevalent in Long-COVID.; PMID 34991982: An update on drugs with therapeutic potential f"
     },
     {
       "id": "osmf:claim:agent-montelukast-treats-mcas",
       "subject_id": "osmf:agent:montelukast",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:mcas",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -33553,13 +34278,34 @@
         {
           "type": "nct",
           "value": "NCT04695704"
+        },
+        {
+          "type": "pmid",
+          "value": "15577865"
+        },
+        {
+          "type": "pmid",
+          "value": "24388011"
+        },
+        {
+          "type": "pmid",
+          "value": "25861976"
+        },
+        {
+          "type": "pmid",
+          "value": "28689842"
+        },
+        {
+          "type": "pmid",
+          "value": "34789462"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT04695704 (TERMINATED), PMID:15577865, PMID:24388011, PMID:25861976, PMID:28689842, PMID:34789462. Evaluated from extracted references on 2026-09-19; not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Extracted 1 registry trial(s) for Montelukast → MCAS: NCT04695704 (TERMINATED, phase=PHASE3, n=86, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 15577865: Rhinosinusitis: establishing definitions for clinical research and patient care.; PMID 24388011: Prostaglandin D2 activates group 2 innate lymphoid cells through chemoattractant receptor-homologous molecule"
     },
     {
       "id": "osmf:claim:agent-motor-training-treats-long-covid",
@@ -33727,7 +34473,7 @@
       "subject_id": "osmf:agent:multidisciplinary-approach",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -33737,13 +34483,34 @@
         {
           "type": "nct",
           "value": "NCT06441955"
+        },
+        {
+          "type": "pmid",
+          "value": "33753937"
+        },
+        {
+          "type": "pmid",
+          "value": "34308300"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38493795"
+        },
+        {
+          "type": "pmid",
+          "value": "38642570"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06441955 (RECRUITING), PMID:33753937, PMID:34308300, PMID:36695182, PMID:38493795, PMID:38642570. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Multidisciplinary Approach' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 9114 hits but do not establish a treatable-agent evidence base."
     },
     {
       "id": "osmf:claim:agent-multimodal-intervention-in-long-covid19-treats-long-covid",
@@ -34605,7 +35372,7 @@
       "subject_id": "osmf:agent:nutritional-blend-immunerecov",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -34615,13 +35382,34 @@
         {
           "type": "nct",
           "value": "NCT06166030"
+        },
+        {
+          "type": "pmid",
+          "value": "36364899"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
+        },
+        {
+          "type": "pmid",
+          "value": "39900737"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06166030 (UNKNOWN), PMID:36364899, PMID:36695182, PMID:38264914, PMID:39866113, PMID:39900737. Evaluated from extracted references on 2026-09-19; not a systematic review. Insufficient extracted clinical evidence for the agent–condition pair. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Insufficient extracted clinical evidence for the agent–condition pair. | Extracted 1 registry trial(s) for Nutritional Blend (Immunerecov). → Long COVID: NCT06166030 (UNKNOWN, phase=PHASE3, n=58, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 36364899: A Comprehensive Review on Nutraceuticals: Therapy Support and Formulation Challenges.; PMID 36695182: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart"
     },
     {
       "id": "osmf:claim:agent-omega-3-treats-long-covid",
@@ -35084,13 +35872,34 @@
         {
           "type": "nct",
           "value": "NCT06441955"
+        },
+        {
+          "type": "pmid",
+          "value": "35271343"
+        },
+        {
+          "type": "pmid",
+          "value": "36639608"
+        },
+        {
+          "type": "pmid",
+          "value": "36951832"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT07597902 (NOT_YET_RECRUITING), NCT05965726 (COMPLETED), NCT05595369 (COMPLETED), NCT05852873 (ACTIVE_NOT_RECRUITING), NCT05576662 (COMPLETED), PMID:35271343. Evaluated from extracted references on 2026-09-19; not a systematic review. Multiple Phase 2 LC trials exist; results mixed/limited for established PASC—early clinical signal tier C, not B. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Multiple Phase 2 LC trials exist; results mixed/limited for established PASC—early clinical signal tier C, not B. | Nirmatrelvir/ritonavir has been tested for post-COVID / long COVID in several trials; available public results are mixed and do not yet constitute solid consensus treatment evidence. Trial statuses: NOT_YET_RECRUITING, COMPLETED, COMPLETED, ACTIVE_NOT_RECRUITING, COMPLETED. Search hits=1525."
     },
     {
       "id": "osmf:claim:agent-peer-mentoring-treats-long-covid",
@@ -35262,7 +36071,7 @@
       "subject_id": "osmf:agent:pfizer-biontech-mrna-covid-19-vaccine",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -35272,13 +36081,34 @@
         {
           "type": "nct",
           "value": "NCT05212610"
+        },
+        {
+          "type": "pmid",
+          "value": "33497610"
+        },
+        {
+          "type": "pmid",
+          "value": "34281357"
+        },
+        {
+          "type": "pmid",
+          "value": "34715347"
+        },
+        {
+          "type": "pmid",
+          "value": "35614233"
+        },
+        {
+          "type": "pmid",
+          "value": "37165196"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05212610 (COMPLETED), PMID:33497610, PMID:34281357, PMID:34715347, PMID:35614233, PMID:37165196. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] COVID vaccines are prevention/acute tools; treating established Long COVID with additional vaccination is uncertain/insufficient. | Registry entries link Pfizer-Biontech Mrna Covid-19 Vaccine to Long COVID contexts, but vaccination is not established therapy for existing Long COVID. Statuses: COMPLETED. Search hits=2557."
     },
     {
       "id": "osmf:claim:agent-pg2-treats-me-cfs",
@@ -35634,7 +36464,7 @@
       "subject_id": "osmf:agent:physiological-evaluation",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -35644,13 +36474,34 @@
         {
           "type": "nct",
           "value": "NCT06441955"
+        },
+        {
+          "type": "pmid",
+          "value": "34373540"
+        },
+        {
+          "type": "pmid",
+          "value": "34634250"
+        },
+        {
+          "type": "pmid",
+          "value": "36050306"
+        },
+        {
+          "type": "pmid",
+          "value": "38484753"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06441955 (RECRUITING), PMID:34373540, PMID:34634250, PMID:36050306, PMID:38484753, PMID:39866113. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Physiological Evaluation' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 5432 hits but do not establish a treatable-agent evidence base."
     },
     {
       "id": "osmf:claim:agent-physiotherapy-treats-long-covid",
@@ -35717,13 +36568,34 @@
         {
           "type": "nct",
           "value": "NCT06928272"
+        },
+        {
+          "type": "pmid",
+          "value": "32201335"
+        },
+        {
+          "type": "pmid",
+          "value": "32422178"
+        },
+        {
+          "type": "pmid",
+          "value": "33609255"
+        },
+        {
+          "type": "pmid",
+          "value": "35176758"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06928272 (RECRUITING), PMID:32201335, PMID:32422178, PMID:33609255, PMID:35176758, PMID:37076602. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Pirfenidone → Long COVID: NCT06928272 (RECRUITING, phase=PHASE3, n=348, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 32422178: Pulmonary fibrosis and COVID-19: the potential role for antifibrotic t"
     },
     {
       "id": "osmf:claim:agent-plasma-exchange-procedure-treats-long-covid",
@@ -35855,13 +36727,34 @@
         {
           "type": "nct",
           "value": "NCT05619653"
+        },
+        {
+          "type": "pmid",
+          "value": "32201335"
+        },
+        {
+          "type": "pmid",
+          "value": "32637987"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05619653 (ACTIVE_NOT_RECRUITING), PMID:32201335, PMID:32637987, PMID:36695182, PMID:38264914, PMID:39866113. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Prednisolone → Long COVID: NCT05619653 (ACTIVE_NOT_RECRUITING, phase=PHASE3, n=279, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 32637987: The emerging spectrum of COVID-19 neurology: clinical, rad"
     },
     {
       "id": "osmf:claim:agent-prednisone-treats-long-covid",
@@ -36484,13 +37377,34 @@
         {
           "type": "nct",
           "value": "NCT05890534"
+        },
+        {
+          "type": "pmid",
+          "value": "35566252"
+        },
+        {
+          "type": "pmid",
+          "value": "36043493"
+        },
+        {
+          "type": "pmid",
+          "value": "36364899"
+        },
+        {
+          "type": "pmid",
+          "value": "36639608"
+        },
+        {
+          "type": "pmid",
+          "value": "37080828"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05890534 (COMPLETED), PMID:35566252, PMID:36043493, PMID:36364899, PMID:36639608, PMID:37080828. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Pycnogenol® → Long COVID: NCT05890534 (COMPLETED, phase=PHASE3, n=153, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 35566252: Flavonoids as Potential Anti-Inflammatory Molecules: A Review.; PMID 36043493: The potential role of ischaemia-reperfusion injury in chronic, relapsing diseases such as rheumatoid arthritis, Long COV; "
     },
     {
       "id": "osmf:claim:agent-pyridostigmine-bromide-treats-me-cfs",
@@ -36883,13 +37797,18 @@
         {
           "type": "nct",
           "value": "NCT05682560"
+        },
+        {
+          "type": "pmid",
+          "value": "41625963"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT07184385 (NOT_YET_RECRUITING), NCT05682560 (COMPLETED), PMID:41625963. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 2 registry trial(s) for Regenecyte → Long COVID: NCT07184385 (NOT_YET_RECRUITING, phase=PHASE3, n=60, relevant=True); NCT05682560 (COMPLETED, phase=PHASE2, n=30, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 41625963: REGENECYTE cord blood cell therapy in post-COVID syndrome: a phase IIa randomized, placebo-controlled trial.. Europe PMC query `(Regen"
     },
     {
       "id": "osmf:claim:agent-rehabcovidimmersivevr-treats-long-covid",
@@ -37071,13 +37990,34 @@
         {
           "type": "nct",
           "value": "NCT05911906"
+        },
+        {
+          "type": "pmid",
+          "value": "32201335"
+        },
+        {
+          "type": "pmid",
+          "value": "33146552"
+        },
+        {
+          "type": "pmid",
+          "value": "33892403"
+        },
+        {
+          "type": "pmid",
+          "value": "35271343"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05911906 (COMPLETED), PMID:32201335, PMID:33146552, PMID:33892403, PMID:35271343, PMID:37076602. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Remdesivir → Long COVID: NCT05911906 (COMPLETED, phase=PHASE4, n=73, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 33146552: Global Initiative for the Diagnosis, Management, and Prevention of Chroni"
     },
     {
       "id": "osmf:claim:agent-repetitive-transcranial-magnetic-stimulation-treats-long-covid",
@@ -37322,7 +38262,7 @@
       "subject_id": "osmf:agent:rituximab",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:me-cfs",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -37348,13 +38288,34 @@
         {
           "type": "nct",
           "value": "NCT01156909"
+        },
+        {
+          "type": "pmid",
+          "value": "19375665"
+        },
+        {
+          "type": "pmid",
+          "value": "30285773"
+        },
+        {
+          "type": "pmid",
+          "value": "31210940"
+        },
+        {
+          "type": "pmid",
+          "value": "31379879"
+        },
+        {
+          "type": "pmid",
+          "value": "37076602"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT06952413 (RECRUITING), NCT01156922 (TERMINATED), NCT02229942 (COMPLETED), NCT00848692 (COMPLETED), NCT01156909 (COMPLETED), PMID:19375665. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[high] Phase 3 RituxME and related trials showed no clinical benefit in ME/CFS; evidence is insufficient/negative for treatment claim. | Rituximab was tested in ME/CFS including a Phase 3 program; published results did not support clinical efficacy, and the treatment claim is contested/insufficient. Registry statuses include: RECRUITING, TERMINATED, COMPLETED, COMPLETED, COMPLETED. Europe PMC hits=468."
     },
     {
       "id": "osmf:claim:agent-rna-biomarker-blood-test-treats-long-covid",
@@ -37666,13 +38627,34 @@
         {
           "type": "nct",
           "value": "NCT06980636"
+        },
+        {
+          "type": "pmid",
+          "value": "37810369"
+        },
+        {
+          "type": "pmid",
+          "value": "38579075"
+        },
+        {
+          "type": "pmid",
+          "value": "40671020"
+        },
+        {
+          "type": "pmid",
+          "value": "42296071"
+        },
+        {
+          "type": "pmid",
+          "value": "42719314"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06980636 (RECRUITING), PMID:37810369, PMID:38579075, PMID:40671020, PMID:42296071, PMID:42719314. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Shengmai Liquid → Long COVID: NCT06980636 (RECRUITING, phase=PHASE4, n=100, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 37810369: Expert consensus on the use of traditional Chinese medicine for the treatment of common symptoms of post-COVID-19 short-; PMID 38579075: Advances in the application of traditional Chinese medicine"
     },
     {
       "id": "osmf:claim:agent-shenlingcao-oral-liquid-treats-long-covid",
@@ -37712,13 +38694,34 @@
         {
           "type": "nct",
           "value": "NCT00598585"
+        },
+        {
+          "type": "pmid",
+          "value": "28506916"
+        },
+        {
+          "type": "pmid",
+          "value": "34686843"
+        },
+        {
+          "type": "pmid",
+          "value": "34991982"
+        },
+        {
+          "type": "pmid",
+          "value": "36364899"
+        },
+        {
+          "type": "pmid",
+          "value": "39083764"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT00598585 (COMPLETED), PMID:28506916, PMID:34686843, PMID:34991982, PMID:36364899, PMID:39083764. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 1 registry trial(s) for Sildenafil → ME/CFS: NCT00598585 (COMPLETED, phase=PHASE4, n=12, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 28506916: 2017 HRS/EHRA/ECAS/APHRS/SOLAECE expert consensus statement on catheter and surgical ablation of atrial fibrillation.; PMID 34686843: Cardiac involvement in the long-term implications of COVID-19.; PMID 34991982: An update o"
     },
     {
       "id": "osmf:claim:agent-singstrong-strong-lungs-through-song-treats-long-covid",
@@ -37785,13 +38788,34 @@
         {
           "type": "nct",
           "value": "NCT04948203"
+        },
+        {
+          "type": "pmid",
+          "value": "32422178"
+        },
+        {
+          "type": "pmid",
+          "value": "35668219"
+        },
+        {
+          "type": "pmid",
+          "value": "36695182"
+        },
+        {
+          "type": "pmid",
+          "value": "38264914"
+        },
+        {
+          "type": "pmid",
+          "value": "39866113"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06960928 (RECRUITING), NCT04948203 (ACTIVE_NOT_RECRUITING), PMID:32422178, PMID:35668219, PMID:36695182, PMID:38264914. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 2 registry trial(s) for Sirolimus (low-dose Rapamycin) → Long COVID: NCT06960928 (RECRUITING, phase=PHASE3, n=80, relevant=True); NCT04948203 (ACTIVE_NOT_RECRUITING, phase=PHASE2,PHASE3, n=60, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 32422178: Pulmonary fibrosis and COVID-19: the potential role for antifibrotic therapy.; PMID 35668219: The burde"
     },
     {
       "id": "osmf:claim:agent-sodium-oxybate-treats-me-cfs",
@@ -37816,13 +38840,34 @@
         {
           "type": "nct",
           "value": "NCT00498485"
+        },
+        {
+          "type": "pmid",
+          "value": "19225604"
+        },
+        {
+          "type": "pmid",
+          "value": "22802155"
+        },
+        {
+          "type": "pmid",
+          "value": "22811766"
+        },
+        {
+          "type": "pmid",
+          "value": "24289848"
+        },
+        {
+          "type": "pmid",
+          "value": "24348701"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT01584934 (WITHDRAWN), NCT02055898 (COMPLETED), NCT00498485 (TERMINATED), PMID:19225604, PMID:22802155, PMID:22811766. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 3 registry trial(s) for Sodium Oxybate → ME/CFS: NCT01584934 (WITHDRAWN, phase=PHASE4, n=0, relevant=True); NCT02055898 (COMPLETED, phase=PHASE4, n=13, relevant=True); NCT00498485 (TERMINATED, phase=PHASE4, n=17, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 19225604: Fibromyalgia: presentation and management with a focus on pharmacological treatment.; PMID 22802155:"
     },
     {
       "id": "osmf:claim:agent-solriamfetol-oral-tablet-sunosi-treats-me-cfs",
@@ -37839,13 +38884,34 @@
         {
           "type": "nct",
           "value": "NCT04622293"
+        },
+        {
+          "type": "pmid",
+          "value": "39125722"
+        },
+        {
+          "type": "pmid",
+          "value": "39150700"
+        },
+        {
+          "type": "pmid",
+          "value": "40046430"
+        },
+        {
+          "type": "pmid",
+          "value": "40261198"
+        },
+        {
+          "type": "pmid",
+          "value": "41076550"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT04622293 (COMPLETED), PMID:39125722, PMID:39150700, PMID:40046430, PMID:40261198, PMID:41076550. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Solriamfetol Oral Tablet [Sunosi] → ME/CFS: NCT04622293 (COMPLETED, phase=PHASE4, n=44, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 39125722: Comprehensive Review of COVID-19: Epidemiology, Pathogenesis, Advancement in Diagnostic and Detection Techniques, and Po; PMID 39150700: Insights from a 10-year Australasian idiopathic"
     },
     {
       "id": "osmf:claim:agent-solriamfetol-treats-long-covid",
@@ -37889,13 +38955,34 @@
         {
           "type": "nct",
           "value": "NCT03554265"
+        },
+        {
+          "type": "pmid",
+          "value": "36334362"
+        },
+        {
+          "type": "pmid",
+          "value": "36969241"
+        },
+        {
+          "type": "pmid",
+          "value": "37680987"
+        },
+        {
+          "type": "pmid",
+          "value": "37759668"
+        },
+        {
+          "type": "pmid",
+          "value": "39382470"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-      "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "limitations": "Key refs: NCT03554265 (COMPLETED), PMID:36334362, PMID:36969241, PMID:37680987, PMID:37759668, PMID:39382470. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+      "status": "published",
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis → C. | Extracted 1 registry trial(s) for Somatropin → Long COVID: NCT03554265 (COMPLETED, phase=PHASE3, n=72, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 36334362: An improved Fuzzy based GWO algorithm for predicting the potential host receptor of COVID-19 infection.; PMID 36969241: Therapeutic trials for long COVID-19: A call to action from the interventions taskforce of the RECOV"
     },
     {
       "id": "osmf:claim:agent-sonocea-sonic-augmentation-technology-treats-long-covid",
@@ -38741,13 +39828,18 @@
         {
           "type": "nct",
           "value": "NCT05795816"
+        },
+        {
+          "type": "pmid",
+          "value": "39599909"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05795816 (COMPLETED), PMID:39599909. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Testofen → Long COVID: NCT05795816 (COMPLETED, phase=PHASE3, n=150, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 39599909: Beyond Antivirals: Alternative Therapies for Long COVID.. Europe PMC query `(Testofen OR \"Fenugreek extract\") AND (\"long COVID\" OR \"post-COVID\" OR PASC)` → 1 hits (top cited sampled). This evaluation does"
     },
     {
       "id": "osmf:claim:agent-the-multi-domain-tai-chi-digital-therapy-software-application-treats-me-cfs",
@@ -38810,13 +39902,34 @@
         {
           "type": "nct",
           "value": "NCT05642923"
+        },
+        {
+          "type": "pmid",
+          "value": "24661096"
+        },
+        {
+          "type": "pmid",
+          "value": "3070321"
+        },
+        {
+          "type": "pmid",
+          "value": "35269860"
+        },
+        {
+          "type": "pmid",
+          "value": "36701528"
+        },
+        {
+          "type": "pmid",
+          "value": "37130947"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT05642923 (COMPLETED), PMID:24661096, PMID:3070321, PMID:35269860, PMID:36701528, PMID:37130947. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov → cannot support B; early/uncertain C draft. | Extracted 1 registry trial(s) for Thiamine (Vitamin B1) → Long COVID: NCT05642923 (COMPLETED, phase=PHASE4, n=528, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 24661096: Protein design: toward functional metalloenzymes.; PMID 3070321: Linkage map of Salmonella typhimurium, edition VII.; PMID 35269860: The Role of l-Carnitine in Mitochondria, Prevention of Met"
     },
     {
       "id": "osmf:claim:agent-thunder-fire-moxibustion-therapy-treats-me-cfs",
@@ -39839,13 +40952,34 @@
         {
           "type": "nct",
           "value": "NCT06928272"
+        },
+        {
+          "type": "pmid",
+          "value": "35617780"
+        },
+        {
+          "type": "pmid",
+          "value": "36379152"
+        },
+        {
+          "type": "pmid",
+          "value": "36516563"
+        },
+        {
+          "type": "pmid",
+          "value": "37731935"
+        },
+        {
+          "type": "pmid",
+          "value": "40717900"
         }
       ],
-      "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+      "limitations": "Key refs: NCT06928272 (RECRUITING), PMID:35617780, PMID:36379152, PMID:36516563, PMID:37731935, PMID:40717900. Evaluated from extracted references on 2026-09-19; not a systematic review. Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
       "status": "draft",
-      "reviewed_by": "tracker-import-bot",
-      "reviewed_at": "2026-09-19T17:04:30.227Z",
-      "license": "CC-BY-4.0"
+      "reviewed_by": "evidence-eval-bot",
+      "reviewed_at": "2026-09-19T17:30:00Z",
+      "license": "CC-BY-4.0",
+      "confidence_notes": "[medium] Only ongoing/not-completed trials; no posted results → early/insufficient for publish-as-solid. | Extracted 1 registry trial(s) for Upadacitinib → Long COVID: NCT06928272 (RECRUITING, phase=PHASE3, n=348, relevant=True). No posted CT.gov results found in this pass. Literature notes: PMID 35617780: DMARD disruption, rheumatic disease flare, and prolonged COVID-19 symptom duration after acute COVID-19 among patients w; PMID 36379152: Role of SARS-CoV-2-induced cytokine storm in multi-organ failu"
     },
     {
       "id": "osmf:claim:agent-valacyclovir-celecoxib-dose-1-treats-long-covid",

@@ -33,11 +33,32 @@
     {
       "type": "nct",
       "value": "NCT07621068"
+    },
+    {
+      "type": "pmid",
+      "value": "24752591"
+    },
+    {
+      "type": "pmid",
+      "value": "28506916"
+    },
+    {
+      "type": "pmid",
+      "value": "34067776"
+    },
+    {
+      "type": "pmid",
+      "value": "35875883"
+    },
+    {
+      "type": "pmid",
+      "value": "37907497"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT07621068 (RECRUITING), PMID:42249466. Evaluated from extracted references on 2026-09-19; not a systematic review. ME/CFS-specific HBOT trial is recruiting; no completed confirmatory RCT results. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Recruiting ME/CFS HBOT RCT + small cohort PMID; early signal only (C/draft)."
 }

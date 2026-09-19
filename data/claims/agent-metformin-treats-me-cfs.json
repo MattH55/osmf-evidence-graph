@@ -25,11 +25,32 @@
     {
       "type": "nct",
       "value": "NCT06147050"
+    },
+    {
+      "type": "pmid",
+      "value": "18923511"
+    },
+    {
+      "type": "pmid",
+      "value": "23798298"
+    },
+    {
+      "type": "pmid",
+      "value": "30317530"
+    },
+    {
+      "type": "pmid",
+      "value": "30496104"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:18923511, PMID:23798298, PMID:30317530. Evaluated from extracted references on 2026-09-19; not a systematic review. Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] Phase 3 completed but results not found/posted on CT.gov \u2192 cannot support B; early/uncertain C draft. | Extracted 3 registry trial(s) for Metformin \u2192 ME/CFS: NCT04510194 (COMPLETED, phase=PHASE3, n=1323, relevant=False); NCT06128967 (COMPLETED, phase=PHASE3, n=399, relevant=True); NCT06147050 (UNKNOWN, phase=PHASE3, n=16, relevant=False). No posted CT.gov results found in this pass. Literature notes: PMID 18923511: The molecular neurobiology of depression.; PMID 23798298: Lack of exercise is a major"
 }

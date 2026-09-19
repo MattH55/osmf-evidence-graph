@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:ivermectin",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -17,11 +17,32 @@
     {
       "type": "nct",
       "value": "NCT04510194"
+    },
+    {
+      "type": "pmid",
+      "value": "33856918"
+    },
+    {
+      "type": "pmid",
+      "value": "33941622"
+    },
+    {
+      "type": "pmid",
+      "value": "36115368"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
+    },
+    {
+      "type": "pmid",
+      "value": "38378653"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT04510194 (COMPLETED), PMID:33856918, PMID:33941622, PMID:36115368, PMID:37076602, PMID:38378653. Evaluated from extracted references on 2026-09-19; not a systematic review. Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. | For Long COVID, extracted trials/literature do not provide solid supportive clinical efficacy for ivermectin. Broader COVID literature is contested; tracker PMID linkage may be off-target (safety/case report). CT.gov statuses: COMPLETED. Search hits=703."
 }

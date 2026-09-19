@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:digital-cognitive-behavioral-intervention-rxwell",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05597722"
+    },
+    {
+      "type": "pmid",
+      "value": "33166287"
+    },
+    {
+      "type": "pmid",
+      "value": "34024217"
+    },
+    {
+      "type": "pmid",
+      "value": "34373540"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
+    },
+    {
+      "type": "pmid",
+      "value": "41092926"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05597722 (TERMINATED), PMID:33166287, PMID:34024217, PMID:34373540, PMID:36639608, PMID:41092926. Evaluated from extracted references on 2026-09-19; not a systematic review. Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T17:30:00Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] Label is diagnostic/behavioral class/placebo rather than a specific therapeutic agent with condition-directed efficacy evidence. | 'Digital Cognitive Behavioral Intervention-Rxwell' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources. Associated registry entries appear procedural/class/placebo-related. Europe PMC query returned 1818 hits but do not establish a treatable-agent evidence base."
 }
