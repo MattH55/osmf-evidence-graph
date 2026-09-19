@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42343980",
+  "type": "paper",
+  "label": "Differential Regulation of Granule Release in Platelets and Immune Cells.",
+  "aliases": [],
+  "summary": "Platelets and certain immune cells contain releasable granules that play essential roles in hemostasis and immune regulation. However, the regulatory mechanisms governing degranulation of platelets versus immune cells remain incompletely understood. This study aimed to elucidate the distinct regulatory mechanisms underlying granule release in platelets and immune cells. Mouse platelets were freshly isolated from peripheral blood, neutrophils were purified from bone marrow, and mast cells were g…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42343980",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42343980/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42343980/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

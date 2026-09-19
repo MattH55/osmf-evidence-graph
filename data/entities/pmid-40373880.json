@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40373880",
+  "type": "paper",
+  "label": "Soluble CD95L is a prognostic marker in central nervous system posttransplant lymphoproliferative disorders.",
+  "aliases": [],
+  "summary": "CD95L is a transmembrane cytokine mainly expressed by activated T and natural killer cells to contract the immune response through cell-cell contact. Conversely, after cleavage by metalloproteases, this ligand releases a soluble CD95L (sCD95L) that stimulates the immune response and its antitumor activity. In posttransplant lymphoproliferative disorders (PTLDs), we hypothesized that the concentration of sCD95L could exert a biological function and affect clinical outcomes by modulating the immu…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40373880",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40373880/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40373880/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

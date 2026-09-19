@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42322758",
+  "type": "paper",
+  "label": "Study on Sijunzi decoction regulating intestinal microbiota structure and metabolic profile for improving chronic fatigue syndrome.",
+  "aliases": [],
+  "summary": "Chronic fatigue syndrome (CFS) is a syndrome encompassing several systemic diseases. Sijunzi Decoction (SJZD) is a classic formula in traditional Chinese medicine (TCM) for the treatment of spleen deficiency syndrome. Studies have demonstrated that SJZD can effectively alleviate CFS by modulating the gut microbiota, yet the underlying mechanisms are still unknown. This investigation examined the specific mechanisms by which SJZD regulates intestinal microbiota structure and metabolic profiles t…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42322758",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42322758/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42322758/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

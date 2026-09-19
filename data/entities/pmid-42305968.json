@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42305968",
+  "type": "paper",
+  "label": "Efficacy and safety of Shufeng Huashi formula for post-infectious cough: study protocol for a randomized control trial.",
+  "aliases": [],
+  "summary": "Post-infectious cough (PIC) refers to a type of persistent cough triggered by respiratory tract infections that remains unresolved after the initial infection is controlled. It significantly impacts daily life, work, and overall quality of life. This study aims to evaluate the clinical efficacy and safety of the Shufeng Huashi (SFHS) formula, a Traditional Chinese Medicine (TCM) compound, in patients with PIC. This multicenter, randomized, double-blind, placebo-controlled, parallel-group clinic…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42305968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305968/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42305968/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

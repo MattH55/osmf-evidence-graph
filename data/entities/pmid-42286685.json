@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42286685",
+  "type": "paper",
+  "label": "Combatting ventilator induced diaphragm dysfunction with human bone marrow mesenchymal stromal cell-derived extracellular vesicles.",
+  "aliases": [],
+  "summary": "Prolonged mechanical ventilation is closely associated with ventilator-induced lung injury (VILI) and ventilator-induced diaphragm dysfunction (VIDD). These two conditions occur in parallel and contribute to delayed weaning, prolonged intensive care unit (ICU) stay, and poor clinical outcomes. This study evaluated whether human BM-MSC-derived extracellular vesicles (EVs) can simultaneously alleviate lung and diaphragm abnormalities in a unique rat experimental ICU (ExICU) model. Rats were subje…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42286685",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42286685/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42286685/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

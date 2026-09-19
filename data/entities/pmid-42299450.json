@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42299450",
+  "type": "paper",
+  "label": "Anaphylaxis during hemodialysis associated with a polysulfone membrane: evidence from basophil activation testing.",
+  "aliases": [],
+  "summary": "Dialyzer-associated anaphylaxis is an uncommon but serious complication of hemodialysis. Although severe anaphylaxis is rare, milder hypersensitivity reactions are likely underrecognized and frequently misattributed to cardiopulmonary or volume-related causes. In clinical practice, the diagnosis is often inferred indirectly from symptom resolution after dialyzer substitution rather than confirmed by immunologic testing. Serum tryptase is widely used as a marker of mast cell activation in anaphy…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42299450",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299450/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42299450/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

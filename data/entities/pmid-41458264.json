@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41458264",
+  "type": "paper",
+  "label": "A promising therapeutic approach for post-Lassa fever sensorineural hearing loss: a case report.",
+  "aliases": [],
+  "summary": "Lassa fever is a viral haemorrhagic illness endemic in West Africa, with Nigeria accounting for a significant proportion of global cases. While most patients recover, sensorineural hearing loss (SNHL) is a serious and often overlooked post-infectious complication. We present the case of a 13-year-old girl who developed sudden profound right-sided SNHL shortly after recovering from Lassa fever, despite a high cycle threshold (Ct) value on PCR, indicating low viral load. She was treated with intr…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41458264",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41458264/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41458264/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

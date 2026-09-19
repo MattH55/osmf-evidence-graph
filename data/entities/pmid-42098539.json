@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42098539",
+  "type": "paper",
+  "label": "Gastrointestinal Manifestations of Hypermobile Ehlers-Danlos Syndrome and Hypermobility Spectrum Disorders: A Mentored Review.",
+  "aliases": [],
+  "summary": "Hypermobile Ehlers-Danlos Syndrome (hEDS) is a connective tissue disorder that is often diagnosed after diagnostic delays due to reliance on heightened clinical suspicion. Hypermobility spectrum disorders (HSD) bridge the gap between asymptomatic joint hypermobility and hEDS. Due to overlapping features and evolving diagnostic criteria, these entities are often discussed collectively as hEDS/HSD. Patients commonly present with gastrointestinal (GI) symptoms, prompting referral for specialized c…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42098539",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42098539/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42098539/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

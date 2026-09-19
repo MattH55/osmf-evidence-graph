@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40671857",
+  "type": "paper",
+  "label": "Understanding the Perspectives, Experiences, Beliefs, and Knowledge of Health Care Practitioners on the Diagnosis and Treatment of Lyme Disease in Canada.",
+  "aliases": [],
+  "summary": "Lyme disease (LD) is a multisystemic disease without a current approved human vaccine. Increasing infection rates have created pressure to improve the diagnosis and treatment of LD in Canada. This study aims to inform LD care through the exploration of health care practitioner (HCP) perspectives, experiences, beliefs, and knowledge of LD diagnosis and treatment. Canadian HCPs took part in bilingual (English and French) semi-structured interviews to explore their experiences and perspectives rel…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40671857",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40671857/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40671857/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

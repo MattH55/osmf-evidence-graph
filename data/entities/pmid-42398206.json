@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42398206",
+  "type": "paper",
+  "label": "Unveiling the pharmacological basis of Rhodiola crenulata for atopic dermatitis: A multi-model approach combining zebrafish, mouse studies, and intelligent computational analysis.",
+  "aliases": [],
+  "summary": "Atopic dermatitis (AD) is a complex inflammatory skin disorder. Rhodiola crenulata extract (RC) contains bioactive compounds with potential benefits for AD, but its mechanisms are not fully elucidated. A DNCB-induced AD mouse model and zebrafish models were used to evaluate efficacy and multi-dimensional activities. RC was separated into microfractions by preparative liquid chromatography. An OPLS-DA model, based on zebrafish bioactivity and LC-MS profiling, predicted active compounds, which we…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42398206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398206/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42398206/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

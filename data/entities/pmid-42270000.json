@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42270000",
+  "type": "paper",
+  "label": "Trends in antidepressant and antianxiety medication use in patients evaluated for postural orthostatic tachycardia syndrome.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42270000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42270000/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42270000/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42222895",
+  "type": "paper",
+  "label": "The long and winding road of postural orthostatic tachycardia syndrome.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42222895",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42222895/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42222895/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

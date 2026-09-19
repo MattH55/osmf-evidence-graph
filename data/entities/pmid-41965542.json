@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41965542",
+  "type": "paper",
+  "label": "Epidemiology, diagnosis and emerging therapies for Lyme disease of the Northern Hemisphere.",
+  "aliases": [],
+  "summary": "BACKGROUND: Lyme disease is the most widespread tick-borne infection in the Northern Hemisphere and is challenging to diagnose and treat due to its changing clinical presentation, antigenic variation, tissue tropism, and the expanding distribution of vectors. This review includes ecology, pathogenesis, diagnostics, treatment, post-treatment, prevention, and novel translational approaches. METHODS: A literature review was conducted to include literature published between January 2000 and March 2…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41965542",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41965542/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41965542/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

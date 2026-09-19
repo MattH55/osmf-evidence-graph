@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42365403",
+  "type": "paper",
+  "label": "Role of gamma-aminobutyric acid-ergic neurons in the thalamic reticular nucleus in regulating sleep-wake cycles in mice treated with acupuncture for insomnia.",
+  "aliases": [],
+  "summary": "To test whether acupuncture improves sleep by enhancing gamma-aminobutyric acid-ergic (GABA) neuronal activity in the thalamic reticular nucleus (TRN). We established an animal model using p-chlorophenylalanine (PCPA). We assessed the impact of acupuncture on insomnia through wheel-running activity and sodium pentobarbital-induced sleep tests. Subsequently, the calcium indicator GCaMP6m was injected into the TRN of Vgat-Cre mice, and the activity of GABA neurons in the TRN was analyzed before a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42365403",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365403/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42365403/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

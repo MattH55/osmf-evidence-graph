@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42406565",
+  "type": "paper",
+  "label": "Evaluation of nirmatrelvir/ritonavir treatment for COVID-19 on health-related outcomes: a global economic value systematic literature review.",
+  "aliases": [],
+  "summary": "Nirmatrelvir/ritonavir (NMV/r) A systematic search of Embase, PubMed, Cochrane, and EconLit and of conference and health technology assessment agency websites was performed to identify economic analyses published between January 2022 and October 2025. Of the 33 included economic evaluations, most were cost-utility analyses ( Most studies were conducted in high-income countries, were based on different COVID-19 variants, and were limited in data on the long COVID population. In addition to monet…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42406565",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42406565/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42406565/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

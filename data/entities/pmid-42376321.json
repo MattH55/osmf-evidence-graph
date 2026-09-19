@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42376321",
+  "type": "paper",
+  "label": "Genetic association between LONG COVID and TMPRSS2 polymorphisms (rs12329760 and rs2070788) in Brazilian healthcare professionals.",
+  "aliases": [],
+  "summary": "Long COVID syndrome has a multifactorial cause that is not fully understood and may be influenced by both external and intrinsic factors. In this context, a Genome-Wide Association Study (GWAS) was proposed to evaluate the association between Single Nucleotide Polymorphisms (SNPs) in TMPRSS2 (rs12329760 and rs2070788) and the occurrence of Long COVID in 363 Brazilian healthcare professionals, recruited using a non-probabilistic method. The study employed a self-report questionnaire to collect s…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42376321",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42376321/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42376321/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

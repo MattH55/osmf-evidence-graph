@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42311633",
+  "type": "paper",
+  "label": "Any role for respiratory allergens in IBS symptoms? From pathogenetic hypothesis to therapeutic implications.",
+  "aliases": [],
+  "summary": "Irritable bowel syndrome is a common disorder associated with substantial impairment in quality of life and remains challenging to manage due to its heterogeneous and incompletely understood pathophysiology leading to high rates of treatment failure. Recent evidence supports the existence of distinct IBS endotypes, including an emerging atopic variant characterised by allergic comorbidities, type 2 inflammation, and mast cell activation and possibly response to mast cell-directed therapies. Mas…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42311633",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42311633/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42311633/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

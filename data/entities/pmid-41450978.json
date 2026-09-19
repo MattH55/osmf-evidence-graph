@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41450978",
+  "type": "paper",
+  "label": "Early brain changes in Lyme disease are associated with clinical outcomes.",
+  "aliases": [],
+  "summary": "In Lyme disease (LD), 10-20 % of patients develop persistent symptoms following antibiotic treatment (i.e., post-treatment Lyme disease (PTLD)), which often includes neurological symptoms. This study tested the hypothesis that physiological brain changes occur early in LD and influence outcomes. Task-based functional MRI (fMRI) and health surveys were administered to patients with acute LD (n = 20) after treatment and six months later. Demographically matched healthy controls (HC; n = 19) were…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41450978",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41450978/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41450978/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

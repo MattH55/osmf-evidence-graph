@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41510565",
+  "type": "paper",
+  "label": "Overlapping Clinical Presentation of Long COVID and Postacute COVID-19 Vaccination Syndrome: Phenotypes, Severity, and Biomarkers.",
+  "aliases": [],
+  "summary": "Postacute sequelae of COVID-19 (PASC), also known as long COVID, and postacute COVID-19 vaccination syndrome (PACVS) present overlapping but distinct clinical challenges. We hypothesize that PASC and PACVS share clinical features but differ in symptom patterns and biomarker profiles. This study aims to identify differences in presentation and distinguish immunologic biomarkers relevant to general clinical practice. This cross-sectional study analyzed 181 patients from a PASC clinic at Columbia…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41510565",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41510565/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41510565/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

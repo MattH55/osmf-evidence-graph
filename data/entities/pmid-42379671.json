@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42379671",
+  "type": "paper",
+  "label": "Autonomic Assessment and Management in Sports-Related Concussion.",
+  "aliases": [],
+  "summary": "Autonomic dysfunction, or dysautonomia, is increasingly being recognized as a complication of concussion. While the symptoms can overlap with other postconcussion sequelae, it is important to distinguish the patient suffering from postconcussion dysautonomia in order to provide proper symptomatic management and aid in recovery. This narrative review will summarize the available, high-quality literature regarding autonomic testing abnormalities in patients with a history of concussion, interpret…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42379671",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42379671/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42379671/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

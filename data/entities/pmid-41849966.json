@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41849966",
+  "type": "paper",
+  "label": "Complications and long-term sequelae of tick-borne encephalitis: association with age and other predictors - a multicenter observational study.",
+  "aliases": [],
+  "summary": "Tick-borne encephalitis (TBE) is the most common non-purulent neuroinfection in Central Europe and a major public health concern in the Czech Republic, where vaccination coverage remains low. Even after recovery from the acute disease, many patients experience long-term sequelae known as postencephalitic syndrome (PES). This prospective multicentre study examined predictors of acute disease severity and long-term outcomes, including motor deficits and other forms of PES. A total of 209 patients…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41849966",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41849966/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41849966/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

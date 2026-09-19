@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42299763",
+  "type": "paper",
+  "label": "How does postural orthostatic tachycardia syndrome (POTS) affect pediatric patients?",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a disorder characterized by a sudden onset of orthostatic intolerance upon standing, which may be relieved when lying down. The most common complications associated with POTS are trauma or injury from falling or fainting. Pediatric patients with POTS may have comorbidities that interfere with their quality of life. Careful management of the disorder is essential to prevent injury. POTS management is often misunderstood, which may lead to misdi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42299763",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299763/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42299763/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

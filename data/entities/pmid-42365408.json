@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42365408",
+  "type": "paper",
+  "label": "Effect of \"Tongdu Yupi Tiaoshen\" electroacupuncture on behavioral performance and hippocampal structure and function in chronic fatigue syndrome rats.",
+  "aliases": [],
+  "summary": "To investigate the effects of electroacupuncture intervention on behavioral performance, hippocampal structure, and function in chronic fatigue syndrome (CFS) rats and to explore the underlying mechanisms. Specific pathogen free-grade male Sprague-Dawley rats were randomly allocated into a control group (Con group, Behavioral assessments demonstrated that electroacupuncture intervention significantly improved rat performance as measured by GSQS, MWMT, OFT, and Exhaustive Treadmill Test. Both HE…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42365408",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365408/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42365408/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

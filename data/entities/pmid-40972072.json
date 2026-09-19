@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40972072",
+  "type": "paper",
+  "label": "Actual concordance between veterans' with Gulf War Illness and their providers' illness perceptions is not related to patient satisfaction nor treatment adherence.",
+  "aliases": [],
+  "summary": "Patients with persistent physical symptom (PPS) conditions, such as Gulf War Illness (GWI), report disagreement or \"non-concordance\" with their providers about PPS conditions and dissatisfaction with healthcare. When patients perceive concordance with their providers about their PPS condition, they have increased satisfaction and adherence. While literature supports perceived concordance, there is a lack of research on actual concordance (i.e., the congruence of patients' and providers' percept…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40972072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40972072/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40972072/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

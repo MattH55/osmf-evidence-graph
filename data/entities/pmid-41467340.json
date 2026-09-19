@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41467340",
+  "type": "paper",
+  "label": "Post-Vaccination Syndromes: The Evidence and a Roadmap for Rigorous Research.",
+  "aliases": [],
+  "summary": "The recent review by Yong et al. (Rev Med Virol. 2025; 35:e70070) proposes the entity of \"Long Vax Syndrome\" or Post-COVID-19 Vaccination Syndrome (PCVS). While this synthesis of anecdotal and early observational reports is a timely contribution, it necessitates a critical evaluation of the underlying evidence. This letter highlights substantial methodological limitations, including a reliance on data susceptible to significant ascertainment bias and the conflation of correlation with causation…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41467340",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41467340/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41467340/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

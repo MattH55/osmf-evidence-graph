@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42275267",
+  "type": "paper",
+  "label": "No association of complex regional pain syndrome and other neurological disorders with human papillomavirus vaccination in a large-scale real-world database.",
+  "aliases": [],
+  "summary": "Establishing evidence of vaccine safety is critical for optimizing vaccine coverage. This study aimed to assess the risk of developing neurological disorders following human papillomavirus (HPV) vaccination. This retrospective cohort study compared the risk of developing neurological disorders between HPV-vaccinated and unvaccinated cohorts using the TriNetX platform. Outcomes included complex regional pain syndrome (CRPS), postural orthostatic tachycardia syndrome (POTS), polyneuropathies, dys…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42275267",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42275267/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42275267/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42278343",
+  "type": "paper",
+  "label": "Fibromyalgia: A Multifactorial Pain Disorder.",
+  "aliases": [],
+  "summary": "Fibromyalgia represents a complex chronic pain condition in which patients experience widespread pain accompanied by fatigue and a broad range of physical and psychological symptoms. Diagnosis relies on symptom-based diagnostic criteria that lack objectivity, making it difficult to properly diagnose and treat. The etiology of fibromyalgia is thought to be multifactorial, including neurobiological, psychological, environmental, and genetic factors. In addition to pain, many patients experience c…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42278343",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42278343/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42278343/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

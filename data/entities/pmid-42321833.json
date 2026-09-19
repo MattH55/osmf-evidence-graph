@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42321833",
+  "type": "paper",
+  "label": "Gastrointestinal symptoms correlate with core clinical features and systemic inflammation in myalgic encephalomyelitis/chronic fatigue syndrome.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating multisystem illness marked by fatigue, cognitive impairment, and post-exertional malaise. Gastrointestinal (GI) symptoms are frequently reported, yet their relationship to central features of the illness and biological correlates remains poorly understood. We aimed to characterize GI symptom burden in ME/CFS and evaluate its associations with core clinical features and specific immune and inflammatory markers, with at…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42321833",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42321833/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42321833/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

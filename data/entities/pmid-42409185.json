@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42409185",
+  "type": "paper",
+  "label": "Temelimab versus placebo in patients with post-COVID condition.",
+  "aliases": [],
+  "summary": "More than 400 million individuals are estimated to have been affected by post-COVID condition or long COVID. This condition can lead to significantly decreased quality of life and increased individual and societal costs. Temelimab, a monoclonal IgG4 backbone antibody targeting HERV-W ENV, may be a potential treatment for post-COVID. In this randomized, double-blind trial, which consisted of a 24-week treatment period, we enrolled adults who had fatigue and persistent symptoms due to post-COVID…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42409185",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409185/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42409185/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

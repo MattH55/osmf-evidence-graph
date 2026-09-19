@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41516296",
+  "type": "paper",
+  "label": "Gut Microbiome and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Insights into Disease Mechanisms.",
+  "aliases": [],
+  "summary": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a disabling clinical condition, whose hallmark characteristic is post-exertional malaise (PEM). It can affect many organs and systems, leading to severe impairment of patients' quality of life. Although numerous post-infectious, immunological, neurological, metabolic, and endocrine alterations have been documented, neither a definitive diagnostic marker nor approved treatments are available. The etiology and pathophysiology remain i…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41516296",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41516296/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41516296/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

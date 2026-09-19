@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42391726",
+  "type": "paper",
+  "label": "Therapeutic plasma exchange and immunomodulatory strategies in post-infectious syndromes: A review of immune dysregulation in PTLDS, long COVID, ME/CFS, and PANS/PANDAS.",
+  "aliases": [],
+  "summary": "Post-infectious syndromes including post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and pediatric acute-onset neuropsychiatric syndrome (PANS)/pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS) share overlapping clinical phenotypes characterized by fatigue, cognitive dysfunction, sleep disturbance, and neuropsychiatric symptoms. Increasing evidence suggests that immune dysregula…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42391726",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391726/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42391726/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

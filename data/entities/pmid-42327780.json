@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42327780",
+  "type": "paper",
+  "label": "The association between atopic dermatitis and rosacea: a comprehensive review from comorbidities to pathogenic mechanisms.",
+  "aliases": [],
+  "summary": "Atopic dermatitis (AD) and rosacea have traditionally been regarded as two distinct inflammatory skin disorders with divergent pathophysiology. However, emerging evidence has progressively revealed unexpected convergences between these conditions in clinical manifestations, comorbidity profiles and pathogenic mechanisms-raising the question of whether the apparent mechanistic overlaps represent true pathophysiological convergence-sharing common upstream drivers-or merely parallel, non- specific…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42327780",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42327780/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42327780/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

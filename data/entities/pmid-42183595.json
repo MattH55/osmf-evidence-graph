@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42183595",
+  "type": "paper",
+  "label": "Eye pain and ocular surface characteristics in Postural Orthostatic Tachycardia Syndrome (POTS): The role of autonomic dysfunction.",
+  "aliases": [],
+  "summary": "Postural Orthostatic Tachycardia Syndrome (POTS), an autonomic nervous system dysfunction, is frequently associated with ocular symptoms including pain and dryness. This study aimed to characterize ocular surface findings in POTS patients to clarify whether these symptoms reflect classic dry eye disease or altered sensory processing related to autonomic dysfunction. A retrospective observational study was conducted on patients with confirmed POTS who underwent standardized ocular surface evalua…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42183595",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183595/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42183595/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40340723",
+  "type": "paper",
+  "label": "Navigating Psychiatric Concerns in a Veteran Reporting Gulf War Illness: A Case Report.",
+  "aliases": [],
+  "summary": "Gulf War illness (GWI) is a chronic condition affecting nearly a third of Gulf War veterans and is characterized by persistent symptoms across a number of physical and neuropsychiatric domains. This case study examined a 52-year-old veteran admitted on a psychiatric hold for danger to others. The patient's symptoms, including chronic migraine, widespread musculoskeletal pain, skin sensitivities, environmental allergies, and mood and cognitive disturbances, met criteria for GWI according to 2 ac…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40340723",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40340723/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40340723/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

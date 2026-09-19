@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41438359",
+  "type": "paper",
+  "label": "Skin ulcer and maculopapular rash with inguinal lymph node enlargement: a case report of a 46-year-old female patient from north-eastern Poland with",
+  "aliases": [],
+  "summary": "North-eastern Poland is an endemic region for tick-borne diseases, especially Lyme disease and tick-borne encephalitis. However, less common diseases such as rickettsiosis and tularemia may occur after a tick bite. In this paper we present a rare case of Rickettsia spp. and Francisella tularensis co-infection in a 46-year-old female patient with no history of travel and no chronic diseases, confirmed by serological and molecular tests. The symptoms appeared 5-7 days after the tick bite and last…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41438359",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41438359/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41438359/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

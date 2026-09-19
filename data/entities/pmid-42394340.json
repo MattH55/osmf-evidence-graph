@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42394340",
+  "type": "paper",
+  "label": "FGFR Inhibitor AZD4547 Disrupts Inflammatory CAF Crosstalk With Cancer Cells and Macrophages and Attenuates Metastasis in Pancreatic Cancer.",
+  "aliases": [],
+  "summary": "Cancer-associated fibroblasts (CAFs) are key cell types within the tumor microenvironment (TME), responsible for their pro-tumorigenic effects and metastasis. Specifically, inflammatory CAFs (iCAFs), a CAF subtype, are known to induce tumor cell progression, migration, and immunosuppression. Fibroblast growth factor receptors (FGFRs) play a crucial role in cell differentiation, migration, and proliferation. In this study, we investigated the effect of FGFR kinase inhibitor AZD4547 (AZD), a clin…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42394340",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394340/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42394340/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

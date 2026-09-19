@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40222562",
+  "type": "paper",
+  "label": "Human leukocyte antigen (HLA) class I and II genetic relationships with brain imaging measures: A systematic review and meta-analysis.",
+  "aliases": [],
+  "summary": "This systematic review and meta-analysis synthesizes current evidence on associations between genetic polymorphisms of human leukocyte antigen (HLA) class I and II molecules, which play key roles in antigen presentation and immune response regulation, and brain imaging phenotypes across various neurological and psychiatric conditions. The strongest associations were observed in multiple sclerosis (MS), where HLA-DRB1*15:01 was linked to increased lesion volume and disease progression. Meta-anal…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40222562",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40222562/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40222562/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

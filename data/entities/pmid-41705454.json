@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41705454",
+  "type": "paper",
+  "label": "Imaging of Ocular Surface Lesions Using Anterior Segment Optical Coherence Tomography.",
+  "aliases": [],
+  "summary": "Ocular surface lesions encompass a wide spectrum of entities ranging from benign degenerative lesions to non-invasive and invasive malignant tumours. Accurate clinical differentiation is essential to ensure timely management. In this manuscript, we describe a series of benign and malignant ocular surface lesions and their clinical and specific imaging findings on anterior segment optical coherence tomography (AS-OCT), highlighting the diagnostic utility of this non-invasive imaging modality. We…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41705454",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41705454/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41705454/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

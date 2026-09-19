@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41337155",
+  "type": "paper",
+  "label": "Immune transcriptomic changes in Australian Gulf War veterans.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a chronic multisystemic illness found in one-third of Gulf War Veterans. The aetiology of GWI is elusive; however, is strongly associated with exposure to multiple toxic agents, environmental exposures, and prophylactic medications or vaccinations. In the literature, disruption of the immune system and the presence of inflammation have been reported in GWI. In this novel study, we report gene expression-based analysis of a panel of 785 immune function related gene mark…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41337155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41337155/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41337155/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42146286",
+  "type": "paper",
+  "label": "Do Medications Actually Help in Patients with Postural Orthostatic Tachycardia Syndrome?: A Qualitative Study.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a chronic autonomic disorder associated with debilitating symptoms. No medications have been approved for treatment, and patients commonly use off-label medications to treat symptoms. The hemodynamic implications of certain medication use have been examined, but patient experiences with taking off-label medications are underreported. A qualitative descriptive study was conducted with 13 patients (all women; aged 38 ± 13 years) diagnosed with P…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42146286",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42146286/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42146286/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41788090",
+  "type": "paper",
+  "label": "Steroid-Responsive, Post-infectious New Daily Persistent Headache With Mild Cerebrospinal Fluid Pleocytosis: A Case Report.",
+  "aliases": [],
+  "summary": "New daily persistent headache (NDPH) is a primary headache disorder characterized by a clearly remembered onset, with the headache becoming daily and unremitting within 24 hours and persisting for more than 3 months. Although antecedent infections have been reported as potential triggering events, the pathophysiology of post-infectious presentations of NDPH remains incompletely understood, and effective treatment options are limited. We report the case of a 42-year-old man who developed a conti…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41788090",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41788090/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41788090/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

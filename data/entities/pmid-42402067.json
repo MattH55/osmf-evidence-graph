@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42402067",
+  "type": "paper",
+  "label": "Long COVID: Lived Experiences, Diagnosis, Treatment and Care.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42402067",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402067/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42402067/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

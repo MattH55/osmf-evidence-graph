@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42393364",
+  "type": "paper",
+  "label": "From acute mast cell activation to a structured immunothrombotic and autoimmune niche in chronic spontaneous urticaria.",
+  "aliases": [],
+  "summary": "Chronic spontaneous urticaria (CSU) presents recurrent wheals and/or angioedema for more than six weeks without an identifiable trigger. Although mast cell activation and histamine release are well-established effector mechanisms, this model does not explain disease persistence, immune dysregulation, or treatment refractoriness. A deeper mechanistic framework is required to explain progression to chronic disease. To propose a stage-wise CSU chronification model, reframing the disease as a struc…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42393364",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393364/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42393364/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

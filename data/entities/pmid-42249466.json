@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42249466",
+  "type": "paper",
+  "label": "Hyperbaric oxygen therapy improves clinical symptoms and functional capacity and modulates thalamic connectivity in ME/CFS: a prospective cohort study.",
+  "aliases": [],
+  "summary": "Hyperbaric oxygen therapy (HBOT) has been proposed as a treatment for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), but evidence remains limited. This study evaluated its clinical effectiveness and feasibility, as well as associated functional brain changes. Thirty patients with ME/CFS (mean age 42.3 ± 11.7 years; 7 males, 23 females) received 40 HBOT sessions. Clinical outcomes were assessed at baseline, during treatment, and four weeks post-treatment. The primary outcome was ch…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42249466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42249466/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42249466/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "osmf:condition:gulf-war-illness",
+  "type": "condition",
+  "label": "Gulf War Illness",
+  "aliases": [
+    "GWI",
+    "Gulf War Syndrome"
+  ],
+  "summary": "Gulf War Illness – Gulf War Illness (GWI)",
+  "external_ids": [],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/gulf-war-illness.html"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

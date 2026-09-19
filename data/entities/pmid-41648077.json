@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41648077",
+  "type": "paper",
+  "label": "Distinct Clinico-pathogenic Subgroups in Pediatric Lyme Neuroborreliosis.",
+  "aliases": [],
+  "summary": "Lyme neuroborreliosis (LNB) is a common manifestation of Lyme disease in children. It is caused by the bacterium We performed a large retrospective cohort study of children diagnosed with LNB at the University Children's Hospital Zurich from 1 January 2006 to 31 December 2020. A total of 190 children diagnosed with LNB were included (median age, 7.6 years). Meningitis was the most frequent manifestation of LNB ( Lyme neuroborreliosis in children presents with a broad clinical spectrum, with men…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41648077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41648077/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41648077/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

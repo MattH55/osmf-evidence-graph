@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41952405",
+  "type": "paper",
+  "label": "DA-9701 for Gastrointestinal Symptoms in Postural Orthostatic Tachycardia Syndrome: A Randomized Pilot Study.",
+  "aliases": [],
+  "summary": ": Patients with postural tachycardia syndrome (POTS) commonly experience gastrointestinal (GI) symptoms. We aim to assess the feasibility and preliminary efficacy data for DA-9701, a prokinetic agent targeting 5-hydroxytryptamine 1A, 5-hydroxytryptamine 4, and dopamine D : In a randomized, double-blind, placebo-controlled, single-center crossover trial, patients with POTS were given either 30 mg of DA-9701 or a placebo 3 times daily for eight weeks in a 1:1 ratio. After a 4-week washout, patien…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41952405",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41952405/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41952405/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

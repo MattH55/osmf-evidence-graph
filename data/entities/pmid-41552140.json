@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41552140",
+  "type": "paper",
+  "label": "Seropositive Myasthenia Gravis Triggered by Lyme Disease: A Case Study of Molecular Mimicry.",
+  "aliases": [],
+  "summary": "Lyme disease, caused by Borrelia burgdorferi, is a multisystem infection that rarely produces neuromuscular complications beyond classic neuroborreliosis. Myasthenia gravis (MG) is an autoimmune disorder characterized by fatigable weakness due to acetylcholine receptor (AChR) antibodies. We describe a 74-year-old man with coronary artery disease, chronic kidney disease, and prostate cancer who developed progressive dysphagia, dysphonia, ptosis, and neck weakness. Initial attribution to medicati…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41552140",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41552140/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41552140/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

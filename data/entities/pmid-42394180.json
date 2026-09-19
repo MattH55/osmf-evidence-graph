@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42394180",
+  "type": "paper",
+  "label": "Clinical significance and effects of miR-431-5p in children with asthma.",
+  "aliases": [],
+  "summary": "This study investigated the clinical significance of miR-431-5p in childhood asthma and its cell function in house dust mite (HDM)-induced cell models. Differential miRNA expression was analyzed in the GSE263408 dataset using bioinformatics tools (Limma package). Serum levels of miR-431-5p and CD34 mRNA in asthmatic and healthy children were measured. The diagnostic and prognostic potentials of miR-431-5p were evaluated using ROC curve analysis. The targeting relationship between miR-431-5p and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42394180",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394180/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42394180/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

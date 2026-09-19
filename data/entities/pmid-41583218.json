@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41583218",
+  "type": "paper",
+  "label": "Evaluation of the Humoral Immune Response Following Two Doses of a Coronavirus Disease 2019 Vector-Based Vaccine During the Initial Rollout in Bangladesh.",
+  "aliases": [],
+  "summary": "The rollout of coronavirus disease 2019 (COVID-19) vaccination was crucial in addressing the pandemic in Bangladesh, with the ChAdOx1 vaccine being the primary vaccine administered to most of the population. This study aims to assess the humoral immune response by measuring severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) IgG titers after two doses of the ChAdOx1 vaccine in the Bangladeshi population, irrespective of prior COVID-19 infection status, and to identify antibody titer le…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41583218",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41583218/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41583218/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

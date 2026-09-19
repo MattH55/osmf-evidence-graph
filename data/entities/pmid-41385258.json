@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41385258",
+  "type": "paper",
+  "label": "Health Care Journeys of Veterans With Gulf War Illness.",
+  "aliases": [],
+  "summary": "There is an acknowledged need to improve care for patients with persistent physical symptoms. Veterans who served in the 1990-91 Gulf War are a subpopulation of U.S. military Veterans who have been struggling with persistent physical symptoms for decades. The current study sought to characterize Veterans' historic path through the health care system and current experience of care to identify opportunities to improve care. Analysis of interviews conducted with 31 Veterans who met criteria for Gu…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41385258",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41385258/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41385258/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

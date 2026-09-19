@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41657838",
+  "type": "paper",
+  "label": "Polycyclic aromatic hydrocarbon exposure in battlefield and beyond: Implications for environmental- and human health.",
+  "aliases": [],
+  "summary": "Polycyclic aromatic hydrocarbons (PAHs) are combustion pollutants that are released into the environment through natural events and anthropogenic activities. Exposures to PAHs occur in military personnel during garrison (non-combat) and active deployment (combat) environments. Exposures that occur at low levels during deployment could lead to health issues, post-deployment. A scoping review was conducted to address the pathways of exposure, and the adverse effects caused by PAHs in active-duty…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41657838",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41657838/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41657838/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

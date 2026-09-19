@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41972479",
+  "type": "paper",
+  "label": "Cracking the Code: Which Ocular Symptoms Predict Dry Eye Signs? Insights From a Large International Sicca Registry.",
+  "aliases": [],
+  "summary": "The study aimed to identify symptom-based predictors of dry eye disease (DED) signs in the Sjögren's International Collaborative Clinical Alliance (SICCA) cohort. We performed a retrospective analysis examining 16 ocular symptoms (most graded 0-4) and artificial tear (AT) use (graded 0-3) as predictors of DED signs (abnormal ocular surface staining [OSS] and Schirmer's test [ST], graded yes/no). Symptoms included descriptors of spontaneous and evoked pain, visual complaints, and other metrics (…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41972479",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41972479/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41972479/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

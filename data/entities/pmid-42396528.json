@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42396528",
+  "type": "paper",
+  "label": "Feasibility and Preliminary Outcomes of a Brain/Body Intervention for Postural Tachycardia Syndrome (POTS): Pilot Trial of POts Reprocessing Therapy (PORT).",
+  "aliases": [],
+  "summary": "Postural tachycardia syndrome (POTS) is a chronic autonomic disorder characterized by orthostatic intolerance and frequently accompanied by a broad constellation of debilitating symptoms. Emerging evidence suggests that dysregulation within central-autonomic regulatory networks may contribute to symptom persistence. We developed POts Reprocessing Therapy (PORT), a neuroplasticity-informed behavioral intervention adapted from Pain Reprocessing Therapy. This pilot study evaluated the feasibility,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42396528",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42396528/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42396528/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42305393",
+  "type": "paper",
+  "label": "Robotic management of superior mesenteric artery syndrome after weight loss: a case report.",
+  "aliases": [],
+  "summary": "Superior mesenteric artery (SMA) syndrome is a rare cause of proximal intestinal obstruction resulting from compression of the third portion of the duodenum between the aorta and the SMA. It most commonly occurs in slender individuals or those experiencing rapid weight loss, but presentations can be atypical and diagnostically challenging. We report the case of a 28-year-old female with history of postural orthostatic tachycardia syndrome and gastroparesis who presented with recurrent nausea an…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42305393",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305393/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42305393/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

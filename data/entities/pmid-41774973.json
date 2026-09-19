@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41774973",
+  "type": "paper",
+  "label": "Tai Chi and wellness for Gulf War Illness: Combined analysis of in-person and remote randomized controlled trials.",
+  "aliases": [],
+  "summary": "Veterans with Gulf War Illness (GWI) experience a wide range of physical, neurological, cognitive, and mood complications that can lead to distressing psychological symptoms. Despite its debilitating impact on physical and psychological functioning, effective treatment options for GWI remain limited. Tai Chi, an ancient Chinese mind-body practice, may be efficacious in reducing GWI symptoms and associated mental health challenges. The present study combined data from two randomized controlled t…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41774973",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41774973/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41774973/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

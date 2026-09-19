@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42394349",
+  "type": "paper",
+  "label": "Post-COVID-19 Autonomic Dysfunction in an Adolescent: Ogilvie Syndrome With Acute Urinary Retention.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42394349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394349/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42394349/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

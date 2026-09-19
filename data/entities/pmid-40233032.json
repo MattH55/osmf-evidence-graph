@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40233032",
+  "type": "paper",
+  "label": "Retraction: Gulf war illness inflammation reduction trial: A phase 2 randomized controlled trial of low-dose prednisone chronotherapy, effects on health-related quality of life.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40233032",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40233032/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40233032/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41807010",
+  "type": "paper",
+  "label": "Feasibility of an adjunctive INtervention for Debilitating symptom complexes attributed to ticks (FIND): study protocol for a randomised, waitlist-controlled feasibility trial.",
+  "aliases": [],
+  "summary": "Debilitating Symptom Complexes Attributed to Ticks (DSCATT) is a new term for an unexplained Australian syndrome-people who suffer from a chronic, multifaceted and debilitating illness, characteristically attributed to tick bites, but in a country without endemic Lyme disease. Despite the profound morbidity of DSCATT, no single causative agent has been identified and there are no recognised treatments for the illness at present. An increasing body of evidence shows psychological therapies such…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41807010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41807010/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41807010/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

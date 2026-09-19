@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42310705",
+  "type": "paper",
+  "label": "Effectiveness of adapted physical activity and therapeutic exercise programme in improving chronic fatigue syndrome in long COVID, delivered via hospital-based rehabilitation versus telerehabilitatio…",
+  "aliases": [],
+  "summary": "Long COVID is a prevalent condition characterised by pain, fatigue, disability, and a multitude of health issues. There are various treatment options for managing long COVID symptoms, including non-pharmacological interventions like physiotherapy and rehabilitation, which can be effectively delivered either in institutional care settings or via telerehabilitation. This three-arm randomised controlled trial included 145 participants selected from a population-based cohort in eight administrative…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42310705",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42310705/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42310705/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

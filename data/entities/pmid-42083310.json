@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42083310",
+  "type": "paper",
+  "label": "Borrelia burgdorferi sensu lato Employs Several Escape Mechanisms to Bypass the Human Defense System.",
+  "aliases": [],
+  "summary": "Lyme borreliosis (LB), caused by Borrelia burgdorferi sensu lato (Bbsl) through Ixodes tick bites, presents diverse clinical manifestations and may lead to persistent symptoms. This review summarizes current knowledge on the pathogen-host interactions and immune responses. Early infection can be influenced by tick saliva, which suppresses local host defense and promotes spirochete survival, and by pattern recognition receptors activating proinflammatory cascades. Bbsl employs a variety of immun…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42083310",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42083310/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42083310/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

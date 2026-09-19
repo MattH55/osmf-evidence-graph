@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40732283",
+  "type": "paper",
+  "label": "Navigating the Dry Eye Therapeutic Puzzle: A Mechanism-Based Overview of Current Treatments.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40732283",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40732283/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40732283/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

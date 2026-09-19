@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41305452",
+  "type": "paper",
+  "label": "The Relationship Between Hemodynamic Responses During Head-Up Tilt Testing and Parameters of Infection in Post-COVID Syndrome, Chronic Fatigue Syndrome, and Late-Stage Lyme Disease.",
+  "aliases": [],
+  "summary": "Autonomic nervous system (ANS) dysfunction has emerged as a central feature of post-infectious syndromes, including post-COVID syndrome (PCS), chronic fatigue syndrome (CFS), and late-stage Lyme disease. This cross-sectional study included 1036 patients evaluated in the Neurocardiological Laboratory of the Institute for Cardiovascular Diseases \"Dedinje,\" divided into four groups: PCS, CFS after COVID-19, CFS of insidious onset, and Lyme disease. All patients underwent head-up tilt testing (HUTT…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41305452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41305452/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41305452/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

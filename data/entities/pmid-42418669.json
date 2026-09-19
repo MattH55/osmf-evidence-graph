@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42418669",
+  "type": "paper",
+  "label": "Mast cell-derived IL-13 as a driver of Crohn disease-associated intestinal fibrosis.",
+  "aliases": [],
+  "summary": "Crohn disease is a chronic, immune-mediated disease that can lead to intestinal fibrosis, strictures, and bowel obstruction. The Src homology 2 domain-containing inositol polyphosphate 5'-phosphatase-deficient (SHIP-/-) mouse develops spontaneous Crohn disease-like ileal inflammation and fibrosis. Fibrosis depends on increased phosphatidylinositol 3-kinase p110δ activity downstream of interleukin 4 (IL-4) or IL-13. Because current anti-inflammatory treatments do not prevent or reverse fibrosis,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42418669",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418669/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42418669/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

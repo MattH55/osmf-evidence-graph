@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42362344",
+  "type": "paper",
+  "label": "The efficacy of conventional chest physiotherapy in managing acute hypoxaemic respiratory failure.",
+  "aliases": [],
+  "summary": "A man in his 60s presented with acute hypoxaemic respiratory failure secondary to post-COVID-19 fibrotic pneumonia, requiring 3 L/min oxygen therapy (peripheral oxygen saturation (SpO",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42362344",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42362344/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42362344/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

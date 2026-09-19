@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42295153",
+  "type": "paper",
+  "label": "Characterization of a mouse model to study mechanisms of hemophilia A pain.",
+  "aliases": [],
+  "summary": "Pain is a debilitating feature of hemophilia A (HA), yet it remains understudied. We developed models of chronic and acute pain in factor VIII knock-out (FVIIIKO; B6;129S-FVIIItm1Kaz/J), demonstrating characteristic features of hemarthrosis pain and gait. Using these models, we examined the mechanisms involving inflammation and vascular changes triggered by bleeding to produce pain. To recapitulate hemarthrosis, we utilized an acute knee-injury model to assess acute pain. We observed an increas…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42295153",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42295153/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42295153/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

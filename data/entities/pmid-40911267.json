@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40911267",
+  "type": "paper",
+  "label": "Chronic Ocular Surface Pain: An Optometrist and Ophthalmologist Survey.",
+  "aliases": [],
+  "summary": "Chronic ocular surface pain (COSP) is defined as ocular pain that is perceived to originate from the ocular surface and persists for more than 3 months. Clear epidemiological data on COSP prevalence are lacking. In 2025, a total of 100 eye care providers were surveyed, including 50 optometrists and 50 ophthalmologists. The survey aimed to assess the percentage of their weekly patient volume diagnosed with COSP, the diagnostic methods used, contributing etiologies, and current management strateg…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40911267",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40911267/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40911267/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

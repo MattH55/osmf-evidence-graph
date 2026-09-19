@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40662763",
+  "type": "paper",
+  "label": "Class and isotype of VlsE-specific antibody differentiates Lyme disease stage.",
+  "aliases": [],
+  "summary": "Establishment of immunoglobulin diversity is contingent on recombination that occurs both at the Fab and at the Fc regions of the immunoglobulin, and this process is time dependent. Based on this principle, we questioned whether Lyme disease stage can be distinguished by quantification of immunoglobulin class and IgG isotype specific to VlsE in serum from clinically characterized patients. We used an enzyme immunoassay to categorize serologic antibodies to VlsE antigen as well as machine-learni…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40662763",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40662763/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40662763/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41803620",
+  "type": "paper",
+  "label": "Sex Differences in Metabolite-Immune Circuits of Neuroinflammation.",
+  "aliases": [],
+  "summary": "Sex is a fundamental yet underexplored determinant of human neuroinflammation. Across autoimmune, neurodegenerative, and post-infectious neurological syndromes, males and females exhibit consistent differences in disease vulnerability, progression, and immune tone. While sex hormones and chromosomes strongly shape immune development and function in health and disease, they do not fully explain the magnitude or disease-specific patterns of these disparities, nor do they provide sufficient mechan…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41803620",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41803620/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41803620/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

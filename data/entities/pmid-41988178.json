@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41988178",
+  "type": "paper",
+  "label": "From forest floor to doctor's office: the immunological journey of",
+  "aliases": [],
+  "summary": "Lyme disease, caused by the spirochete",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41988178",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41988178/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41988178/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

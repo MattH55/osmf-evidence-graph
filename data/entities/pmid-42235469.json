@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42235469",
+  "type": "paper",
+  "label": "To tilt or not? Role of the active stand test in the evaluation of postural orthostatic tachycardia syndrome (POTS).",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42235469",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42235469/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42235469/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

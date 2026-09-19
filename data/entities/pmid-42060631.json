@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42060631",
+  "type": "paper",
+  "label": "Analysis of adenylate cyclase activity in Japanese children with orthostatic dysregulation.",
+  "aliases": [],
+  "summary": "The aim of the study was to clarify the cause of orthostatic dysregulation in Japanese children by analyzing fluctuations in adenylate cyclase activity. Four types of orthostatic dysregulation in Japan include postural orthostatic tachycardia syndrome, delayed orthostatic hypotension, immediate orthostatic hypotension, and vasovagal syncope. However, the exact cause of these disorders remains unknown. To identify the cause of these conditions, we examined the resting blood adenylate cyclase act…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42060631",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42060631/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42060631/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

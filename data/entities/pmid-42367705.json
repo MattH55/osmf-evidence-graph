@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42367705",
+  "type": "paper",
+  "label": "Impact of COVID-19 Infection and Vaccination on Abdominal-based Microvascular Breast Reconstruction Outcomes.",
+  "aliases": [],
+  "summary": "SARS-CoV-2 (COVID-19) infection increases thrombotic risk; however, its impact on microsurgical breast reconstruction outcomes remains unclear. This study examines postoperative complications in patients following abdominal-based microvascular breast reconstruction relative to (1) timing relative to the COVID-19 pandemic, (2) history of COVID-19 infection, and (3) time since COVID-19 vaccination/booster. A retrospective review of patients who underwent abdominal-based microvascular breast recon…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42367705",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367705/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42367705/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

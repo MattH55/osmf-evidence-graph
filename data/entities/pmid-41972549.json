@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41972549",
+  "type": "paper",
+  "label": "In Silico-Identified Peptides of Five",
+  "aliases": [],
+  "summary": "To date, Lyme vaccine development has largely overlooked the vaccinee's human leukocyte antigen (HLA) genetic makeup on which antibody production critically depends. Here, we evaluated in silico the predicted binding affinities of 192 HLA-II alleles with all 15-mer peptide sequences of five",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41972549",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41972549/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41972549/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

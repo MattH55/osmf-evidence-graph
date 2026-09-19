@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42055117",
+  "type": "paper",
+  "label": "Successful Ivabradine Use Throughout Pregnancy for Postural Orthostatic Tachycardia Syndrome: A Case Report with Reassuring Maternal-Fetal Outcomes.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42055117",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42055117/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42055117/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

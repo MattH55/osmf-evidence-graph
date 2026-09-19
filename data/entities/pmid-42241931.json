@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42241931",
+  "type": "paper",
+  "label": "Patient-reported perspectives of a temporal relationship between autonomic dysfunction and mental health symptoms in a pediatric population.",
+  "aliases": [],
+  "summary": "Autonomic dysfunction, characterized by orthostatic intolerance and presyncope, is understudied in youth. Mental health comorbidities are commonly reported and sometimes blamed for the onset of autonomic dysfunction; however, no studies have yet examined this relationship. This study aimed to establish the prevalence rate of mental health diagnoses in a pediatric sample of patients with autonomic dysfunction, characterize the temporal relationship between autonomic and mental health symptom ons…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42241931",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42241931/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42241931/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

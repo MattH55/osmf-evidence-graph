@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40842981",
+  "type": "paper",
+  "label": "Pre-existing oncohematological disease in kidney transplant recipients: impact on graft survival, acute rejection, and long-term clinical outcomes.",
+  "aliases": [],
+  "summary": "Oncohematological disorders are heterogeneous conditions that present significant challenges in management prior to transplantation. Data about rejection risk, disease recurrence, eligibility criteria, and requested remission time before kidney transplant (KT) are still lacking. All KTRs between January 1, 2000, and March 31, 2023 (n = 2871) were analyzed. All patients with an oncohematological disease (hematological cohort, including plasma cell dyscrasias [PCDs], acute leukemia, high-grade ly…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40842981",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40842981/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40842981/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

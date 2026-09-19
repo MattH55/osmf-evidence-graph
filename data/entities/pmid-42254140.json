@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42254140",
+  "type": "paper",
+  "label": "Diet and environment: unexplored influences on sleep quality in postural orthostatic tachycardia syndrome (POTS).",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a chronic autonomic disorder characterized by an excessive increase in heart rate upon standing, accompanied by symptoms such as dizziness, fatigue, palpitations, cognitive impairment, and sleep disturbances. Sleep dysfunction is increasingly recognized as a significant contributor to symptom burden and reduced quality of life among individuals with POTS. Emerging evidence suggests that patients with POTS may experience heightened sympathetic…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42254140",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42254140/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42254140/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

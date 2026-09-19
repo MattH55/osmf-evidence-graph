@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41427440",
+  "type": "paper",
+  "label": "Autonomic Symptoms in Post-Treatment Lyme Disease: Insights From the COMPASS-31 and the 10-Minute Active Stand Test.",
+  "aliases": [],
+  "summary": "To determine the prevalence of autonomic symptoms in post-treatment Lyme disease (PTLD) and identify clinical factors that associate with abnormal hemodynamics on the 10-minute active stand test. We administered the Composite Autonomic Symptom Score-31 survey to 37 patients with PTLD and compared them with a cohort of patients with postural orthostatic tachycardia syndrome (POTS) without a known history of Lyme disease. We also report the 10-minute active stand test performed in 210 patients wi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41427440",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41427440/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41427440/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

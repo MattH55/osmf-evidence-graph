@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41385259",
+  "type": "paper",
+  "label": "Psychiatric Conditions and Symptoms After Toxic Environmental Exposures During Military Service: An Evidence Map.",
+  "aliases": [],
+  "summary": "US service members are often exposed to a range of service-related hazards. To date, there has been limited synthesis of the existing research conducted on military environmental exposures and subsequent psychiatric conditions and symptoms. To systematically review and characterize the main features of studies examining associations between military exposures and mental health outcomes. We used evidence mapping methodology to systematically search MEDLINE, Embase, PsycINFO, and PTSDpubs for stu…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41385259",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41385259/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41385259/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

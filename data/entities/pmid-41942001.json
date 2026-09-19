@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41942001",
+  "type": "paper",
+  "label": "Beyond Heart Rate Thresholds: Reframing Functional Disability in Pediatric Orthostatic Intolerance.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41942001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41942001/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41942001/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

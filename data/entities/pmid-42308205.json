@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42308205",
+  "type": "paper",
+  "label": "Adverse events following HPV vaccine reported to the Vaccine Adverse Event Reporting System.",
+  "aliases": [],
+  "summary": "Vaccination against high-risk HPV types is a key preventive measure. However, concerns regarding vaccine safety may hinder vaccination efforts. This study aims to evaluate adverse events (AEs) reported in the Vaccine Adverse Event Reporting System (VAERS) following HPV vaccination from 2006 to 2024, providing insights into its safety profile. We analyzed VAERS data, a spontaneous reporting system containing de-identified AE reports. Four disproportionality analyses (ROR, PRR, BCPNN, and MGPS) w…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42308205",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308205/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42308205/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

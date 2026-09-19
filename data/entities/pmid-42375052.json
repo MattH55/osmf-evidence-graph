@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42375052",
+  "type": "paper",
+  "label": "Post-hospitalized Health Conditions of Covid-19 patients: A Cross-sectional study in Bangladesh.",
+  "aliases": [],
+  "summary": "The objective of this research is to examine comorbidity status of hospitalized Covid-19 patients and its association with post-Covid-19 health complications. Data were collected from 1207 Covid-19 patients who were hospitalized at Dhaka Medical College Hospital (DMCH), Bangladesh from May 2020 to April 2021. Results show that patients with pre-existing diseases needed longer hospitalization and reported experiencing post-Covid-19 related health complications. Moreover, Covid-19 hospitalized pa…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42375052",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42375052/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42375052/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

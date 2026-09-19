@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42246405",
+  "type": "paper",
+  "label": "A narrative review of COVID-19 epidemiology and mRNA vaccine impact in children <12 years during the omicron era (November 2021 - December 2025).",
+  "aliases": [],
+  "summary": "COVID-19 continues to pose a burden in children under 12 years of age during the Omicron era (November 2021 - December 2025). Following Omicron's emergence, SARS-CoV-2 seroprevalence increased rapidly, with most children infected by ages 2-4 years. Pediatric hospitalization rates declined after the initial Omicron wave but remained elevated in children under 2 years and in those with underlying conditions. While healthy children typically experience mild illnesses, severe outcomes-including hos…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42246405",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42246405/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42246405/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

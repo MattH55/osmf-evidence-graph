@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42399338",
+  "type": "paper",
+  "label": "Distinct sensory and autonomic involvement in hypermobile Ehlers-Danlos syndrome compared with idiopathic small fiber neuropathy: a multimodal study.",
+  "aliases": [],
+  "summary": "Hypermobile Ehlers-Danlos syndrome (hEDS), frequently presents with pain and autonomic symptoms suggestive of small fiber neuropathy (SFN). However, systematic comparisons between hEDS and idiopathic SFN (iSFN) using combined clinical, functional, and morphological approaches are lacking. We prospectively studied a population of SFN patients who also fulfilled the 2017 criteria for hEDS (hEDS/SFN) and compared them with a group of iSFN patients of similar age. All underwent SFN-Symptoms Invento…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42399338",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399338/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42399338/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

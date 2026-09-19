@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41754556",
+  "type": "paper",
+  "label": "Human Herpesvirus 6-Associated Miller-Fisher Syndrome in a 5-Year-Old Child: A Case-Based Narrative Review of Pediatric Cases with Infectious Triggers.",
+  "aliases": [],
+  "summary": "Miller-Fisher syndrome (MFS) is a rare Guillain-Barré variant defined by ophthalmoplegia, ataxia, and areflexia. Pediatric MFS is uncommon, and infectious triggers remain underrecognized. Human herpesvirus 6 (HHV-6) is neurotropic but rarely linked to immune-mediated neuropathies. In this paper, we describe a child with MFS associated with HHV-6 detected in cerebrospinal fluid (CSF) and review reported pediatric infections related to MFS. A 5-year-old girl presented with acute ophthalmoplegia,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41754556",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754556/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41754556/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

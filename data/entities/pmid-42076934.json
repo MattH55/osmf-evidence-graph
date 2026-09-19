@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42076934",
+  "type": "paper",
+  "label": "Opsoclonus myoclonus syndrome in an HIV patient, following plasmodium falciparum infection.",
+  "aliases": [],
+  "summary": "Opsoclonus myoclonus syndrome (OMS) is a rare inflammatory disease of the central nervous system characterized by ocular movements, ataxia, irritability, myoclonus, and sleep disturbances and is thought to result from variable etiologies. We report a case of OMS following severe malaria in a patient living with Human Immunodeficiency Virus (HIV). This is a 47-year-old woman, known to be HIV-positive, for the past 6 years, and on highly active antiretroviral therapy (HAART) with Tenofovir-Lamivu…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42076934",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42076934/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42076934/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

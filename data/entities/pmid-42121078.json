@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42121078",
+  "type": "paper",
+  "label": "Relationship between acute coronary syndrome and coronavirus disease 2019 infection and vaccination type: a retrospective observational study.",
+  "aliases": [],
+  "summary": "Studies have reported that the Coronavirus Disease 2019 (COVID-19) vaccine causes other serious health problems, including myocarditis, pericarditis, neurological problems, and problems resulting from the reactivation of chronic infections. There are no satisfactory studies on the relationship between late-stage COVID-19 disease and cardiovascular diseases, or even Acute coronary syndrome (ACS). Our study primarily aimed to compare the frequency of emergency department (ED) visits and mortality…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42121078",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42121078/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42121078/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42261335",
+  "type": "paper",
+  "label": "A new patient-led approach to building research infrastructure and evidence generation.",
+  "aliases": [],
+  "summary": "Over recent decades, patient and public involvement (PPI) has become a more established element of health research policy, although its implementation is often criticized for tokenism and for underrepresenting marginalized groups. In fields such as complex chronic illness (CCI), where formal research activity has historically been limited, conventional PPI frameworks have had little scope for meaningful application. Within this context, a new wave of patient-led initiatives has emerged that mov…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42261335",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42261335/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42261335/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

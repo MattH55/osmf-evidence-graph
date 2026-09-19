@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41796643",
+  "type": "paper",
+  "label": "Feasibility and preliminary efficacy of an online yoga program for managing symptoms of post-treatment lyme disease syndrome.",
+  "aliases": [],
+  "summary": "We evaluated the feasibility and efficacy of a 12-week synchronous online yoga program for managing post-treatment Lyme disease syndrome (PTLDS) symptoms, focusing on pain, physical functioning, and cognitive performance. Thirteen participants with PTLDS (aged 21-60 years; 92% female) participated in 75-minute weekly sessions led by certified yoga instructors, with 15-20 min of daily homework on five non-treatment days. Outcome measures included the Health-Related Quality of Life - Short Form (…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41796643",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41796643/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41796643/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41172651",
+  "type": "paper",
+  "label": "Trends in incidence of tick bites and physician-reported early and late Lyme borreliosis in the Netherlands.",
+  "aliases": [],
+  "summary": "Lyme borreliosis (LB) is a prevalent vector-borne disease in Europe. Untreated, it can cause severe complications, with some patients experiencing persistent symptoms post-treatment. In the Netherlands, tick bite consultations and erythema migrans (EM) diagnoses tripled from 1994 to 2009, but tick bite consultations declined and EM diagnoses stabilized in 2014. This study examines trends in tick bite consultations, EM diagnoses, and other LB manifestations in the Netherlands from 2014 onward. I…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41172651",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41172651/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41172651/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

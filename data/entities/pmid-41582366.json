@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41582366",
+  "type": "paper",
+  "label": "Long-Term Cardiac Sequelae in Lyme Carditis: A Review.",
+  "aliases": [],
+  "summary": "Lyme disease, primarily caused by Borrelia burgdorferi in North America, is a common spirochetal infection transmitted via tick bites. The dissemination of Lyme spirochetes can result in multisystem complications, including Lyme carditis. This review incorporated data from observational studies, retrospective analyses, systematic reviews, and case reports involving patients with confirmed or presumed Lyme carditis. Key outcomes included prevalence, reversibility, and chronicity of cardiac invol…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41582366",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582366/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41582366/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

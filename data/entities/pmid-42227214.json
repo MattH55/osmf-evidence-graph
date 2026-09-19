@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42227214",
+  "type": "paper",
+  "label": "Correction to \"Evidence of White Matter Neuroinflammation in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Diffusion-Based Neuroinflammation Imaging Study\".",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42227214",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227214/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42227214/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

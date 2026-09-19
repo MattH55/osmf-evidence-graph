@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42310859",
+  "type": "paper",
+  "label": "Systemic Mastocytosis in Adults: 2026 Update on Diagnosis, Risk Stratification and Management.",
+  "aliases": [],
+  "summary": "Systemic mastocytosis (SM) results from clonal proliferation of mast cells (MC) in extra-cutaneous organs. The major criterion is the presence of multifocal MC clusters in the bone marrow and/or extracutaneous organs. Minor diagnostic criteria include elevated serum tryptase level, MC CD25/CD2/CD30 expression, and the presence of activating KIT mutations. Establishing SM subtype as per the International Consensus Classification/World Health Organization classification systems is an important fi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42310859",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42310859/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42310859/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

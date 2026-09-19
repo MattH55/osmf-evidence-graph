@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42131622",
+  "type": "paper",
+  "label": "Plasma Extracellular Vesicle Surface Marker Profiling Reveals Immune Cell-Associated Mitochondrial Membrane Potential Alterations in Long COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome.",
+  "aliases": [],
+  "summary": "Long COVID (LC) is characterized by symptoms persisting at least 3 months after SARS-CoV-2 infection and affecting multiple organ systems. Diagnosis relies on subjective criteria without established biomarkers. Immune dysregulation and mitochondrial dysfunction are implicated in LC pathophysiology. Given clinical overlap with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), we investigated whether plasma extracellular vesicles (EVs) capture shared molecular signatures. Plasma EVs fr…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42131622",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42131622/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42131622/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

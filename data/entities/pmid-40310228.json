@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40310228",
+  "type": "paper",
+  "label": "Ignored, dismissed, and minimized: Understanding the harmful consequences of invalidation in health care-A systematic meta-synthesis of qualitative research.",
+  "aliases": [],
+  "summary": "The upsurge in the prevalence of contested, ambiguous, and difficult-to-diagnose illnesses presents challenges for clinicians who too often respond by invalidating patients' symptoms. Although numerous qualitative studies have reported the effects of invalidation on patients' psychological and behavioral outcomes, this body of research has not been systematically reviewed. Informed by Linehan's (1993) conceptualization of invalidation, this systematic review elucidated the negative consequences…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40310228",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40310228/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40310228/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

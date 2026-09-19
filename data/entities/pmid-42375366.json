@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42375366",
+  "type": "paper",
+  "label": "Case Report: Metastatic right ventricular tumor and pulmonary embolism from cervical cancer post COVID-19 infection.",
+  "aliases": [],
+  "summary": "The intracavitary cardiac metastasis from squamous cell carcinoma of the uterine cervix combined with pulmonary embolism is extremely rare, with mean survival less than six months. We report a case of a 52-year-old female with stage IVB cervical squamous cell carcinoma (SCC) and cardiac metastasis presented with exertional dyspnea and chest pain concerning pulmonary embolism (PE) post COVID-19 infection. After empirical anticoagulation and anti-infective therapy, the intracardiac mass and pulmo…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42375366",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42375366/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42375366/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

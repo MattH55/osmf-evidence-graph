@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42160557",
+  "type": "paper",
+  "label": "The spectrum of biopsy proven glomerular disease in a tertiary hospital.",
+  "aliases": [],
+  "summary": "To analyse the spectrum of biopsy-proven glomerulonephritis and associated demographic and clinical characteristics in patients undergoing ultrasound-guided renal biopsy. The prospective, cross-sectional, descriptive study was conducted at the Department of Nephrology, Ayub Teaching Hospital, Abbottabad, Pakistan, from April 5, 2023, to December 30, 2024, and comprised adult patients with biopsy-proven glomerulonephritis. Clinical, demographic and laboratory data was recorded. Biopsies were per…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42160557",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160557/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42160557/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

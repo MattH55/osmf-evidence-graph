@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41513981",
+  "type": "paper",
+  "label": "Oleoylethanolamide supplementation improves mood and reduces fatigue in veterans with GWI in a 15-week randomized, double-blind, placebo-controlled exploratory clinical trial.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) affects 32% of Veterans from the 1990-1991 Gulf War. It is characterized by fatigue, mood disturbances, pain and cognitive decrements, with no FDA-approved treatment. This exploratory randomized, double-blind, placebo-controlled trial evaluated the safety and efficacy of oleoylethanolamide (OEA) supplementation in 52 Veterans with GWI (mean age 59 ± 5 SD, 94% males and 79% White). Participants received 200 mg of OEA twice daily or a matching placebo for 10 weeks, followed…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41513981",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41513981/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41513981/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

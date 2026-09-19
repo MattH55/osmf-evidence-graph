@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41570190",
+  "type": "paper",
+  "label": "Nonspecific Symptoms Attributable to Lyme Disease in High-Incidence Areas, United States, 2017-2021.",
+  "aliases": [],
+  "summary": "For some patients who have Lyme disease (LD), nonspecific symptoms can persist after treatment and impair quality of life. Estimating the frequency and duration of such symptoms is challenging. Using commercial insurance claims data from 2017-2021 for enrollees residing in states where LD is common, we identified 24,503 case-patients with LD and matched them (1:5) with 122,095 control-patients with other diagnoses by demographics, medical service date, and inpatient/outpatient setting. We compa…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41570190",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41570190/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41570190/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

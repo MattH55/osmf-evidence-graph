@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42401313",
+  "type": "paper",
+  "label": "Chronic stress primes TLR3-mediated systemic inflammation to produce persistent post-viral fatigue syndrome-like symptoms in mice.",
+  "aliases": [],
+  "summary": "This study examined the long-term effects of polyinosinic:polycytidylic acid (poly I:C), a synthetic double-stranded RNA and Toll-like receptor 3 (TLR3) agonist, on behavioral and immune outcomes in chronically stressed mice. Male C57BL/6J mice were exposed to 21 days of wet bedding stress followed by a poly I:C injection. Post viral fatigue syndrome (PVFS)-like symptoms were evaluated over 7 days post-injection using grip strength testing, the forced swim test, von Frey filament testing, the M…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42401313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401313/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42401313/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

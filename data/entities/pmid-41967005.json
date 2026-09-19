@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41967005",
+  "type": "paper",
+  "label": "Making Invisible Illnesses Visible: Recognizing and Responding to Infection Associated Chronic Conditions.",
+  "aliases": [],
+  "summary": "The emergence of post-COVID conditions (PCC) has renewed attention to infection-associated chronic conditions and illnesses (IACCI), including myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and Lyme disease-associated chronic symptoms. Millions of Americans are affected by these debilitating, misunderstood conditions, which share symptom profiles and pathophysiologic abnormalities. IACCI have received insufficient clinical attention and research investment. We outline elements of a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41967005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41967005/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41967005/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

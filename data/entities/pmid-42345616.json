@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42345616",
+  "type": "paper",
+  "label": "P2 Receptors as Therapeutic Targets in Allergic Rhinitis: Insights From the Use of Natural Products and Preclinical Studies.",
+  "aliases": [],
+  "summary": "Allergic rhinitis (AR) is a chronic inflammatory disorder of the upper airways that is mediated by immunoglobulin E (IgE) and triggered by environmental allergens. Current pharmacological therapies, including antihistamines, corticosteroids, and immunotherapy, offer symptomatic relief but are limited by their incomplete disease-modulating effects and potential adverse side effects. Purinergic P2 receptors (P2Rs; P2X and P2Y subtypes) have emerged as key modulators of allergic inflammation and r…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42345616",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42345616/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42345616/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

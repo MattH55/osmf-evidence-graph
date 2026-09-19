@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42398445",
+  "type": "paper",
+  "label": "The co-existence of Ehlers-Danlos syndrome and postural orthostatic tachycardia syndrome: A systematic review of the literature.",
+  "aliases": [],
+  "summary": "There is a growing body of literature evaluating both postural orthostatic tachycardia syndrome (POTS) and Ehlers-Danlos syndrome (EDS). We conducted a systematic review to evaluate what is currently known about the co-existence of both conditions. A search of MEDLINE and EMBASE was performed in December 2025 and data were collected in tables and pooled to determine the prevalence of POTS in EDS and EDS in POTS. A total of 30 studies were included with 8421 patients with EDS and 12,983 patients…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42398445",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398445/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42398445/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41826406",
+  "type": "paper",
+  "label": "Evaluation of immunoreactive epitopes in the sera and cerebrospinal fluid of patients with post-treatment Lyme disease syndrome.",
+  "aliases": [],
+  "summary": "While most patients fully recover after treatment for Lyme disease with recommended antibiotic regimens, some report non-specific symptoms after treatment. When these symptoms are unexplained by other conditions and persist for ≥ 6 months, this condition is called post-treatment Lyme disease symptoms or syndrome (PTLDS). The pathogenesis of PTLDS is unknown and no specific diagnostic biomarkers have been identified. In this study, we used a high-density peptide array to examine antibody respons…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41826406",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41826406/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41826406/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

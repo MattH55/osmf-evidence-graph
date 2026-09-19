@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42396432",
+  "type": "paper",
+  "label": "Antitumor effects of acupuncture and moxibustion: from immune modulation to tumor microenvironment remodeling.",
+  "aliases": [],
+  "summary": "Acupuncture and moxibustion are evidence - based modalities derived from traditional Chinese medicine. They employ strategic needle insertion or moxa - derived thermal stimulation at specific acupoints to ameliorate pathological conditions. Robust clinical data have validated their efficacy in mitigating gastrointestinal dysfunction, chemotherapy - induced neuropathy, cancer - related fatigue, and radiation - induced xerostomia. Crucially, within immunosuppressive tumor microenvironments (TME),…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42396432",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42396432/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42396432/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

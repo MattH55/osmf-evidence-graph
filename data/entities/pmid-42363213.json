@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42363213",
+  "type": "paper",
+  "label": "A qualitative study of the impact of the COVID-19 pandemic on healthcare access and service delivery for people living with chronic obstructive pulmonary disease and asthma.",
+  "aliases": [],
+  "summary": "Incidence of chronic obstructive pulmonary disease and asthma diagnosis were lower during and after the Coronavirus disease 2019 pandemic in Alberta, Canada. However, it is unknown whether incidences were actually lower or if the pandemic created circumstances where patients did not seek care. As such, the objective of the current study was to explore the impact of COVID-19 on patient and clinician experiences of healthcare access and delivery. The study was conducted between October 2023 and J…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42363213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363213/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42363213/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

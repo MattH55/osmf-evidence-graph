@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41281778",
+  "type": "paper",
+  "label": "Investigating the frequency of tick-borne infections in a case series of 37 youth diagnosed with pediatric bipolar disorder.",
+  "aliases": [],
+  "summary": "This retrospective chart review examined 37 youth with pediatric bipolar disorder from a private practice in the Lyme-endemic state of New Jersey, expanding on findings from 27 previously reported cases to explore the potential contribution of tick-borne infections to disease etiology. Diagnoses were based on DSM-IV-TR and DSM-V criteria using parent and child interviews, questionnaires, and school reports. Initial screening evaluated for possible PANDAS/PANS, with testing for Group A beta-hemo…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41281778",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41281778/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41281778/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

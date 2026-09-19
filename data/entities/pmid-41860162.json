@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41860162",
+  "type": "paper",
+  "label": "Deployment of an Activity Monitoring Program to Complement a Clinical Intervention for Veterans With Gulf War Illness: Qualitative Study.",
+  "aliases": [],
+  "summary": "Many veterans who served in the Gulf experience Gulf War Illness (GWI), a chronic multisymptom condition associated with fatigue, pain, gastrointestinal problems and respiratory issues, mood/cognitive issues, and sleep difficulties. These symptoms contribute to decreased function, increased mental health needs, and poor quality of life. The Veterans Affairs War Related Illness and Injury Study Center in New Jersey developed a 26-week virtual health coaching intervention to support symptom manag…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41860162",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41860162/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41860162/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

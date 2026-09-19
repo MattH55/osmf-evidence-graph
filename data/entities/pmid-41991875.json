@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41991875",
+  "type": "paper",
+  "label": "[Post-COVID: An inventory focusing on the key complaints PEM and POTS].",
+  "aliases": [],
+  "summary": "More than five years after the start of the COVID-19 pandemic, its long-term effects are increasingly coming into focus. Post-COVID disease poses a significant challenge, - not only for the individuals affected, but also for healthcare providers and society as a whole. In order to improve care for post-COVID patients, the current state of research should be reviewed and the frequent and characteristic complaints post-exertional malaise and postural tachycardia syndrome should be presented. The…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41991875",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41991875/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41991875/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

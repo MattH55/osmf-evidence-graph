@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42327760",
+  "type": "paper",
+  "label": "Elevated serum levels of interleukin-11 and matrix metalloproteinase-9 in myalgic encephalomyelitis/chronic fatigue syndrome.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a disease of unknown etiology associated with chronic severe fatigue and neurological symptoms, including dizziness, sleep disturbances, cognitive impairment and pain. There are no reliable blood biomarkers available for ME/CFS, possibly due to the lack of specific pathogenesis, even though Epstein-Barr Virus (EBV) has been suspected. We quantified the levels of interleukin-11 (IL-11) in the serum of female ME/CFS patients (n = 40;…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42327760",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42327760/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42327760/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

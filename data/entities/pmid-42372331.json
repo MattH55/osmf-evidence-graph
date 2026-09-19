@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42372331",
+  "type": "paper",
+  "label": "Pelvic venous disorders and orthostatic intolerance: A systematic review of diagnostic associations and treatment outcomes.",
+  "aliases": [],
+  "summary": "Pelvic venous disorders (PeVD) are recognised causes of chronic pelvic pain; emerging evidence suggests that venous outflow obstruction or reflux can also provoke orthostatic intolerance (OI) by infra-diaphragmatic pooling and reduced preload. Diagnostic and therapeutic frameworks for this overlap remain poorly defined. We systematically searched PubMed, Ovid MEDLINE, Scopus, and Cochrane to 20 May 2025. Two reviewers extracted data; risk of bias used design-specific validated tools. Sixteen st…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42372331",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372331/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42372331/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

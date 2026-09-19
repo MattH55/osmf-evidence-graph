@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40309656",
+  "type": "paper",
+  "label": "16 weeks of moderate intensity resistance exercise improves strength but is insufficient to alter brain structure in Gulf War Veterans with chronic musculoskeletal pain: a randomized controlled trial.",
+  "aliases": [],
+  "summary": "Chronic widespread musculoskeletal pain (CMP) is a primary condition of Veterans who were deployed to the Persian Gulf War. The mechanisms that underlie CMP in these Veterans are unknown and few efficacious treatment options exist. This study tested the effects of 16 weeks of resistance exercise training (RET) on gray matter (GM) volume and white matter (WM) microstructure in Gulf War Veterans (GWVs) with CMP compared to GWV waitlist controls (WLC). Fifty-four GWVs were randomly assigned to 16…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40309656",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40309656/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40309656/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

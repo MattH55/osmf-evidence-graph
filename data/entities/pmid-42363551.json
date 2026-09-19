@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42363551",
+  "type": "paper",
+  "label": "Genetic evidence that advanced COVID-19 accelerates longitudinal brain atrophy: A Mendelian randomization study.",
+  "aliases": [],
+  "summary": "Coronavirus disease 2019 (COVID-19) was reported to persist long-term in the brain and leave several long-term neurologic sequelae. However, the causal relationship between COVID-19 and brain aging is still unknown. The genome-wide association study (GWAS) data on COVID-19 phenotypes (susceptibility, hospitalization, and severity), involving a total of 5,779,391 participants, were collected from the COVID-19 Host Genetics Initiative. In addition, GWAS data on longitudinal changes in 15 brain st…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42363551",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363551/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42363551/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42325052",
+  "type": "paper",
+  "label": "Tryptophan Metabolism and Aryl-Hydrocarbon Receptor Agonists in the Gut Microbiome of People With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating chronic disease with unknown biological basis and no cure. Microbiome dysbiosis has been reported in people with ME/CFS but its relevance to pathophysiology is unknown. Gut microbes are an important source of tryptophan metabolites that activate the aryl hydrocarbon receptor (AHR), a regulator of homeostatic and inflammatory genes. Dysregulated activation of AHR contributes to pathophysiology of several neuroimmune an…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42325052",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42325052/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42325052/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

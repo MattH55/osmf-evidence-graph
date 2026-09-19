@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42430077",
+  "type": "paper",
+  "label": "Targeting IL-33 in Precision Neuroimmunology: Cellular Mechanisms and Therapeutic Strategies for CNS Disorders.",
+  "aliases": [],
+  "summary": "Interleukin-33 (IL-33), an alarmin cytokine of the IL-1 family, has emerged as a pivotal regulator of neuroimmune interactions in the central nervous system (CNS). Acting through its receptor ST2, IL-33 orchestrates diverse immune responses by modulating microglial polarization, shaping T cell differentiation, activating type 2 innate lymphoid cells (ILC2s), and engaging mast cell-macrophage regulatory circuits. Across distinct neurological disorders, including epilepsy, stroke, traumatic brain…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42430077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42430077/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42430077/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

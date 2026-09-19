@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42137701",
+  "type": "paper",
+  "label": "Isolated Arterial Hypertension as a Rare Early Manifestation of Guillain-Barré Syndrome: A Case Report.",
+  "aliases": [],
+  "summary": "Guillain-Barré syndrome (GBS) is a well-known post-infectious acute polyradiculoneuritis, classically characterized by ascending muscle weakness. While dysautonomia affects up to two-thirds of patients, it almost always follows the onset of motor deficits. Arterial hypertension, when presenting as an isolated premonitory sign occurring weeks before neurological involvement, constitutes an exceptional clinical pitfall that can lead to exhaustive and unnecessary etiological assessments. We report…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42137701",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42137701/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42137701/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

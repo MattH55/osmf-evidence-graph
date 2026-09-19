@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42316564",
+  "type": "paper",
+  "label": "Mast Cells and Cardiovascular Disorders.",
+  "aliases": [],
+  "summary": "Mastocytosis is a neoplasm characterised by clonal proliferation of mast cells (MCs) in the skin and other organs, including the heart, and symptoms produced by MC-derived mediators. MC activation syndrome (MCAS) relates to increased and inappropriate activation of MCs without clonal proliferation. Mast cells are tissue-resident immune cells strategically located in different cardiac sites, e.g., myocardium, pericardium, aortic valve, and close to nerves, and in atherosclerotic plaques. The med…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42316564",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42316564/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42316564/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42383026",
+  "type": "paper",
+  "label": "Exploring the mechanisms of acupuncture in improving cognitive function in post-COVID-19 myalgic encephalomyelitis/chronic fatigue syndrome: study protocol for a randomized controlled trial using mul…",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a common sequela following COVID-19. Although cognitive dysfunction is one of the most debilitating symptoms in ME/CFS, effective therapies are limited. Acupuncture is an important complementary and alternative therapy for ME/CFS and has been shown to have positive effects on cognitive dysfunction in other diseases. However, the effect and mechanism of acupuncture in treating cognitive dysfunction in post-COVID-19 ME/CFS(PCME/CFS) r…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42383026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42383026/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42383026/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

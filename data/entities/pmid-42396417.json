@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42396417",
+  "type": "paper",
+  "label": "Post-COVID neuropsychiatric symptoms in India: Prevalence, risk factors, and persistence.",
+  "aliases": [],
+  "summary": "The global research has actively investigated the post-COVID neuropsychiatric symptoms (PCNS). There is a paucity of studies from India that explore long-term PCNS. This study aims to estimate prevalence, types of PCNS, associated factors (sociodemographic factors, life events, COVID-19-related variables, and vaccination status) and persistence of PCNS after two years. A cross-sectional study was conducted from October 2022 to October 2023 in a tertiary care hospital. A total of 2,281 randomly…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42396417",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42396417/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42396417/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

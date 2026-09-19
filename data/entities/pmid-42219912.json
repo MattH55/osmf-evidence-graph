@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42219912",
+  "type": "paper",
+  "label": "Research progress on the prediction of heart rate and blood pressure in the diagnosis and prognosis of pediatric postural orthostatic tachycardia syndrome.",
+  "aliases": [],
+  "summary": "Pediatric postural orthostatic tachycardia syndrome is one of the main haemodynamic types of neurally mediated syncope and is commonly seen in school-aged children. Heart rate and blood pressure are important physiological indicators in the human cardiovascular system. They are easily accessible in clinical practice and have the advantages of being non-invasive, simple and safe. This article will review the predictive value of heart rate and blood pressure in the diagnosis and prognosis of pedi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42219912",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42219912/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42219912/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

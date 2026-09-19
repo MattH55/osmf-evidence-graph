@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42367505",
+  "type": "paper",
+  "label": "Progressive Supranuclear Palsy Unmasked After Post-COVID-19 Functional Decline in an Elderly Patient: A Diagnostic Challenge.",
+  "aliases": [],
+  "summary": "Progressive supranuclear palsy (PSP) is a rare neurodegenerative tauopathy characterized by early postural instability, vertical supranuclear gaze palsy, axial rigidity, and poor response to levodopa therapy. Diagnosis remains challenging, particularly in the early stages, because of overlap with other Parkinsonian syndromes. We report the case of an 83-year-old woman who developed progressive gait instability, severe functional decline, dysphagia, and marked weight loss following a mild SARS-C…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42367505",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367505/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42367505/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

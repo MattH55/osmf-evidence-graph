@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40238573",
+  "type": "paper",
+  "label": "The Impact of Home Interventions on Dry Eye Disease (DED) Symptoms and Signs in United States Veterans.",
+  "aliases": [],
+  "summary": "The indoor environment can contribute to dry eye disease (DED) risk, but the effects of environmental modifications on disease are still uncertain. This study evaluated the effect of home interventions that modify the indoor environment on DED symptoms and sign severity. The prospective study consisted of two visits (6 ± 1 months apart). At each home visit, indoor environmental conditions (temperature, humidity, and airborne particulate matter) were monitored and at each clinical visit, DED sym…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40238573",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40238573/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40238573/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

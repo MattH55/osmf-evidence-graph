@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41458778",
+  "type": "paper",
+  "label": "Atypical Acute Motor Axonal Neuropathy (AMAN) Presenting Concurrently With Community-Acquired Pneumonia and Respiratory Failure: A Case Report.",
+  "aliases": [],
+  "summary": "A 36-year-old female presented with rapidly ascending, flaccid quadriparesis, bulbar, and respiratory failure requiring four days of mechanical ventilation. This presentation was highly atypical, as the neurological symptoms commenced virtually concurrently with an active community-acquired pneumonia (CAP), noted on the fourth day of her febrile prodrome, departing from the classic post-infectious timeline of Guillain-Barré syndrome (GBS). Initial investigations ruled out myopathy (normal creat…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41458778",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41458778/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41458778/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

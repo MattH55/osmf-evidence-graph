@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42141334",
+  "type": "paper",
+  "label": "Long-term outcomes of hyperadrenergic orthostatic hypotension.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42141334",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42141334/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42141334/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

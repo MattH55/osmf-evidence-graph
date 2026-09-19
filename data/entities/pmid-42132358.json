@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42132358",
+  "type": "paper",
+  "label": "Abnormal genital arousal and sensory symptoms in patients with autonomic disorders and comorbidities.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42132358",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42132358/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42132358/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

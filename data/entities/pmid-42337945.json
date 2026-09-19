@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42337945",
+  "type": "paper",
+  "label": "Melittin in AllergoOncology: From Honey Bee Venom to Anti-Cancer Therapeutic Innovation-An EAACI Position Paper.",
+  "aliases": [],
+  "summary": "Honey bee venom (HBV) represents a unique interface between allergy and oncology, exemplifying how allergen-derived molecules can be repurposed as anti-cancer agents. Melittin, the principal component of HBV, accounts for 40%-50% of its dry weight and is responsible for most of its biological activity. Beyond its well-established role as a potent allergen and mast cell activator, melittin displays broad anti-tumour properties across multiple cancer models. Preclinical evidence demonstrates that…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42337945",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42337945/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42337945/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

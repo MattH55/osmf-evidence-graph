@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40811832",
+  "type": "paper",
+  "label": "Non-DLBCL monomorphic and Hodgkin lymphoma PTLD: clinical insights and treatment strategies.",
+  "aliases": [],
+  "summary": "Monomorphic posttransplant lymphoproliferative disorders (PTLDs) beyond diffuse large B-cell lymphoma (DLBCL) are rare, biologically heterogeneous entities with limited prospective data to guide treatment. DLBCL-PTLD, which comprises most cases, is managed using approaches informed by prospective phase 2 studies, including reduction in immunosuppression and a risk-adapted sequential immunochemotherapy approach. In contrast, non-DLBCL subtypes such as Burkitt lymphoma, PTLDs of T/NK-cell origin,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40811832",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40811832/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40811832/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42380873",
+  "type": "paper",
+  "label": "Multimorbidity patterns and phenotype transitions in patients with clinician-coded long COVID: a multicenter US electronic health record cohort study.",
+  "aliases": [],
+  "summary": "Long COVID is clinically heterogeneous, but longitudinal changes in documented chronic disease burden and transitions in multimorbidity phenotypes after infection are not well characterized in routine care. We considered 425,614 patients with clinician-coded long COVID (ICD-10-CM U09.9) and a definable COVID-19 index date between October 1, 2021 and September 16, 2024 using deidentified electronic health record data from Epic Cosmos, a multicenter US network. Pre-index and post-index windows we…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42380873",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380873/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42380873/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

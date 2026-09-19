@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42358594",
+  "type": "paper",
+  "label": "Innovative diagnostic techniques and their clinical implications in food allergy: current clinical practice and future perspectives.",
+  "aliases": [],
+  "summary": "Food allergy (FA) is an immune-mediated adverse reaction to food components (mainly proteins) and represents an increasing global health problem, affecting millions of individuals and imposing substantial clinical, psychosocial, and economic burdens. Accurate diagnosis is essential to prevent life-threatening reactions while avoiding unnecessary dietary restrictions and impaired quality of life. Current diagnostic approaches rely on clinical history, skin prick tests (SPT), measurement of serum…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42358594",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42358594/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42358594/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42298945",
+  "type": "paper",
+  "label": "Hypermobility spectrum disorders and hypermobile Ehlers-Danlos syndrome: patient experiences, disability and implications for rehabilitation.",
+  "aliases": [],
+  "summary": "The diagnosis and management of hypermobility spectrum disorders and hypermobile Ehlers-Danlos syndrome (HSD/hEDS) are a healthcare challenge because of the wide array of symptoms, lack of diagnostic biomarkers, and evolving management guidelines. This study aimed to describe patient experiences, disability, and self-perceived success managing HSD/hEDS, with or without comorbid postural orthostatic tachycardia syndrome, mast cell activation syndrome, or hip dysplasia. This anonymous online surv…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42298945",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42298945/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42298945/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

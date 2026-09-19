@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41727126",
+  "type": "paper",
+  "label": "Type I interferon signaling promotes early innate control of",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41727126",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41727126/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41727126/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

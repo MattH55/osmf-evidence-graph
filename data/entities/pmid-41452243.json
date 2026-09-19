@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41452243",
+  "type": "paper",
+  "label": "Immunodeficiency-Associated Childhood Interstitial Lung Diseases: Data from the Türkiye chILD Registry.",
+  "aliases": [],
+  "summary": "Childhood interstitial lung diseases (chILD) and immunodeficiencies are rare, heterogeneous, and clinically challenging disorders. To evaluate the clinical and radiological characteristics of immunodeficiency-related chILD using data from the Türkiye chILD Registry (chILD-TR). Retrospective cohort study. Patients registered with the B3 code, according to the chILD-European classification, from 18 participating centers were included. Patients were classified into primary immunodeficiency (PID) a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41452243",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41452243/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41452243/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

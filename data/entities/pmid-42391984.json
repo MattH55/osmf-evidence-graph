@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42391984",
+  "type": "paper",
+  "label": "Exploring surgical patients' health literacy following the use of a patient safety checklist - A qualitative study.",
+  "aliases": [],
+  "summary": "Low health literacy is common among surgical patients, with few interventions addressing this problem. A patient safety checklist (PASC) was developed to involve elective surgical patients in optimising health and safety before and after surgery. This study explores how PASC influences patients' health literacy. An explorative qualitative research design was utilised, including focus groups, dyadic, and individual interviews. The study is part of a multicentred, stepped wedge cluster randomized…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42391984",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391984/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42391984/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

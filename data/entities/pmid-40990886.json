@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40990886",
+  "type": "paper",
+  "label": "Global, Regional, and National Burden of Cardiovascular Diseases and Risk Factors in 204 Countries and Territories, 1990-2023.",
+  "aliases": [],
+  "summary": "Cardiovascular diseases (CVDs) are the leading cause of mortality and are among the foremost causes of disability globally. CVD burden has continued to increase in most countries since 1990, with trends driven by changing exposures to harmful risk factors, population growth, and population aging. We report estimates of global, national, and subnational CVD burden, including 18 subdiseases and 12 associated modifiable risk factors. We analyzed change in CVD burden from 1990 to 2023 and identifie…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40990886",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40990886/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40990886/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41421419",
+  "type": "paper",
+  "label": "Methemoglobinemia induced by dapsone, hydroxychloroquine, and rifampin combination for post-treatment Lyme disease syndrome: A case report.",
+  "aliases": [],
+  "summary": "A patient presented to the emergency department with drug-induced methemoglobinemia due to a combination of medications prescribed for post-treatment Lyme disease syndrome (PTLDS). This case highlights the potential risks of dapsone, hydroxychloroquine (HCQ), and rifampin for the management of PTLDS. A 62-year-old female presented to the hospital with shortness of breath and low oxygen saturation. Past medical history included a diagnosis of PTLDS, for which she was prescribed a combination of…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41421419",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41421419/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41421419/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

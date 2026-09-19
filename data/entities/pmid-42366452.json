@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42366452",
+  "type": "paper",
+  "label": "Dissociation Between Peripheral Muscle Strength and Exercise Capacity in Symptomatic Post-COVID-19 Individuals: Implications for Musculoskeletal Rehabilitation.",
+  "aliases": [],
+  "summary": "Infection with SARS-CoV-2 may result in persistent functional impairment after the acute phase of the disease. Emerging evidence suggests that the presence and intensity of COVID-19-related symptoms may be associated with deficits in muscle strength and physical performance during the post-infection period. Our objective was to compare physical performance after the acute phase of COVID-19 between symptomatic and asymptomatic individuals, focusing on exercise capacity and peripheral muscle stre…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42366452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366452/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42366452/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

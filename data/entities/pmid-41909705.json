@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41909705",
+  "type": "paper",
+  "label": "Anti-NMDAR encephalitis following malaria: expanding the spectrum of post-malarial neurological syndromes.",
+  "aliases": [],
+  "summary": "Anti-N-methyl-D-aspartate receptor (anti-NMDAR) encephalitis is the most common form of autoimmune encephalitis (AIE), often triggered by viral infections or tumors. This report describes a rare case following a parasitic infection. We report a rare case of anti-NMDAR encephalitis developing in a 40-year-old man following recovery from Plasmodium falciparum malaria. Despite confirmed parasite clearance, he presented eleven days later with seizures, altered consciousness, and acute psychosis. An…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41909705",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41909705/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41909705/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

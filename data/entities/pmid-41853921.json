@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41853921",
+  "type": "paper",
+  "label": "Malignant ventricular arrhythmias during acute infectious illness: mechanisms, mapping, and targeted therapy - illustrative cases.",
+  "aliases": [],
+  "summary": "This manuscript presents two cases of life-threatening ventricular arrhythmias occurring during the acute phase of infectious illnesses, emphasizing the role of triggered mechanisms-both early and late-along with Purkinje cell firing and inflammation in arrhythmogenesis. The first case involves a 43-year-old male with hepatitis who developed recurrent monomorphic ventricular tachycardia, exhibiting changing morphologies. The second case describes a 43-year-old male with a febrile illness who pr…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41853921",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41853921/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41853921/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

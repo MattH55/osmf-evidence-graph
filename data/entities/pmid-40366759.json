@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40366759",
+  "type": "paper",
+  "label": "Unraveling the genetics of gulf war illness in diverse participants enrolled in the million veteran program.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a multi-symptom chronic condition that affects Veterans who served in the 1990-1991 Gulf War (GW). To generate novel information about GWI pathogenesis, we used genome-wide data available from 33 523 Veterans of diverse ancestral backgrounds who served during the 1990-1991 Gulf War era (34% deployed). Polygenic score (PGS) analysis showed GWI pleiotropy for several traits with the strongest evidence for type-2 diabetes (T2D), anxiety, and depression. While T2D PGS was…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40366759",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40366759/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40366759/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

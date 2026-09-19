@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42401599",
+  "type": "paper",
+  "label": "Lactiplantibacillus plantarum SLpl116 attenuates OVA-induced food allergy with ecological restoration of the gut microbiota and immune rebalancing.",
+  "aliases": [],
+  "summary": "Gut dysbiosis is increasingly recognized as a key contributor to food allergy, yet probiotic strains capable of restoring allergic microbiota and rebalancing host immunity remain limited. Here, we identified Lactiplantibacillus plantarum SLpl116 through a multi-criteria screening pipeline integrating anti-allergic activity, safety, and processing stability, and evaluated its efficacy in a prophylactic ovalbumin (OVA)-induced murine food allergy model. SLpl116 significantly attenuated allergic s…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42401599",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401599/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42401599/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

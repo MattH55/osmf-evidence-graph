@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42037960",
+  "type": "paper",
+  "label": "Evanescent Hyperemia: An Underrecognized Cutaneous Manifestation of Postural Orthostatic Tachycardia Syndrome.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is characterized by orthostatic tachycardia with associated symptoms including presyncope, fatigue, dizziness, and gastrointestinal complaints, among others. In addition to cardiovascular and neurologic features, autonomic dysfunction may involve other organ systems. We report a rare case of transient evanescent hyperemia occurring during presyncopal episodes in a patient with POTS, highlighting a potentially underrecognized dermatologic sign of…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42037960",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42037960/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42037960/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

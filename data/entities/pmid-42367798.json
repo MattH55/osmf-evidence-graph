@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42367798",
+  "type": "paper",
+  "label": "Targeting Bruton tyrosine kinase with acalabrutinib attenuates murine sclerodermatous chronic graft versus host disease.",
+  "aliases": [],
+  "summary": "Allogeneic hematopoietic stem cell transplantation (allo-HSCT) is considered the only curative option for certain malignant hematopoietic disorders, yet its benefits are limited by the development of graft-versus-host disease (GVHD). Chronic GVHD (cGVHD) is often characterized by chronic inflammation and fibrosis, propagated by alloreactive donor B- and T-cell involvement. Bruton tyrosine kinase (BTK) is the downstream effector in the B-cell receptor signaling pathway and further has a crucial…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42367798",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367798/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42367798/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

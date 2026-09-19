@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42395031",
+  "type": "paper",
+  "label": "Molecular, cellular and network mapping of brain structural deviations in patients with Post-COVID19 syndrome.",
+  "aliases": [],
+  "summary": "Post-COVID-19 syndrome encompasses persistent cognitive, neurological, and psychiatric symptoms following SARS-CoV-2 infection, profoundly affecting global quality of life. Clarifying the neurobiological basis of these symptoms is vital for effective therapeutic interventions. This study utilized normative modelling of brain structure (\"CentileBrain\") to quantify subject-level deviations in cortical thickness, surface area, and subcortical volumes among 20 patients experiencing persistent fatig…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42395031",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395031/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42395031/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

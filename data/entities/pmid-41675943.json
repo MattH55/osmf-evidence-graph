@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41675943",
+  "type": "paper",
+  "label": "Evaluating the economic burden of dengue in Sri Lanka: A systematic review of costs from 2010 to 2024.",
+  "aliases": [],
+  "summary": "This systematic literature review aimed to evaluate the direct and indirect costs borne by households and the health care system in managing dengue cases in Sri Lanka. This review evaluates the economic burden of dengue in Sri Lanka from 2010 to 2024, following the Cochrane Handbook for Systematic Reviews of Interventions and PRISMA guidelines. The databases PubMed, Embase, Cochrane, and the Database of Abstracts of Reviews of Effects (DARE) were searched, with a final selection of eight studie…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41675943",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41675943/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41675943/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42357670",
+  "type": "paper",
+  "label": "Human Herpesvirus-6A and -6B (HHV-6A and HHV-6B): The Role of Roseoloviruses in Neurological Dysfunction and the Mechanisms of Viral-Induced Epileptogenesis.",
+  "aliases": [],
+  "summary": "Human herpesvirus-6 consists of a pair of viral species, HHV-6A and HHV-6B, which are neurotropic with the ability to invade, persist, and reactivate within the nervous system. Accumulating evidence links HHV-6 to epilepsy and other neuropathologies, including: multiple sclerosis, chronic fatigue syndrome, and neurodegeneration. Yet, mechanisms by which these viruses induce neurological disorders, including their role in epileptogenesis, remain unknown. It has been demonstrated that HHV-6 exhib…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42357670",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42357670/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42357670/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

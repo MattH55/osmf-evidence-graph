@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40392130",
+  "type": "paper",
+  "label": "Reactivation of Latent Herpesviruses and a Faulty Antiviral Response may Contribute to Chronic Multi-Symptom and Multi-System Illnesses in U.S. Military Veterans.",
+  "aliases": [],
+  "summary": "Chronic multi-symptom illness (CMI) is a broad term utilized by the Department of Veterans Affairs to refer to complex conditions of unknown etiology where individuals experience symptoms that lack a clear medical diagnosis. In this study, we sought to determine if herpesvirus reactivation and the antiviral response could be involved in CMI. Longitudinal serology studies conducted in two military veteran cohorts diagnosed with CMI or Gulf War Illness (GWI) revealed an increased prevalence of Ig…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40392130",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40392130/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40392130/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42404713",
+  "type": "paper",
+  "label": "Cognitive impairment and prefrontal TGF-β1 elevation in a rat model of fatigue.",
+  "aliases": [],
+  "summary": "Chronic fatigue syndrome (CFS) is a complex disorder of unknown etiology, characterized by persistent fatigue unrelieved by rest and accompanied by cognitive dysfunction. While dysregulated cytokines are implicated in CFS pathogenesis, the role of anti-inflammatory transforming growth factor β1 (TGF-β1) remains poorly defined. This study investigated central and peripheral TGF-β1 dysregulation and cognitive function in a rat model of fatigue induced by 10-day repetitive sleep deprivation with i…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42404713",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404713/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42404713/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

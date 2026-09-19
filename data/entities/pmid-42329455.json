@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42329455",
+  "type": "paper",
+  "label": "Identification of circadian rhythm-associated key genes in metabolic dysfunction-associated fatty liver disease.",
+  "aliases": [],
+  "summary": "As of now, current studies have confirmed that circadian rhythm genes (CRGs) can modulate the onset and development of metabolic dysfunction-associated fatty liver disease (MAFLD). Leveraging computational biology methodologies, systematic and thorough investigations into MAFLD and CRGs enhance our capacity to gain deeper insights into the disease's pathogenic mechanisms. MAFLD-associated datasets (GSE89632 and GSE126848) and 248 circadian rhythm genes genes (CRGs) were analyzed. Principal comp…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42329455",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42329455/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42329455/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

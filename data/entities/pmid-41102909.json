@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41102909",
+  "type": "paper",
+  "label": "Assessing Veterans With Gulf War Illness for Prodromal Parkinson's Disease Risk With the REM Behavioral Sleep Disorder Questionnaire.",
+  "aliases": [],
+  "summary": "To assess deployed Gulf War (GW) veterans for prodromal Parkinson's Disease (PD) using the REM Sleep Behavioral Disorder (RBD) Screening Questionnaire (RBDSQ). GW veterans ( n = 165) were assessed for nonmotor PD symptoms with the RBDSQ, Non-Motor Symptoms Scale, and Scales for Outcomes in Parkinson's Disease-Autonomic. Some veterans were also assessed with the University of Pennsylvania Smell Identification Test ( n = 120), neurological examinations ( n = 41), and 3T magnetic resonance imaging…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41102909",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41102909/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41102909/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

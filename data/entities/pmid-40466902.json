@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40466902",
+  "type": "paper",
+  "label": "Resveratrol ameliorates cognitive impairment with improvement of gut microbiota, inflammation, neurogenesis, and synaptic proteins in a mouse model of Gulf War Illness.",
+  "aliases": [],
+  "summary": "The main symptoms of chronic Gulf War illness (GWI) include persistent cognitive and mood impairments. Research on animals has corroborated that these cognitive and mood dysfunctions coincide with chronic neuroinflammation, declined neurogenesis, and synaptic integrity in the hippocampus. Furthermore, these neurological changes are linked with systemic inflammation and gut dysbiosis, defined by shifts in gut microbiota composition and increased intestinal permeability. Resveratrol (RSV), known…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40466902",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40466902/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40466902/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

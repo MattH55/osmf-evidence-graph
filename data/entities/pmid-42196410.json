@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42196410",
+  "type": "paper",
+  "label": "Toward a Molecular Reclassification of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Integrating Multi-Omics, Machine Learning, and Precision Medicine.",
+  "aliases": [],
+  "summary": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a complex, multi-system disease characterized by a multitude of symptoms across various organ systems. Diagnosis has relied heavily on heterogeneous clinical symptom presentation and evolving case definitions, with treatment focused on addressing presenting symptoms due to the paucity of validated biomarkers. Meanwhile, advances have been made in understanding the underlying pathophysiology through strong epidemiologic, clinical, an…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42196410",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42196410/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42196410/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

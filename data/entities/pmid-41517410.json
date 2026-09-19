@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41517410",
+  "type": "paper",
+  "label": "Spontaneous Pneumomediastinum in COVID-19 and Myasthenic-like Symptom Complications in Two Relatives: A Coincidence or Spike Toxicity with Thymic Response in Predisposed Individuals? Two Clinical Cas…",
+  "aliases": [],
+  "summary": "Pneumomediastinum (PM) in SARS-CoV-2 infections can have a multifaceted presentation. The most frequently described cases of spontaneous PM (SPM) occurred during the first waves of the SARS-CoV-2 pandemic due to alveolar fragility related to severe cases of interstitial pneumonia and vascular injury that predisposed to alveolar destruction and to the Macklin effect in PM development. Cases of SPM were also reported secondary to non-invasive mechanical ventilation (NIV) and to the increasing use…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41517410",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41517410/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41517410/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

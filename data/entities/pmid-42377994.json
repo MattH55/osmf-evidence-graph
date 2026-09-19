@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42377994",
+  "type": "paper",
+  "label": "Silencing the Signal: The Metastasis Suppressor NDRG1 Disrupts Small Extracellular Vesicle-Mediated Crosstalk in Pancreatic Cancer.",
+  "aliases": [],
+  "summary": "Pancreatic cancer (PaC) remains one of the deadliest cancers, with 5-year survival rates of 13%. A major driver of its aggressiveness is the tumour microenvironment (TME), which fuels tumour growth, metastasis, and therapeutic resistance through dynamic, bi-directional communication between cancer cells, fibroblasts, and immune cells. Emerging evidence highlights extracellular vesicles (EVs) as key mediators of oncogenic cross-talk within the PaC TME. This study demonstrates for the first time…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42377994",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377994/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42377994/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

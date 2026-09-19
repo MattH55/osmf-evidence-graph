@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42395949",
+  "type": "paper",
+  "label": "Dirhamnolipids from",
+  "aliases": [],
+  "summary": "Frequent and excessive skin exposure to ultraviolet radiation induces oxidative stress and inflammation, raising skin diseases. Therapeutic strategies targeting both oxidative stress and inflammation may reduce skin disorders. Rhamnolipids are highly effective surface-active glycolipid biosurfactants with enormous market potential. Although these green amphiphilic molecules exhibit remarkable biomedical potential, including antimicrobial activity, wound healing properties, and analgesic effect…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42395949",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395949/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42395949/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

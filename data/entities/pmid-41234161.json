@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41234161",
+  "type": "paper",
+  "label": "Home Testing for Contagious Illness: Historical Context and Modern Caveats.",
+  "aliases": [],
+  "summary": "Dozens of over-the-counter tests offer to evaluate users for an array of contagious illnesses, including sexually transmitted infections, acute respiratory infections like coronavirus disease 2019 (COVID-19) and influenza, and complicated chronic infections like Lyme disease, tuberculosis, and human immunodeficiency virus (HIV). Diagnosing any of these conditions in a home setting raises both logistical and ethical issues that may prevent home testing from becoming the public health benefit its…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41234161",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41234161/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41234161/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -10,6 +10,7 @@ const CLAIMS_DIR = path.join(ROOT, "data", "claims");
 const DIST_DIR = path.join(ROOT, "dist", "dump");
 const DIST_OUT = path.join(DIST_DIR, "latest.json");
 const EXAMPLE_OUT = path.join(ROOT, "examples", "seed-dump.example.json");
+const PROVENANCE_PATH = path.join(ROOT, "data", "import-provenance.json");
 
 const SEED_CONDITIONS = [
   "osmf:condition:long-covid",
@@ -17,6 +18,9 @@ const SEED_CONDITIONS = [
   "osmf:condition:me-cfs",
   "osmf:condition:pots",
   "osmf:condition:mcas",
+  "osmf:condition:lyme",
+  "osmf:condition:gulf-war-illness",
+  "osmf:condition:other-post-viral",
 ];
 
 function readJsonFiles(dir) {
@@ -38,6 +42,32 @@ function byId(a, b) {
   return a.id.localeCompare(b.id);
 }
 
+function buildNotes() {
+  let importLine =
+    "Papers and related_to claims were auto-imported from OSMF Research Tracker PubMed feeds (provisional; evidence_tier C / status draft).";
+  if (fs.existsSync(PROVENANCE_PATH)) {
+    try {
+      const p = JSON.parse(fs.readFileSync(PROVENANCE_PATH, "utf8"));
+      if (p.imported_at) {
+        importLine += ` Last tracker import: ${p.imported_at}.`;
+      }
+      if (p.counts) {
+        importLine += ` Counts at import: ${p.counts.conditions} conditions, ${p.counts.papers} papers, ${p.counts.claims} claims.`;
+      }
+    } catch (_) {
+      /* ignore */
+    }
+  }
+  return [
+    "ILLUSTRATIVE / PROVISIONAL DUMP (is_example: true).",
+    "Condition entities and PubMed paper nodes are real Tracker-backed IDs (PMIDs), but claim grades are NOT human evidence-curated.",
+    importLine,
+    "Do not treat draft C-tier related_to edges as clinical recommendations or study-quality endorsements.",
+    "Therapeutic agents (~600) and multi-MB clinical_trials JSON are deferred to a follow-up import wave.",
+    "Kept seed phenotypes/biomarkers (PEM, orthostatic intolerance, spike persistence, etc.) are structural examples pending curator re-grade.",
+  ].join(" ");
+}
+
 function main() {
   const entityFiles = readJsonFiles(ENTITIES_DIR);
   const claimFiles = readJsonFiles(CLAIMS_DIR);
@@ -49,11 +79,10 @@ function main() {
     meta: {
       schema_version: "0.1.0",
       generated_at: new Date().toISOString(),
-      publisher: "Open Source Medicine Foundation (example seed)",
+      publisher: "Open Source Medicine Foundation (provisional tracker import)",
       is_example: true,
       license: "CC-BY-4.0",
-      notes:
-        "ILLUSTRATIVE ONLY. Entities and claims are structural examples for schema review. They are not curated OSMF clinical statements. Replace sources, tiers, and wording before any public published dump (set is_example to false).",
+      notes: buildNotes(),
       seed_conditions: SEED_CONDITIONS,
     },
     entities,

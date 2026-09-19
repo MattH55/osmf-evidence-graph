@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42060160",
+  "type": "paper",
+  "label": "Low-Dose Naltrexone: What is the Evidence? A Narrative Review.",
+  "aliases": [],
+  "summary": "Naltrexone is prescribed off-label at low doses, typically 0.5-6.0 mg, for a variety of therapeutic indications. This review evaluates the clinical evidence for low-dose naltrexone (LDN). A literature search was conducted in February 2026 across PubMed, Embase and CINAHL for studies published from 1989 to 2026. Title and abstract searches for \"low dose naltrexone\" identified peer-reviewed English-language studies using doses of ≤ 12.5 mg in humans. A total of 105 studies were reviewed, includin…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42060160",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42060160/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42060160/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

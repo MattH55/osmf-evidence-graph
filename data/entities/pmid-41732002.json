@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41732002",
+  "type": "paper",
+  "label": "Climatic and Geographic Variations of Antecedent Infections in Guillain-Barré Syndrome: A Long-Term Longitudinal Analysis From Bangladesh.",
+  "aliases": [],
+  "summary": "Guillain-Barré syndrome (GBS) is an acute post-infectious autoimmune neuropathy, frequently triggered by antecedent infections. While climate influences the seasonality and distribution of infections, its role in triggering GBS remains underexplored. We aimed to evaluate the impact of climatic and geographical variations on infections preceding GBS in Bangladesh. Five hundred and sixty-six GBS patients were enrolled from four prospective cohorts (2010-2024). Antecedent events were recorded with…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41732002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41732002/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41732002/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

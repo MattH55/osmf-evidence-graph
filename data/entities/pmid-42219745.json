@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42219745",
+  "type": "paper",
+  "label": "Components and Delivery Formats of Cognitive Behavioral Therapy for Chronic Fatigue Syndrome/Myalgic Encephalomyelitis: A Systematic Review and Component Network Meta-Analysis.",
+  "aliases": [],
+  "summary": "Chronic fatigue syndrome/myalgic encephalomyelitis (CFS/ME) is a debilitating condition characterized by persistent fatigue, impaired functioning, and substantial societal burden. Although cognitive behavioral therapy (CBT) is commonly used for CFS/ME, the effective components and delivery formats remain unclear. We systematically searched MEDLINE, Embase, PsyclNFO, Web of Science, the Cochrane Library, and major English and Chinese databases from inception to January 15, 2025, without language…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42219745",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42219745/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42219745/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

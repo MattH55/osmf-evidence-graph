@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41393125",
+  "type": "paper",
+  "label": "Restoring trust in vaccination: listening to patients and acknowledging Post-Acute COVID Vaccine Syndrome.",
+  "aliases": [],
+  "summary": "The National Academies of Science, Engineering, and Medicine (NASEM) has defined Long COVID as \"an infection-associated chronic condition (IACC) that occurs after SARS-CoV-2 infection and is present for at least 3 months as a continuous, relapsing and remitting, or progressive disease state that affects one or more organ systems.\" This definition puts the experience of the patient primary, where the decisive factor for diagnosis is a persistent health problem after COVID-19 infection. Ongoing w…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41393125",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41393125/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41393125/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

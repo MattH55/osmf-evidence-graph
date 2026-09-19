@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40511782",
+  "type": "paper",
+  "label": "Cycles of (Dis)engagement: A Qualitative Meta-Synthesis of the (Health)Care-Seeking Experiences of Patients with Chronic Symptoms Following Lyme Disease.",
+  "aliases": [],
+  "summary": "(Chronic) Lyme disease/post-treatment Lyme disease syndrome ([C]LD/PTLDS) is a post-infection illness that remains contested, resulting in a divergent epistemological landscape (i.e., biomedicine versus alternative medicine). Consequently, (C)LD/PTLDS patients exhaust their (health)care options in their search for symptom relief, falling into cycles of starting and stopping (health)care-seeking. This meta-synthesis reviewed 13 qualitative interview studies representing the (health)care-seeking…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40511782",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40511782/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40511782/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42222634",
+  "type": "paper",
+  "label": "Severe Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Leading to Assisted Suicide in a Patient in Her Late 30s: A Case Report.",
+  "aliases": [],
+  "summary": "A patient in her late 30s developed severe myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) following an Epstein-Barr virus infection. No distinct autoimmune or autoinflammatory disorder could be identified as the underlying cause of her symptoms, as the observed constellation of cytokine elevations (IL-2, IL-6, and IFN-γ) was not consistent with any known or established disease entity. Despite comprehensive multidisciplinary treatment over two years, including medical, psychological…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42222634",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42222634/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42222634/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

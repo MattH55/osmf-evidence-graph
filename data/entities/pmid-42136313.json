@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42136313",
+  "type": "paper",
+  "label": "Recent Perspectives on the Physiological and Therapeutic Benefits of Placental Extracts in Chronic Noninfectious Diseases and Aging.",
+  "aliases": [],
+  "summary": "Non-communicable diseases (NCDs), including metabolic disorders, cardiovascular diseases, liver pathologies, and age-related syndromes, are a major global health challenge. Human placental extract (HPE) and related formulations, such as Laennec and porcine-derived extracts, have been investigated as cell-free therapeutic agents capable of modulating physiological and immunological pathways. A systematic literature review was conducted using PubMed, MEDLINE, Scopus, Google Scholar, and the Natio…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42136313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42136313/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42136313/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

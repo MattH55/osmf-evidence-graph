@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42403377",
+  "type": "paper",
+  "label": "Post-COVID paediatric dysautonomia: never the heart, always the brain-myth or maxim?",
+  "aliases": [],
+  "summary": "Paediatric dysautonomia has become increasingly recognised in children and adolescents, particularly in the post-COVID era. Affected patients commonly present with dizziness, palpitations, exercise intolerance, fatigue, and syncope, although reported prevalence varies widely because of evolving definitions and heterogeneous referral patterns. Contemporary evidence suggests that post-COVID dysautonomia arises from complex interactions among central autonomic network dysfunction, neurovascular dy…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42403377",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403377/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42403377/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

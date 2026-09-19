@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41661810",
+  "type": "paper",
+  "label": "Update on the diagnosis, pathophysiology and treatment strategies in non-HIV-associated cryptococcal meningoencephalitis.",
+  "aliases": [],
+  "summary": "Cryptococcal meningoencephalitis (CM) is the leading cause of non-viral meningitis in the United States, reflecting both the rise in immunocompromised populations and the prevention of bacterial meningitis through vaccination. Formerly linked primarily to HIV-associated immunodeficiency, effective antiretroviral therapy has reshaped CM epidemiology: solid-organ transplant recipients and apparently healthy individuals now constitute the main risk groups, with mortality remaining 30-40%. This rev…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41661810",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41661810/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41661810/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

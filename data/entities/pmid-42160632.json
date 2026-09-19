@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42160632",
+  "type": "paper",
+  "label": "Post-Infectious Fatigue and Depression Following Dengue: A Systematic Review and Meta-Analysis of Associated Factors.",
+  "aliases": [],
+  "summary": "Post-dengue fatigue syndrome is a debilitating long-term condition that affects daily activities, quality of life, and productivity. Its underlying mechanisms remain unclear, but clinical similarities with post-dengue depression complicate differentiation. Therefore, we conducted a systematic review and meta-analysis to identify and compare factors associated with post-dengue fatigue and post-dengue depression. We searched PubMed, Science Direct, Web of Science and Google Scholar databases unti…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42160632",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160632/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42160632/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

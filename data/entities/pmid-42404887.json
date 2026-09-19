@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42404887",
+  "type": "paper",
+  "label": "Mechanisms and impact of long COVID: pathophysiology, neuropsychiatric effects and vaccination.",
+  "aliases": [],
+  "summary": "Long COVID or post-acute sequelae of COVID-19 is defined as an after-effect of acute COVID-19 infection. Its broad clinical symptoms include brain fog, shortness of breath, fatigue, joint, chest, or muscle pain, dysautonomia and neuropsychiatric symptoms such as anxiety, depression and post-traumatic stress disorder. It is estimated that 1 in every 5 COVID-19 survivors exhibit symptoms within the Long COVID bracket. An array of risk factors such as smoking habit, age, obesity, female sex, and p…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42404887",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404887/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42404887/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42424794",
+  "type": "paper",
+  "label": "Pharmacological modulation of TRPV2 enhances migration and induces Immunoglobulin E (IgE)-independent degranulation of mast cells.",
+  "aliases": [],
+  "summary": "Transient receptor potential vanilloid 2 (TRPV2) is highly expressed in immune cells, including mast cells, yet its functional role in mast cell physiology remains incompletely understood. Given the increasing global prevalence of immune disorders, elucidating TRPV2-mediated mechanisms may uncover novel therapeutic approaches. Using fluorometric Ca",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42424794",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424794/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42424794/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

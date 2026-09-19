@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40568571",
+  "type": "paper",
+  "label": "Comprehensive examination of resting state fMRI connectomics yields new insights into brain function deficits in Gulf War illness after accounting for heterogeneity in brain impairment across the ill…",
+  "aliases": [],
+  "summary": "An estimated 200,000 veterans (up to 32% of those deployed) of the 1991 Gulf War (GW) suffer from GW illness (GWI), an incompletely understood chronic medical condition, characterized by multiple symptoms indicative of brain function deficits in various domains. Epidemiologic and animal studies have associated GWI with exposure to neurotoxic chemicals such as nerve agents, organophosphate pesticides and pyridostigmine bromide. One factor that hampers mechanistic investigations into GWI is that…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40568571",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40568571/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40568571/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

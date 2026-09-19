@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42123618",
+  "type": "paper",
+  "label": "Imbalance of Excitatory and Inhibitory Neurotransmitter Systems in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome.",
+  "aliases": [],
+  "summary": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and post-COVID-19 syndrome share a symptom profile, including severe fatigue, cognitive dysfunction, exertional intolerance, sleep disturbances, hypervigilance, and the paradoxical state of being \"wired but tired.\" A well-established finding is sympathetic hyperactivity with reduced vagal tone, typically interpreted as autonomic nervous system dysfunction. Emerging evidence, however, suggests a broader disturbance across multiple neuro…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42123618",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42123618/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42123618/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

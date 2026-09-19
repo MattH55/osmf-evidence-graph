@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42313027",
+  "type": "paper",
+  "label": "Kounis Syndrome Triggered by Hymenoptera Stings and Exacerbated by Streptokinase.",
+  "aliases": [],
+  "summary": "Kounis syndrome (KS) is an allergy-mediated acute coronary syndrome that is frequently under-recognized and potentially life threatening. A 52-year-old man developed an inferior ST-segment elevation myocardial infarction following a bee swarm attack. Standard thrombolysis with streptokinase triggered severe hemodynamic collapse and systemic hemorrhage. Upon recognizing KS, management was shifted to steroids and antihistamines, leading to complete recovery. Recurrence was documented 8 years late…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42313027",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42313027/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42313027/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

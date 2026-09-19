@@ -7,27 +7,19 @@
     "post-COVID condition",
     "long COVID"
   ],
-  "summary": "Post-acute sequelae following SARS-CoV-2 infection; heterogeneous multi-system presentation.",
+  "summary": "Long COVID – Post-Acute Sequelae of COVID-19",
   "external_ids": [
     {
       "system": "mesh",
       "value": "D000094024"
-    },
-    {
-      "system": "other",
-      "value": "example-seed"
     }
   ],
   "urls": [
     {
       "rel": "tracker",
-      "href": "https://research.opensourcemed.info/"
-    },
-    {
-      "rel": "canonical",
-      "href": "https://opensourcemed.info/"
+      "href": "https://research.opensourcemed.info/long-covid.html"
     }
   ],
   "status": "active",
-  "updated_at": "2026-09-18T21:00:00Z"
+  "updated_at": "2026-09-19T16:57:32.049Z"
 }

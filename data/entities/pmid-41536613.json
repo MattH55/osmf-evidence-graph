@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41536613",
+  "type": "paper",
+  "label": "Botulism Sequelae: A Systematic Review.",
+  "aliases": [],
+  "summary": "Botulism is a life-threatening neuroparalytic disease caused by botulinum neurotoxins. While its acute phase has been extensively studied, long-term sequelae following recovery remain insufficiently explored. This systematic review aims to comprehensively assess and synthesize available evidence on post-botulism sequelae to improve understanding and guide future research. A systematic search was conducted in MEDLINE, EMBASE via Ovid, and Web of Science from inception to 24 June 2024. Eligible s…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41536613",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41536613/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41536613/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

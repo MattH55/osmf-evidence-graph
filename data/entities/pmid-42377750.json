@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42377750",
+  "type": "paper",
+  "label": "Factors affecting exercise performance at the 6-min walk test in long-COVID: a multicenter study from Italy.",
+  "aliases": [],
+  "summary": "The cofactors potentially affecting exercise performance after COVID-19 are still incompletely investigated. The contribution of several clinical and demographic variables to the exercise capacity measured with the 6-min walk test was assessed in multivariable analyses that used the absolute distance walked in 6 min (6MWD) and an impaired performance (6MWD < 60% of the predicted value) as study outcomes. The variables considered were age, sex, preexisting comorbidities, COVID-19 severity, pande…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42377750",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377750/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42377750/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

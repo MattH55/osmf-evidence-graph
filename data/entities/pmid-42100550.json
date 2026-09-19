@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42100550",
+  "type": "paper",
+  "label": "Clinical Symptoms of Jugular Venous Outflow Obstruction and Their Modification After Targeted Surgical Treatment.",
+  "aliases": [],
+  "summary": "Cerebral venous outflow disorders (CVD) are conditions characterized by impairment of cerebral venous drainage. Associated symptoms have been poorly defined, as no standardized diagnostic criteria exist for this class of conditions; most studies to date have attempted to report on symptoms solely based on suggestive noninvasive imaging findings, which is prone to selection bias. The aim of this study was to characterize symptoms that may be present in the setting of suspected internal jugular v…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42100550",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42100550/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42100550/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

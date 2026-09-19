@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42273028",
+  "type": "paper",
+  "label": "Maximizing treatment response in patients with neuropathic-subtype postural orthostatic tachycardia syndrome.",
+  "aliases": [],
+  "summary": "Postural Orthostatic Tachycardia Syndrome (POTS) is notoriously difficult to diagnose and successfully treat. POTS encompasses several different subtypes, but little research attention has focused on optimizing the diagnosis and treatment of specific subtypes. This study aims to identify variables potentially predictive of neuropathic POTS and determine which current medical therapies for POTS are most successful in the neuropathic population. Single-center retrospective review identified 382 p…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42273028",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42273028/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42273028/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

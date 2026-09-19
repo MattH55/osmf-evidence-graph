@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42399853",
+  "type": "paper",
+  "label": "Perceptions, acceptability and experiences of yoga to support long-COVID: a survey of people living with long-COVID.",
+  "aliases": [],
+  "summary": "The impact of long-COVID can be substantial for individuals, health systems and the economy, nevertheless, treatment and support options are limited. Yoga offers a potential solution to reduce the burden of long-COVID, demonstrating positive impacts on the biological mechanisms implicated in long-COVID, key long-COVID symptoms and associated mental health challenges. Yoga interventions can also be designed for people with limited physical ability, and online delivery can increase accessibility.…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42399853",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399853/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42399853/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

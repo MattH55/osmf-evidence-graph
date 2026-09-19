@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42390720",
+  "type": "paper",
+  "label": "Distinctive Endoscopic Ultrasound Features of Pancreatic Adenosquamous Carcinoma: A Propensity Score-Matched Analysis.",
+  "aliases": [],
+  "summary": "Pancreatic adenosquamous carcinoma (PASC) is a rare and aggressive malignancy with poorer prognosis than pancreatic ductal adenocarcinoma (PDAC). This study aimed to identify distinctive endoscopic ultrasound (EUS) features for pre-operative differentiation between PASC and PDAC. Forty-six PASC patients and 683 PDAC patients were retrospectively enrolled. Propensity score matching (1:2) balanced age, sex, and tumor size. EUS characteristics were compared, and independent predictors were identif…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42390720",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42390720/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42390720/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

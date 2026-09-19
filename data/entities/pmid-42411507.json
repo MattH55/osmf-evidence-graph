@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42411507",
+  "type": "paper",
+  "label": "Ivabradine in the Treatment of POTS Before and After COVID-19 Pandemic: A Systematic Review and Meta-Analysis.",
+  "aliases": [],
+  "summary": "Postural orthostatic tachycardia syndrome (POTS) is a debilitating autonomic disorder characterized by excessive orthostatic tachycardia and significant functional impairment. Conventional therapies, including beta-blockers, often provide incomplete relief or are poorly tolerated. Ivabradine, a selective If channel inhibitor, reduces heart rate without affecting blood pressure or myocardial contractility, making it a promising option, particularly in post-COVID POTS. This systematic review and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42411507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42411507/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42411507/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

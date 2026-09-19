@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40068130",
+  "type": "paper",
+  "label": "Influence of Adipose Tissue on Ocular Inflammation.",
+  "aliases": [],
+  "summary": "We present a case of ocular pathology linked to morbid obesity, emphasizing the role of systemic inflammation in ocular disease and clinical impact of weight loss. We report the case of a 49-year-old man with morbid obesity and obstructive sleep apnea who underwent bilateral corneal transplants secondary to keratoconus. For 4 years, he had chronic bulbar hyperemia with progressive blood vessel growth across the graft-host junction, which was treated with chronic topical corticosteroids. Nine ye…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40068130",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40068130/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40068130/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41964381",
+  "type": "paper",
+  "label": "Analysis of the prevalence and risk factors of post-intensive-care syndrome and post-sepsis syndrome in survivors of sepsis.",
+  "aliases": [],
+  "summary": "ObjectiveIn the intensive care unit (ICU), sepsis is a leading cause of mortality, and survivors frequently experience serious long-term sequelae. In addition to identifying risk variables influencing post-sepsis syndrome (PSS) and post-intensive care syndrome (PICS), this study sought to present comprehensive data on the three-month prognostic and functional outcomes of sepsis patients in the ICU-a demographic frequently overlooked in long-term recovery discourse.MethodsA prospective cohort st…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41964381",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41964381/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41964381/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

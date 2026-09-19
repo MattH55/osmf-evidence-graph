@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41137912",
+  "type": "paper",
+  "label": "Neurometabolite alterations in Gulf War Illness: a whole-brain magnetic resonance spectroscopy study.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) affects approximately 30% of veterans who served in the 1991 Persian Gulf War and is characterized by chronic pain and fatigue, as well as cognitive, mood, gastrointestinal, and respiratory symptoms. Animal research has suggested that GWI is caused by a combination of neurotoxicants such as nerve gas, anti-nerve agent pills, and pesticides, though a definitive pathophysiological model has not been established. In this human observational study, 20 veterans with GWI and 20…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41137912",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41137912/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41137912/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

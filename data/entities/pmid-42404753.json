@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42404753",
+  "type": "paper",
+  "label": "Cpg boosts peptide-based oral immunotherapy in mice with peanut allergy.",
+  "aliases": [],
+  "summary": "Effective therapies for peanut allergy (PA) remain limited. Cytosine-phosphate-guanine oligodeoxynucleotides (CpG ODN) have emerged as promising adjuvants for allergen-specific immunotherapy (AIT). This study aimed to evaluate whether a liposomal delivery system co-encapsulating peanut extract and CpG enhances therapeutic efficacy in a murine PA model and to elucidate the underlying immunoregulatory mechanisms. A murine PA model was established using peanut extract. Liposomes were formulated to…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42404753",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404753/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42404753/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

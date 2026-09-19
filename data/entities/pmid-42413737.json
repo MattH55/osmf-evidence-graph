@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42413737",
+  "type": "paper",
+  "label": "Activation of GABA",
+  "aliases": [],
+  "summary": "Although the metabotropic GABA type B receptor (GABA",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42413737",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413737/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42413737/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

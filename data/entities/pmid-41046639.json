@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41046639",
+  "type": "paper",
+  "label": "Deployment-related toxic exposures, mental health problems, and suicide outcomes among Gulf War era U.S. veterans.",
+  "aliases": [],
+  "summary": "Exposure to toxins, such as pesticides, smoke from burning oil fields, and nerve gas, during military operations have been linked to poor physical health among veterans. However, less is known about how these exposures may affect mental health outcomes, especially those relevant to military populations (e.g., posttraumatic stress disorder [PTSD], depression, alcohol use disorder, suicide). The goal of the present study was to examine how any toxic exposure and total toxic exposures were associa…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41046639",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41046639/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41046639/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

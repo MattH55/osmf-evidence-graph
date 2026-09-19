@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42424102",
+  "type": "paper",
+  "label": "Dual-Site-Binding Ligand-Driven (100) Orientation for Efficient and Stable Perovskite Solar Cells.",
+  "aliases": [],
+  "summary": "Regulating crystal orientation is a powerful strategy for enhancing the optoelectronic performance of perovskite solar cells (PSCs). However, most existing approaches rely on single-site ligand binding, which not only forms insulating layers that hinder charge transport but also involves weak coordination that limits orientation control. Here, we report a holistic strategy based on a dual-site-binding ligand, dithiopyr, that simultaneously modulates nucleation kinetics, crystal orientation, def…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42424102",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424102/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42424102/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

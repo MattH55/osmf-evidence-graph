@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42363216",
+  "type": "paper",
+  "label": "Bronchovascular texture pattern on quantitative CT reveals airway and vascular remodeling in post-COVID-19 Lungs.",
+  "aliases": [],
+  "summary": "The long-term consequences of COVID-19 remain poorly understood. To assess CT image-based biomarkers and clinical symptoms in COVID-19 survivors approximately 3-4 years after infection. Eighty post-COVID-19 participants (81% infected with the pre-Alpha strain) underwent pulmonary function tests (PFTs) and inspiratory/expiratory CT at approximately 5 months (Visit 1, V1) and 3-4 years (Visit 2, V2) after infection. At V2, participants completed the St. George's Respiratory Questionnaire (SGRQ),…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42363216",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363216/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42363216/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

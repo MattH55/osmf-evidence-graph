@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42129788",
+  "type": "paper",
+  "label": "Phosphoproteomic analysis reveals differential associations between liver-spleen disharmony and qi-blood deficiency syndromes in chronic fatigue syndrome.",
+  "aliases": [],
+  "summary": "Chronic fatigue syndrome (CFS) is a debilitating disorder characterized by persistent fatigue that is not alleviated by rest and is often accompanied by multiple somatic symptoms. The etiology of CFS remains poorly understood, and conventional Western medicine offers limited effective targeted therapies. In contrast, Traditional Chinese Medicine (TCM), which utilizes pattern differentiation-particularly the Liver-Spleen Disharmony Pattern (LSDP) and the Qi-Blood Deficiency Pattern (QBDP)-has de…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42129788",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42129788/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42129788/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

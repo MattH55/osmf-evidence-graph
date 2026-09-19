@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41918648",
+  "type": "paper",
+  "label": "From Airways to Alveoli: A Review of Smoking-Related Respiratory Disorders.",
+  "aliases": [],
+  "summary": "Despite significant declines in smoking rates over recent decades, tobacco use remains a leading preventable cause of respiratory illness and death worldwide. While global smoking rates have declined, progress has slowed in many regions, and the smoking-attributable disease burden continues to rise in low- and middle-income countries due to population growth and ageing. Smoking is a major risk factor for a wide range of respiratory diseases, including chronic obstructive pulmonary disease, lung…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41918648",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41918648/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41918648/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42320559",
+  "type": "paper",
+  "label": "Systems neuroendocrinology in ME/CFS and long COVID: a chronobiological framework for hormone-based research.",
+  "aliases": [],
+  "summary": "Hormonal dysregulation is increasingly reported in ME/CFS and Long COVID, yet the broader role of neuroendocrine disruption in these conditions remains underexplored. While changes in steroid, peptide, and neuropeptide hormones have been identified, these findings are often considered in isolation and without attention to their timing or integration within broader physiological systems. The hypothalamic-pituitary axes regulate endocrine, immune, autonomic, nervous, and metabolic functions, syst…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42320559",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42320559/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42320559/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42276999",
+  "type": "paper",
+  "label": "Benchmarking large language models for cell-free RNA diagnostic biomarker discovery.",
+  "aliases": [],
+  "summary": "Large language models can synthesize biomedical knowledge, parse vast amounts of data, and generate code, positioning them as promising tools for biomarker discovery from high-throughput omics data. Here, we benchmark six models from OpenAI, Anthropic, and Google on plasma cell-free RNA datasets spanning three clinical cohorts: Kawasaki disease versus multisystem inflammatory syndrome in children, active tuberculosis versus symptomatic respiratory controls, and myalgic encephalomyelitis/chronic…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42276999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276999/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42276999/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

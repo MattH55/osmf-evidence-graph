@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42334638",
+  "type": "paper",
+  "label": "Effect of photobiomodulation on pain and quality of life in fibromyalgia syndrome: a systematic review.",
+  "aliases": [],
+  "summary": "Fibromyalgia Syndrome (FMS) is a chronic pain disorder characterized by widespread pain and central sensitization that significantly impacts the quality of life (QoL). For management to be effective, a multidisciplinary approach to care is typically required. Photobiomodulation therapy (PBMT), a non-pharmacological treatment, has garnered attention lately, though its clinical relevance and applications are not well defined. The objective of this review was to assess the effectiveness of PBMT in…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42334638",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42334638/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42334638/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

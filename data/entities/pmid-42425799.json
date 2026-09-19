@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42425799",
+  "type": "paper",
+  "label": "Phenotype-specific associations of mosaic chromosomal alterations in systemic sclerosis.",
+  "aliases": [],
+  "summary": "Mosaic chromosomal alterations (mCAs) increase with age and are associated with many diseases, including autoimmune diseases. The associations between mCAs and systemic sclerosis (SSc) and its clinical subtypes have not been explored. We recruited study subjects from 2 independent datasets (set 1: 635 SSc, 4401 controls; set 2: 347 SSc, 2170 controls) and detected mCAs (loss, loss of heterozygosity [LOH], gain, and mosaic loss of the X chromosome [mLOX]) from their peripheral blood samples. Log…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42425799",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425799/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42425799/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

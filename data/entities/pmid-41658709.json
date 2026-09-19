@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41658709",
+  "type": "paper",
+  "label": "Chronic Tonsillitis as a Focal Infection: A Decade-Long Case Involving Severe Systemic Symptoms.",
+  "aliases": [],
+  "summary": "Unlike acute tonsillitis, which is readily recognized as infectious, chronic tonsillitis, tonsilloliths, and tonsillar detritus are often considered non-infectious and benign, despite their potential to act as focal infections causing systemic inflammatory symptoms that are frequently overlooked when tonsillar compression is not performed. We report the case of a 29-year-old female with a decade-long history of progressive musculoskeletal pain, episodic low-grade fever, headaches, and exercise-…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41658709",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41658709/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41658709/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

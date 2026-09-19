@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42403482",
+  "type": "paper",
+  "label": "Disrupted glymphatic function and its relationship with sleep and cognitive impairment in ME/CFS assessed via DTI-ALPS.",
+  "aliases": [],
+  "summary": "The glymphatic system is a recently discovered brain waste clearance system that is mostly active during sleep and disengaged during wakefulness. Impaired glymphatic function leads to the deposition of metabolic waste products in the brain potentially causing inflammation leading to various symptoms in ME/CFS. While the glymphatic function has been assessed in other neurodegenerative diseases using 'diffusion tensor imaging along the perivascular space' (DTI-ALPS), it has not been studied in My…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42403482",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403482/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42403482/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

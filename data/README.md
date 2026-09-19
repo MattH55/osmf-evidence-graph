@@ -46,3 +46,14 @@ npm run validate:dump
 - Do not invent clinical claims beyond illustrative structure
 - See [SCHEMA.md](../SCHEMA.md) for IDs, tiers, predicates, and the git-for-MVP decision
 
+
+
+## Tracker import
+
+Condition / paper / provisional claim files can be regenerated with:
+
+```bash
+npm run import:tracker
+```
+
+See [../IMPORT.md](../IMPORT.md). Phenotype and biomarker seed entities (PEM, orthostatic intolerance, spike persistence, etc.) are kept unless they conflict with placeholders.

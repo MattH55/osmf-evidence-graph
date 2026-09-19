@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42398927",
+  "type": "paper",
+  "label": "Multimodule Human-Artificial Intelligence Collaboration Pipeline for Large Language Model-Assisted Thematic Analysis Across Digital Health Interview Studies: Comparative Evaluation Study.",
+  "aliases": [],
+  "summary": "Qualitative thematic analysis is widely used in health research to examine patient experiences and inform the refinement of digital health interventions, but it is time- and labor-intensive. Large language models (LLMs) may help accelerate this process, yet their performance may depend not only on the model itself but also on how the analytic workflow is structured. Current evidence remains limited on how different LLMs perform across multistage thematic analysis workflows and across multiple h…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42398927",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398927/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42398927/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

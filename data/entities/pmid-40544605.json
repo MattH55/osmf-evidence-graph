@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40544605",
+  "type": "paper",
+  "label": "Mitochondria-targeted therapy with metformin and MitoQ reduces oxidative stress, improves mitochondrial function, and restores metabolic homeostasis in a murine model of Gulf War Illness.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a cluster of medically unexplained chronic symptoms, including neurological and gastrointestinal impairments, and muscle fatigue, suffered by veterans of the Persian Gulf War. A GWI model in C57BL/6 mice exposed to the nerve gas prophylactic pyridostigmine-bromide (PB) and the insecticide permethrin (PER) was used to test the effect of mitochondria-potentiating agents, metformin and MitoQ on chronic fatigue, observed in GWI. The exposure of mice to PB/PER resulted in e…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40544605",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40544605/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40544605/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

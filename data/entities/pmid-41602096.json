@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41602096",
+  "type": "paper",
+  "label": "A lethal combination: fulminant liver failure due to",
+  "aliases": [],
+  "summary": "Babesiosis and Lyme disease are tick-borne infections endemic to the northeastern and upper Midwestern United States. Although both diseases can involve multiple organ systems, acute liver failure (ALF) is exceedingly uncommon. Co-infection with A rare and severe case of liver failure caused by babesiosis and Lyme disease without typical symptoms Babesiosis and Lyme disease are tick-bourne infections transmitted by Ixodes ticks and are increasingly prevalent in the northeastern and upper midwes…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41602096",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41602096/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41602096/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

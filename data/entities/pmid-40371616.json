@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40371616",
+  "type": "paper",
+  "label": "Supplementary management of chronic Lyme disease with Pycnogenol®.",
+  "aliases": [],
+  "summary": "The aim of this pilot supplement registry study was to investigate the efficacy of the anti-inflammatory supplement Pycnogenol The subjects were divided into two groups: one group received 150 mg/day of Pycnogenol Forty subjects with history of Lyme Disease and persistent symptoms completed the study: 20 in the Pycnogenol In conclusion, the present registry study showed that Pycnogenol",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40371616",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40371616/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40371616/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

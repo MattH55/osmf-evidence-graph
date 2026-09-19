@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42382776",
+  "type": "paper",
+  "label": "Electroacupuncture as an eosinophil-targeting treatment in ovalbumin-induced allergic rhinitis involving β",
+  "aliases": [],
+  "summary": "Eosinophils amplify type-2 (Th2) inflammation and tissue injury in allergic rhinitis (AR), and eosinophilic burden correlates with disease severity and future asthma risk. Current AR therapies have limitations, motivating interest in non-pharmacologic neuromodulatory approaches. Here, we tested whether electroacupuncture (EA) attenuates eosinophilic inflammation in AR and probed a candidate neuroimmune mechanism. Using an ovalbumin (OVA)-induced AR mouse model, we compared EA with the antihista…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42382776",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382776/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42382776/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

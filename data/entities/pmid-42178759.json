@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42178759",
+  "type": "paper",
+  "label": "Hemi-Chorea in Anti-GQ1b Syndrome: Expanding the Movement Disorder Spectrum.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42178759",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42178759/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42178759/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

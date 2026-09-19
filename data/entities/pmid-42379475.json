@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42379475",
+  "type": "paper",
+  "label": "A [",
+  "aliases": [],
+  "summary": "Metabolic dysfunction-associated steatohepatitis (MASH) is characterized by hepatocellular injury, inflammation, and progressive fibrosis, yet current non-invasive tests do not directly assess the cellular drivers of fibrogenesis. Platelet-derived growth factor receptor beta (PDGFRβ) is highly expressed on activated hepatic stellate cells (aHSC), a major effector cell population in MASH. A PDGFRβ-targeted peptide was synthesized and radiolabeled with gallium-68. We investigated whether PDGFRβ-t…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42379475",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42379475/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42379475/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

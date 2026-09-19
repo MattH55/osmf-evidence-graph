@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41653328",
+  "type": "paper",
+  "label": "Sex and menopause-based differences in presentation of early Lyme disease: A prospective cohort study.",
+  "aliases": [],
+  "summary": "Although prior research has established sex and menopausal status-based differences in immune response, susceptibility, and severity to a variety of pathogens, their relevance in early Lyme disease is understudied. We examined the clinical and serologic presentation of patients with early Lyme disease, stratified first by sex then by menopausal status. We also explored the hypothesis that males would present with more severe early Lyme disease. In this prospective cohort study from the Mid-Atla…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41653328",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41653328/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41653328/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

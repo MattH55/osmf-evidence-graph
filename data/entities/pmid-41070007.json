@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41070007",
+  "type": "paper",
+  "label": "Infectious etiologies of conjunctival tumors.",
+  "aliases": [],
+  "summary": "Infectious agents have been associated with a variety of conjunctival tumors, including lymphoma, ocular surface squamous neoplasia (OSSN), papilloma, and Kaposi sarcoma. We discuss the infectious etiologies of certain conjunctival tumors including conjunctival lymphoma ( It is important for the clinician to recognize when tumors of the conjunctiva may be infection-associated. A detailed history and exam are the most important first step in diagnosis; this may be supplemented by tools such as h…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41070007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41070007/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41070007/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

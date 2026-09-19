@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42364998",
+  "type": "paper",
+  "label": "Systemic atopy and upper-airway disease define susceptibility to incident asthma after COVID-19 in Korea.",
+  "aliases": [],
+  "summary": "Incident asthma is an important respiratory sequela after COVID-19, but it is unclear which allergic phenotypes amplify risk. Using a linked nationwide Korean database of 3,987,182 individuals with confirmed severe acute respiratory syndrome coronavirus 2 infection, we compare claims-based incident asthma in those with pre-existing systemic atopy and/or upper-airway disease (allergic rhinitis, chronic rhinosinusitis, atopic dermatitis or food allergy) versus those without after 1:1 propensity s…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42364998",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42364998/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42364998/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

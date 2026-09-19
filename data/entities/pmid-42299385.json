@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42299385",
+  "type": "paper",
+  "label": "Unusual presentation of scleroderma: case report.",
+  "aliases": [],
+  "summary": "The combination of neurological, cardiac, and pulmonary disease in patients with systemic sclerosis (SS) is rare. The aim of the study was to report a patient with SS who manifested with migraine without aura, Raynaud's phenomenon, pulmonary hypertension, and postural tachycardia syndrome (POTS), a combination which has not been previously reported. The patient is a 53-year-old Caucasian woman with diffuse cutaneous SS who was treated with methotrexate and developed migraine without aura since…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42299385",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299385/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42299385/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

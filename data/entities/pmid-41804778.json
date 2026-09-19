@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41804778",
+  "type": "paper",
+  "label": "Post-infectious Basal Ganglia Encephalitis Caused by Mumps: A Case Series.",
+  "aliases": [],
+  "summary": "BackgroundMumps is a highly neurotropic virus causing a wide variety of neurologic complications. Post-/para-infectious basal ganglia encephalitis is one of its rare complications, with higher morbidity compared with other complications.CasesWe present 5 cases with basal ganglia encephalitis secondary to mumps infection. A recent history of parotitis or febrile illness with serologic evidence of mumps, combined with acute onset of movement disorders, behavioral changes with or without seizures,…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41804778",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41804778/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41804778/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

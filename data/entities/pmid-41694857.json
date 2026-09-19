@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41694857",
+  "type": "paper",
+  "label": "Parainfectious Transverse Myelitis in a Pregnant Woman: A Rare Clinical Entity.",
+  "aliases": [],
+  "summary": "Transverse myelitis (TM) is an inflammatory disorder of the spinal cord characterized by motor, sensory, and autonomic impairments. Parainfectious transverse myelitis (PITM) represents a post-infectious, immune-mediated entity. Its occurrence during pregnancy is rare and presents with unique diagnostic and therapeutic challenges. We report a 31-year-old primigravida at 32 weeks of gestation who presented with acute-onset bilateral lower limb weakness, sensory loss, and bladder involvement follo…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41694857",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41694857/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41694857/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

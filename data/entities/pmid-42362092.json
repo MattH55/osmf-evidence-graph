@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42362092",
+  "type": "paper",
+  "label": "Loss of epidermal miR-149 sensitizes to skin inflammation.",
+  "aliases": [],
+  "summary": "Keratinocytes play a central role in amplifying skin inflammation in psoriasis and atopic dermatitis (AD). However, the epithelial-intrinsic regulators involved in responsiveness to inflammatory cues remain poorly defined. MiRNAs are fundamental regulators of gene expression. To define the role of miR-149 in keratinocyte immune functions in healthy skin and chronic inflammatory skin diseases. Keratinocyte-specific Mir149 knockout mice (Mir149 Mir149 MiR-149 acts as a fundamental brake on epithe…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42362092",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42362092/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42362092/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42351611",
+  "type": "paper",
+  "label": "Comparative Gut Microbiome Alterations in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID-19 Syndrome.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42351611",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42351611/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42351611/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

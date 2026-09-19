@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-36894668",
+  "type": "paper",
+  "label": "StatPearls",
+  "aliases": [],
+  "summary": "Group A",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "36894668",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36894668/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/36894668/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

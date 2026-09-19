@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42296096",
+  "type": "paper",
+  "label": "Association between deployment and Gulf War Illness and adverse COVID outcomes in a nationwide cohort of 1990-1991 Gulf Era war veterans in the VA's Million Veteran Program.",
+  "aliases": [],
+  "summary": "U.S. military veterans deployed to the Persian Gulf to serve in the 1990-1991 Gulf War (GWVs) have expressed concerns about potential increased risk of experiencing adverse COVID-related health outcomes given broad near-unique exposure to multiple diverse toxic agents during deployment and ongoing ~30% prevalence of Gulf War Illness (GWI+), a chronic, medically unexplained multi-symptom disorder associated with inflammation and immune dysregulation. We conducted a retrospective study in the lar…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42296096",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42296096/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42296096/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

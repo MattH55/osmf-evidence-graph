@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42279051",
+  "type": "paper",
+  "label": "Clinical and Immunovirological Characteristics Associated with Cardiovascular Dysautonomia in Long COVID.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42279051",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42279051/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42279051/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

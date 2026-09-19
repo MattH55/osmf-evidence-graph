@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42162666",
+  "type": "paper",
+  "label": "A case report of secondary haemophagocytic lymphohistiocytosis following chikungunya virus infection: Insights into post-viral immune dysregulation.",
+  "aliases": [],
+  "summary": "Chikungunya virus infection is typically a self limiting febrile illness; however, rare cases may trigger severe immune dysregulation. We report an elderly man who developed secondary hemophagocytic lymphohistiocytosis following confirmed chikungunya infection. He presented with persistent fever, progressive pancytopenia, splenomegaly, and marked hyperferritinemia. Bone marrow examination demonstrated hemophagocytosis, and an HScore of 191 indicated a high probability of reactive Haemophagocyti…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42162666",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42162666/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42162666/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

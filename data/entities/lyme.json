@@ -1,0 +1,20 @@
+{
+  "id": "osmf:condition:lyme",
+  "type": "condition",
+  "label": "Chronic Lyme / PTLDS",
+  "aliases": [
+    "PTLDS",
+    "post-treatment Lyme disease syndrome",
+    "chronic Lyme"
+  ],
+  "summary": "Chronic Lyme / PTLDS – Post-Treatment Lyme Disease Syndrome",
+  "external_ids": [],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/lyme.html"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40912694",
+  "type": "paper",
+  "label": "Upper gastrointestinal symptoms and Gulf War Illness in a clinical cohort of US veterans: a retrospective, cross-sectional study.",
+  "aliases": [],
+  "summary": "Approximately 30% of the 700 000 US Gulf War Veterans (GWVs) report symptoms collectively termed Gulf War Illness (GWI), a multisymptom illness of uncertain pathophysiology. Prior studies in GWI focus on overlap with irritable bowel syndrome. This study examines the associations between upper gastrointestinal (UGI) symptoms, GWI and specialty GI care. This cross-sectional study analysed GWVs referred to a Veterans Health Administration clinical War-Related Illness and Injury Study Center (2008-…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40912694",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40912694/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40912694/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

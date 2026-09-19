@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41226310",
+  "type": "paper",
+  "label": "Corticosteroid Usage in Modeling Gulf War Illness in Pre-Clinical Models: A Systematic Review.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a neuroinflammation- and immune-dysfunction-related chronic disease. Corticosteroids, a class of steroid hormones with potent anti-inflammatory and immunosuppressive properties, have been studied for their role in GWI pathophysiology. Eight corticosteroid effect studies were evaluated in this systematic review. Preclinical models showed exacerbation of neuroinflammation, oxidative stress, and epigenetic changes with exposure to CORT in addition to Gulf War neurotoxican…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41226310",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41226310/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41226310/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42400718",
+  "type": "paper",
+  "label": "Development and Validation of a Crotonylation-Related Prognostic Risk Model for Cholangiocarcinoma Based on Integrative Transcriptome Analysis.",
+  "aliases": [],
+  "summary": "Cholangiocarcinoma (CCA) is a common and highly refractory malignancy; however, biomarkers and therapeutic targets associated with its progression remain incompletely understood. Crotonylation is an emerging lysine acylation modification that has been implicated in multiple diseases. In this study, we aimed to identify crotonylation-related prognostic genes in CCA. First, differentially expressed genes (DEGs) with consistent expression patterns were identified using the TCGA-CHOL and GSE26566 d…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42400718",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400718/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42400718/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

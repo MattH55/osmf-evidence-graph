@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42277823",
+  "type": "paper",
+  "label": "Observational and genetically-informed characterization of Gulf War Illness symptoms in 1990-1991 Gulf War deployed Veterans and non-deployed Gulf War Era Veterans.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) has been identified in more than 20% of Veterans following military service in the 1990-1991 Gulf War (GW). Unfortunately, after several decades, GWI pathogenesis remains unclear and the patterns of GWI symptom co-occurrence are still poorly understood. This population-based case-control study included 34,179 (16% females; 34% GW deployed; mean age 61 years) Veterans enrolled in the Million Veteran Program (MVP) who were active-duty military personnel in 1990-1991. We ana…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42277823",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42277823/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42277823/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

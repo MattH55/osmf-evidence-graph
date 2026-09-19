@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-39852867",
+  "type": "paper",
+  "label": "Negative Association of Gulf War Illness Symptomatology with Predicted Binding Affinity of Anthrax Vaccine Antigen to Human Leukocyte (HLA) Class II Molecules.",
+  "aliases": [],
+  "summary": "Anthrax is a serious disease caused by Here, we tested this hypothesis by determining the association between severity of GWI symptoms in 458 GW veterans and the overall strength of the binding affinity of the PA epitopes to the specific six Human Leukocyte Antigen (HLA) Class II alleles carried by each individual (two of each of the HLA-II genes: DPB1, DQB1, DRB1), responsible for initiating the process of antibody production in otherwise immunocompetent individuals, estimated in silico. We fo…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "39852867",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39852867/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/39852867/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

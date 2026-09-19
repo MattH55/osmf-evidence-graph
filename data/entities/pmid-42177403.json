@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42177403",
+  "type": "paper",
+  "label": "Deficient TRPM3-linked mitochondrial Ca",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a multisystemic illness, commonly associated with dysregulation of the immune system including reduced cytotoxicity of natural killer (NK) cells and post-exertional neuroimmune exhaustion. Previously, transient receptor potential melastatin 3 (TRPM3) ion channel impairment associated with reduced Ca Fluorescence live-cell imaging was used to investigate Ca Cytosolic Ca The results demonstrate that altered TRPM3-mediated cytosolic Ca",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42177403",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42177403/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42177403/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42384984",
+  "type": "paper",
+  "label": "Influence of inflammatory and reninangiotensin system gene polymorphisms ACE2 rs2285666, IL1A rs1800587, and TNF rs1800629 on COVID-19 severity and the persistence of symptoms in the post-COVID-19 ph…",
+  "aliases": [],
+  "summary": "We evaluated the influence of single-nucleotide polymorphisms in cytokine, renin-angiotensin-aldosterone system, and uromodulin genes on COVID-19 severity and the persistence of symptoms in the post-COVID phase. Two cross-sectional cohort studies were conducted: a retrospective cohort (cohort 1) from early phase of the pandemic and a prospective cohort (cohort 2) including patients with symptoms in the post-COVID phase. Single-nucleotide polymorphism detection was performed using real-time and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42384984",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384984/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42384984/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

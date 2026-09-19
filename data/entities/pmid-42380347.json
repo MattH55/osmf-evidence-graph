@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42380347",
+  "type": "paper",
+  "label": "Hybrid deep learning framework for cardiovascular risk prediction in post-COVID-19 patients.",
+  "aliases": [],
+  "summary": "Cardiovascular complications associated with Post-COVID-19 Patients remain difficult to identify at early stages due to heterogeneous physiological manifestations and the limited integration of imaging and clinical indicators in conventional diagnostic frameworks. To address this challenge, this work proposes a multimodal deep learning framework for cardiovascular disease (CVD) risk prediction by integrating cardiac computed tomography (CT) imaging with structured clinical data. The proposed ap…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42380347",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380347/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42380347/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41845441",
+  "type": "paper",
+  "label": "Efficacy of Revolution",
+  "aliases": [],
+  "summary": "Borrelia burgdorferi and Anaplasma phagocytophilum are transmitted by Ixodes spp., with antibodies having been detected in cats in endemic areas. The combination of selamectin plus sarolaner (Revolution Ten cats per group were treated once topically either with placebo solution (0.1 ml/kg) or with the minimum label dose of RP (6.0 mg/kg selamectin plus 1.0 mg/kg sarolaner). Thirty days post-treatment, cats were infested with 50 wild-caught adult I. scapularis. Ticks were counted, categorized, a…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41845441",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41845441/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41845441/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40339728",
+  "type": "paper",
+  "label": "Presumptive Lyme disease-associated eosinophilic synovitis in a horse.",
+  "aliases": [],
+  "summary": "A 1-year-old American Quarter horse was presented with acute onset of right hind lameness. On physical examination, there was synovial effusion of the right tarsocrural joint. Synovial fluid cytology revealed a marked eosinophilic synovitis. Serology indicated evidence of acute and chronic infection with Borrelia burgdorferi, although PCR of the synovial fluid was negative. The filly was treated with phenylbutazone and oxytetracycline, and repeated synovial cytology indicated improvement. The f…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40339728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40339728/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40339728/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42394590",
+  "type": "paper",
+  "label": "Correction to: IL-27 signaling negatively regulates FcɛRI-mediated mast cell activation and allergic response.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42394590",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394590/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42394590/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

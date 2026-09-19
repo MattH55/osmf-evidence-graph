@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42174604",
+  "type": "paper",
+  "label": "Reframing ME/CFS: toward a unified mechanistic model of chronic post-infectious diseases.",
+  "aliases": [],
+  "summary": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a severe multisystem illness marked by post-exertional malaise (PEM), cognitive dysfunction, autonomic disturbance, and impaired physiological resilience. Historically, the absence of validated biomarkers, heterogeneous definitions, and limited investigative capacity have complicated mechanistic interpretation and contributed to the use of psychosocial and rehabilitative frameworks in clinical practice and in parts of the literature…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42174604",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42174604/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42174604/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

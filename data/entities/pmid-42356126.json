@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42356126",
+  "type": "paper",
+  "label": "Long-Term Follow-Up of Women with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): A 16-Year Longitudinal Study.",
+  "aliases": [],
+  "summary": "No abstract available.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42356126",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356126/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42356126/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

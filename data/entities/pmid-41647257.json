@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41647257",
+  "type": "paper",
+  "label": "Clinical evaluation of pediatric olfactory disorders: a review from etiology to management.",
+  "aliases": [],
+  "summary": "Olfactory perception plays a fundamental role in nutrition, emotional development, and social behavior, yet olfactory disorders (OD) in children remain largely underrecognized and understudied. This mini review summarizes current evidence and proposes a structured clinical approach for the evaluation and management of pediatric OD. Etiologies are diverse, encompassing congenital syndromes such as Kallmann and CHARGE, post-infectious and post-traumatic forms, inflammatory airway diseases, and st…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41647257",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41647257/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41647257/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

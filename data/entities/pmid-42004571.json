@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42004571",
+  "type": "paper",
+  "label": "Glial-Dopamine crosstalk: Astrocytic and microglial gatekeepers of neuroinflammation, plasticity, and motivation.",
+  "aliases": [],
+  "summary": "Dpamine (DA) signaling has long been framed through a neuron-centric lens; yet, mounting evidence reveals that glial cells (astrocytes and microglia) serve as indispensable gatekeepers of dopaminergic tone, synaptic plasticity, and neuroimmune balance. Single-cell, spatial, and optical imaging studies have redefined DA circuits as multicellular ecosystems in which glial receptors, transporters, and gliotransmitters dynamically sculpt neuromodulation and behavior. Astrocytes fine-tune DA clearan…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42004571",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42004571/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42004571/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

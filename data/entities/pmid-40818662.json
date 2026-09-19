@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40818662",
+  "type": "paper",
+  "label": "Modeling Gulf War Illness: anxiety, memory deficits, cholinergic and potassium channel imbalance in male and female mice.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a complex, multisystem condition that remains difficult to diagnose, with an etiology thought to involve interactions between stress and exposure to acetylcholinesterase (AChE) inhibitors of varying potency. Although rodent models using GWI-related neurotoxicants have been developed, many do not fully replicate war-theater conditions, particularly the inclusion of sarin exposure. We modeled a GW-like exposure in male and female C57BL/6J mice using pyridostigmine bromid…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40818662",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40818662/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40818662/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

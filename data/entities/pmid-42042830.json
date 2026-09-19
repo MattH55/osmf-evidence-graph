@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42042830",
+  "type": "paper",
+  "label": "Autoimmune Features of Post-COVID-19 Vaccination Syndrome and Their Impacts on the Renin-Angiotensin System.",
+  "aliases": [],
+  "summary": "One of the most critical aspects of post-acute COVID-19 syndrome (PACS) and post-acute COVID-19 vaccination syndrome (PACVS) is the presence of autoantibodies. These autoantibodies are directed against various receptors in the autonomic and cardiovascular systems, including those targeting proteins of the renin-angiotensin system (RAS). The RAS plays a central role in regulating vascular homeostasis, inflammation, and endothelial function. During SARS-CoV-2 infection, the interaction of the spi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42042830",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42042830/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42042830/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

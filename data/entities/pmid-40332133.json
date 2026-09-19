@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40332133",
+  "type": "paper",
+  "label": "Gulf War Illness Induced Sex-Specific Transcriptional Differences Under Stressful Conditions.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a multi-symptom disorder affecting 1990-1991 Persian Gulf War veterans and is characterized by post-exertional malaise, neurological symptoms, immune deregulation, and exhaustion. Causation is not understood, and effective diagnostics and therapies have not yet been developed. In this work, we analyzed stress-related, sex-specific transcriptomic shifts in GWI subjects and healthy controls through RNA sequencing of peripheral blood mononuclear cells (PBMCs). Blood sampl…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40332133",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40332133/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40332133/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

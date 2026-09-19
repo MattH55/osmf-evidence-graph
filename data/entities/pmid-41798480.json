@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41798480",
+  "type": "paper",
+  "label": "Early Childhood-Onset Prosopometamorphopsia Following Respiratory Tract Infection With Serological Evidence of Mycoplasma pneumoniae Exposure: A Pediatric Case Report.",
+  "aliases": [],
+  "summary": "We report a pediatric case of prosopometamorphopsia (PMO), a rare disorder characterized by distorted face perception. Following a respiratory tract infection at four years of age, the male patient began to perceive visual distortions in human faces. His developmental and medical histories were unremarkable. He had no neurological abnormalities, and his blood tests showed elevated serum levels of",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41798480",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41798480/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41798480/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42423275",
+  "type": "paper",
+  "label": "Topical Trichosanthis Radix Water Extract Attenuates Atopic Dermatitis-Like Skin Inflammation: Marker Standardization, Network Pharmacology, and Preclinical Validation.",
+  "aliases": [],
+  "summary": "Trichosanthis Radix (TR) is a pharmacopeial crude drug traditionally used to clear heat, reduce swelling, expel pus, and generate fluids, suggesting potential relevance to inflammatory skin disorders such as atopic dermatitis (AD). In this study, we evaluated the AD-related activity of a TR water extract using an integrated workflow combining network-based target analysis, marker compound analysis, and experimental validation in vivo and in vitro. The overlap between predicted TR targets and AD…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42423275",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42423275/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42423275/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

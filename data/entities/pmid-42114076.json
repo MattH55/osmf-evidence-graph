@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42114076",
+  "type": "paper",
+  "label": "Approach to Postural Orthostatic Tachycardia Syndrome.",
+  "aliases": [],
+  "summary": "To support general neurologists, advanced practice providers, and general practitioners in the diagnosis and treatment of postural tachycardia syndrome (POTS) and related dysautonomias. This review and approach are based on the authors' clinical experience, nonsystematic literature review, and expert opinion, with experts drawn from the American Autonomic Society Education Committee. POTS is a common condition seen in general practice. The diagnosis can be easily made in a nonspecialist setting…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42114076",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42114076/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42114076/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

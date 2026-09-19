@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42349175",
+  "type": "paper",
+  "label": "Benzo(a)pyrene aggregating lung inflammation via inducing IL1R1 expression in asthma: Insights from network toxicology, single-cell transcriptomics, and Mendelian randomization.",
+  "aliases": [],
+  "summary": "Exposure to benzo(a)pyrene (BaP) negatively affects lung inflammation in patients with asthma. However, there is a lack of systematic research on the key mechanisms of BaP toxicity in asthma. In this study, BaP target genes were predicted using ChEMBL, SEA, and PharmMapper, and asthma-related genes were retrieved from GeneCards, OMIM, and TTD. A protein-protein interaction network was constructed in Cytoscape software using overlapping genes. The causal relationships between core genes and asth…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42349175",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42349175/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42349175/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

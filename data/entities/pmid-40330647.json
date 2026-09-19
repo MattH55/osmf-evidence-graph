@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-40330647",
+  "type": "paper",
+  "label": "Case Report: The intersection of psychiatry and medicine: diagnostic and ethical insights from case studies.",
+  "aliases": [],
+  "summary": "The intersection of psychiatry and medicine presents unique diagnostic and ethical challenges, particularly for conditions involving significant brain-body interactions, such as psychosomatic, somatopsychic, and complex systemic disorders. This article explores the historical and contemporary issues in diagnosing such conditions, emphasizing the fragmentation of medical and psychiatric knowledge, biases in clinical guidelines, and the mismanagement of complex illnesses. Diagnostic errors often…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "40330647",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40330647/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/40330647/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

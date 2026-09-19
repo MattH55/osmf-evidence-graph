@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42061607",
+  "type": "paper",
+  "label": "Outcomes of pediatric median arcuate ligament release: A single-center experience.",
+  "aliases": [],
+  "summary": "Median arcuate ligament syndrome (MALS) is a rare condition caused by compression of the celiac artery by the median arcuate ligament. The surgical treatment for MALS is a median arcuate ligament release (MALR). While outcomes of MALR are well described in adults, pediatric data remain limited. Leveraging our extensive institutional experience, we sought to address this gap by reporting the largest single-institution cohort of pediatric patients undergoing MALR at a standalone children's hospit…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42061607",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42061607/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42061607/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

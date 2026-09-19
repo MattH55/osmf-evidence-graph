@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42402029",
+  "type": "paper",
+  "label": "Antiphospholipid antibodies in acute and post-treatment Lyme disease.",
+  "aliases": [],
+  "summary": "Acute Lyme disease is caused by a",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42402029",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402029/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42402029/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

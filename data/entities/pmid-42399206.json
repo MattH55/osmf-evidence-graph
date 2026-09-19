@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42399206",
+  "type": "paper",
+  "label": "A Real-World Cross-Sectional Study on Suspected Mast Cell Activation Syndrome: Multiple Heterogeneous Symptoms Identified.",
+  "aliases": [],
+  "summary": "A variety of clinical signs and symptoms have been described in patients suspected of having mast cell activation syndrome (MCAS), however, symptom patterns and linked organ systems were not yet described. This cross-sectional online survey included adults with physician-diagnosed self-assessed or suspected MCAS between June and September 2021. Symptoms were collected as free-text responses, and coded using the Medical Dictionary for Regulatory Activities (MedDRA). These data were then analyzed…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42399206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399206/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42399206/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41713033",
+  "type": "paper",
+  "label": "Novel therapeutic topical gel approach for chronic inflammation and pain management in osteo- and viral-arthritis.",
+  "aliases": [],
+  "summary": "Osteoarthritis is a common and chronic degenerative joint disease that leads to persistent symptoms such as pain, stiffness, swelling, and fatigue, all of which significantly impair mobility and reduce quality of life. Viral infections can further worsen joint inflammation in individuals with pre-existing osteoarthritis. Among these, the chikungunya virus (CHIKV) has become an increasing public health concern, particularly in Asia and South America, where post-viral arthritis frequently mimics…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41713033",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41713033/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41713033/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

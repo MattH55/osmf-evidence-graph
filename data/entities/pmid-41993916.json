@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41993916",
+  "type": "paper",
+  "label": "Multi-omic analysis reveals brain-blood concordance and persistent neuroimmune reprogramming with stress and toxicant exposure in a mouse model of Gulf War Illness.",
+  "aliases": [],
+  "summary": "Gulf War Illness (GWI) is a chronic neuroimmune condition affecting veterans of the 1990-91 Gulf War. Current treatments primarily target symptom relief, and the biological mechanisms underlying GWI remain poorly understood. Using a validated mouse model of Gulf War Illness (GWI) combining corticosterone (CORT) and diisopropyl fluorophosphate (DFP) exposure to induce stress- and toxicant-related neuroimmune priming, we examined how prior exposure alters molecular responses to a subsequent immun…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41993916",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41993916/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41993916/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

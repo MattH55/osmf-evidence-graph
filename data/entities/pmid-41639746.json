@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41639746",
+  "type": "paper",
+  "label": "Characterization of post-acute multi-organ sequelae following SARS-CoV-2 Infection in the Delta and Omicron Eras in a highly boosted population.",
+  "aliases": [],
+  "summary": "Multi-organ post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection (PASC) is extensively documented. Recent studies in predominantly Caucasian populations suggest that the evolution of SARS-CoV-2 variants can influence risk (as measured by hazard ratios) and rates (as measured by incidence rate ratios) of PASC, and they also highlight the protective effects of COVID-19 vaccination. However, it is unclear whether risks or rates of PASC have changed over dif…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41639746",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41639746/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41639746/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

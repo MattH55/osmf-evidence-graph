@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41896945",
+  "type": "paper",
+  "label": "Genomic interplay between deployment exposures and Gulf War illness in Million Veteran Program participants.",
+  "aliases": [],
+  "summary": "Veterans of the 1990–1991 Gulf War (GW) experienced an elevated burden of chronic health conditions, most notably Gulf War Illness (GWI). While the disease etiology remains unclear, it is hypothesized that both genetic susceptibility and deployment exposures contribute to GWI risk. We investigated 6,882 GW-deployed Veterans, assessing genetic and epigenetic interactions with GW exposures (ground combat, insect baits, oil well smoke exposure, pyridostigmine bromide pills, biological/chemical war…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41896945",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41896945/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41896945/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

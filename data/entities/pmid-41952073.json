@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41952073",
+  "type": "paper",
+  "label": "Gastrointestinal Symptoms and Systemic Comorbidities in Patients With POTS: A Systematic Review and Meta-Analysis.",
+  "aliases": [],
+  "summary": "Patients with postural orthostatic tachycardia syndrome (POTS) frequently report higher rates of chronic gastrointestinal symptoms, disorders of gut-brain interaction (DGBI), and extra-intestinal co-morbidities. We conducted a systematic review and meta-analysis to assess the prevalence of gastrointestinal symptoms and comorbid conditions in POTS patients. Electronic databases were searched from inception until May 2025 for studies reporting gastrointestinal symptoms in POTS patients. A random-…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41952073",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41952073/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41952073/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

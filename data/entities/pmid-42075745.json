@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42075745",
+  "type": "paper",
+  "label": "Promoting a Positive Relationship Between Physicians and Patients with Lyme Disease During Pregnancy and Parenthood.",
+  "aliases": [],
+  "summary": "Patients with Lyme disease often face uncertainty when navigating the healthcare system during pregnancy and when seeking healthcare for their children exposed to Lyme disease in utero. Little is known about these families' experiences. This qualitative study explored the perspectives of 27 parents in the United States who had acute or chronic Lyme-related diagnoses while pregnant. Semi-structured interviews were coded and thematically analyzed. Six themes characterized positive patient-physici…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42075745",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42075745/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42075745/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

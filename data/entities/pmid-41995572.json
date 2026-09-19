@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41995572",
+  "type": "paper",
+  "label": "Association between risk factors and 1-year mortality of physical and/or cognitive components of post-intensive care syndrome in patients with sepsis.",
+  "aliases": [],
+  "summary": "Survivors of sepsis are at high risk of developing post-intensive care syndrome (PICS), which encompasses physical, mental, and cognitive impairments after critical illness. Among these domains, physical and cognitive impairments have been linked to increased long-term mortality; however, their specific associations with mortality among patients with sepsis remain unclear. This study aimed to examine the relationship between PICS and subsequent survival, with a particular focus on physical and…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41995572",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41995572/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41995572/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

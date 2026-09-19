@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42279648",
+  "type": "paper",
+  "label": "The Potential Role of Camel Milk in Alleviating Chronic Fatigue Syndrome in Mice: A Network Pharmacology and In Vivo Validation Study.",
+  "aliases": [],
+  "summary": "Chronic fatigue syndrome/myalgic encephalomyelitis (CFS/ME) is a complex and debilitating disorder with limited treatment options. Camel milk (CM), known for its rich nutrients and anti-fatigue properties, may offer multi-target benefits for managing this condition. This study utilized an integrated approach combining metabolomics, network pharmacology, and animal experiments. CM metabolites were profiled and screened via ADME. Potential targets were predicted and intersected with CFS/ME-associ…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42279648",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42279648/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42279648/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

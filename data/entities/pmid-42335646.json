@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42335646",
+  "type": "paper",
+  "label": "Immune metabolic remodeling during exercise rehabilitation: Linking skeletal muscle regeneration, bone homeostasis, and systemic immune adaptation.",
+  "aliases": [],
+  "summary": "Exercise rehabilitation harnesses immune metabolic remodeling to drive coordinated skeletal muscle regeneration, bone homeostasis, and systemic immune adaptation. Physical activity functions as a controlled metabolic stressor that reprograms immune cell metabolism-shifting macrophages from glycolytic M1 to oxidative M2 phenotypes, expanding regulatory T cells through fatty acid oxidation and ketone body signaling, and modulating neutrophils, NK cells, and B cells via lactate, succinate, itacona…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42335646",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42335646/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42335646/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

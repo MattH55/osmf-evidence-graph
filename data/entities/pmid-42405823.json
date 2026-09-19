@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42405823",
+  "type": "paper",
+  "label": "Mast cell activation disorders: mechanisms, comorbidities and look alike.",
+  "aliases": [],
+  "summary": "Mast Cells (MCs) are unique tissue immune cells found perivascularly close to nerves at interfaces with the external environment. Upon detection of danger signals, MCs act as master responders aiming to restore homeostasis. If MCs are not optimally regulated, they can contribute to the pathogenesis of MC activation disorders (MCADs) and other chronic neuroinflammatory conditions that affect about 30% of the population. MCs respond to chemical, infectious, physical and stress stimuli, leading to…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42405823",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42405823/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42405823/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

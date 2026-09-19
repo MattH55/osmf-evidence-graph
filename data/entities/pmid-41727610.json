@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41727610",
+  "type": "paper",
+  "label": "Multiplexed single-tier immunoassay for improved Lyme disease diagnosis across all disease stages.",
+  "aliases": [],
+  "summary": "Lyme disease is the most common vector-borne infection in North America and Europe, yet current two-tier serologic testing shows poor sensitivity during early infection when antibiotic treatment is most effective. We developed and validated a single-tier multiplex immunoassay that combines ten",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41727610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41727610/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41727610/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

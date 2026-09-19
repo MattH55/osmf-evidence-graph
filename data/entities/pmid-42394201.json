@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42394201",
+  "type": "paper",
+  "label": "PNPLA3 I148M Variant Activates Hepatic Stellate Cells via AMIGO2 Upregulation Using iPSC-Derived Model.",
+  "aliases": [],
+  "summary": "A variant in the patatin-like phospholipase domain-containing protein 3 (PNPLA3) was reported to be related to metabolic-associated fatty liver disease. However, the mechanism by which this variant leads to liver fibrosis has not been unveiled yet. Using induced pluripotent stem cell (iPSC)-derived hepatic stellate cells (iHSC) containing a single nucleotide polymorphism (SNP) within PNPLA3, this study sought to clarify the mechanism through which this PNPLA3 SNP induces liver fibrosis. Two typ…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42394201",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394201/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42394201/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

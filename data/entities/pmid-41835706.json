@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41835706",
+  "type": "paper",
+  "label": "Swyer-James-MacLeod Syndrome: A Rare Cause of Unilateral Hyperlucent Lung in a Two-Year-Old Male Child.",
+  "aliases": [],
+  "summary": "Swyer-James-MacLeod syndrome (SJMS) is an uncommon post-infectious bronchiolitis obliterans-related pulmonary disorder characterized by a unilateral hyperlucent lung with associated hypovascularity on chest radiography and CT, and markedly reduced perfusion on ventilation-perfusion scintigraphy. Although typically identified in older children or adolescents due to its insidious progression, diagnosis in early childhood remains rare and diagnostically challenging. This report describes a two-yea…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41835706",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41835706/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41835706/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

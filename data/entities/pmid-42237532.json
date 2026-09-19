@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42237532",
+  "type": "paper",
+  "label": "Movement Disorders and Cerebellar Syndromes Associated with Mycoplasma pneumoniae Infection: A Systematic Review.",
+  "aliases": [],
+  "summary": "Mycoplasma pneumoniae is a well-recognized respiratory pathogen increasingly associated with diverse neurological manifestations beyond pulmonary disease involvement. To evaluate movement disorders and cerebellar syndromes linked to Mycoplasma pneumoniae, focusing on clinical relevance, diagnosis, and management challenges. A systematic review of published case reports and case series was conducted following PRISMA guidelines. Individual patient data were extracted for demographic characteristi…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42237532",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42237532/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42237532/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

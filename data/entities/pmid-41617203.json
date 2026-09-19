@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41617203",
+  "type": "paper",
+  "label": "Military Exposures Research: A State-of-the-Art Review.",
+  "aliases": [],
+  "summary": "Military personnel encounter a wide range of environmental and occupational exposures during their service such as burn pit smoke, chemical warfare agents, depleted uranium, jet fuel, radiation, and pesticides. The field of military exposures research seeks to better understand the nature of these exposures and their effects on Veteran and service member health. This state-of-the-art review assesses the breadth and depth of published military exposures research so that stakeholders can identify…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41617203",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41617203/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41617203/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

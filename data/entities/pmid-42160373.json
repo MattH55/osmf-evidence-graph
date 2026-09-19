@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42160373",
+  "type": "paper",
+  "label": "Computational biology exposed a common pathogenic mechanism in influenza A and Guillain-Barré syndrome.",
+  "aliases": [],
+  "summary": "Influenza virus A (H1N1) can lead to acute respiratory infection, while Guillain-Barré Syndrome (GBS) is an autoimmune peripheral neuropathy, which can work as a post-infectious disease. There are clinical observations showing the existence of a possible relationship between the presence of H1N1 infection and GBS disease, and therefore there could be common immunopathological pathways associated with H1N1 infection and GBS. The possible similarity between H1N1 infection and GBS was further inve…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42160373",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160373/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42160373/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

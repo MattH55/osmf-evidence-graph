@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42369281",
+  "type": "paper",
+  "label": "The body and the brain keep the score: a data-driven conceptual model linking trauma and postural tachycardia syndrome.",
+  "aliases": [],
+  "summary": "Postural tachycardia syndrome (POTS) is a common, often disabling disorder of autonomic nervous system regulation without a unifying etiological account. Converging evidence suggests infectious, physical, and emotional threats frequently precede onset. We propose a hypothesis-generating model in which POTS may, in some individuals, involve threat-induced, centrally maintained disruption of brain-body communication that may be responsive to neuroplasticity-based behavioral medicine. In this pape…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42369281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42369281/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42369281/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

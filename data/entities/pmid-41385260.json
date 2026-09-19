@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41385260",
+  "type": "paper",
+  "label": "The Association Between Self-Reported Types of Toxic Exposures and Symptom Severity Among Gulf War Era Veterans.",
+  "aliases": [],
+  "summary": "Gulf War illness is a chronic multisymptom illness impacting Veterans of the 1990-1991 Persian Gulf War. Toxic exposures are believed to be associated with the condition, but little is known about how multiple types of exposures can impact the disease. The aim of this study is to determine if a positive association exists between the multiplicity of exposure types and symptom severity score. A cross-sectional survey design was used in which Persian Gulf Veterans completed a questionnaire with i…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41385260",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41385260/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41385260/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}

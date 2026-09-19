@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-42343084",
+  "type": "paper",
+  "label": "Assessing autonomic nervous system imbalance in long COVID-19 patients through heart rate variability during tilt testing.",
+  "aliases": [],
+  "summary": "Long COVID-19 is recognized as a condition associated with autonomic nervous system (ANS) dysfunction. However, quantitative evidence of its impact on heart rate variability (HRV) and blood pressure (BP) regulation during postural changes remains limited. This study assessed autonomic imbalance in post-COVID-19 patients by evaluating HRV and BP responses during tilt table testing, comparing long COVID-19 patients with healthy controls. A total of 61 participants were enrolled, 39 long COVID-19…",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "42343084",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42343084/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42343084/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T16:57:32.049Z"
+}
