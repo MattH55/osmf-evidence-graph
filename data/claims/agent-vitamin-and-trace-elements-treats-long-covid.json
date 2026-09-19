@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT04751669"
+    },
+    {
+      "type": "pmid",
+      "value": "35697684"
+    },
+    {
+      "type": "pmid",
+      "value": "37726282"
+    },
+    {
+      "type": "pmid",
+      "value": "34791425"
+    },
+    {
+      "type": "pmid",
+      "value": "35217499"
+    },
+    {
+      "type": "pmid",
+      "value": "23249337"
+    },
+    {
+      "type": "pmid",
+      "value": "33126054"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38383456"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT04751669 (COMPLETED), PMID:35697684, PMID:37726282, PMID:34791425, PMID:35217499, PMID:23249337. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Some completed condition-related work but phase/size/pubs too thin for C. | Wave B. Extracted 1 registry trial(s) for Vitamin And Trace Elements \u2192 Long COVID: NCT04751669 (COMPLETED, phase=NA, n=252, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 23249337: Vitamin C promotes maturation of T-cells.; PMID 33126054: Prediction of survival odds in COVID-19 by zinc, age and selenoprotein P as composite biomarker.; PMID 36695182: Heart Disease and"
 }

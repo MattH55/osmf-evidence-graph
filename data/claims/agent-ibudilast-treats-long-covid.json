@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:ibudilast",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT05513560"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
+    },
+    {
+      "type": "pmid",
+      "value": "36969241"
+    },
+    {
+      "type": "pmid",
+      "value": "37396922"
+    },
+    {
+      "type": "pmid",
+      "value": "38611624"
+    },
+    {
+      "type": "pmid",
+      "value": "33240091"
+    },
+    {
+      "type": "pmid",
+      "value": "33421734"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT05513560 (COMPLETED), PMID:37076602, PMID:36969241, PMID:37396922, PMID:38611624, PMID:33240091. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Ibudilast \u2192 Long COVID: NCT05513560 (COMPLETED, phase=PHASE2,PHASE3, n=460, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33240091: Challenges for Drug Repurposing in the COVID-19 Pandemic Era.; PMID 33421734: The neuropsychiatric manifestations of COVID-19: Interactions with psychiatric illness and pharmacological treatment"
 }

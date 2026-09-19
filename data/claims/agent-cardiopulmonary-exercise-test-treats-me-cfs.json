@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT02669212"
+    },
+    {
+      "type": "pmid",
+      "value": "37147136"
+    },
+    {
+      "type": "pmid",
+      "value": "37579159"
+    },
+    {
+      "type": "pmid",
+      "value": "40337174"
+    },
+    {
+      "type": "pmid",
+      "value": "38352048"
+    },
+    {
+      "type": "pmid",
+      "value": "19713422"
+    },
+    {
+      "type": "pmid",
+      "value": "25266247"
+    },
+    {
+      "type": "pmid",
+      "value": "25980576"
+    },
+    {
+      "type": "pmid",
+      "value": "28506916"
+    },
+    {
+      "type": "pmid",
+      "value": "35176758"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT02669212 (COMPLETED), PMID:37147136, PMID:37579159, PMID:40337174, PMID:38352048, PMID:19713422. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Some completed condition-related work but phase/size/pubs too thin for C. | Wave A. Extracted 1 registry trial(s) for Cardiopulmonary Exercise Test \u2192 ME/CFS: NCT02669212 (COMPLETED, phase=NA, n=52, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 19713422: Guidelines for the diagnosis and management of syncope (version 2009).; PMID 25266247: Guidelines for the treatment of hypothyroidism: prepared by the american thyroid association task force on thyroid"
 }

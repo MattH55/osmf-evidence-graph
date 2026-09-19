@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT06161688"
+    },
+    {
+      "type": "pmid",
+      "value": "39947217"
+    },
+    {
+      "type": "pmid",
+      "value": "39062511"
+    },
+    {
+      "type": "pmid",
+      "value": "41836927"
+    },
+    {
+      "type": "pmid",
+      "value": "40559563"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
+    },
+    {
+      "type": "pmid",
+      "value": "37112923"
+    },
+    {
+      "type": "pmid",
+      "value": "37173515"
+    },
+    {
+      "type": "pmid",
+      "value": "37897341"
+    },
+    {
+      "type": "pmid",
+      "value": "39326415"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06161688 (ACTIVE_NOT_RECRUITING), PMID:39947217, PMID:39062511, PMID:41836927, PMID:40559563, PMID:37076602. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave A. Extracted 1 registry trial(s) for Ensitrelvir \u2192 Long COVID: NCT06161688 (ACTIVE_NOT_RECRUITING, phase=PHASE2, n=40, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 37076602: Therapeutic strategies for COVID-19: progress and lessons learned.; PMID 37112923: Evolution of SARS-CoV-2 Variants: Implications on Immune Escape, Vaccination, Therapeutic and Diagnostic Strategies."
 }

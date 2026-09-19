@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:immunoadsorption",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -19,9 +19,10 @@
       "value": "NCT07316127"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05710770 (COMPLETED), NCT07316127 (RECRUITING). Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Completed Phase 2+ condition-relevant trial without posted results/pubs in this pass \u2192 C draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Completed Phase 2+ condition-relevant trial without posted results/pubs in this pass \u2192 C draft. | Wave B. Extracted 2 registry trial(s) for Immunoadsorption \u2192 Long COVID: NCT05710770 (COMPLETED, phase=NA, n=66, relevant=True); NCT07316127 (RECRUITING, phase=PHASE2, n=70, relevant=True). No posted CT.gov results in this pass. No agent+condition Europe PMC search (wave B/C budget). Honest bar: Preliminary claims stay D/C unless a clear multi-source clinical package is present (not claimed here w"
 }

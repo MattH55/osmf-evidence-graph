@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT06456502"
+    },
+    {
+      "type": "pmid",
+      "value": "35673334"
+    },
+    {
+      "type": "pmid",
+      "value": "35734582"
+    },
+    {
+      "type": "pmid",
+      "value": "36129719"
+    },
+    {
+      "type": "pmid",
+      "value": "38493795"
+    },
+    {
+      "type": "pmid",
+      "value": "39482575"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06456502 (UNKNOWN), PMID:35673334, PMID:35734582, PMID:36129719, PMID:38493795, PMID:39482575. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave B. Extracted 1 registry trial(s) for Non-Invasive Neuromodulation \u2192 Long COVID: NCT06456502 (UNKNOWN, phase=NA, n=44, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35673334: 2022 Guidelines of the Taiwan Society of Cardiology and the Taiwan Hypertension Society for the Management of Hypertensi; PMID 35734582: Non-invasive brain stimulation and neuroenhancement."
 }

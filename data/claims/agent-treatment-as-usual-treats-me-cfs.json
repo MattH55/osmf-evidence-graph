@@ -21,11 +21,36 @@
     {
       "type": "nct",
       "value": "NCT04593225"
+    },
+    {
+      "type": "pmid",
+      "value": "41701690"
+    },
+    {
+      "type": "pmid",
+      "value": "15297906"
+    },
+    {
+      "type": "pmid",
+      "value": "19502515"
+    },
+    {
+      "type": "pmid",
+      "value": "20350028"
+    },
+    {
+      "type": "pmid",
+      "value": "23459093"
+    },
+    {
+      "type": "pmid",
+      "value": "28506916"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06928480 (RECRUITING), PMID:41701690, NCT05793736 (COMPLETED), NCT04593225 (UNKNOWN), PMID:15297906, PMID:19502515. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave B. Extracted 3 registry trial(s) for Treatment As Usual \u2192 ME/CFS: NCT06928480 (RECRUITING, phase=NA, n=90, relevant=False); NCT05793736 (COMPLETED, phase=NA, n=17, relevant=False); NCT04593225 (UNKNOWN, phase=NA, n=480, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 15297906: The World Mental Health (WMH) Survey Initiative Version of the World Health Organizatio"
 }

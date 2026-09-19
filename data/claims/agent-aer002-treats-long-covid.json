@@ -13,11 +13,44 @@
     {
       "type": "nct",
       "value": "NCT05877508"
+    },
+    {
+      "type": "pmid",
+      "value": "39947217"
+    },
+    {
+      "type": "pmid",
+      "value": "41089328"
+    },
+    {
+      "type": "pmid",
+      "value": "40346201"
+    },
+    {
+      "type": "pmid",
+      "value": "39536121"
+    },
+    {
+      "type": "pmid",
+      "value": "38221576"
+    },
+    {
+      "type": "pmid",
+      "value": "38432691"
+    },
+    {
+      "type": "pmid",
+      "value": "41836927"
+    },
+    {
+      "type": "pmid",
+      "value": "PPR1266972"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05877508 (ACTIVE_NOT_RECRUITING), PMID:39947217, PMID:41089328, PMID:40346201, PMID:39536121, PMID:38221576. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave A. Extracted 1 registry trial(s) for Aer002 \u2192 Long COVID: NCT05877508 (ACTIVE_NOT_RECRUITING, phase=PHASE2, n=36, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 38221576: A First-in-Human Randomized Study to Assess the Safety, Tolerability, Pharmacokinetics, and Neutralization Profile of Tw; PMID 38432691: Emerging anti-spike monoclonal antibodies against SARS-CoV-2.; PMID"
 }

@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT06085911"
+    },
+    {
+      "type": "pmid",
+      "value": "41490577"
+    },
+    {
+      "type": "pmid",
+      "value": "33692530"
+    },
+    {
+      "type": "pmid",
+      "value": "34308300"
+    },
+    {
+      "type": "pmid",
+      "value": "34634250"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06085911 (UNKNOWN), PMID:41490577, PMID:33692530, PMID:34308300, PMID:34634250, PMID:36695182. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave B. Extracted 1 registry trial(s) for One Day Course \u2192 Long COVID: NCT06085911 (UNKNOWN, phase=NA, n=60, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33692530: Attributes and predictors of long COVID.; PMID 34308300: Characterizing long COVID in an international cohort: 7 months of symptoms and their impact.; PMID 34634250: Global prevalence and burden of depre"
 }

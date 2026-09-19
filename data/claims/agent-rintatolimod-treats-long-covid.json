@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:rintatolimod",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT05592418"
+    },
+    {
+      "type": "pmid",
+      "value": "39947217"
+    },
+    {
+      "type": "pmid",
+      "value": "37396922"
+    },
+    {
+      "type": "pmid",
+      "value": "39988665"
+    },
+    {
+      "type": "pmid",
+      "value": "37344737"
+    },
+    {
+      "type": "pmid",
+      "value": "33391502"
+    },
+    {
+      "type": "pmid",
+      "value": "34024217"
+    },
+    {
+      "type": "pmid",
+      "value": "34181102"
+    },
+    {
+      "type": "pmid",
+      "value": "35182760"
+    },
+    {
+      "type": "pmid",
+      "value": "36464706"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT05592418 (COMPLETED), PMID:39947217, PMID:37396922, PMID:39988665, PMID:37344737, PMID:33391502. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Rintatolimod \u2192 Long COVID: NCT05592418 (COMPLETED, phase=PHASE2, n=80, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33391502: COVID-19 and Cancer Comorbidity: Therapeutic Opportunities and Challenges.; PMID 34024217: Long COVID or post-COVID-19 syndrome: putative pathophysiology, risk factors, and treatments.; PMID 34181102: The Neuro"
 }

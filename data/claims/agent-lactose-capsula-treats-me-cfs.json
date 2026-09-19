@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT01040429"
+    },
+    {
+      "type": "pmid",
+      "value": "24493300"
+    },
+    {
+      "type": "pmid",
+      "value": "28494812"
+    },
+    {
+      "type": "pmid",
+      "value": "27414048"
+    },
+    {
+      "type": "pmid",
+      "value": "27149955"
+    },
+    {
+      "type": "pmid",
+      "value": "26138694"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT01040429 (COMPLETED), PMID:24493300, PMID:28494812, PMID:27414048, PMID:27149955, PMID:26138694. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Label is diagnostic/behavioral/class/placebo rather than a discrete therapeutic with condition-directed efficacy evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=A Label is diagnostic/behavioral/class/placebo rather than a discrete therapeutic with condition-directed efficacy evidence. | 'Lactose Capsula' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for ME/CFS in the extracted sources (wave A). Associated registry entries appear procedural/class/placebo-related."
 }

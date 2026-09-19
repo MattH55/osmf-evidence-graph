@@ -17,11 +17,40 @@
     {
       "type": "nct",
       "value": "NCT05965739"
+    },
+    {
+      "type": "pmid",
+      "value": "38611624"
+    },
+    {
+      "type": "pmid",
+      "value": "38495306"
+    },
+    {
+      "type": "pmid",
+      "value": "38755688"
+    },
+    {
+      "type": "pmid",
+      "value": "41212544"
+    },
+    {
+      "type": "pmid",
+      "value": "33346896"
+    },
+    {
+      "type": "pmid",
+      "value": "PMC10729595"
+    },
+    {
+      "type": "pmid",
+      "value": "PMC11688754"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05965752 (COMPLETED), PMID:38611624, NCT05965739 (COMPLETED), PMID:38495306, PMID:38755688, PMID:41212544. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Some completed condition-related work but phase/size/pubs too thin for C. | Wave A. Extracted 2 registry trial(s) for Brainhq/Active Comparator Activity \u2192 Long COVID: NCT05965752 (COMPLETED, phase=NA, n=328, relevant=True); NCT05965739 (COMPLETED, phase=NA, n=328, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33346896: Abstracts of the 16th International E-Congress of the European Geriatric Medicine Society : 7-9 October 2020.. Europe PMC query `(Brai"
 }

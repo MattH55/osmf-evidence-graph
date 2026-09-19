@@ -13,11 +13,24 @@
     {
       "type": "nct",
       "value": "NCT05947617"
+    },
+    {
+      "type": "pmid",
+      "value": "38455376"
+    },
+    {
+      "type": "pmid",
+      "value": "38711990"
+    },
+    {
+      "type": "pmid",
+      "value": "39726642"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05947617 (UNKNOWN), PMID:38455376, PMID:38711990, PMID:39726642. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Wave B. Extracted 1 registry trial(s) for Vix001 \u2192 Long COVID: NCT05947617 (UNKNOWN, phase=PHASE1, n=9, relevant=False). No posted CT.gov results in this pass. Literature notes: PMID 38455376: First Case of Debilitating Lower Back Pain Induced by Severe Inflammation of Lumbar Joints, Healed by Intravenous Infusi; PMID 38711990: Management of cognitive impairment associated with post-COVID-19 syndr"
 }

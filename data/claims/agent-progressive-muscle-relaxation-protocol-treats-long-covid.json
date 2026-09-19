@@ -13,11 +13,40 @@
     {
       "type": "nct",
       "value": "NCT06492577"
+    },
+    {
+      "type": "pmid",
+      "value": "39458187"
+    },
+    {
+      "type": "pmid",
+      "value": "42325367"
+    },
+    {
+      "type": "pmid",
+      "value": "33909761"
+    },
+    {
+      "type": "pmid",
+      "value": "36454715"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06492577 (COMPLETED), PMID:39458187, PMID:42325367, PMID:33909761, PMID:36454715, PMID:36695182. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Some completed condition-related work but phase/size/pubs too thin for C. | Wave B. Extracted 1 registry trial(s) for Progressive Muscle Relaxation Protocol \u2192 Long COVID: NCT06492577 (COMPLETED, phase=NA, n=61, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33909761: Brazilian Guidelines of Hypertension - 2020.; PMID 36454715: CGRP physiology, pharmacology, and therapeutic targets: migraine and beyond.; PMID 36695182: Heart Disease and Strok"
 }

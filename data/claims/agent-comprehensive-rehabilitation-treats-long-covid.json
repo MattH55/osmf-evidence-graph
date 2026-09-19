@@ -13,11 +13,40 @@
     {
       "type": "nct",
       "value": "NCT06156202"
+    },
+    {
+      "type": "pmid",
+      "value": "38806225"
+    },
+    {
+      "type": "pmid",
+      "value": "PPR1070702"
+    },
+    {
+      "type": "pmid",
+      "value": "33753937"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "38642570"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06156202 (COMPLETED), PMID:38806225, PMID:PPR1070702, PMID:33753937, PMID:36639608, PMID:36695182. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Some completed condition-related work but phase/size/pubs too thin for C. | Wave B. Extracted 1 registry trial(s) for Comprehensive Rehabilitation \u2192 Long COVID: NCT06156202 (COMPLETED, phase=NA, n=125, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33753937: Post-acute COVID-19 syndrome.; PMID 36639608: Long COVID: major findings, mechanisms and recommendations.; PMID 36695182: Heart Disease and Stroke Statistics-2023 Update: A Report From t"
 }

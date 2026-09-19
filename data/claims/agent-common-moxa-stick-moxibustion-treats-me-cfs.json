@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT02964533"
+    },
+    {
+      "type": "pmid",
+      "value": "29020263"
+    },
+    {
+      "type": "pmid",
+      "value": "29372565"
+    },
+    {
+      "type": "pmid",
+      "value": "29757454"
+    },
+    {
+      "type": "pmid",
+      "value": "32332638"
+    },
+    {
+      "type": "pmid",
+      "value": "37746720"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT02964533 (UNKNOWN), PMID:29020263, PMID:29372565, PMID:29757454, PMID:32332638, PMID:37746720. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave B. Extracted 1 registry trial(s) for Common Moxa-Stick Moxibustion \u2192 ME/CFS: NCT02964533 (UNKNOWN, phase=NA, n=70, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 29020263: 2017 HIVMA of IDSA Clinical Practice Guideline for the Management of Chronic Pain in Patients Living With HIV.; PMID 29372565: Non-pharmacological interventions for treating chronic prostatiti"
 }

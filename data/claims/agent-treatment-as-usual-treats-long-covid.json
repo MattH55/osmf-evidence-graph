@@ -21,11 +21,36 @@
     {
       "type": "nct",
       "value": "NCT04593225"
+    },
+    {
+      "type": "pmid",
+      "value": "41701690"
+    },
+    {
+      "type": "pmid",
+      "value": "32526206"
+    },
+    {
+      "type": "pmid",
+      "value": "33428867"
+    },
+    {
+      "type": "pmid",
+      "value": "34973396"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06928480 (RECRUITING), PMID:41701690, NCT05793736 (COMPLETED), PMID:32526206, PMID:33428867, PMID:34973396. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Some completed condition-related work but phase/size/pubs too thin for C. | Wave B. Extracted 2 registry trial(s) for Treatment As Usual \u2192 Long COVID: NCT06928480 (RECRUITING, phase=NA, n=90, relevant=True); NCT05793736 (COMPLETED, phase=NA, n=17, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 32526206: SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the Respiratory Tract.; PMID 33428867: 6-month consequences of COVID-19"
 }

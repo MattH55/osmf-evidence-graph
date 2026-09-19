@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT05273372"
+    },
+    {
+      "type": "pmid",
+      "value": "39664752"
+    },
+    {
+      "type": "pmid",
+      "value": "41132887"
+    },
+    {
+      "type": "pmid",
+      "value": "35764955"
+    },
+    {
+      "type": "pmid",
+      "value": "39940333"
+    },
+    {
+      "type": "pmid",
+      "value": "39984803"
+    },
+    {
+      "type": "pmid",
+      "value": "40507071"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05273372 (COMPLETED), PMID:39664752, PMID:41132887, PMID:35764955, PMID:39940333, PMID:39984803. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Some completed condition-related work but phase/size/pubs too thin for C. | Wave B. Extracted 1 registry trial(s) for Medical Food - Anhydrous Enol-Oxaloacetate \u2192 ME/CFS: NCT05273372 (COMPLETED, phase=NA, n=82, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35764955: Oxaloacetate Treatment For Mental And Physical Fatigue In Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) an; PMID 39940333: Dietary Supplementation for Fatigue Symp"
 }

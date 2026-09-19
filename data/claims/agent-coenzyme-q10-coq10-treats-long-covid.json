@@ -33,11 +33,52 @@
     {
       "type": "nct",
       "value": "NCT02063126"
+    },
+    {
+      "type": "pmid",
+      "value": "34444817"
+    },
+    {
+      "type": "pmid",
+      "value": "35229657"
+    },
+    {
+      "type": "pmid",
+      "value": "25386668"
+    },
+    {
+      "type": "pmid",
+      "value": "34067632"
+    },
+    {
+      "type": "pmid",
+      "value": "26212172"
+    },
+    {
+      "type": "pmid",
+      "value": "33909761"
+    },
+    {
+      "type": "pmid",
+      "value": "34024217"
+    },
+    {
+      "type": "pmid",
+      "value": "34400495"
+    },
+    {
+      "type": "pmid",
+      "value": "35269860"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06597682 (NOT_YET_RECRUITING), NCT03186027 (COMPLETED), PMID:34444817, NCT05128292 (COMPLETED), PMID:35229657, NCT02063126 (COMPLETED). Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave A. Extracted 4 registry trial(s) for Coenzyme Q10 (CoQ10) \u2192 Long COVID: NCT06597682 (NOT_YET_RECRUITING, phase=NA, n=632, relevant=True); NCT03186027 (COMPLETED, phase=NA, n=282, relevant=False); NCT05128292 (COMPLETED, phase=NA, n=42, relevant=False); NCT02063126 (COMPLETED, phase=PHASE2,PHASE3, n=80, relevant=False). No posted CT.gov results in this pass. Literature notes: PMID 33909761: Br"
 }

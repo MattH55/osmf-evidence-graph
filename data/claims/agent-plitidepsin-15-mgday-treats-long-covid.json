@@ -13,11 +13,28 @@
     {
       "type": "nct",
       "value": "NCT06766825"
+    },
+    {
+      "type": "pmid",
+      "value": "34035845"
+    },
+    {
+      "type": "pmid",
+      "value": "34319150"
+    },
+    {
+      "type": "pmid",
+      "value": "36909731"
+    },
+    {
+      "type": "pmid",
+      "value": "42171504"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06766825 (ACTIVE_NOT_RECRUITING), PMID:34035845, PMID:34319150, PMID:36909731, PMID:42171504. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Plitidepsin 1.5 Mg/Day \u2192 Long COVID: NCT06766825 (ACTIVE_NOT_RECRUITING, phase=PHASE2, n=90, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34035845: Cyclodextrins in the antiviral therapy.; PMID 34319150: SARS-CoV-2 Antiviral Therapy.; PMID 36909731: Plitidepsin in adult patients with COVID-19 requiring hospital admission: A"
 }

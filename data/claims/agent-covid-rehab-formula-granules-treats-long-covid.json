@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT04924881"
+    },
+    {
+      "type": "pmid",
+      "value": "36687403"
+    },
+    {
+      "type": "pmid",
+      "value": "36008648"
+    },
+    {
+      "type": "pmid",
+      "value": "38746044"
+    },
+    {
+      "type": "pmid",
+      "value": "39361093"
+    },
+    {
+      "type": "pmid",
+      "value": "40986224"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT04924881 (COMPLETED), PMID:36687403, PMID:36008648, PMID:38746044, PMID:39361093, PMID:40986224. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Wave A. Extracted 1 registry trial(s) for Covid Rehab Formula Granules \u2192 Long COVID: NCT04924881 (COMPLETED, phase=PHASE2, n=68, relevant=False). No posted CT.gov results in this pass. Literature notes: PMID 36008648: World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2022).; PMID 38746044: Traditional, complementary and integrative medicine for fatigue post"
 }

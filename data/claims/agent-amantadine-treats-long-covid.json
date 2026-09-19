@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:amantadine",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -17,11 +17,40 @@
     {
       "type": "nct",
       "value": "NCT06234462"
+    },
+    {
+      "type": "pmid",
+      "value": "41836927"
+    },
+    {
+      "type": "pmid",
+      "value": "39516425"
+    },
+    {
+      "type": "pmid",
+      "value": "32885037"
+    },
+    {
+      "type": "pmid",
+      "value": "33755344"
+    },
+    {
+      "type": "pmid",
+      "value": "34346558"
+    },
+    {
+      "type": "pmid",
+      "value": "34991982"
+    },
+    {
+      "type": "pmid",
+      "value": "36776881"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT06055244 (COMPLETED), PMID:41836927, NCT06234462 (WITHDRAWN), PMID:39516425, PMID:41836927, PMID:32885037. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Amantadine \u2192 Long COVID: NCT06055244 (COMPLETED, phase=PHASE2, n=64, relevant=True); NCT06234462 (WITHDRAWN, phase=PHASE2, n=0, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 32885037: COVID-19 and possible links with Parkinson's disease and parkinsonism: from bench to bedside.; PMID 33755344: Persistent neurologic symptoms a"
 }

@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT05121766"
+    },
+    {
+      "type": "pmid",
+      "value": "35874958"
+    },
+    {
+      "type": "pmid",
+      "value": "36349400"
+    },
+    {
+      "type": "pmid",
+      "value": "37286535"
+    },
+    {
+      "type": "pmid",
+      "value": "37317282"
+    },
+    {
+      "type": "pmid",
+      "value": "34687662"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
+    },
+    {
+      "type": "pmid",
+      "value": "41092926"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05121766 (TERMINATED), PMID:35874958, PMID:36349400, PMID:37286535, PMID:37317282, PMID:34687662. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=A Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Wave A. Extracted 1 registry trial(s) for Omega-3 \u2192 Long COVID: NCT05121766 (TERMINATED, phase=PHASE1, n=32, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 34687662: The 2021 report of the Lancet Countdown on health and climate change: code red for a healthy future.; PMID 36695182: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association.; P"
 }
