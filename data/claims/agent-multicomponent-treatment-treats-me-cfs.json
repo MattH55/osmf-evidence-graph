@@ -13,11 +13,44 @@
     {
       "type": "nct",
       "value": "NCT05719493"
+    },
+    {
+      "type": "pmid",
+      "value": "37115043"
+    },
+    {
+      "type": "pmid",
+      "value": "39796445"
+    },
+    {
+      "type": "pmid",
+      "value": "39717828"
+    },
+    {
+      "type": "pmid",
+      "value": "17488783"
+    },
+    {
+      "type": "pmid",
+      "value": "17493201"
+    },
+    {
+      "type": "pmid",
+      "value": "21967449"
+    },
+    {
+      "type": "pmid",
+      "value": "31369582"
+    },
+    {
+      "type": "pmid",
+      "value": "36178003"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05719493 (ACTIVE_NOT_RECRUITING), PMID:37115043, PMID:39796445, PMID:39717828, PMID:17488783, PMID:17493201. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Multicomponent Treatment \u2192 ME/CFS: NCT05719493 (ACTIVE_NOT_RECRUITING, phase=NA, n=86, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 17488783: Guidelines on the irritable bowel syndrome: mechanisms and practical management.; PMID 17493201: Geriatric syndromes: clinical, research, and policy implications of a core geriatric c"
 }

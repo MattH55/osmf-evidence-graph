@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT06597396"
+    },
+    {
+      "type": "pmid",
+      "value": "41388153"
+    },
+    {
+      "type": "pmid",
+      "value": "42449996"
+    },
+    {
+      "type": "pmid",
+      "value": "37479495"
+    },
+    {
+      "type": "pmid",
+      "value": "38979496"
+    },
+    {
+      "type": "pmid",
+      "value": "40717900"
+    },
+    {
+      "type": "pmid",
+      "value": "40843597"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06597396 (ACTIVE_NOT_RECRUITING), PMID:41388153, PMID:42449996, PMID:37479495, PMID:38979496, PMID:40717900. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Abrocitinib \u2192 Long COVID: NCT06597396 (ACTIVE_NOT_RECRUITING, phase=PHASE2, n=46, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 37479495: COVID-19 outcomes in patients with rheumatoid arthritis with biologic or targeted synthetic DMARDs.; PMID 38979496: Autism spectrum disorder and a possible role of anti-inflammatory treatm"
 }

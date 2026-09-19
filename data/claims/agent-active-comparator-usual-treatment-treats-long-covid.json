@@ -15,9 +15,10 @@
       "value": "NCT05894629"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05894629 (COMPLETED). Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Label is diagnostic/behavioral/class/placebo rather than a discrete therapeutic with condition-directed efficacy evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=B Label is diagnostic/behavioral/class/placebo rather than a discrete therapeutic with condition-directed efficacy evidence. | 'Active Comparator: Usual Treatment' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for Long COVID in the extracted sources (wave B). Associated registry entries appear procedural/class/placebo-related."
 }

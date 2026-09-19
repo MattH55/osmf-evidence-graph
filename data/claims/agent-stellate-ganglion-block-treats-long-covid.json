@@ -17,11 +17,36 @@
     {
       "type": "nct",
       "value": "NCT06253806"
+    },
+    {
+      "type": "pmid",
+      "value": "40504522"
+    },
+    {
+      "type": "pmid",
+      "value": "34922127"
+    },
+    {
+      "type": "pmid",
+      "value": "35614970"
+    },
+    {
+      "type": "pmid",
+      "value": "35848380"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
+    },
+    {
+      "type": "pmid",
+      "value": "37402746"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT07374562 (RECRUITING), PMID:34922127, PMID:35614970, PMID:35848380, PMID:36639608, PMID:37402746. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Stellate Ganglion Block \u2192 Long COVID: NCT07374562 (RECRUITING, phase=NA, n=40, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34922127: Stellate ganglion block reduces symptoms of Long COVID: A case series.; PMID 35614970: The Pathobiology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: The Case for Neuroglial Failure."
 }

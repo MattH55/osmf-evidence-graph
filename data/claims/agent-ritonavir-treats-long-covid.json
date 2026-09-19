@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:ritonavir",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -21,11 +21,76 @@
     {
       "type": "nct",
       "value": "NCT05668091"
+    },
+    {
+      "type": "pmid",
+      "value": "39947217"
+    },
+    {
+      "type": "pmid",
+      "value": "38611624"
+    },
+    {
+      "type": "pmid",
+      "value": "41836927"
+    },
+    {
+      "type": "pmid",
+      "value": "40559563"
+    },
+    {
+      "type": "pmid",
+      "value": "36899952"
+    },
+    {
+      "type": "pmid",
+      "value": "37907497"
+    },
+    {
+      "type": "pmid",
+      "value": "38848477"
+    },
+    {
+      "type": "pmid",
+      "value": "36969241"
+    },
+    {
+      "type": "pmid",
+      "value": "36967698"
+    },
+    {
+      "type": "pmid",
+      "value": "37457901"
+    },
+    {
+      "type": "pmid",
+      "value": "37659195"
+    },
+    {
+      "type": "pmid",
+      "value": "32201335"
+    },
+    {
+      "type": "pmid",
+      "value": "33428867"
+    },
+    {
+      "type": "pmid",
+      "value": "33431578"
+    },
+    {
+      "type": "pmid",
+      "value": "34454673"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT05965726 (COMPLETED), PMID:39947217, PMID:38611624, PMID:41836927, PMID:40559563, NCT05576662 (COMPLETED). Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 3 registry trial(s) for Ritonavir \u2192 Long COVID: NCT05965726 (COMPLETED, phase=PHASE2, n=964, relevant=True); NCT05576662 (COMPLETED, phase=PHASE2, n=168, relevant=True); NCT05668091 (COMPLETED, phase=PHASE2, n=100, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During"
 }

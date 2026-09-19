@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT06933173"
+    },
+    {
+      "type": "pmid",
+      "value": "19856109"
+    },
+    {
+      "type": "pmid",
+      "value": "28979166"
+    },
+    {
+      "type": "pmid",
+      "value": "34067776"
+    },
+    {
+      "type": "pmid",
+      "value": "34403043"
+    },
+    {
+      "type": "pmid",
+      "value": "36982194"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06933173 (RECRUITING), PMID:19856109, PMID:28979166, PMID:34067776, PMID:34403043, PMID:36982194. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Dynamic Neural Retraining System \u2192 ME/CFS: NCT06933173 (RECRUITING, phase=NA, n=200, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 19856109: Biofield therapies: helpful or full of hype? A best evidence synthesis.; PMID 28979166: Provoked vestibulodynia: current perspectives.; PMID 34067776: Post-COVID-19 Syndrome and the Pot"
 }

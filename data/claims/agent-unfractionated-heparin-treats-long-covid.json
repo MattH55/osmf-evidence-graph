@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT05204550"
+    },
+    {
+      "type": "pmid",
+      "value": "37076602"
+    },
+    {
+      "type": "pmid",
+      "value": "36560624"
+    },
+    {
+      "type": "pmid",
+      "value": "38649069"
+    },
+    {
+      "type": "pmid",
+      "value": "41474164"
+    },
+    {
+      "type": "pmid",
+      "value": "32201335"
+    },
+    {
+      "type": "pmid",
+      "value": "33146552"
+    },
+    {
+      "type": "pmid",
+      "value": "36695182"
+    },
+    {
+      "type": "pmid",
+      "value": "38264914"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05204550 (COMPLETED), PMID:37076602, PMID:36560624, PMID:38649069, PMID:41474164, PMID:32201335. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Wave A. Extracted 1 registry trial(s) for Unfractionated Heparin \u2192 Long COVID: NCT05204550 (COMPLETED, phase=PHASE2,PHASE3, n=506, relevant=False). No posted CT.gov results in this pass. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic.; PMID 33146552: Global Initiative for the Diagnosis, Management, a"
 }

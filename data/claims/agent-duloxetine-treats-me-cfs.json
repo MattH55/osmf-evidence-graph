@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:duloxetine",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT00375973"
+    },
+    {
+      "type": "pmid",
+      "value": "22094191"
+    },
+    {
+      "type": "pmid",
+      "value": "26267006"
+    },
+    {
+      "type": "pmid",
+      "value": "29876878"
+    },
+    {
+      "type": "pmid",
+      "value": "30223011"
+    },
+    {
+      "type": "pmid",
+      "value": "30975301"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT00375973 (COMPLETED), PMID:22094191, PMID:26267006, PMID:29876878, PMID:30223011, PMID:30975301. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Completed Phase 3+ with results flag and literature hits, but this bot did not verify positive efficacy endpoints or a multi-source clinical package \u2192 C draft (not B). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Completed Phase 3+ with results flag and literature hits, but this bot did not verify positive efficacy endpoints or a multi-source clinical package \u2192 C draft (not B). | Wave A. Extracted 1 registry trial(s) for Duloxetine \u2192 ME/CFS: NCT00375973 (COMPLETED, phase=PHASE2,PHASE3, n=60, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 22094191: Central pain mechanisms in chronic pain states--maybe it is all in their head.; PMID 26267006: Physical exercise as non-pharmacological treatment of chronic pain: Why and when.; PMID 29876878: Role of the Pref"
 }

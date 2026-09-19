@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:ct38",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT03613129"
+    },
+    {
+      "type": "pmid",
+      "value": "34539356"
+    },
+    {
+      "type": "pmid",
+      "value": "39942672"
+    },
+    {
+      "type": "pmid",
+      "value": "38256459"
+    },
+    {
+      "type": "pmid",
+      "value": "42063971"
+    },
+    {
+      "type": "pmid",
+      "value": "PMC7111423"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT03613129 (COMPLETED), PMID:34539356, PMID:39942672, PMID:38256459, PMID:42063971, PMID:PMC7111423. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical signal thin (small n or sparse pubs) \u2192 C draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical signal thin (small n or sparse pubs) \u2192 C draft. | Wave A. Extracted 1 registry trial(s) for Ct38 \u2192 ME/CFS: NCT03613129 (COMPLETED, phase=PHASE1,PHASE2, n=17, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 38256459: Advancing Research and Treatment: An Overview of Clinical Trials in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (; PMID 42063971: A unifying theory of brain signaling and its possible role in acquired chronic"
 }

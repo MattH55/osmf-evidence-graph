@@ -39,9 +39,10 @@
       "value": "NCT01154647"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05371288 (WITHDRAWN), NCT04542161 (ACTIVE_NOT_RECRUITING), NCT03502044 (UNKNOWN), NCT01154647 (UNKNOWN), PMID:41042957, PMID:41835354. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Wave B. Extracted 4 registry trial(s) for N-Acetylcysteine (NAC) \u2192 Other Post-Viral & Post-Infectious Syndromes: NCT05371288 (WITHDRAWN, phase=EARLY_PHASE1, n=0, relevant=False); NCT04542161 (ACTIVE_NOT_RECRUITING, phase=PHASE2, n=95, relevant=False); NCT03502044 (UNKNOWN, phase=NA, n=200, relevant=False); NCT01154647 (UNKNOWN, phase=NA, n=70, relevant=False). No posted CT.gov results in this pass"
 }

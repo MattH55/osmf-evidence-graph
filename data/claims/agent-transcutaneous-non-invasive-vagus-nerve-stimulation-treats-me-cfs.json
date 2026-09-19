@@ -13,11 +13,40 @@
     {
       "type": "nct",
       "value": "NCT05608629"
+    },
+    {
+      "type": "pmid",
+      "value": "37402856"
+    },
+    {
+      "type": "pmid",
+      "value": "41783176"
+    },
+    {
+      "type": "pmid",
+      "value": "29884281"
+    },
+    {
+      "type": "pmid",
+      "value": "30201788"
+    },
+    {
+      "type": "pmid",
+      "value": "33723717"
+    },
+    {
+      "type": "pmid",
+      "value": "36543841"
+    },
+    {
+      "type": "pmid",
+      "value": "37775758"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05608629 (COMPLETED), PMID:37402856, PMID:41783176, PMID:29884281, PMID:30201788, PMID:33723717. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Some completed condition-related work but phase/size/pubs too thin for C. | Wave A. Extracted 1 registry trial(s) for Transcutaneous Non-Invasive Vagus Nerve Stimulation \u2192 ME/CFS: NCT05608629 (COMPLETED, phase=NA, n=17, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 29884281: Interoception and Mental Health: A Roadmap.; PMID 30201788: Vagus Nerve Stimulation at the Interface of Brain-Gut Interactions.; PMID 33723717: Pain in Women: A Perspective Review"
 }

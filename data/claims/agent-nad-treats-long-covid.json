@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:nad",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT04604704"
+    },
+    {
+      "type": "pmid",
+      "value": "34067776"
+    },
+    {
+      "type": "pmid",
+      "value": "35874958"
+    },
+    {
+      "type": "pmid",
+      "value": "36100326"
+    },
+    {
+      "type": "pmid",
+      "value": "37907497"
+    },
+    {
+      "type": "pmid",
+      "value": "34366606"
+    },
+    {
+      "type": "pmid",
+      "value": "36050306"
+    },
+    {
+      "type": "pmid",
+      "value": "37130947"
+    },
+    {
+      "type": "pmid",
+      "value": "37451743"
+    },
+    {
+      "type": "pmid",
+      "value": "4381698"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT04604704 (COMPLETED), PMID:34067776, PMID:35874958, PMID:36100326, PMID:37907497, PMID:34366606. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nad+ \u2192 Long COVID: NCT04604704 (COMPLETED, phase=PHASE2, n=36, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34366606: Pancreatic cancer: A review of epidemiology, trend, and risk factors.; PMID 36050306: Lactate metabolism in human health and disease.; PMID 37130947: Metformin: update on mechanisms of action and repurposing"
 }

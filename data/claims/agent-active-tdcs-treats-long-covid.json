@@ -17,11 +17,36 @@
     {
       "type": "nct",
       "value": "NCT05589272"
+    },
+    {
+      "type": "pmid",
+      "value": "42325367"
+    },
+    {
+      "type": "pmid",
+      "value": "35734582"
+    },
+    {
+      "type": "pmid",
+      "value": "38378653"
+    },
+    {
+      "type": "pmid",
+      "value": "39232147"
+    },
+    {
+      "type": "pmid",
+      "value": "39326415"
+    },
+    {
+      "type": "pmid",
+      "value": "39482575"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05092516 (ACTIVE_NOT_RECRUITING), PMID:42325367, NCT05589272 (WITHDRAWN), PMID:35734582, PMID:38378653, PMID:39232147. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave A. Extracted 2 registry trial(s) for Active Tdcs \u2192 Long COVID: NCT05092516 (ACTIVE_NOT_RECRUITING, phase=NA, n=31, relevant=True); NCT05589272 (WITHDRAWN, phase=NA, n=0, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 35734582: Non-invasive brain stimulation and neuroenhancement.; PMID 38378653: Nanotechnology's frontier in combatting infectious and inflammatory diseases: p"
 }

@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:midazolam",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT04141696"
+    },
+    {
+      "type": "pmid",
+      "value": "23452057"
+    },
+    {
+      "type": "pmid",
+      "value": "24929099"
+    },
+    {
+      "type": "pmid",
+      "value": "27885969"
+    },
+    {
+      "type": "pmid",
+      "value": "28674681"
+    },
+    {
+      "type": "pmid",
+      "value": "30844399"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT04141696 (COMPLETED), PMID:23452057, PMID:24929099, PMID:27885969, PMID:28674681, PMID:30844399. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical signal thin (small n or sparse pubs) \u2192 C draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical signal thin (small n or sparse pubs) \u2192 C draft. | Wave A. Extracted 1 registry trial(s) for Midazolam \u2192 ME/CFS: NCT04141696 (COMPLETED, phase=PHASE1,PHASE2, n=10, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 23452057: Characterization of different courses of atopic dermatitis in adolescent and adult patients.; PMID 24929099: GABAA receptor-acting neurosteroids: a role in the development and regulation of the stress response."
 }

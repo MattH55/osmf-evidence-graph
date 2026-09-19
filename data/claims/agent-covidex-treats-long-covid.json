@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT06156176"
+    },
+    {
+      "type": "pmid",
+      "value": "41213692"
+    },
+    {
+      "type": "pmid",
+      "value": "35165665"
+    },
+    {
+      "type": "pmid",
+      "value": "35988361"
+    },
+    {
+      "type": "pmid",
+      "value": "36671402"
+    },
+    {
+      "type": "pmid",
+      "value": "37249533"
+    },
+    {
+      "type": "pmid",
+      "value": "37520616"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06156176 (RECRUITING), PMID:41213692, PMID:35165665, PMID:35988361, PMID:36671402, PMID:37249533. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Covidex \u2192 Long COVID: NCT06156176 (RECRUITING, phase=NA, n=60, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35165665: The Pathogenesis and Long-Term Consequences of COVID-19 Cardiac Injury.; PMID 35988361: Audiological profile of adult Long COVID patients.; PMID 36671402: Bioactivity and In Silico Studies of Isoquinoline an"
 }

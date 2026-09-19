@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:nicotinamide-riboside",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,44 @@
     {
       "type": "nct",
       "value": "NCT05703074"
+    },
+    {
+      "type": "pmid",
+      "value": "38668888"
+    },
+    {
+      "type": "pmid",
+      "value": "40536597"
+    },
+    {
+      "type": "pmid",
+      "value": "39495479"
+    },
+    {
+      "type": "pmid",
+      "value": "41008646"
+    },
+    {
+      "type": "pmid",
+      "value": "34400495"
+    },
+    {
+      "type": "pmid",
+      "value": "35282780"
+    },
+    {
+      "type": "pmid",
+      "value": "36551869"
+    },
+    {
+      "type": "pmid",
+      "value": "36625102"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT05703074 (COMPLETED), PMID:38668888, PMID:40536597, PMID:39495479, PMID:41008646, PMID:34400495. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nicotinamide Riboside \u2192 Long COVID: NCT05703074 (COMPLETED, phase=PHASE2, n=310, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34400495: Redox imbalance links COVID-19 and myalgic encephalomyelitis/chronic fatigue syndrome.; PMID 35282780: Registered clinical trials investigating treatment of long COVID: a scoping review and"
 }

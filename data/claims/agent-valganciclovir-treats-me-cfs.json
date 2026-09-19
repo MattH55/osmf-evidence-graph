@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:valganciclovir",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT00478465"
+    },
+    {
+      "type": "pmid",
+      "value": "41451409"
+    },
+    {
+      "type": "pmid",
+      "value": "19515747"
+    },
+    {
+      "type": "pmid",
+      "value": "30285773"
+    },
+    {
+      "type": "pmid",
+      "value": "31394725"
+    },
+    {
+      "type": "pmid",
+      "value": "33726557"
+    },
+    {
+      "type": "pmid",
+      "value": "36639608"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT00478465 (COMPLETED), PMID:41451409, PMID:19515747, PMID:30285773, PMID:31394725, PMID:33726557. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Valganciclovir \u2192 ME/CFS: NCT00478465 (COMPLETED, phase=PHASE1,PHASE2, n=30, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 19515747: Epstein-Barr virus-associated lymphoproliferative disease in non-immunocompromised hosts: a status report and summary of; PMID 30285773: Chronic viral infections in myalgic encephalomyelitis/chr"
 }

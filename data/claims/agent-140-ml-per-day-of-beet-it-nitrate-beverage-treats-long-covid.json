@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:140-ml-per-day-of-beet-it-nitrate-beverage",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,28 @@
     {
       "type": "nct",
       "value": "NCT05618574"
+    },
+    {
+      "type": "pmid",
+      "value": "42325367"
+    },
+    {
+      "type": "pmid",
+      "value": "15896867"
+    },
+    {
+      "type": "pmid",
+      "value": "26452528"
+    },
+    {
+      "type": "pmid",
+      "value": "PMC11208286"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05618574 (COMPLETED), PMID:42325367, PMID:15896867, PMID:26452528, PMID:PMC11208286. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical signal thin (small n or sparse pubs) \u2192 C draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical signal thin (small n or sparse pubs) \u2192 C draft. | Wave A. Extracted 1 registry trial(s) for 140 Ml Per Day Of Beet-It Nitrate Beverage \u2192 Long COVID: NCT05618574 (COMPLETED, phase=PHASE2, n=17, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 15896867: Optimising two-dye microarray designs for estimating associations with a quantitative trait.; PMID 26452528: The 29(th) Annual Symposium of the Protein Society, Barcelona, Spain, J"
 }

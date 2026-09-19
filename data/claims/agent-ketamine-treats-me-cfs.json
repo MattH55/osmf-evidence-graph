@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:ketamine",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT04141696"
+    },
+    {
+      "type": "pmid",
+      "value": "18923511"
+    },
+    {
+      "type": "pmid",
+      "value": "23644052"
+    },
+    {
+      "type": "pmid",
+      "value": "29876878"
+    },
+    {
+      "type": "pmid",
+      "value": "31379879"
+    },
+    {
+      "type": "pmid",
+      "value": "34973396"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT04141696 (COMPLETED), PMID:18923511, PMID:23644052, PMID:29876878, PMID:31379879, PMID:34973396. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical signal thin (small n or sparse pubs) \u2192 C draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical signal thin (small n or sparse pubs) \u2192 C draft. | Wave A. Extracted 1 registry trial(s) for Ketamine \u2192 ME/CFS: NCT04141696 (COMPLETED, phase=PHASE1,PHASE2, n=10, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 18923511: The molecular neurobiology of depression.; PMID 23644052: Inflammatory cytokines in depression: neurobiological mechanisms and therapeutic implications.; PMID 29876878: Role of the Prefrontal Cortex in Pain Proc"
 }

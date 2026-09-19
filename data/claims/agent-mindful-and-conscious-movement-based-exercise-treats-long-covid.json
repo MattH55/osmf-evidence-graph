@@ -13,11 +13,40 @@
     {
       "type": "nct",
       "value": "NCT06978582"
+    },
+    {
+      "type": "pmid",
+      "value": "41366804"
+    },
+    {
+      "type": "pmid",
+      "value": "41373279"
+    },
+    {
+      "type": "pmid",
+      "value": "33370924"
+    },
+    {
+      "type": "pmid",
+      "value": "33669828"
+    },
+    {
+      "type": "pmid",
+      "value": "34207970"
+    },
+    {
+      "type": "pmid",
+      "value": "34924041"
+    },
+    {
+      "type": "pmid",
+      "value": "36536802"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06978582 (ACTIVE_NOT_RECRUITING), PMID:41366804, PMID:41373279, PMID:33370924, PMID:33669828, PMID:34207970. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Mindful And Conscious Movement-Based Exercise \u2192 Long COVID: NCT06978582 (ACTIVE_NOT_RECRUITING, phase=NA, n=147, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33370924: The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management.; PMID 33669828: \"We All Really Need to just Take a Bre"
 }

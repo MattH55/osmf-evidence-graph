@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:photobiomodulation-therapy",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -17,11 +17,40 @@
     {
       "type": "nct",
       "value": "NCT06145867"
+    },
+    {
+      "type": "pmid",
+      "value": "41366804"
+    },
+    {
+      "type": "pmid",
+      "value": "40538474"
+    },
+    {
+      "type": "pmid",
+      "value": "34066560"
+    },
+    {
+      "type": "pmid",
+      "value": "36551869"
+    },
+    {
+      "type": "pmid",
+      "value": "37298527"
+    },
+    {
+      "type": "pmid",
+      "value": "38067515"
+    },
+    {
+      "type": "pmid",
+      "value": "39603702"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05760092 (COMPLETED), PMID:34066560, PMID:36551869, PMID:37298527, PMID:38067515, PMID:39603702. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical signal thin (small n or sparse pubs) \u2192 C draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical signal thin (small n or sparse pubs) \u2192 C draft. | Wave A. Extracted 1 registry trial(s) for Photobiomodulation Therapy \u2192 Long COVID: NCT05760092 (COMPLETED, phase=PHASE2, n=10, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34066560: Probiotics, Photobiomodulation, and Disease Management: Controversies and Challenges.; PMID 36551869: Understanding Long COVID; Mitochondrial Health and Adaptation-Old Pathways, New Pro"
 }

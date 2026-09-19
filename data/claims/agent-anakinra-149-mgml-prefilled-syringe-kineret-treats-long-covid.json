@@ -13,11 +13,28 @@
     {
       "type": "nct",
       "value": "NCT05926505"
+    },
+    {
+      "type": "pmid",
+      "value": "40492581"
+    },
+    {
+      "type": "pmid",
+      "value": "39599909"
+    },
+    {
+      "type": "pmid",
+      "value": "41836927"
+    },
+    {
+      "type": "pmid",
+      "value": "42325370"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05926505 (RECRUITING), PMID:40492581, PMID:39599909, PMID:41836927, PMID:42325370. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Anakinra 149 Mg/Ml Prefilled Syringe [Kineret] \u2192 Long COVID: NCT05926505 (RECRUITING, phase=PHASE2,PHASE3, n=182, relevant=True). No posted CT.gov results in this pass. Europe PMC query `(Anakinra/Ml Prefilled Syringe [Kineret]) AND (\"long COVID\" OR \"post-COVID\" OR PASC)` \u2192 1 hits. Honest bar: Preliminary claims stay D/C unless a clear multi-source clinica"
 }

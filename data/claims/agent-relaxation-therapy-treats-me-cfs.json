@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT01512342"
+    },
+    {
+      "type": "pmid",
+      "value": "28444695"
+    },
+    {
+      "type": "pmid",
+      "value": "37838675"
+    },
+    {
+      "type": "pmid",
+      "value": "26356665"
+    },
+    {
+      "type": "pmid",
+      "value": "27995604"
+    },
+    {
+      "type": "pmid",
+      "value": "17716101"
+    },
+    {
+      "type": "pmid",
+      "value": "20350028"
+    },
+    {
+      "type": "pmid",
+      "value": "23459093"
+    },
+    {
+      "type": "pmid",
+      "value": "23798298"
+    },
+    {
+      "type": "pmid",
+      "value": "28506916"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT01512342 (COMPLETED), PMID:28444695, PMID:37838675, PMID:26356665, PMID:27995604, PMID:17716101. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Label is diagnostic/behavioral/class/placebo rather than a discrete therapeutic with condition-directed efficacy evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=A Label is diagnostic/behavioral/class/placebo rather than a discrete therapeutic with condition-directed efficacy evidence. | 'Relaxation Therapy' is not a discrete disease-modifying therapeutic with dedicated efficacy literature for ME/CFS in the extracted sources (wave A). Associated registry entries appear procedural/class/placebo-related."
 }

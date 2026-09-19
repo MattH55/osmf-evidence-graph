@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT00893438"
+    },
+    {
+      "type": "pmid",
+      "value": "26510728"
+    },
+    {
+      "type": "pmid",
+      "value": "21333021"
+    },
+    {
+      "type": "pmid",
+      "value": "22385683"
+    },
+    {
+      "type": "pmid",
+      "value": "23669515"
+    },
+    {
+      "type": "pmid",
+      "value": "31906979"
+    },
+    {
+      "type": "pmid",
+      "value": "35628033"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT00893438 (COMPLETED), PMID:26510728, PMID:21333021, PMID:22385683, PMID:23669515, PMID:31906979. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Some completed condition-related work but phase/size/pubs too thin for C. | Wave B. Extracted 1 registry trial(s) for Fitnet Treatment \u2192 ME/CFS: NCT00893438 (COMPLETED, phase=NA, n=135, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 22385683: Effectiveness of internet-based cognitive behavioural treatment for adolescents with chronic fatigue syndrome (FITNET): ; PMID 23669515: Internet-based therapy for adolescents with chronic fatigue syndr"
 }

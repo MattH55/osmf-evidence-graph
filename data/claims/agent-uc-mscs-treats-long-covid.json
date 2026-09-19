@@ -13,11 +13,48 @@
     {
       "type": "nct",
       "value": "NCT05719012"
+    },
+    {
+      "type": "pmid",
+      "value": "38455096"
+    },
+    {
+      "type": "pmid",
+      "value": "37395459"
+    },
+    {
+      "type": "pmid",
+      "value": "38005826"
+    },
+    {
+      "type": "pmid",
+      "value": "41488628"
+    },
+    {
+      "type": "pmid",
+      "value": "32944185"
+    },
+    {
+      "type": "pmid",
+      "value": "35787632"
+    },
+    {
+      "type": "pmid",
+      "value": "36920396"
+    },
+    {
+      "type": "pmid",
+      "value": "37458437"
+    },
+    {
+      "type": "pmid",
+      "value": "38378653"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05719012 (WITHDRAWN), PMID:38455096, PMID:37395459, PMID:38005826, PMID:41488628, PMID:32944185. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=B Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Wave B. Extracted 1 registry trial(s) for Uc-Mscs \u2192 Long COVID: NCT05719012 (WITHDRAWN, phase=PHASE2, n=0, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 32944185: Systematic review of extracellular vesicle-based treatments for lung injury: are EVs a potential therapy for COVID-19?; PMID 35787632: Mesenchymal stem cell-derived extracellular vesicles for immunomodulat"
 }

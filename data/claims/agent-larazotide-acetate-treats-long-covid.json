@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:larazotide-acetate",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,44 @@
     {
       "type": "nct",
       "value": "NCT05747534"
+    },
+    {
+      "type": "pmid",
+      "value": "39947217"
+    },
+    {
+      "type": "pmid",
+      "value": "40529374"
+    },
+    {
+      "type": "pmid",
+      "value": "42325367"
+    },
+    {
+      "type": "pmid",
+      "value": "35727635"
+    },
+    {
+      "type": "pmid",
+      "value": "35868344"
+    },
+    {
+      "type": "pmid",
+      "value": "36476388"
+    },
+    {
+      "type": "pmid",
+      "value": "39326415"
+    },
+    {
+      "type": "pmid",
+      "value": "39774607"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT05747534 (COMPLETED), PMID:39947217, PMID:40529374, PMID:42325367, PMID:35727635, PMID:35868344. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Larazotide Acetate \u2192 Long COVID: NCT05747534 (COMPLETED, phase=PHASE2, n=107, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35727635: Markers of fungal translocation are elevated during post-acute sequelae of SARS-CoV-2 and induce NF-\u03baB signaling.; PMID 35868344: Gut-brain communication in COVID-19: molecular mechanisms, med"
 }

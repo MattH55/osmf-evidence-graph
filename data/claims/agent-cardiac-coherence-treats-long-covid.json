@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT05851859"
+    },
+    {
+      "type": "pmid",
+      "value": "32529595"
+    },
+    {
+      "type": "pmid",
+      "value": "34425522"
+    },
+    {
+      "type": "pmid",
+      "value": "36456834"
+    },
+    {
+      "type": "pmid",
+      "value": "38123343"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05851859 (RECRUITING), PMID:32529595, PMID:34425522, PMID:36456834, PMID:38123343, PMID:39866113. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Cardiac Coherence \u2192 Long COVID: NCT05851859 (RECRUITING, phase=NA, n=200, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 32529595: Post-COVID-19 global health strategies: the need for an interdisciplinary approach.; PMID 34425522: Long Covid - The illness narratives.; PMID 36456834: Data-driven identification of post-acute SA"
 }

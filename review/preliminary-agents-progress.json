@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-09-19T18:13:34Z",
+  "phase": "done",
+  "total": 555,
+  "tiers": {
+    "C": 47,
+    "D": 508
+  },
+  "status": {
+    "draft": 516,
+    "published": 39
+  },
+  "waves": {
+    "A": 83,
+    "B": 472
+  },
+  "published": 39,
+  "tiers_before": {
+    "D": 555
+  },
+  "status_before": {
+    "draft": 555
+  },
+  "tiers_after": {
+    "C": 47,
+    "D": 508
+  }
+}

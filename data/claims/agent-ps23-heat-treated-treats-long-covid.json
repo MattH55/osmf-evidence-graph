@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT05813899"
+    },
+    {
+      "type": "pmid",
+      "value": "38611624"
+    },
+    {
+      "type": "pmid",
+      "value": "41663412"
+    },
+    {
+      "type": "pmid",
+      "value": "36171639"
+    },
+    {
+      "type": "pmid",
+      "value": "37915105"
+    },
+    {
+      "type": "pmid",
+      "value": "41598223"
+    },
+    {
+      "type": "pmid",
+      "value": "PMC12532101"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05813899 (TERMINATED), PMID:38611624, PMID:41663412, PMID:36171639, PMID:37915105, PMID:41598223. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=B Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Wave B. Extracted 1 registry trial(s) for Ps23 Heat-Treated \u2192 Long COVID: NCT05813899 (TERMINATED, phase=NA, n=39, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 36171639: Abstracts of Scientific Presentations: 2022 AALAS National Meeting Louisville, Kentucky.; PMID 37915105: Abstracts of Scientific Presentations: 2023 AALAS National Meeting, Salt Lake City, Utah.; P"
 }

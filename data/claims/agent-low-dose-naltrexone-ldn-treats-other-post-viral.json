@@ -23,9 +23,10 @@
       "value": "NCT07285473"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06366724 (RECRUITING), NCT07285473 (NOT_YET_RECRUITING), PMID:42060160. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Linked NCT(s) do not clearly target the claim condition (off-target / acute / unrelated). | Wave B. Extracted 2 registry trial(s) for Low-Dose Naltrexone (LDN) \u2192 Other Post-Viral & Post-Infectious Syndromes: NCT06366724 (RECRUITING, phase=PHASE2, n=160, relevant=False); NCT07285473 (NOT_YET_RECRUITING, phase=PHASE2, n=75, relevant=False). No posted CT.gov results in this pass. Literature notes: PMID 42060160: Low-Dose Naltrexone: What is the Evidence? A Narrative Review.. No agent+condit"
 }

@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT05918978"
+    },
+    {
+      "type": "pmid",
+      "value": "40156757"
+    },
+    {
+      "type": "pmid",
+      "value": "39189008"
+    },
+    {
+      "type": "pmid",
+      "value": "33802650"
+    },
+    {
+      "type": "pmid",
+      "value": "37396922"
+    },
+    {
+      "type": "pmid",
+      "value": "38617189"
+    },
+    {
+      "type": "pmid",
+      "value": "39736771"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05918978 (TERMINATED), PMID:40156757, PMID:39189008, PMID:33802650, PMID:37396922, PMID:38617189. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=A Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Wave A. Extracted 1 registry trial(s) for Efgartigimod \u2192 Long COVID: NCT05918978 (TERMINATED, phase=PHASE2, n=33, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33802650: In Translation: FcRn across the Therapeutic Spectrum.; PMID 37396922: Fighting Post-COVID and ME/CFS - development of curative therapies.; PMID 38617189: Structure and function of therapeutic antibodies approv"
 }

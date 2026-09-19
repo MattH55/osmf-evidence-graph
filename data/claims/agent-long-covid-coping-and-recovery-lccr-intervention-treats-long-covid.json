@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT05453201"
+    },
+    {
+      "type": "pmid",
+      "value": "PPR671900"
+    },
+    {
+      "type": "pmid",
+      "value": "32536736"
+    },
+    {
+      "type": "pmid",
+      "value": "33909761"
+    },
+    {
+      "type": "pmid",
+      "value": "34505369"
+    },
+    {
+      "type": "pmid",
+      "value": "34818601"
+    },
+    {
+      "type": "pmid",
+      "value": "39866113"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05453201 (COMPLETED), PMID:PPR671900, PMID:32536736, PMID:33909761, PMID:34505369, PMID:34818601. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Some completed condition-related work but phase/size/pubs too thin for C. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Some completed condition-related work but phase/size/pubs too thin for C. | Wave A. Extracted 1 registry trial(s) for Long Covid Coping And Recovery (Lccr) Intervention \u2192 Long COVID: NCT05453201 (COMPLETED, phase=NA, n=22, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 32536736: Effects of COVID-19 on business and research.; PMID 33909761: Brazilian Guidelines of Hypertension - 2020.; PMID 34505369: The growing field of digital psychiatry: current evid"
 }

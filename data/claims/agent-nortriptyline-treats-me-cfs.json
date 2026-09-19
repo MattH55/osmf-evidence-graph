@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:nortriptyline",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,44 @@
     {
       "type": "nct",
       "value": "NCT03844412"
+    },
+    {
+      "type": "pmid",
+      "value": "32478052"
+    },
+    {
+      "type": "pmid",
+      "value": "38984334"
+    },
+    {
+      "type": "pmid",
+      "value": "36269028"
+    },
+    {
+      "type": "pmid",
+      "value": "17488783"
+    },
+    {
+      "type": "pmid",
+      "value": "23644052"
+    },
+    {
+      "type": "pmid",
+      "value": "26357876"
+    },
+    {
+      "type": "pmid",
+      "value": "27480574"
+    },
+    {
+      "type": "pmid",
+      "value": "31379879"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT03844412 (COMPLETED), PMID:32478052, PMID:38984334, PMID:36269028, PMID:17488783, PMID:23644052. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nortriptyline \u2192 ME/CFS: NCT03844412 (COMPLETED, phase=PHASE2, n=209, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 17488783: Guidelines on the irritable bowel syndrome: mechanisms and practical management.; PMID 23644052: Inflammatory cytokines in depression: neurobiological mechanisms and therapeutic implications.; PMID 26357876: Infl"
 }

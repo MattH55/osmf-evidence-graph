@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:ivabradine-coordinated-care",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,44 @@
     {
       "type": "nct",
       "value": "NCT06305780"
+    },
+    {
+      "type": "pmid",
+      "value": "41836927"
+    },
+    {
+      "type": "pmid",
+      "value": "42325367"
+    },
+    {
+      "type": "pmid",
+      "value": "41720282"
+    },
+    {
+      "type": "pmid",
+      "value": "34069603"
+    },
+    {
+      "type": "pmid",
+      "value": "34607799"
+    },
+    {
+      "type": "pmid",
+      "value": "35720084"
+    },
+    {
+      "type": "pmid",
+      "value": "36969241"
+    },
+    {
+      "type": "pmid",
+      "value": "37030518"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
-  "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "limitations": "Key refs: NCT06305780 (COMPLETED), PMID:41836927, PMID:42325367, PMID:41720282, PMID:34069603, PMID:34607799. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "status": "published",
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Ivabradine + Coordinated Care \u2192 Long COVID: NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 34069603: European Network on Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (EUROMENE): Expert Consensus on the Diagnosis, Se; PMID 34607799: Recommendations for the recognition, diagnosis, and man"
 }

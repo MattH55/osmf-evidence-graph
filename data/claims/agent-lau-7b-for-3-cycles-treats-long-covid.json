@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:lau-7b-for-3-cycles",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "D",
+  "evidence_tier": "C",
   "sources": [
     {
       "type": "osmf_page",
@@ -13,11 +13,40 @@
     {
       "type": "nct",
       "value": "NCT05999435"
+    },
+    {
+      "type": "pmid",
+      "value": "39947217"
+    },
+    {
+      "type": "pmid",
+      "value": "40559563"
+    },
+    {
+      "type": "pmid",
+      "value": "42325367"
+    },
+    {
+      "type": "pmid",
+      "value": "33313986"
+    },
+    {
+      "type": "pmid",
+      "value": "35084716"
+    },
+    {
+      "type": "pmid",
+      "value": "35920845"
+    },
+    {
+      "type": "pmid",
+      "value": "36599369"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05999435 (COMPLETED), PMID:39947217, PMID:40559563, PMID:42325367, PMID:33313986, PMID:35084716. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Completed Phase 3+ with results flag and literature hits, but this bot did not verify positive efficacy endpoints or a multi-source clinical package \u2192 C draft (not B). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=A Completed Phase 3+ with results flag and literature hits, but this bot did not verify positive efficacy endpoints or a multi-source clinical package \u2192 C draft (not B). | Wave A. Extracted 1 registry trial(s) for Lau-7B For 3 Cycles \u2192 Long COVID: NCT05999435 (COMPLETED, phase=PHASE2,PHASE3, n=272, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33313986: ESICM LIVES 2020.; PMID 35084716: Multiomics Analysis-Based Biomarkers in Diagnosis of Polycystic Ovary Syndrome.; PMID 35920845: 58<sup>th</sup> EASD Annual Meeting of the European Association f"
 }

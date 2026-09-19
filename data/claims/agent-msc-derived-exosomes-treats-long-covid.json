@@ -13,11 +13,40 @@
     {
       "type": "nct",
       "value": "NCT05808400"
+    },
+    {
+      "type": "pmid",
+      "value": "38212307"
+    },
+    {
+      "type": "pmid",
+      "value": "38378653"
+    },
+    {
+      "type": "pmid",
+      "value": "37907497"
+    },
+    {
+      "type": "pmid",
+      "value": "38957857"
+    },
+    {
+      "type": "pmid",
+      "value": "35787632"
+    },
+    {
+      "type": "pmid",
+      "value": "35927511"
+    },
+    {
+      "type": "pmid",
+      "value": "38152837"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05808400 (UNKNOWN), PMID:38212307, PMID:38378653, PMID:37907497, PMID:38957857, PMID:35787632. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Insufficient extracted clinical evidence for the agent\u2013condition pair (Preliminary tracker level). | Wave B. Extracted 1 registry trial(s) for Msc-Derived Exosomes \u2192 Long COVID: NCT05808400 (UNKNOWN, phase=EARLY_PHASE1, n=80, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35787632: Mesenchymal stem cell-derived extracellular vesicles for immunomodulation and regeneration: a next generation therapeuti; PMID 35927511: The roles of extracellular vesicles in the immune "
 }

@@ -13,11 +13,40 @@
     {
       "type": "nct",
       "value": "NCT05096884"
+    },
+    {
+      "type": "pmid",
+      "value": "37907497"
+    },
+    {
+      "type": "pmid",
+      "value": "36969241"
+    },
+    {
+      "type": "pmid",
+      "value": "36349400"
+    },
+    {
+      "type": "pmid",
+      "value": "37344737"
+    },
+    {
+      "type": "pmid",
+      "value": "35291413"
+    },
+    {
+      "type": "pmid",
+      "value": "35660931"
+    },
+    {
+      "type": "pmid",
+      "value": "36074973"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT05096884 (TERMINATED), PMID:37907497, PMID:36969241, PMID:36349400, PMID:37344737, PMID:35291413. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=A Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Wave A. Extracted 1 registry trial(s) for Metoprolol Succinate \u2192 Long COVID: NCT05096884 (TERMINATED, phase=EARLY_PHASE1, n=14, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 35291413: Development of myocarditis and pericarditis after COVID-19 vaccination in adult population: A systematic review.; PMID 35660931: Global reports of myocarditis following COVID-19 vaccination: A sy"
 }

@@ -13,11 +13,36 @@
     {
       "type": "nct",
       "value": "NCT06739720"
+    },
+    {
+      "type": "pmid",
+      "value": "41558017"
+    },
+    {
+      "type": "pmid",
+      "value": "33343675"
+    },
+    {
+      "type": "pmid",
+      "value": "36249791"
+    },
+    {
+      "type": "pmid",
+      "value": "37942489"
+    },
+    {
+      "type": "pmid",
+      "value": "40421417"
+    },
+    {
+      "type": "pmid",
+      "value": "42015778"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06739720 (NOT_YET_RECRUITING), PMID:41558017, PMID:33343675, PMID:36249791, PMID:37942489, PMID:40421417. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[medium] wave=B Only ongoing/not-completed trials and no posted results; Preliminary \u2192 D draft. | Wave B. Extracted 1 registry trial(s) for Lingzhi Capsule \u2192 ME/CFS: NCT06739720 (NOT_YET_RECRUITING, phase=PHASE2,PHASE3, n=130, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33343675: Advances in Clinical Research on Traditional Chinese Medicine Treatment of Chronic Fatigue Syndrome.; PMID 36249791: Chinese herbal medicine for the treatment of chronic fatigue syndr"
 }

@@ -13,11 +13,32 @@
     {
       "type": "nct",
       "value": "NCT06113679"
+    },
+    {
+      "type": "pmid",
+      "value": "33971585"
+    },
+    {
+      "type": "pmid",
+      "value": "35237749"
+    },
+    {
+      "type": "pmid",
+      "value": "35401574"
+    },
+    {
+      "type": "pmid",
+      "value": "37175995"
+    },
+    {
+      "type": "pmid",
+      "value": "40465195"
     }
   ],
-  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "limitations": "Key refs: NCT06113679 (TERMINATED), PMID:33971585, PMID:35237749, PMID:35401574, PMID:37175995, PMID:40465195. Evaluated from extracted references on 2026-09-19 (Preliminary wave B); not a systematic review. Trial(s) terminated/withdrawn or no completed condition-relevant evidence. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "draft",
-  "reviewed_by": "tracker-import-bot",
-  "reviewed_at": "2026-09-19T17:04:30.227Z",
-  "license": "CC-BY-4.0"
+  "reviewed_by": "evidence-eval-bot",
+  "reviewed_at": "2026-09-19T18:13:34Z",
+  "license": "CC-BY-4.0",
+  "confidence_notes": "[high] wave=B Trial(s) terminated/withdrawn or no completed condition-relevant evidence. | Wave B. Extracted 1 registry trial(s) for Rdx-19 \u2192 Long COVID: NCT06113679 (TERMINATED, phase=NA, n=41, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33971585: An autoantigen profile of human A549 lung cells reveals viral and host etiologic molecular attributes of autoimmunity in; PMID 35237749: A master autoantigen-ome links alternative splicing, female predilectio"
 }
