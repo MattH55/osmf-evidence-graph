@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:guanidinoacetic-acid",
+  "type": "agent",
+  "label": "Guanidinoacetic Acid",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Guanidinoacetic%20Acid",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Guanidinoacetic%20Acid"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/guanidinoacetic-acid/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

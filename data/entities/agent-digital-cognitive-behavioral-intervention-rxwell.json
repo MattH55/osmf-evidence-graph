@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:digital-cognitive-behavioral-intervention-rxwell",
+  "type": "agent",
+  "label": "Digital Cognitive Behavioral Intervention-Rxwell",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Other Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Digital%20Cognitive%20Behavioral%20Intervention-Rxwell",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Digital%20Cognitive%20Behavioral%20Intervention-Rxwell"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/digital-cognitive-behavioral-intervention-rxwell/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

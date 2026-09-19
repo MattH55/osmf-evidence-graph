@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:to-measure-levels-of-circulating-monocyte-t-cell-doublets-after-28-days-of-2-hoba-treatment",
+  "type": "agent",
+  "label": "To Measure Levels Of Circulating Monocyte/ T Cell Doublets After 28 Days Of 2 Hoba Treatment",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Immunomodulatory, Neurological / Autonomic, Sponsor Type: Other Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=To%20Measure%20Levels%20Of%20Circulating%20Monocyte%2F%20T%20Cell%20Doublets%20After%2028%20Days%20Of%202%20Hoba%20Treatment",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=To%20Measure%20Levels%20Of%20Circulating%20Monocyte%2F%20T%20Cell%20Doublets%20After%2028%20Days%20Of%202%20Hoba%20Treatment"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/to-measure-levels-of-circulating-monocyte-t-cell-doublets-after-28-days-of-2-hoba-treatment/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

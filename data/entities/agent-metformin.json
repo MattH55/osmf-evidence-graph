@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:metformin",
+  "type": "agent",
+  "label": "Metformin",
+  "aliases": [],
+  "summary": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Metabolic / Mitochondrial Prevention signal strong; treatment data mixed/preliminary. 500-2000mg. GI effects, B12. Reasonable metabolic adjunct in overweight PASC patients. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/compound/4091",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/4091"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/metformin/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

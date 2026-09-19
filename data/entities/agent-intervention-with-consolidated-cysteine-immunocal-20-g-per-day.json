@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:intervention-with-consolidated-cysteine-immunocal-20-g-per-day",
+  "type": "agent",
+  "label": "Intervention With Consolidated Cysteine (Immunocal) 20 G Per Day",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Other Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Intervention%20With%20Consolidated%20Cysteine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Intervention%20With%20Consolidated%20Cysteine"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/candidate-therapeutics.html"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

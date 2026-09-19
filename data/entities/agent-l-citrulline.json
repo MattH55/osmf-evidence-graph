@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:l-citrulline",
+  "type": "agent",
+  "label": "L-Citrulline",
+  "aliases": [],
+  "summary": "Not specified Depletion data + superior plasma arginine raising vs arginine alone. No dedicated PASC RCT. 3-6g/day studied in other contexts. May support nitric oxide / vascular function. Low risk OTC option for POTS/vascular phenotypes. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Citrulline",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Citrulline"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/l-citrulline/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

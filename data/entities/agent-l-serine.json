@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:l-serine",
+  "type": "agent",
+  "label": "L-Serine",
+  "aliases": [],
+  "summary": "Not specified Depleted in PASC, correlates with neuropsych symptoms; D-serine benefits cognition in healthy. No PASC RCT. 1-3g/day exploratory. Low risk; potential for cognitive phenotypes. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Serine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=L-Serine"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/l-serine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

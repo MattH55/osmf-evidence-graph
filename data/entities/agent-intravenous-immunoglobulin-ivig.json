@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:intravenous-immunoglobulin-ivig",
+  "type": "agent",
+  "label": "Intravenous Immunoglobulin (IVIG)",
+  "aliases": [],
+  "summary": "Anti-inflammatory, Enrollment: Actual, Immunomodulatory, Neurological / Autonomic Investigational for listed conditions. 2 associated trial(s) and 5 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Intravenous%20Immunoglobulin",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Intravenous%20Immunoglobulin"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/intravenous-immunoglobulin-ivig/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

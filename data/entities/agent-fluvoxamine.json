@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:fluvoxamine",
+  "type": "agent",
+  "label": "Fluvoxamine",
+  "aliases": [],
+  "summary": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Other Sigma-1 + SSRI; early COVID + some Long COVID data. 50-100mg. CYP interactions, GI/insomnia. Preliminary for select symptoms; not core fatigue/autonomic first choice. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/compound/3406",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/3406"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/fluvoxamine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

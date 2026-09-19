@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:rituximab",
+  "type": "agent",
+  "label": "Rituximab",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Enrollment: Estimated, Sponsor Type: Other, Unknown / General Anti-CD20 studied in ME/CFS (mixed prior). Several trials. Serious infection risk. Specialist use only for clear autoimmune subsets. 5 trial associations. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/compound/5104",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5104"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/rituximab/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

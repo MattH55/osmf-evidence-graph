@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:ketotifen",
+  "type": "agent",
+  "label": "Ketotifen",
+  "aliases": [],
+  "summary": "Not specified Dual H1 + mast cell stabilizer. Long track record; obs MCAS series. 1-2mg BID. 4-8wk to effect. When H1 alone insufficient. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Ketotifen",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Ketotifen"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/ketotifen/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

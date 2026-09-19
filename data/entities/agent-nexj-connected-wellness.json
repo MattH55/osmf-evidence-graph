@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:nexj-connected-wellness",
+  "type": "agent",
+  "label": "Nexj Connected Wellness",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Nexj%20Connected%20Wellness",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Nexj%20Connected%20Wellness"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/nexj-connected-wellness/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

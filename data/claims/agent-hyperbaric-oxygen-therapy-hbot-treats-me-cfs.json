@@ -1,0 +1,43 @@
+{
+  "id": "osmf:claim:agent-hyperbaric-oxygen-therapy-hbot-treats-me-cfs",
+  "subject_id": "osmf:agent:hyperbaric-oxygen-therapy-hbot",
+  "predicate": "treats_candidate_for",
+  "object_id": "osmf:condition:me-cfs",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/agents/hyperbaric-oxygen-therapy-hbot/",
+      "label": "OSMF Research Tracker (therapeutic agent)"
+    },
+    {
+      "type": "pmid",
+      "value": "42249466"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06452095"
+    },
+    {
+      "type": "nct",
+      "value": "NCT04842448"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06267300"
+    },
+    {
+      "type": "nct",
+      "value": "NCT04905888"
+    },
+    {
+      "type": "nct",
+      "value": "NCT07621068"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:04:30.227Z",
+  "license": "CC-BY-4.0"
+}

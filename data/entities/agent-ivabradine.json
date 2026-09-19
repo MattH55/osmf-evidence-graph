@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:ivabradine",
+  "type": "agent",
+  "label": "Ivabradine",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Enrollment: Estimated, Neurological / Autonomic, Sponsor Type: Fed Observational success ~55% + nested COVIVA RCT. Selective HR reduction without beta effects. 2.5-7.5mg BID. Visual side effects possible. Strong for hyperadrenergic POTS/IST phenotypes. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/compound/132999",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/132999"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/ivabradine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

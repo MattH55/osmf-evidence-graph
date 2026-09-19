@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:tirzepatide",
+  "type": "agent",
+  "label": "Tirzepatide",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General GLP-1/GIP agonist early Long COVID trials (metabolic/anti-inflammatory). Weekly titrated injection. GI side effects, cost. May benefit overweight subsets. Very early. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Tirzepatide",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Tirzepatide"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/tirzepatide/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

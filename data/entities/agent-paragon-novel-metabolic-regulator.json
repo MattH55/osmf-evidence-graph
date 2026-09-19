@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:paragon-novel-metabolic-regulator",
+  "type": "agent",
+  "label": "Paragon Novel Metabolic Regulator",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Metabolic / Mitochondrial, Sponsor Type: Industry Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Paragon%20Novel%20Metabolic%20Regulator",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Paragon%20Novel%20Metabolic%20Regulator"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/paragon-novel-metabolic-regulator/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

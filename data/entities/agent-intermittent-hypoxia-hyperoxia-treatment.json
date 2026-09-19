@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:intermittent-hypoxia-hyperoxia-treatment",
+  "type": "agent",
+  "label": "Intermittent Hypoxia-Hyperoxia Treatment",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Metabolic / Mitochondrial, Neurological / Autonomic, Sponsor Type: Other Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Intermittent%20Hypoxia-Hyperoxia%20Treatment",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Intermittent%20Hypoxia-Hyperoxia%20Treatment"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/intermittent-hypoxia-hyperoxia-treatment/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

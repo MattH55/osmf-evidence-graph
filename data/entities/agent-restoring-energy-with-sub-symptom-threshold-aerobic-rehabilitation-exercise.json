@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:restoring-energy-with-sub-symptom-threshold-aerobic-rehabilitation-exercise",
+  "type": "agent",
+  "label": "Restoring Energy With Sub-Symptom Threshold Aerobic Rehabilitation Exercise",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Metabolic / Mitochondrial, Sponsor Type: Other Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Restoring%20Energy%20With%20Sub-Symptom%20Threshold%20Aerobic%20Rehabilitation%20Exercise",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Restoring%20Energy%20With%20Sub-Symptom%20Threshold%20Aerobic%20Rehabilitation%20Exercise"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/restoring-energy-with-sub-symptom-threshold-aerobic-rehabilitation-exercise/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

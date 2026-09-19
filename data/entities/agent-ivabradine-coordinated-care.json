@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:ivabradine-coordinated-care",
+  "type": "agent",
+  "label": "Ivabradine + Coordinated Care",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Other Ivabradine + pacing/PT/autonomic rehab. Synergistic for POTS recovery. Multidisciplinary approach important. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Ivabradine%20%2B%20Coordinated%20Care",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Ivabradine%20%2B%20Coordinated%20Care"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/ivabradine-coordinated-care/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

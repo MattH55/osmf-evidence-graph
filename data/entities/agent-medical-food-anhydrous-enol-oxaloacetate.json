@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:medical-food-anhydrous-enol-oxaloacetate",
+  "type": "agent",
+  "label": "Medical Food - Anhydrous Enol-Oxaloacetate",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Industry, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Medical%20Food%20-%20Anhydrous%20Enol-Oxaloacetate",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Medical%20Food%20-%20Anhydrous%20Enol-Oxaloacetate"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/medical-food-anhydrous-enol-oxaloacetate/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

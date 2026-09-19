@@ -1,0 +1,35 @@
+{
+  "id": "osmf:claim:agent-fluvoxamine-treats-me-cfs",
+  "subject_id": "osmf:agent:fluvoxamine",
+  "predicate": "treats_candidate_for",
+  "object_id": "osmf:condition:me-cfs",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/agents/fluvoxamine/",
+      "label": "OSMF Research Tracker (therapeutic agent)"
+    },
+    {
+      "type": "nct",
+      "value": "NCT05874037"
+    },
+    {
+      "type": "nct",
+      "value": "NCT07359482"
+    },
+    {
+      "type": "nct",
+      "value": "NCT04510194"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06128967"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:04:30.227Z",
+  "license": "CC-BY-4.0"
+}

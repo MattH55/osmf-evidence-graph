@@ -15,8 +15,19 @@
   "counts": {
     "conditions": 8,
     "papers": 535,
-    "claims": 544
+    "claims": 544,
+    "agents": 596,
+    "agent_claims": 643
   },
   "missing_html": [],
-  "notes": "Provisional auto-import from Research Tracker PubMed feeds. Grades are not human-curated. Agents and clinical_trials deferred."
+  "notes": "Provisional auto-import from Research Tracker PubMed feeds. Grades are not human-curated. Agents and clinical_trials deferred.",
+  "agents_imported_at": "2026-09-19T17:04:30.227Z",
+  "agents_import_date": "2026-09-19",
+  "agent_import": {
+    "source": "data/therapeutic_agents.json",
+    "linked_agent_pages": 585,
+    "fallback_urls": 11,
+    "unknown_conditions": {},
+    "notes": "treats_candidate_for claims are draft; Evidence Level mapped Moderate→C, Preliminary/Anecdotal→D. No A/B. No dosing copied as advice. clinical_trials bulk JSON not imported."
+  }
 }

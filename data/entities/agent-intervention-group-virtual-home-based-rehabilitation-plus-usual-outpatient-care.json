@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:intervention-group-virtual-home-based-rehabilitation-plus-usual-outpatient-care",
+  "type": "agent",
+  "label": "Intervention Group: Virtual Home-Based Rehabilitation Plus Usual Outpatient Care",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Intervention%20Group%3A%20Virtual%20Home-Based%20Rehabilitation%20Plus%20Usual%20Outpatient%20Care",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Intervention%20Group%3A%20Virtual%20Home-Based%20Rehabilitation%20Plus%20Usual%20Outpatient%20Care"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/intervention-group-virtual-home-based-rehabilitation-plus-usual-outpatient-care/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

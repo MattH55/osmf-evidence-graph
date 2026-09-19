@@ -1,0 +1,51 @@
+{
+  "id": "osmf:claim:agent-paxlovid-nirmatrelvir-ritonavir-treats-long-covid",
+  "subject_id": "osmf:agent:paxlovid-nirmatrelvir-ritonavir",
+  "predicate": "treats_candidate_for",
+  "object_id": "osmf:condition:long-covid",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/agents/paxlovid-nirmatrelvir-ritonavir/",
+      "label": "OSMF Research Tracker (therapeutic agent)"
+    },
+    {
+      "type": "pmid",
+      "value": "42406565"
+    },
+    {
+      "type": "pmid",
+      "value": "42402140"
+    },
+    {
+      "type": "nct",
+      "value": "NCT07597902"
+    },
+    {
+      "type": "nct",
+      "value": "NCT05965726"
+    },
+    {
+      "type": "nct",
+      "value": "NCT05595369"
+    },
+    {
+      "type": "nct",
+      "value": "NCT05852873"
+    },
+    {
+      "type": "nct",
+      "value": "NCT05576662"
+    },
+    {
+      "type": "nct",
+      "value": "NCT06441955"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker therapeutic_agents.json. Evidence Level is tracker metadata, not an OSMF curator grade. Not medical advice; Desk does not provide dosing. Inclusion as a treats_candidate_for claim does not imply efficacy, safety, or clinical recommendation.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:04:30.227Z",
+  "license": "CC-BY-4.0"
+}

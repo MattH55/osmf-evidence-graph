@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:posture-study-autonomic-function-tests-and-a-stress-test",
+  "type": "agent",
+  "label": "Posture Study, Autonomic Function Tests, And A Stress Test",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Neurological / Autonomic, Sponsor Type: Other Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Posture%20Study%2C%20Autonomic%20Function%20Tests%2C%20And%20A%20Stress%20Test",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Posture%20Study%2C%20Autonomic%20Function%20Tests%2C%20And%20A%20Stress%20Test"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/posture-study-autonomic-function-tests-and-a-stress-test/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

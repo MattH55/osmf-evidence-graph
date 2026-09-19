@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:n-acetylcysteine-nac",
+  "type": "agent",
+  "label": "N-Acetylcysteine (NAC)",
+  "aliases": [],
+  "summary": "Anti-inflammatory, Enrollment: Actual, Enrollment: Estimated, Immunomodulatory NAC 600-1800mg/day. Glutathione/antioxidant support; studied for fatigue/oxidative stress in Long COVID/ME-CFS. Good safety profile; small positive studies. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/compound/12035",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/12035"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/n-acetylcysteine-nac/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

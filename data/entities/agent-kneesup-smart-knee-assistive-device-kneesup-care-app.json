@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:kneesup-smart-knee-assistive-device-kneesup-care-app",
+  "type": "agent",
+  "label": "Kneesup Smart Knee Assistive Device + Kneesup Care App",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Kneesup%20Smart%20Knee%20Assistive%20Device%20%2B%20Kneesup%20Care%20App",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Kneesup%20Smart%20Knee%20Assistive%20Device%20%2B%20Kneesup%20Care%20App"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/kneesup-smart-knee-assistive-device-kneesup-care-app/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:taurine",
+  "type": "agent",
+  "label": "Taurine",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Plasma levels inversely correlated with PASC severity. 1-3g/day raises levels. Mitochondrial + NF-kB rationale. Safe; may help energy/autonomic symptoms. Good mechanistic support, limited direct trials. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Taurine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Taurine"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/taurine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

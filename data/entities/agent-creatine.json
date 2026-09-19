@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:creatine",
+  "type": "agent",
+  "label": "Creatine",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Other, Unknown / General Creatine monohydrate 5g daily. RCT evidence (d~1) for mental fatigue and concentration in PASC. Mitochondrial support. Safe for most; monitor renal and fluid retention. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Creatine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Creatine"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/creatine/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

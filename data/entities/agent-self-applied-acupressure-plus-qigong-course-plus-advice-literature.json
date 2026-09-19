@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:self-applied-acupressure-plus-qigong-course-plus-advice-literature",
+  "type": "agent",
+  "label": "Self- Applied Acupressure Plus Qigong Course Plus Advice Literature",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Self-%20Applied%20Acupressure%20Plus%20Qigong%20Course%20Plus%20Advice%20Literature",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Self-%20Applied%20Acupressure%20Plus%20Qigong%20Course%20Plus%20Advice%20Literature"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/self-applied-acupressure-plus-qigong-course-plus-advice-literature/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

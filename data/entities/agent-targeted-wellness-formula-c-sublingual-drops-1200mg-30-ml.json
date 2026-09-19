@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:targeted-wellness-formula-c-sublingual-drops-1200mg-30-ml",
+  "type": "agent",
+  "label": "Targeted Wellness Formula C™ Sublingual Drops - 1200Mg - 30 Ml",
+  "aliases": [],
+  "summary": "Enrollment: Actual, Sponsor Type: Industry, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Targeted%20Wellness%20Formula%20C%E2%84%A2%20Sublingual%20Drops%20-%201200Mg%20-%2030%20Ml",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Targeted%20Wellness%20Formula%20C%E2%84%A2%20Sublingual%20Drops%20-%201200Mg%20-%2030%20Ml"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/candidate-therapeutics.html"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}

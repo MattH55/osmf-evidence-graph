@@ -1,0 +1,22 @@
+{
+  "id": "osmf:agent:psychological-tests-eeg-magnetic-resonance",
+  "type": "agent",
+  "label": "Psychological Tests, Eeg, Magnetic Resonance",
+  "aliases": [],
+  "summary": "Enrollment: Estimated, Sponsor Type: Other, Unknown / General Investigational for listed conditions. 1 associated trial(s) and 0 study reference(s) in current data. Review primary sources and consult specialists before use. See tracker agent page / linked studies; Desk does not provide dosing.",
+  "external_ids": [
+    {
+      "system": "other",
+      "value": "https://pubchem.ncbi.nlm.nih.gov/#query=Psychological%20Tests%2C%20Eeg%2C%20Magnetic%20Resonance",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/#query=Psychological%20Tests%2C%20Eeg%2C%20Magnetic%20Resonance"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/agents/psychological-tests-eeg-magnetic-resonance/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:04:30.227Z"
+}
