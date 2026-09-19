@@ -1,8 +1,7 @@
 # GitHub configuration
 
-The dump validation workflow lives at:
+CI workflow: [`.github/workflows/validate-dump.yml`](workflows/validate-dump.yml)
 
-- **Intended path:** `.github/workflows/validate-dump.yml`
-- **Checked-in source (same YAML):** [`ci/validate-dump.github-actions.yml`](../ci/validate-dump.github-actions.yml)
+On every push and pull request it runs `npm ci`, `npm run build:dump`, and `npm run validate:dump` against `schemas/dump.bundled.schema.json`.
 
-The OAuth token used by automation lacked the `workflow` scope, so the live Actions path must be created by copying that file to `.github/workflows/validate-dump.yml` (GitHub UI or a token with `workflow` scope). Until then, run `npm run build:dump && npm run validate:dump` locally.
+A duplicate copy is kept at [`ci/validate-dump.github-actions.yml`](../ci/validate-dump.github-actions.yml) for reference.
