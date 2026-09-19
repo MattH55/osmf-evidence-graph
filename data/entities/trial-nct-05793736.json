@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05793736",
+  "type": "trial",
+  "label": "Prevention of Long Covid Syndrome",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID-19 Syndrome; Biofeedback, Psychology; Quality of Life. Enrollment listed: 17. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05793736",
+      "url": "https://clinicaltrials.gov/study/NCT05793736"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05793736"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

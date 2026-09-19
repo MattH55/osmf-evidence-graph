@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05398692",
+  "type": "trial",
+  "label": "Long COVID-19 Rehabilitation & Recovery Research Program",
+  "aliases": [],
+  "summary": "Status: TERMINATED. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID-19 Syndrome; COVID-19. Enrollment listed: 21. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05398692",
+      "url": "https://clinicaltrials.gov/study/NCT05398692"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05398692"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

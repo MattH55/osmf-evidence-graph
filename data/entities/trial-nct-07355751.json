@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07355751",
+  "type": "trial",
+  "label": "The Effect of Acupuncture Treatment on Cognitive Functions and Brain Networks for Long COVID",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long Covid. Enrollment listed: 108. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07355751",
+      "url": "https://clinicaltrials.gov/study/NCT07355751"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07355751"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

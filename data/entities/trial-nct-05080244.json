@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05080244",
+  "type": "trial",
+  "label": "WHO COVID-19 - Evaluation of the Efficacy of Probiotics to Reduce the Occurrence of Long COVID",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; COVID-19. Enrollment listed: 618. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05080244",
+      "url": "https://clinicaltrials.gov/study/NCT05080244"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05080244"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

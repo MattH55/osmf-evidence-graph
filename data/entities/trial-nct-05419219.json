@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05419219",
+  "type": "trial",
+  "label": "TaiChi-DTx for Treating Long Covid Symptoms",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: ME/CFS; Fatigue; Dyspnea; Cognitive Impairment. Enrollment listed: 200. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05419219",
+      "url": "https://clinicaltrials.gov/study/NCT05419219"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05419219"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

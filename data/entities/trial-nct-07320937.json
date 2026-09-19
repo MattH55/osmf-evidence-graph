@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07320937",
+  "type": "trial",
+  "label": "Effects of Yiqi Fuyuan Paste Formula in Chronic Fatigue Syndrome: A Randomized Double-Blind Controlled Clinical Trial.",
+  "aliases": [],
+  "summary": "Status: ENROLLING BY INVITATION. Phase: NA. Conditions: CFS. Enrollment listed: 80. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07320937",
+      "url": "https://clinicaltrials.gov/study/NCT07320937"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07320937"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

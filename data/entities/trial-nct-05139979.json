@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05139979",
+  "type": "trial",
+  "label": "Yogic Breathing and Guided Meditation for Long Covid Symptoms",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; COVID-19; Stress; Shortness of Breath. Enrollment listed: 189. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05139979",
+      "url": "https://clinicaltrials.gov/study/NCT05139979"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05139979"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

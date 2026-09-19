@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07242573",
+  "type": "trial",
+  "label": "Effect of Physical Exercise and Neuromodulation on Pain, Sleep and Fatigue in Patients With Fibromyalgia",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: ME/CFS; Fibromyalgia; Chronic Fatigue Syndrome (CFS). Enrollment listed: 75. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07242573",
+      "url": "https://clinicaltrials.gov/study/NCT07242573"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07242573"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

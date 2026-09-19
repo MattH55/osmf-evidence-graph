@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05543408",
+  "type": "trial",
+  "label": "Long COVID-19 Syndrome in Primary Care: A Novel Protocol of Exercise Intervention \"CON-VIDA Clinical Trial\"",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; COVID-19; Long COVID; Post-COVID-19 Syndrome. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05543408",
+      "url": "https://clinicaltrials.gov/study/NCT05543408"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05543408"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

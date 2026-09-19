@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05975034",
+  "type": "trial",
+  "label": "Investigation of the Use of a Probiotic Supplement in People With Long COVID",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 240. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05975034",
+      "url": "https://clinicaltrials.gov/study/NCT05975034"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05975034"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

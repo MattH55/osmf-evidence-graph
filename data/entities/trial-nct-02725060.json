@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-02725060",
+  "type": "trial",
+  "label": "Autoimmune Basis for Postural Tachycardia Syndrome",
+  "aliases": [],
+  "summary": "Status: ENROLLING BY INVITATION. Phase: NA. Conditions: Postural Orthostatic Tachycardia Syndrome; Postural Tachycardia Syndrome; Tachycardia; Arrhythmias, Cardiac. Enrollment listed: 58. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT02725060",
+      "url": "https://clinicaltrials.gov/study/NCT02725060"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT02725060"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

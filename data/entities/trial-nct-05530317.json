@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05530317",
+  "type": "trial",
+  "label": "CArdiac REhabilitation for Building Exertional heArt Rate for Chronotropic Incompetence in Long COVID-19",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long COVID; COVID-19. Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05530317",
+      "url": "https://clinicaltrials.gov/study/NCT05530317"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05530317"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

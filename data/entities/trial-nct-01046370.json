@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-01046370",
+  "type": "trial",
+  "label": "A Pilot Study of Amygdala Retraining Program in Patients With Chronic Fatigue Syndrome, Chronic Fatigue and Fibromyalgia",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome; Chronic Fatigue; Fibromyalgia. Enrollment listed: 57. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT01046370",
+      "url": "https://clinicaltrials.gov/study/NCT01046370"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT01046370"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

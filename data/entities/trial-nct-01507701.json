@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-01507701",
+  "type": "trial",
+  "label": "Pilot Study for the NorCAPITAL Trial",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 5. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT01507701",
+      "url": "https://clinicaltrials.gov/study/NCT01507701"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT01507701"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

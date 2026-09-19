@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05681455",
+  "type": "trial",
+  "label": "Physiotherapy for Persistent Function by Superficial Neuromodulation",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID-19 Syndrome; Dysautonomia; Neuromodulation. Enrollment listed: 24. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05681455",
+      "url": "https://clinicaltrials.gov/study/NCT05681455"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05681455"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

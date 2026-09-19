@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07468604",
+  "type": "trial",
+  "label": "Cervicothoracic Sympathetic Block Evaluation for Post COVID Condition",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE4. Conditions: Autonomic Dysfunction. Enrollment listed: 78. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07468604",
+      "url": "https://clinicaltrials.gov/study/NCT07468604"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07468604"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

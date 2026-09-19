@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06330376",
+  "type": "trial",
+  "label": "Diaphragmatic Breathing Exercises for Post-COVID-19 Diaphragmatic Dysfunction (DD)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post-Acute Sequelae of COVID-19. Enrollment listed: 16. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06330376",
+      "url": "https://clinicaltrials.gov/study/NCT06330376"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06330376"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

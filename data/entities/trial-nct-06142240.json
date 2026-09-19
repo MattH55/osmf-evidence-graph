@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06142240",
+  "type": "trial",
+  "label": "Efficacy of Two Therapeutic Exercise Modalities for Patients With Persistent COVID",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Persistent COVID-19. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06142240",
+      "url": "https://clinicaltrials.gov/study/NCT06142240"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06142240"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

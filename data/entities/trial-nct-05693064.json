@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05693064",
+  "type": "trial",
+  "label": "The Impact of Chiropractic on Long COVID-19",
+  "aliases": [],
+  "summary": "Status: SUSPENDED. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05693064",
+      "url": "https://clinicaltrials.gov/study/NCT05693064"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05693064"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

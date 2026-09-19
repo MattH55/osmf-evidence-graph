@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07089719",
+  "type": "trial",
+  "label": "Bevacizumab in Post-acute Sequelae of COVID-19 : Efficacy and Safety (Pilot Study)",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE2. Conditions: Dyspnea Caused by 2019-nCoV. Enrollment listed: 21. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07089719",
+      "url": "https://clinicaltrials.gov/study/NCT07089719"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07089719"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

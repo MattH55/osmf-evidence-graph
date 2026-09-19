@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06766825",
+  "type": "trial",
+  "label": "Study to Evaluate the Efficacy and Safety of Plitidepsin in Adults With Post-COVID-19 Condition (PCC)",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Post COVID-19 Condition; Long COVID Syndrome; Persistent COVID-19. Enrollment listed: 90. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06766825",
+      "url": "https://clinicaltrials.gov/study/NCT06766825"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06766825"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

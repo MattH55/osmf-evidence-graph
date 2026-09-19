@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06404047",
+  "type": "trial",
+  "label": "RECOVER-ENERGIZE Platform Protocol",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Long Covid19; Long Covid-19. Enrollment listed: 660. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06404047",
+      "url": "https://clinicaltrials.gov/study/NCT06404047"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06404047"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

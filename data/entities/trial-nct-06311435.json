@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06311435",
+  "type": "trial",
+  "label": "Utilizing Novel Blood RNA Biomarkers as a Diagnostic Tool in the Identification of Long COVID-19",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 224. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06311435",
+      "url": "https://clinicaltrials.gov/study/NCT06311435"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06311435"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

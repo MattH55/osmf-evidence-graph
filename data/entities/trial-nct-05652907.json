@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05652907",
+  "type": "trial",
+  "label": "Safety and Efficacy of FSD201 for the Treatment of Chronic Pain Associated With Idiopathic MCAS (MCAD)",
+  "aliases": [],
+  "summary": "Status: TERMINATED. Phase: PHASE2. Conditions: Mast Cell Activation Syndrome; Mast Cell Activation Disorder Idiopathic. Enrollment listed: 2. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05652907",
+      "url": "https://clinicaltrials.gov/study/NCT05652907"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05652907"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

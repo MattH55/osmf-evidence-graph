@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05254301",
+  "type": "trial",
+  "label": "Nutrition and LOComotoric Rehabilitation in Long COVID-19",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; COVID-19. Enrollment listed: 65. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05254301",
+      "url": "https://clinicaltrials.gov/study/NCT05254301"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05254301"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

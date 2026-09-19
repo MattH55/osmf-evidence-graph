@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04271878",
+  "type": "trial",
+  "label": "Hypercapnia and Orthostatic Tolerance in Postural Orthostatic Tachycardia Syndrome",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Postural Tachycardia Syndrome; Orthostatic Intolerance. Enrollment listed: 26. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04271878",
+      "url": "https://clinicaltrials.gov/study/NCT04271878"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04271878"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

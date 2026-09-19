@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05633472",
+  "type": "trial",
+  "label": "The Roles of Vitamin D and Microbiome in Children With Post-acute COVID-19 Syndromes (PACS) and Long COVID",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post-acute COVID-19 Syndromes. Enrollment listed: 33. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05633472",
+      "url": "https://clinicaltrials.gov/study/NCT05633472"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05633472"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05616806",
+  "type": "trial",
+  "label": "Long COVID-19 Intervention Using Digital Health & Technology",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Distress Tolerance. Enrollment listed: 10. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05616806",
+      "url": "https://clinicaltrials.gov/study/NCT05616806"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05616806"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

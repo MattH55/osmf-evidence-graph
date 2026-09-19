@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05631171",
+  "type": "trial",
+  "label": "Feasibility Study of Adhera® Fatigue Digital Program for Patients With Long COVID-related Fatigue",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID19 Syndrome; Fatigue. Enrollment listed: 58. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05631171",
+      "url": "https://clinicaltrials.gov/study/NCT05631171"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05631171"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

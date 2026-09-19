@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06055244",
+  "type": "trial",
+  "label": "Amantadine Therapy for Cognitive Impairment in Long COVID",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID; Post-COVID19 Condition; Post-Acute COVID19 Syndrome. Enrollment listed: 64. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06055244",
+      "url": "https://clinicaltrials.gov/study/NCT06055244"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06055244"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

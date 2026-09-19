@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07597902",
+  "type": "trial",
+  "label": "SARS-CoV-2 and Herpesvirus Inhibition for Ending Long COVID Dysfunction",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Post-acute Sequelae of COVID-19; Long COVID. Enrollment listed: 150. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07597902",
+      "url": "https://clinicaltrials.gov/study/NCT07597902"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07597902"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

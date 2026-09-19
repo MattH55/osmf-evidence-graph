@@ -44,15 +44,15 @@ function byId(a, b) {
 
 function buildNotes() {
   let importLine =
-    "Papers/related_to and agents/treats_candidate_for were auto-imported from OSMF Research Tracker (provisional; status draft; no A/B tiers from this import).";
+    "Papers/related_to, agents/treats_candidate_for, and trials/studied_in were auto-imported from OSMF Research Tracker (provisional; status draft; no A/B tiers from this import).";
   if (fs.existsSync(PROVENANCE_PATH)) {
     try {
       const p = JSON.parse(fs.readFileSync(PROVENANCE_PATH, "utf8"));
-      if (p.imported_at || p.agents_imported_at) {
-        importLine += ` Last paper import: ${p.imported_at || "n/a"}; last agent import: ${p.agents_imported_at || "n/a"}.`;
+      if (p.imported_at || p.agents_imported_at || p.trials_imported_at) {
+        importLine += ` Last paper import: ${p.imported_at || "n/a"}; last agent import: ${p.agents_imported_at || "n/a"}; last trial import: ${p.trials_imported_at || "n/a"}.`;
       }
       if (p.counts) {
-        importLine += ` Counts: ${p.counts.conditions || 0} conditions, ${p.counts.papers || 0} papers, ${p.counts.claims || 0} paper claims, ${p.counts.agents || 0} agents, ${p.counts.agent_claims || 0} agent claims.`;
+        importLine += ` Counts: ${p.counts.conditions || 0} conditions, ${p.counts.papers || 0} papers, ${p.counts.claims || 0} paper claims, ${p.counts.agents || 0} agents, ${p.counts.agent_claims || 0} agent claims, ${p.counts.trials || 0} trials, ${p.counts.trial_condition_claims || 0} trial→condition claims, ${p.counts.trial_agent_claims || 0} agent→trial claims.`;
       }
     } catch (_) {
       /* ignore */
@@ -60,11 +60,11 @@ function buildNotes() {
   }
   return [
     "ILLUSTRATIVE / PROVISIONAL DUMP (is_example: true).",
-    "Condition entities, PubMed paper nodes, and therapeutic agent nodes are Tracker-backed, but claim grades are NOT human evidence-curated.",
+    "Condition, paper, agent, and trial nodes are Tracker-backed, but claim grades are NOT human evidence-curated.",
     importLine,
-    "Do not treat draft related_to or treats_candidate_for edges as clinical recommendations, efficacy endorsements, or dosing advice.",
+    "Do not treat draft related_to, treats_candidate_for, or studied_in edges as clinical recommendations, efficacy endorsements, or dosing advice.",
     "Agent Evidence Level is tracker metadata mapped Moderate→C and Preliminary/Anecdotal→D only.",
-    "Multi-MB clinical_trials JSON remains deferred to a follow-up import wave.",
+    "Trial studied_in edges are structural ClinicalTrials.gov registration links only (tier C draft).",
     "Kept seed phenotypes/biomarkers (PEM, orthostatic intolerance, spike persistence, etc.) are structural examples pending curator re-grade.",
   ].join(" ");
 }

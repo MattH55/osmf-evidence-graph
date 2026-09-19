@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05356936",
+  "type": "trial",
+  "label": "Pilot Study of Vitamin K2 (MK-7) and Vitamin D3 Supplementation and the Effects on PASC Symptomatology and Inflammatory Biomarkers",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post-acute COVID-19 Syndrome. Enrollment listed: 151. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05356936",
+      "url": "https://clinicaltrials.gov/study/NCT05356936"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05356936"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

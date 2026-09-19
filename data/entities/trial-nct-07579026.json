@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07579026",
+  "type": "trial",
+  "label": "Effects of Breathing Retraining Exercises in Pregnant Females With Postural Orthostatic Tachycardia Syndrome.",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Orthostatic Hypotension; Heart Rate; Blood Pressure. Enrollment listed: 44. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07579026",
+      "url": "https://clinicaltrials.gov/study/NCT07579026"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07579026"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

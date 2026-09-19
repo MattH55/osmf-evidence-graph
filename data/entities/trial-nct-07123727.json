@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07123727",
+  "type": "trial",
+  "label": "A Study to Examine Anktiva for the Treatment of COVID-19.",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID; Long COVID Syndrome; Long Covid 19. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07123727",
+      "url": "https://clinicaltrials.gov/study/NCT07123727"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07123727"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

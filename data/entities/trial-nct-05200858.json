@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05200858",
+  "type": "trial",
+  "label": "Transcutaneous Electrical Nerve Stimulation (TENS) in Patients With Postacute Sequelae of Sars-CoV-2",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Postacute Sequelae of Sars-CoV-2; Post-Acute COVID-19 Syndrome; Widespread Chronic Pain. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05200858",
+      "url": "https://clinicaltrials.gov/study/NCT05200858"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05200858"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

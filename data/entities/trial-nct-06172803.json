@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06172803",
+  "type": "trial",
+  "label": "Restoring Energy With Sub-symptom Threshold Optimized Rehabilitation Exercise for Long COVID",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long Covid19; Exercise Intolerance; Riboflavin-Responsive. Enrollment listed: 4. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06172803",
+      "url": "https://clinicaltrials.gov/study/NCT06172803"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06172803"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

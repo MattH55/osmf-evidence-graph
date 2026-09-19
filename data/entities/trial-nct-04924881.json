@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04924881",
+  "type": "trial",
+  "label": "Chinese Medicine for Patients With LCOVID-19 Symptoms",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: PHASE2. Conditions: Long COVID / PASC; Covid19. Enrollment listed: 68. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04924881",
+      "url": "https://clinicaltrials.gov/study/NCT04924881"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04924881"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

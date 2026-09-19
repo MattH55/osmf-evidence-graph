@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04742946",
+  "type": "trial",
+  "label": "Digital Physiotherapy Practice in Long Covid-19 Patients",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long COVID-19 Syndrome. Enrollment listed: 27. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04742946",
+      "url": "https://clinicaltrials.gov/study/NCT04742946"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04742946"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

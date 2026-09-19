@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04140721",
+  "type": "trial",
+  "label": "Autonomic Determinants of POTS - Pilot 2",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: EARLY_PHASE1. Conditions: Postural Tachycardia Syndrome. Enrollment listed: 48. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04140721",
+      "url": "https://clinicaltrials.gov/study/NCT04140721"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04140721"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

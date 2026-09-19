@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05706454",
+  "type": "trial",
+  "label": "Phase 2/Phase 3 Study To Evaluate The Efficacy And Safety Of Ramatroban Along With The Standard Of Care In Subjects Hospitalized For COVID Pneumonia",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: PHASE2. Conditions: Long COVID / PASC; COVID-19 Pneumonia; COVID-19 Respiratory Infection. Enrollment listed: 324. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05706454",
+      "url": "https://clinicaltrials.gov/study/NCT05706454"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05706454"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

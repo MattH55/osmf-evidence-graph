@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04363606",
+  "type": "trial",
+  "label": "Chronic Fatigue Etiology and Recovery in Covid-19 Patients: the Role of Fatigability",
+  "aliases": [],
+  "summary": "Status: TERMINATED. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome; Intensive Care Unit; Muscle. Enrollment listed: 69. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04363606",
+      "url": "https://clinicaltrials.gov/study/NCT04363606"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04363606"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

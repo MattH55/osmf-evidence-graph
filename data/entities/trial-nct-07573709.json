@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07573709",
+  "type": "trial",
+  "label": "Functional and Affective Effects of a Brief tDCS Intervention in Fibromyalgia and Chronic Fatigue Syndrome",
+  "aliases": [],
+  "summary": "Status: TERMINATED. Phase: NA. Conditions: ME/CFS; Fibromyalgia (FM); Chronic Fatigue Syndrome (CFS). Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07573709",
+      "url": "https://clinicaltrials.gov/study/NCT07573709"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07573709"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

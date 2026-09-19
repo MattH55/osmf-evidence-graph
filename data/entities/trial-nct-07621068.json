@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07621068",
+  "type": "trial",
+  "label": "Hyperbaric Oxygen Therapy for Chronic Fatigue Syndrome (CFS)",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 74. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07621068",
+      "url": "https://clinicaltrials.gov/study/NCT07621068"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07621068"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

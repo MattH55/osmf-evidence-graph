@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05483829",
+  "type": "trial",
+  "label": "Digital Health Intervention Based on Artificial Intelligence to Support the Personalized Recovery of Long COVID Patients Affected by Fatigue (AIDA)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post Acute COVID-19 Syndrome. Enrollment listed: 15. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05483829",
+      "url": "https://clinicaltrials.gov/study/NCT05483829"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05483829"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

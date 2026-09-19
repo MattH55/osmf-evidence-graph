@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-02082730",
+  "type": "trial",
+  "label": "The Feasibility, Acceptability and Clinical Utility of a New Remote-mobile Technology Intervention (ASARM) for CFS/ME in a Paediatric Population",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT02082730",
+      "url": "https://clinicaltrials.gov/study/NCT02082730"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT02082730"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

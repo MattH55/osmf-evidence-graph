@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-01550315",
+  "type": "trial",
+  "label": "Effect of Dietary Sodium Intake on Vascular Endothelium",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Postural Tachycardia Syndrome (POTS). Enrollment listed: 27. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT01550315",
+      "url": "https://clinicaltrials.gov/study/NCT01550315"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT01550315"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

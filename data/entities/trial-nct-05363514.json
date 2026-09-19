@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05363514",
+  "type": "trial",
+  "label": "Low Dose Naltrexone Use in Patients With POTS",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE4. Conditions: Postural Orthostatic Tachycardia Syndrome. Enrollment listed: 80. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05363514",
+      "url": "https://clinicaltrials.gov/study/NCT05363514"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05363514"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06452095",
+  "type": "trial",
+  "label": "Recovering From COVID-19 Lingering Symptoms Adaptive Integrative Medicine Trial - Effect of Hyperbaric Oxygen Therapy for the Treatment of Post COVID Condition",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Post Acute Sequelae of COVID-19; Post-COVID-19 Condition. Enrollment listed: 120. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06452095",
+      "url": "https://clinicaltrials.gov/study/NCT06452095"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06452095"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

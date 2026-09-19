@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06847191",
+  "type": "trial",
+  "label": "NE3107 in Adults With Neurological Symptoms of Long COVID",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 203. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06847191",
+      "url": "https://clinicaltrials.gov/study/NCT06847191"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06847191"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

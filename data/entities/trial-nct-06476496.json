@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06476496",
+  "type": "trial",
+  "label": "Pain Relief With Integrative Medicine (PRIMe)?: Feasibility of Acupuncture for Long COVID",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Pain. Enrollment listed: 93. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06476496",
+      "url": "https://clinicaltrials.gov/study/NCT06476496"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06476496"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

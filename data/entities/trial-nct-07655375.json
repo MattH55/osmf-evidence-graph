@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07655375",
+  "type": "trial",
+  "label": "Study Evaluating the Effect of UCB8600 on Mast Cell Activation in the Human Gut",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: NA. Conditions: IBS (Irritable Bowel Syndrome). Enrollment listed: 60. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07655375",
+      "url": "https://clinicaltrials.gov/study/NCT07655375"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07655375"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

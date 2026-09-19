@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05808400",
+  "type": "trial",
+  "label": "Safety and Efficacy of Umbilical Cord Mesenchymal Stem Cell Exosomes in Treating Chronic Cough After COVID-19",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: EARLY_PHASE1. Conditions: Long COVID / PASC; Long COVID-19 Syndrome. Enrollment listed: 80. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05808400",
+      "url": "https://clinicaltrials.gov/study/NCT05808400"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05808400"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

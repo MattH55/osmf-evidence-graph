@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06996314",
+  "type": "trial",
+  "label": "Effects of Auricular Vagus Nerve Stimulation Combined With Slow-paced Breathing on Individuals With Postural Orthostatic Tachycardia Syndrome.",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Postural Orthostatic Tachycardia Syndrome (POTS); Post-acute COVID-19 Syndromes. Enrollment listed: 100. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06996314",
+      "url": "https://clinicaltrials.gov/study/NCT06996314"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06996314"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

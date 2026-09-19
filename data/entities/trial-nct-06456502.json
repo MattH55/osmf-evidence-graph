@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06456502",
+  "type": "trial",
+  "label": "Effectiveness of Non-invasive Neuromodulation in Patients With Long-COVID",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long-COVID; Post-acute COVID-19 Syndrome. Enrollment listed: 44. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06456502",
+      "url": "https://clinicaltrials.gov/study/NCT06456502"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06456502"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

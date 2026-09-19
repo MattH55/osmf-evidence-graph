@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05813899",
+  "type": "trial",
+  "label": "Efficacy of Lactobacillus Paracasei PS23 for Patients With Post-COVID-19 Syndrome",
+  "aliases": [],
+  "summary": "Status: TERMINATED. Phase: NA. Conditions: Long COVID / PASC; Post-COVID-19 Syndrome. Enrollment listed: 39. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05813899",
+      "url": "https://clinicaltrials.gov/study/NCT05813899"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05813899"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05817006",
+  "type": "trial",
+  "label": "Research of the Long-COVID-19 Syndrome in the Children",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 88. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05817006",
+      "url": "https://clinicaltrials.gov/study/NCT05817006"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05817006"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

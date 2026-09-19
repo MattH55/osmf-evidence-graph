@@ -1,0 +1,22 @@
+{
+  "id": "osmf:claim:agent-cold-water-hydrotherapy-studied-in-nct-07110714",
+  "subject_id": "osmf:agent:cold-water-hydrotherapy",
+  "predicate": "studied_in",
+  "object_id": "osmf:trial:nct-07110714",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "nct",
+      "value": "NCT07110714"
+    },
+    {
+      "type": "url",
+      "value": "https://clinicaltrials.gov/study/NCT07110714"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker clinical_trials JSON. Structural registration link only — not an efficacy grade. Inclusion does not imply study quality, enrollment completeness, or clinical applicability.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:50:46.160Z",
+  "license": "CC-BY-4.0"
+}

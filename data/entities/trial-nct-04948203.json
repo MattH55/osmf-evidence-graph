@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04948203",
+  "type": "trial",
+  "label": "Assessing the Efficacy of Sirolimus in Patients With COVID-19 Pneumonia for Prevention of Post-COVID Fibrosis",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Pulmonary Fibrosis; COVID-19 Pneumonia; Long COVID. Enrollment listed: 60. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04948203",
+      "url": "https://clinicaltrials.gov/study/NCT04948203"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04948203"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

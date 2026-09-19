@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06091293",
+  "type": "trial",
+  "label": "Narrative Intervention for Long COVID-19 (NICO)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Long Covid19. Enrollment listed: 12. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06091293",
+      "url": "https://clinicaltrials.gov/study/NCT06091293"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06091293"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

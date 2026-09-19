@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07076862",
+  "type": "trial",
+  "label": "Multiparametric [18F]F-AraG Imaging in Post-Acute Sequelae of COVID-19 (PASC)",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: EARLY_PHASE1. Conditions: Long COVID / PASC; PASC Post Acute Sequelae of COVID-19. Enrollment listed: 51. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07076862",
+      "url": "https://clinicaltrials.gov/study/NCT07076862"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07076862"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

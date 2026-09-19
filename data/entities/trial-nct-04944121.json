@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04944121",
+  "type": "trial",
+  "label": "Phase 2 Study of RSLV-132 in Subjects With Long COVID",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Long COVID / PASC; Post-acute Corona Virus 19 (COVID-19) (Long COVID). Enrollment listed: 112. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04944121",
+      "url": "https://clinicaltrials.gov/study/NCT04944121"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04944121"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

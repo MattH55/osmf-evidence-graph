@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06404411",
+  "type": "trial",
+  "label": "The Efficacy of Aerobic Exercise in the Rehabilitation of Patients With COVID-19-Related Myocardial Injury",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Myocardial Injury. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06404411",
+      "url": "https://clinicaltrials.gov/study/NCT06404411"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06404411"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

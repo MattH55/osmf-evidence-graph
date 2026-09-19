@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-02965768",
+  "type": "trial",
+  "label": "Immune Effects of Low-dose Naltrexone in ME/CFS",
+  "aliases": [],
+  "summary": "Status: WITHDRAWN. Phase: NA. Conditions: ME/CFS; Fatigue Syndrome, Chronic. Enrollment listed: 0. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT02965768",
+      "url": "https://clinicaltrials.gov/study/NCT02965768"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT02965768"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

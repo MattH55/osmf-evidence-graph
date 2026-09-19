@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05923840",
+  "type": "trial",
+  "label": "Chemoreflex and Baroreflex Alterations Causing Postural Tachycardia Syndrome With Orthostatic Hyperpnea and Hypocapnia",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Postural Orthostatic Tachycardia Syndrome; Hypocapnia; Hyperventilation. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05923840",
+      "url": "https://clinicaltrials.gov/study/NCT05923840"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05923840"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05167227",
+  "type": "trial",
+  "label": "Does a Technology Enabled Multi-disciplinary Team-based Care Model for the Management of Long COVID and Other Fatiguing Illnesses Improve Clinical Care of Patients and Represent a Sustainable Approac…",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; ME/CFS; SARS-CoV-2 Acute Respiratory Disease; Myalgic Encephalomyelitis. Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05167227",
+      "url": "https://clinicaltrials.gov/study/NCT05167227"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05167227"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05629884",
+  "type": "trial",
+  "label": "Efficacy of a Physical and Respiratory Rehabilitation Program for Patients With Persistent COVID-19 (SARS-CoV-2).",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; SARS-CoV-2 Infection; COVID-19 Recurrent; Cognitive Dysfunction. Enrollment listed: 56. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05629884",
+      "url": "https://clinicaltrials.gov/study/NCT05629884"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05629884"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

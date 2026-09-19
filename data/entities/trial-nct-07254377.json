@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07254377",
+  "type": "trial",
+  "label": "Design and Validation of Innovative Strategies Based on Dual-Task Approach",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Stroke; Multiple Sclerosis; Parkinson Disease. Enrollment listed: 48. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07254377",
+      "url": "https://clinicaltrials.gov/study/NCT07254377"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07254377"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

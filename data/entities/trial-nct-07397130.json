@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07397130",
+  "type": "trial",
+  "label": "Inspiratory Muscle Pressure and Diaphragmatic Strength in Women With Long COVID-19: A Pressure Biofeedback-Guided Training Study",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID-19 Syndrome; Post COVID Syndrome Long Covid; Post COVID-19 Syndrome. Enrollment listed: 80. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07397130",
+      "url": "https://clinicaltrials.gov/study/NCT07397130"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07397130"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

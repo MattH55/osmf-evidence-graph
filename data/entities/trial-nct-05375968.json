@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05375968",
+  "type": "trial",
+  "label": "Splanchnic Venous Capacitance in Postural Tachycardia Syndrome",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE2. Conditions: Postural Tachycardia Syndrome (POTS). Enrollment listed: 50. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05375968",
+      "url": "https://clinicaltrials.gov/study/NCT05375968"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05375968"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-01907711",
+  "type": "trial",
+  "label": "Clinical Trial to Evaluate the Effectiveness of Acupuncture as a Treatment in Patients Diagnosed With CFS.",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: PHASE2. Conditions: ME/CFS; Chronic Fatigue Syndrome.; Muscular Diseases.; Cognitive Impairment. Enrollment listed: 60. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT01907711",
+      "url": "https://clinicaltrials.gov/study/NCT01907711"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT01907711"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

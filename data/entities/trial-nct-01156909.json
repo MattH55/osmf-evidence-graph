@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-01156909",
+  "type": "trial",
+  "label": "B-cell Depletion Using the Monoclonal Anti-CD20 Antibody Rituximab in Chronic Fatigue Syndrome",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: ME/CFS; Chronic Fatigue Syndrome; Myalgic Encephalomyelitis. Enrollment listed: 29. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT01156909",
+      "url": "https://clinicaltrials.gov/study/NCT01156909"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT01156909"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

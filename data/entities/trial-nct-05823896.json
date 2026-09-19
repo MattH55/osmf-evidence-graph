@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05823896",
+  "type": "trial",
+  "label": "ImPROving Quality of LIFe in the Long COVID Patient",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Long COVID / PASC; Post-COVID-19 Syndrome; Long COVID; Long Covid19. Enrollment listed: 219. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05823896",
+      "url": "https://clinicaltrials.gov/study/NCT05823896"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05823896"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

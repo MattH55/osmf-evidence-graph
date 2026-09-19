@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-00478465",
+  "type": "trial",
+  "label": "Valganciclovir (Valcyte) for Chronic Fatigue Syndrome Patients Who Have Elevated Antibody Titers Against Human Herpes Virus 6 (HHV-6)and Epstein-Barr Virus (EBV)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE1. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT00478465",
+      "url": "https://clinicaltrials.gov/study/NCT00478465"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT00478465"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

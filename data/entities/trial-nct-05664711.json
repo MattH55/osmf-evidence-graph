@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05664711",
+  "type": "trial",
+  "label": "Effect of Stellate Ganglion Block on ME/CFS",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE1. Conditions: ME/CFS; Encephalomyelitis, Myalgic; Chronic Fatigue Syndrome; Chronic Fatigue Disorder. Enrollment listed: 10. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05664711",
+      "url": "https://clinicaltrials.gov/study/NCT05664711"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05664711"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

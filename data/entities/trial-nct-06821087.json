@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06821087",
+  "type": "trial",
+  "label": "Evaluating the Neuromodulatory Effect of Ketamine in Long COVID-19",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06821087",
+      "url": "https://clinicaltrials.gov/study/NCT06821087"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06821087"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

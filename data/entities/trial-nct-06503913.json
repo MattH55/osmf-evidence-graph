@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06503913",
+  "type": "trial",
+  "label": "Cognitive Muscular Therapy for Patients With Long-COVID and Breathing Pattern Disorder",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Respiratory Disease. Enrollment listed: 18. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06503913",
+      "url": "https://clinicaltrials.gov/study/NCT06503913"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06503913"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

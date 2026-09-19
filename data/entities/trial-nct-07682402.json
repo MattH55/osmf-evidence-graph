@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07682402",
+  "type": "trial",
+  "label": "Taurine Supplementation in Adolescents With Post-COVID Condition",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE1. Conditions: Long COVID / PASC; Long COVID; Post COVID-19 Condition; PASC Post Acute Sequelae of COVID 19. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07682402",
+      "url": "https://clinicaltrials.gov/study/NCT07682402"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07682402"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05967052",
+  "type": "trial",
+  "label": "Investigation of Treating Chronic Fatigue Syndrome After COVID With Pharmacotherapy (Pregabalin) or Complex Rehabilitation",
+  "aliases": [],
+  "summary": "Status: TERMINATED. Phase: PHASE2. Conditions: ME/CFS; Chronic Fatigue Syndrome; COVID-19, Long Haul. Enrollment listed: 23. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05967052",
+      "url": "https://clinicaltrials.gov/study/NCT05967052"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05967052"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

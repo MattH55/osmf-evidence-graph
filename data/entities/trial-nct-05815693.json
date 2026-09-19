@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05815693",
+  "type": "trial",
+  "label": "Cognitive-behavioral Therapy for Mental Disorder in COVID-19 Survivors",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Post Acute COVID-19 Syndrome. Enrollment listed: 140. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05815693",
+      "url": "https://clinicaltrials.gov/study/NCT05815693"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05815693"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}
