@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06296914",
+  "type": "trial",
+  "label": "A MHealth System for Patients with POTS",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: POTS - Postural Orthostatic Tachycardia Syndrome. Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06296914",
+      "url": "https://clinicaltrials.gov/study/NCT06296914"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06296914"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

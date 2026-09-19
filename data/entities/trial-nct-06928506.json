@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06928506",
+  "type": "trial",
+  "label": "Effect of Hi-OxSR for the Treatment of Post COVID Condition",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Post COVID-19 Condition; Post Acute Sequelae of COVID-19. Enrollment listed: 120. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06928506",
+      "url": "https://clinicaltrials.gov/study/NCT06928506"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06928506"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

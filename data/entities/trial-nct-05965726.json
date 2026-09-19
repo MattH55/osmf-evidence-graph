@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05965726",
+  "type": "trial",
+  "label": "RECOVER-VITAL: Platform Protocol, Appendix to Measure the Effects of Paxlovid on Long COVID Symptoms",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID-19; Long COVID. Enrollment listed: 964. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05965726",
+      "url": "https://clinicaltrials.gov/study/NCT05965726"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05965726"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

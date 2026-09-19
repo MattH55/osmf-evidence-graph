@@ -1,0 +1,22 @@
+{
+  "id": "osmf:claim:agent-b1-ff-arag-petct-studied-in-nct-07076862",
+  "subject_id": "osmf:agent:b1-ff-arag-petct",
+  "predicate": "studied_in",
+  "object_id": "osmf:trial:nct-07076862",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "nct",
+      "value": "NCT07076862"
+    },
+    {
+      "type": "url",
+      "value": "https://clinicaltrials.gov/study/NCT07076862"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker clinical_trials JSON. Structural registration link only — not an efficacy grade. Inclusion does not imply study quality, enrollment completeness, or clinical applicability.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:50:46.160Z",
+  "license": "CC-BY-4.0"
+}

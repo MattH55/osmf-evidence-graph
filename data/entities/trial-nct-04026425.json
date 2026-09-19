@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04026425",
+  "type": "trial",
+  "label": "Analysis of Post-exertional Malaise Using a Two-day CPET in People With ME/CFS",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Myalgic Encephalomyelitis; Chronic Fatigue Syndrome. Enrollment listed: 173. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04026425",
+      "url": "https://clinicaltrials.gov/study/NCT04026425"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04026425"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05710770",
+  "type": "trial",
+  "label": "Immunoadsorption in Patients With Chronic Fatigue Syndrome Including Patients With Post-COVID-19 CFS",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; ME/CFS; Post-COVID ME/CFS. Enrollment listed: 66. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05710770",
+      "url": "https://clinicaltrials.gov/study/NCT05710770"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05710770"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

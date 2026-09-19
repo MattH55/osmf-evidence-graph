@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06227273",
+  "type": "trial",
+  "label": "Hydrogen Water Dosing Study for ME/CFS",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: ME/CFS; Myalgic Encephalomyelitis/Chronic Fatigue Syndrome. Enrollment listed: 50. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06227273",
+      "url": "https://clinicaltrials.gov/study/NCT06227273"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06227273"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04740736",
+  "type": "trial",
+  "label": "Cardiovascular Analysis of PEM",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Myalgic Encephalomyelitis; Chronic Fatigue Syndrome. Enrollment listed: 106. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04740736",
+      "url": "https://clinicaltrials.gov/study/NCT04740736"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04740736"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-03844412",
+  "type": "trial",
+  "label": "Vestibulodynia: Understanding Pathophysiology and Determining Appropriate Treatments",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: ME/CFS; Vestibulodynia; Temporomandibular Disorder; Fibromyalgia Syndrome. Enrollment listed: 209. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT03844412",
+      "url": "https://clinicaltrials.gov/study/NCT03844412"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT03844412"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

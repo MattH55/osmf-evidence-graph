@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07454395",
+  "type": "trial",
+  "label": "Is Swimming a More Tolerable Form of Movement for Individuals With Myalgic Encephalomyelitis/ Chronic Fatigue Syndrome?",
+  "aliases": [],
+  "summary": "Status: SUSPENDED. Phase: NA. Conditions: Long COVID / PASC; ME/CFS; ME/CFS; Long COVID. Enrollment listed: 50. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07454395",
+      "url": "https://clinicaltrials.gov/study/NCT07454395"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07454395"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

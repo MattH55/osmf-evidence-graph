@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07019519",
+  "type": "trial",
+  "label": "POTS-FLOW: Interplay Between Gut Hormones and Autonomic Postprandial Blood Flow Regulation in Patients With POTS",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Postural Orthostatic Tachycardia Syndrome (POTS); Healthy. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07019519",
+      "url": "https://clinicaltrials.gov/study/NCT07019519"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07019519"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05911906",
+  "type": "trial",
+  "label": "An Open-label, Clinical Feasibility Study of the Efficacy of Remdesivir for Long-COVID.",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE4. Conditions: Long COVID / PASC; SARS-CoV-2 Infection; COVID-19. Enrollment listed: 73. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05911906",
+      "url": "https://clinicaltrials.gov/study/NCT05911906"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05911906"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

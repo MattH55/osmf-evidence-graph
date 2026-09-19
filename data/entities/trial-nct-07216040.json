@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07216040",
+  "type": "trial",
+  "label": "Harnessing Optimism and Perseverance in the Face of Long COVID-Español",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID-19 Syndrome. Enrollment listed: 25. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07216040",
+      "url": "https://clinicaltrials.gov/study/NCT07216040"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07216040"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

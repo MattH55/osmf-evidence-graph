@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06223971",
+  "type": "trial",
+  "label": "Long COVID-19 [11C]CPPC Study",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: EARLY_PHASE1. Conditions: Long COVID / PASC; COVID Long-Haul. Enrollment listed: 6. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06223971",
+      "url": "https://clinicaltrials.gov/study/NCT06223971"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06223971"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06967428",
+  "type": "trial",
+  "label": "Effect of Metabolic Modulation on a Post-acute COVID-19 Vaccination Syndrome (PACVS) Cohort",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Vaccine Adverse Reaction; Post Acute Covid-19 Vaccination Syndrome. Enrollment listed: 100. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06967428",
+      "url": "https://clinicaltrials.gov/study/NCT06967428"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06967428"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

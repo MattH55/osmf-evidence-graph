@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-01651754",
+  "type": "trial",
+  "label": "Humoral and Cellular Immune Responses After Influenza Vaccination in Patients With Postcancer Fatigue and in Patients With Chronic Fatigue Syndrome",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Postcancer Fatigue; Chronic Fatigue Syndrome. Enrollment listed: 72. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT01651754",
+      "url": "https://clinicaltrials.gov/study/NCT01651754"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT01651754"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

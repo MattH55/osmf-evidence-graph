@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05877534",
+  "type": "trial",
+  "label": "Effects of Individual Tailored Physical Exercise in Patients With POTS After COVID-19 - a Randomized Controlled Study",
+  "aliases": [],
+  "summary": "Status: ENROLLING BY INVITATION. Phase: NA. Conditions: Long COVID / PASC; Postural Orthostatic Tachycardia Syndrome; COVID-19; Post COVID-19 Condition. Enrollment listed: 60. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05877534",
+      "url": "https://clinicaltrials.gov/study/NCT05877534"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05877534"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

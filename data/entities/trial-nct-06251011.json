@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06251011",
+  "type": "trial",
+  "label": "Effects of Physiotherapy Via Telerehabilitation in Patients With COVID-19",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; COVID-19; Long COVID-19; Cardiopulmonary Function. Enrollment listed: 32. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06251011",
+      "url": "https://clinicaltrials.gov/study/NCT06251011"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06251011"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

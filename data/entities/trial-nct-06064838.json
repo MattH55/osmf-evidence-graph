@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06064838",
+  "type": "trial",
+  "label": "Effects of Cacao Flavonoids in Long COVID-19 Patients (FLALOC)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long Covid19; Fatigue Syndrome, Chronic. Enrollment listed: 46. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06064838",
+      "url": "https://clinicaltrials.gov/study/NCT06064838"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06064838"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

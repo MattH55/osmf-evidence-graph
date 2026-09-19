@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06065033",
+  "type": "trial",
+  "label": "Exercise Interventions in Post-acute Sequelae of Covid-19",
+  "aliases": [],
+  "summary": "Status: WITHDRAWN. Phase: NA. Conditions: Long COVID / PASC; COVID-19. Enrollment listed: 0. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06065033",
+      "url": "https://clinicaltrials.gov/study/NCT06065033"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06065033"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

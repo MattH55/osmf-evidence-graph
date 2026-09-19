@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07627815",
+  "type": "trial",
+  "label": "Evaluating the Safety and Efficacy of PNMR as Treatment for Long COVID",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 82. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07627815",
+      "url": "https://clinicaltrials.gov/study/NCT07627815"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07627815"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

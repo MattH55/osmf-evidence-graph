@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-03365414",
+  "type": "trial",
+  "label": "A Study to Systematically Assess the Efficacy and Safety of Intravenous Albumin Infusions in Severe POTS",
+  "aliases": [],
+  "summary": "Status: WITHDRAWN. Phase: PHASE3. Conditions: Postural Orthostatic Tachycardia Syndrome. Enrollment listed: 0. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT03365414",
+      "url": "https://clinicaltrials.gov/study/NCT03365414"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT03365414"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

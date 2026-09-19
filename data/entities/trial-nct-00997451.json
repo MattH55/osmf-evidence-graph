@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-00997451",
+  "type": "trial",
+  "label": "Fatigue Self-Management in Primary Care",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Medically Unexplained Chronic Fatigue; Chronic Fatigue Syndrome. Enrollment listed: 107. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT00997451",
+      "url": "https://clinicaltrials.gov/study/NCT00997451"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT00997451"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

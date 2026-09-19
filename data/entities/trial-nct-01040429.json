@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-01040429",
+  "type": "trial",
+  "label": "The Norwegian Study of Chronic Fatigue Syndrome in Adolescents: Pathophysiology and Intervention Trial",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: ME/CFS; Chronic Fatigue Syndrome; Myalgic Encephalomyelitis. Enrollment listed: 120. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT01040429",
+      "url": "https://clinicaltrials.gov/study/NCT01040429"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT01040429"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

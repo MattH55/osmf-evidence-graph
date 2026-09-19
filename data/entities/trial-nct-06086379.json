@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06086379",
+  "type": "trial",
+  "label": "Cognitive Rehabilitation Therapy for COVID-19",
+  "aliases": [],
+  "summary": "Status: ENROLLING BY INVITATION. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID-19 Syndrome. Enrollment listed: 70. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06086379",
+      "url": "https://clinicaltrials.gov/study/NCT06086379"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06086379"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

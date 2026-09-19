@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07374562",
+  "type": "trial",
+  "label": "Stellate Ganglion Block for Long COVID Symptoms: A Randomized Controlled Trial",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07374562",
+      "url": "https://clinicaltrials.gov/study/NCT07374562"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07374562"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

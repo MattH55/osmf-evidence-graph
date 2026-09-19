@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06968104",
+  "type": "trial",
+  "label": "Vagus Nerve Stimulation to the Ear to Improve Symptoms in Post-COVID-19 and ME/CFS",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; ME/CFS; Post-COVID / Long-COVID; ME/CFS. Enrollment listed: 48. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06968104",
+      "url": "https://clinicaltrials.gov/study/NCT06968104"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06968104"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

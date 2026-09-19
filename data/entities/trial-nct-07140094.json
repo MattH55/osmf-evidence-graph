@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07140094",
+  "type": "trial",
+  "label": "Long-Covid-19 Alleviation Through Learning Mindfulness Study",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Long Covid19; Post-Acute COVID-19. Enrollment listed: 400. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07140094",
+      "url": "https://clinicaltrials.gov/study/NCT07140094"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07140094"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

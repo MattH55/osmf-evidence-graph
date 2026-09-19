@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05404672",
+  "type": "trial",
+  "label": "Breathing Exercises With And Without Aerobic Training In Patients With Postural Orthostatic Tachycardia Syndrome",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Postural Orthostatic Tachycardia Syndrome. Enrollment listed: 28. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05404672",
+      "url": "https://clinicaltrials.gov/study/NCT05404672"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05404672"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

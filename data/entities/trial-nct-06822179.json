@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06822179",
+  "type": "trial",
+  "label": "Effectiveness of a Personalized In-home Telerehabilitation Program on Self-Care in Patients with Long COVID",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID Syndrome. Enrollment listed: 60. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06822179",
+      "url": "https://clinicaltrials.gov/study/NCT06822179"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06822179"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

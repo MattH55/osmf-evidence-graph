@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05128292",
+  "type": "trial",
+  "label": "Effect of CoQ10 Plus Selenium Supplementation on Clinical Outcomes and Biochemical Markers in ME/CFS (CoSeME Study)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Myalgic Encephalomyelitis. Enrollment listed: 42. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05128292",
+      "url": "https://clinicaltrials.gov/study/NCT05128292"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05128292"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05225220",
+  "type": "trial",
+  "label": "Multimodal Investigation of Post COVID-19 in Females",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post COVID-19; Cognitive Dysfunction. Enrollment listed: 25. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05225220",
+      "url": "https://clinicaltrials.gov/study/NCT05225220"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05225220"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

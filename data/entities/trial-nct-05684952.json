@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05684952",
+  "type": "trial",
+  "label": "The Efficacy and Safety of a Chinese Herbal Medicine for Long COVID Associated Fatigue",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 152. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05684952",
+      "url": "https://clinicaltrials.gov/study/NCT05684952"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05684952"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

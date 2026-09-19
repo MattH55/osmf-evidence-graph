@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05454683",
+  "type": "trial",
+  "label": "Melatonin and Zinc Administration on Cardinal Symptoms in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome; Myalgic Encephalomyelitis. Enrollment listed: 106. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05454683",
+      "url": "https://clinicaltrials.gov/study/NCT05454683"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05454683"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

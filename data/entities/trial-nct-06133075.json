@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06133075",
+  "type": "trial",
+  "label": "Using Mirabegron to Increase BP in Patients With POTS",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Postural Orthostatic Tachycardia Syndrome; Chronic Orthostatic Intolerance; Syncope. Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06133075",
+      "url": "https://clinicaltrials.gov/study/NCT06133075"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06133075"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

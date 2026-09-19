@@ -17,7 +17,10 @@
     "papers": 535,
     "claims": 544,
     "agents": 596,
-    "agent_claims": 643
+    "agent_claims": 643,
+    "trials": 540,
+    "trial_condition_claims": 583,
+    "trial_agent_claims": 665
   },
   "missing_html": [],
   "notes": "Provisional auto-import from Research Tracker PubMed feeds. Grades are not human-curated. Agents and clinical_trials deferred.",
@@ -29,5 +32,27 @@
     "fallback_urls": 11,
     "unknown_conditions": {},
     "notes": "treats_candidate_for claims are draft; Evidence Level mapped Moderate→C, Preliminary/Anecdotal→D. No A/B. No dosing copied as advice. clinical_trials bulk JSON not imported."
+  },
+  "trials_imported_at": "2026-09-19T17:50:46.160Z",
+  "trials_import_date": "2026-09-19",
+  "trial_import": {
+    "source": "clinical_trials/data/clinical_trials_current.json",
+    "filter": {
+      "mode": "seed",
+      "source_total": 621,
+      "seed_mention": 540,
+      "imported": 540
+    },
+    "condition_hits": {
+      "gulf-war-illness": 2,
+      "long-covid": 349,
+      "lyme": 1,
+      "mcas": 5,
+      "me-cfs": 149,
+      "pacvs": 1,
+      "pots": 76
+    },
+    "agent_link_misses": 124,
+    "notes": "studied_in only (trial→condition and agent→trial). Tier C draft; registration link only. No treats_candidate_for / no invented efficacy outcomes."
   }
 }

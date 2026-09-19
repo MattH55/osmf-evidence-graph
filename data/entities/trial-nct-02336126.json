@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-02336126",
+  "type": "trial",
+  "label": "Biopsychological Intervention in Chronic Fatigue Syndrome - a Pilot Study",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Adolescent Chronic Fatigue Syndrome. Enrollment listed: 8. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT02336126",
+      "url": "https://clinicaltrials.gov/study/NCT02336126"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT02336126"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

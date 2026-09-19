@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06511050",
+  "type": "trial",
+  "label": "Lumbrokinase for Adults With Long Covid, Post-treatment Lyme Disease Syndrome, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE1. Conditions: Long COVID / PASC; ME/CFS; Long Covid; Post-treatment Lyme Disease Syndrome. Enrollment listed: 120. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06511050",
+      "url": "https://clinicaltrials.gov/study/NCT06511050"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06511050"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

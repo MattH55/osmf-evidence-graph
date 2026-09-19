@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04875949",
+  "type": "trial",
+  "label": "Anti-Cholinergic Receptors Antibodies, Autonomic Profile and Dysautonomia Symptoms in PAF, ALS and POTS (DISAUT-AB)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Pure Autonomic Failure; Amyotrophic Lateral Sclerosis; Postural Orthostatic Tachycardia Syndrome; Anti-Cholinergic Receptors Antibodies. Enrollment listed: 75. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04875949",
+      "url": "https://clinicaltrials.gov/study/NCT04875949"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04875949"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

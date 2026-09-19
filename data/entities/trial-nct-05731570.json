@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05731570",
+  "type": "trial",
+  "label": "Cognitive Rehabilitation for People With Cognitive Covid19",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long Covid19. Enrollment listed: 78. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05731570",
+      "url": "https://clinicaltrials.gov/study/NCT05731570"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05731570"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

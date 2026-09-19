@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06585254",
+  "type": "trial",
+  "label": "tVNS in Long COVID-19",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; ME/CFS; Long COVID; Chronic Fatigue Syndrome. Enrollment listed: 50. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06585254",
+      "url": "https://clinicaltrials.gov/study/NCT06585254"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06585254"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

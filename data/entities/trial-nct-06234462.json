@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06234462",
+  "type": "trial",
+  "label": "A Study of Amantadine for Cognitive Dysfunction in Patients With Long-Covid",
+  "aliases": [],
+  "summary": "Status: WITHDRAWN. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID; Post-Acute COVID-19 Syndrome. Enrollment listed: 0. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06234462",
+      "url": "https://clinicaltrials.gov/study/NCT06234462"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06234462"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

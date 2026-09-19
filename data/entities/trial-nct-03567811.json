@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-03567811",
+  "type": "trial",
+  "label": "Exertional Exhaustion in Chronic Fatigue Syndrome",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 72. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT03567811",
+      "url": "https://clinicaltrials.gov/study/NCT03567811"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT03567811"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

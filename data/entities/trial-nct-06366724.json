@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06366724",
+  "type": "trial",
+  "label": "LIFT: Life Improvement Trial",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; ME/CFS; ME/CFS; Long COVID. Enrollment listed: 160. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06366724",
+      "url": "https://clinicaltrials.gov/study/NCT06366724"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06366724"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

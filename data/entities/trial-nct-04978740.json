@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04978740",
+  "type": "trial",
+  "label": "Ocular and Palpebral Manifestations of Mastocytosis (MOOMA)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Mast Cell Activation Disease; Mast Cell Activation Syndrome; Mast Cell Disease; Urticaria Pigmentosa. Enrollment listed: 21. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04978740",
+      "url": "https://clinicaltrials.gov/study/NCT04978740"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04978740"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

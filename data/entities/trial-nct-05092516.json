@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05092516",
+  "type": "trial",
+  "label": "Home-based Brain Stimulation Treatment for Post-acute Sequelae of COVID-19 (PASC)",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Dysexecutive Syndrome; Post-Acute Sequelae of COVID-19. Enrollment listed: 31. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05092516",
+      "url": "https://clinicaltrials.gov/study/NCT05092516"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05092516"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

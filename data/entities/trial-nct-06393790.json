@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06393790",
+  "type": "trial",
+  "label": "Strength Training Protocol in Fibromyalgia Women",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Fibromyalgia; Fatigue; Fatigue; Muscle, Heart. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06393790",
+      "url": "https://clinicaltrials.gov/study/NCT06393790"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06393790"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

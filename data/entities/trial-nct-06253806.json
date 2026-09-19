@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06253806",
+  "type": "trial",
+  "label": "Stellate Ganglion Block for COVID-induced Parosmia",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Long COVID / PASC; COVID-19-Induced Parosmia. Enrollment listed: 48. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06253806",
+      "url": "https://clinicaltrials.gov/study/NCT06253806"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06253806"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

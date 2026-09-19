@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-00962728",
+  "type": "trial",
+  "label": "Breathing Device in Postural Orthostatic Tachycardia Syndrome (POTS)",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Postural Tachycardia Syndrome; Postural Orthostatic Tachycardia Syndrome. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT00962728",
+      "url": "https://clinicaltrials.gov/study/NCT00962728"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT00962728"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

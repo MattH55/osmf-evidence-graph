@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07359482",
+  "type": "trial",
+  "label": "sElective Serotonin reuPtake inhibitoRs In posT-covid After COVID-19",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE3. Conditions: Long COVID / PASC; Post-COVID; POST-Covid 19; Post-COVID Conditions. Enrollment listed: 160. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07359482",
+      "url": "https://clinicaltrials.gov/study/NCT07359482"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07359482"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

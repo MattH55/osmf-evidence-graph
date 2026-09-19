@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06054438",
+  "type": "trial",
+  "label": "Examining the Function of Cs4 on Post-COVID-19 Disorders",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 110. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06054438",
+      "url": "https://clinicaltrials.gov/study/NCT06054438"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06054438"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

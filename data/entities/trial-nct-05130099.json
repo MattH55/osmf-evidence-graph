@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05130099",
+  "type": "trial",
+  "label": "A Complex Intervention for Chronically Fatigued Lymphoma Survivors",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 150. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05130099",
+      "url": "https://clinicaltrials.gov/study/NCT05130099"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05130099"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

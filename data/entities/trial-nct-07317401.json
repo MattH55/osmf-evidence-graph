@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07317401",
+  "type": "trial",
+  "label": "Investigating the Effects of Intermittent Hypoxia-Hyperoxia Treatment (IHHT) in People With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) to Improve Fatigue, Pain, and Quality of Life b…",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: NA. Conditions: ME/CFS; Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) (ICD-10 G93.3). Enrollment listed: 104. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07317401",
+      "url": "https://clinicaltrials.gov/study/NCT07317401"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07317401"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

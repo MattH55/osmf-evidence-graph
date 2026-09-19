@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05932797",
+  "type": "trial",
+  "label": "Multimodal Long Covid19",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long COVID-19 Syndrome. Enrollment listed: 60. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05932797",
+      "url": "https://clinicaltrials.gov/study/NCT05932797"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05932797"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

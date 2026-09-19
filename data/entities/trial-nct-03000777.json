@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-03000777",
+  "type": "trial",
+  "label": "Oral Melatonin Plus Zinc Supplementation in Chronic Fatigue Syndrome/Myalgic Encephalomyelitis (CFS/ME)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Fatigue Syndrome, Chronic; Myalgic Encephalomyelitis. Enrollment listed: 60. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT03000777",
+      "url": "https://clinicaltrials.gov/study/NCT03000777"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT03000777"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05796154",
+  "type": "trial",
+  "label": "POTS Stroke Volume",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: NA. Conditions: POTS. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05796154",
+      "url": "https://clinicaltrials.gov/study/NCT05796154"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05796154"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

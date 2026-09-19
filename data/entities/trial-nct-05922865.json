@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05922865",
+  "type": "trial",
+  "label": "The Effect of Smart Sensor Combined With APP for Individualized Precise Exercise Training in Long Covid-19",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Coronavirus Disease; COVID-19; Long Covid-19. Enrollment listed: 120. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05922865",
+      "url": "https://clinicaltrials.gov/study/NCT05922865"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05922865"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

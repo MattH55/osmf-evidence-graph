@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05279430",
+  "type": "trial",
+  "label": "Effects of IMT on Functional Capacity in Patients With Chronic COVID After Hospital Discharge",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; COVID-19 Pneumonia. Enrollment listed: 26. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05279430",
+      "url": "https://clinicaltrials.gov/study/NCT05279430"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05279430"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

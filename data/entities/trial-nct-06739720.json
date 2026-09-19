@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06739720",
+  "type": "trial",
+  "label": "RCT of Efficacy and Safety of CP003 on CFS/ME or Post-COVID Fatigue",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE2. Conditions: ME/CFS; Chronic Fatigue Syndrome (CFS); Post-COVID ME/CFS. Enrollment listed: 130. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06739720",
+      "url": "https://clinicaltrials.gov/study/NCT06739720"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06739720"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

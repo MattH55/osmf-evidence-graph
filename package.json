@@ -12,7 +12,8 @@
     "validate:dump": "node scripts/validate-dump.js",
     "import:tracker": "node scripts/import_from_research_tracker.mjs",
     "import:tracker:agents": "node scripts/import_agents_from_research_tracker.mjs",
-    "import:tracker:all": "node scripts/import_from_research_tracker.mjs && node scripts/import_agents_from_research_tracker.mjs"
+    "import:tracker:all": "node scripts/import_from_research_tracker.mjs && node scripts/import_agents_from_research_tracker.mjs && node scripts/import_trials_from_research_tracker.mjs",
+    "import:tracker:trials": "node scripts/import_trials_from_research_tracker.mjs"
   },
   "dependencies": {
     "ajv": "^8.17.1",

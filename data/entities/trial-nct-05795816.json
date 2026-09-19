@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05795816",
+  "type": "trial",
+  "label": "Effectiveness of Testofen Compared to Placebo on Long COVID Symptoms",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE3. Conditions: Long COVID / PASC; Long Covid19. Enrollment listed: 150. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05795816",
+      "url": "https://clinicaltrials.gov/study/NCT05795816"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05795816"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

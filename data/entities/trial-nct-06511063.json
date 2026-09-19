@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06511063",
+  "type": "trial",
+  "label": "Antiviral Clinical Trial for Long Covid-19",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Long Covid. Enrollment listed: 90. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06511063",
+      "url": "https://clinicaltrials.gov/study/NCT06511063"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06511063"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06933173",
+  "type": "trial",
+  "label": "RCT of Mind-body in Long COVID and Myalgic Encephalomyelitis",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: ME/CFS; Myalgic Encephalomyelitis/Chronic Fatigue Syndrome. Enrollment listed: 200. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06933173",
+      "url": "https://clinicaltrials.gov/study/NCT06933173"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06933173"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

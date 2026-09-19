@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06235177",
+  "type": "trial",
+  "label": "Psychoneuromentalism Disorder: A Medical Condition That Affects People With Psychological Impairments From Health Issues",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: EARLY_PHASE1. Conditions: ME/CFS; Schizoaffective Disorder, Bipolar Type; Bipolar Disorder; ADHD - Combined Type. Enrollment listed: 30. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06235177",
+      "url": "https://clinicaltrials.gov/study/NCT06235177"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06235177"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

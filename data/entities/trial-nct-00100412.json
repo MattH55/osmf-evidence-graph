@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-00100412",
+  "type": "trial",
+  "label": "Hyporeactivity and Gulf War Illness",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Gulf War Syndrome; Chronic Fatigue Syndrome; Post-Traumatic Stress Disorder. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT00100412",
+      "url": "https://clinicaltrials.gov/study/NCT00100412"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT00100412"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

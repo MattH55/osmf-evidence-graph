@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05851846",
+  "type": "trial",
+  "label": "Amygdala Insula Retraining in the Management of Long COVID Symptoms",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 130. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05851846",
+      "url": "https://clinicaltrials.gov/study/NCT05851846"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05851846"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

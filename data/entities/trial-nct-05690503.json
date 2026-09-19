@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05690503",
+  "type": "trial",
+  "label": "Glutamatergic Modulation as a Treatment for Depressive Symptoms Among Patients With Post-acute Sequelae of COVID (PASC): A Pilot Trial",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Post-acute Sequelae of COVID-19; Depressive Symptoms; Cognitive Dysfunction. Enrollment listed: 12. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05690503",
+      "url": "https://clinicaltrials.gov/study/NCT05690503"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05690503"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

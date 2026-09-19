@@ -1,0 +1,22 @@
+{
+  "id": "osmf:claim:trial-nct-06145867-studied-me-cfs",
+  "subject_id": "osmf:trial:nct-06145867",
+  "predicate": "studied_in",
+  "object_id": "osmf:condition:me-cfs",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "nct",
+      "value": "NCT06145867"
+    },
+    {
+      "type": "url",
+      "value": "https://clinicaltrials.gov/study/NCT06145867"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker clinical_trials JSON. Structural registration link only — not an efficacy grade. Inclusion does not imply study quality, enrollment completeness, or clinical applicability.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:50:46.160Z",
+  "license": "CC-BY-4.0"
+}

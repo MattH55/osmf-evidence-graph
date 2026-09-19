@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05965739",
+  "type": "trial",
+  "label": "RECOVER-NEURO: Platform Protocol, Appendix_A to Measure the Effects of BrainHQ, PASC CoRE and tDCS Interventions on Long COVID Symptoms",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID; Long Covid19; Long Covid-19. Enrollment listed: 328. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05965739",
+      "url": "https://clinicaltrials.gov/study/NCT05965739"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05965739"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

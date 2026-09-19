@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06161688",
+  "type": "trial",
+  "label": "Ensitrelvir for Viral Persistence and Inflammation in People Experiencing Long COVID",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID; Post Acute Sequelae of COVID-19; Post-Acute COVID-19. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06161688",
+      "url": "https://clinicaltrials.gov/study/NCT06161688"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06161688"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

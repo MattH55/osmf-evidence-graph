@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-02854683",
+  "type": "trial",
+  "label": "Reducing Orthostatic Intolerance With Oral Rehydration in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Patients",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: PHASE1. Conditions: ME/CFS; Chronic Fatigue Syndrome; Myalgic Encephalomyelitis; Systemic Exertion Intolerance Disease (SEID). Enrollment listed: 45. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT02854683",
+      "url": "https://clinicaltrials.gov/study/NCT02854683"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT02854683"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

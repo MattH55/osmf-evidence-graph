@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05531019",
+  "type": "trial",
+  "label": "COVID-19 Sequelae: Treatment and Monitoring. A Dietary Supplement Based on Sea Urchin Eggs With Echinochroma A",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 54. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05531019",
+      "url": "https://clinicaltrials.gov/study/NCT05531019"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05531019"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

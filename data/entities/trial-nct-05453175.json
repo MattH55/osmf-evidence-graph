@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05453175",
+  "type": "trial",
+  "label": "Uninterrupted and Interrupted Sitting in Long COVID-19",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; COVID-19. Enrollment listed: 45. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05453175",
+      "url": "https://clinicaltrials.gov/study/NCT05453175"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05453175"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

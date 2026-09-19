@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06792214",
+  "type": "trial",
+  "label": "Antiviral Strategies in the Prevention of Long-term Cardiovascular Outcomes Following COVID-19: The paxloviD/Remdesivir Effectiveness For the prEvention of loNg coviD Clinical Trial",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE4. Conditions: SARS CoV-2 Post-Acute Sequelae. Enrollment listed: 118. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06792214",
+      "url": "https://clinicaltrials.gov/study/NCT06792214"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06792214"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

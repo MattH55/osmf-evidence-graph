@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-02063126",
+  "type": "trial",
+  "label": "Clinical Trial to Measure the Maximun HR After ReConnect ® Supplementation vs. Placebo in CFS.",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 80. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT02063126",
+      "url": "https://clinicaltrials.gov/study/NCT02063126"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT02063126"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

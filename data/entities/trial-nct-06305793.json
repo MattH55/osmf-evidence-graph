@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06305793",
+  "type": "trial",
+  "label": "RECOVER-AUTONOMIC: Platform Protocol, Appendix A (IVIG)",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: PHASE2. Conditions: Long COVID / PASC; Long COVID; Long Coronavirus Disease 2019 (Covid19); Long Covid-19. Enrollment listed: 200. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06305793",
+      "url": "https://clinicaltrials.gov/study/NCT06305793"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06305793"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

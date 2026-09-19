@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04855266",
+  "type": "trial",
+  "label": "Iron Sucrose in Patients With Iron Deficiency and POTS",
+  "aliases": [],
+  "summary": "Status: WITHDRAWN. Phase: PHASE2. Conditions: Iron-deficiency; Postural Orthostatic Tachycardia Syndrome. Enrollment listed: 0. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04855266",
+      "url": "https://clinicaltrials.gov/study/NCT04855266"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04855266"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

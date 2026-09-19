@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06441955",
+  "type": "trial",
+  "label": "Covid-19 Long Haul Preventative and Health Promotion Care Clinical Trial Acceleration Program.",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: PHASE4. Conditions: Long COVID / PASC; COVID-19, Long Haul. Enrollment listed: 100. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06441955",
+      "url": "https://clinicaltrials.gov/study/NCT06441955"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06441955"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

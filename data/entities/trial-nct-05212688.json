@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05212688",
+  "type": "trial",
+  "label": "Randomised Study to Investigate the Effectiveness of Acupuncture for the Relief of Long COVID-19 Related Fatigue",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE2. Conditions: Long COVID / PASC; COVID-19. Enrollment listed: 119. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05212688",
+      "url": "https://clinicaltrials.gov/study/NCT05212688"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05212688"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05719493",
+  "type": "trial",
+  "label": "Effectiveness and Health Benefits of a Nutritional, Chronobiological and Physical Exercise Intervention in Fibromyalgia and Chronic Fatigue Syndrome (SYNCHRONIZE +)",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: ME/CFS; Fibromyalgia; Chronic Fatigue Syndrome. Enrollment listed: 86. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05719493",
+      "url": "https://clinicaltrials.gov/study/NCT05719493"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05719493"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

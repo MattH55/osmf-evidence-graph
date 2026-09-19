@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06091358",
+  "type": "trial",
+  "label": "Inspiratory Muscle Training in People With Long COVID-19- A Pilot Investigation.",
+  "aliases": [],
+  "summary": "Status: UNKNOWN. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 16. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06091358",
+      "url": "https://clinicaltrials.gov/study/NCT06091358"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06091358"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

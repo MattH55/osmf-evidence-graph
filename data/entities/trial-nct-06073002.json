@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06073002",
+  "type": "trial",
+  "label": "Effects of a Home-Based Exercise Intervention in Subjects with Long COVID",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Long COVID-19; Post-COVID-19 Syndrome. Enrollment listed: 20. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06073002",
+      "url": "https://clinicaltrials.gov/study/NCT06073002"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06073002"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

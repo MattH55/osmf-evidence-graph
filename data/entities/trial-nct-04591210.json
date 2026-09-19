@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04591210",
+  "type": "trial",
+  "label": "The COVID-RASi Trial (COVID-19)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE3. Conditions: Long COVID / PASC; COVID-19; Cardiovascular Diseases. Enrollment listed: 372. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04591210",
+      "url": "https://clinicaltrials.gov/study/NCT04591210"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04591210"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

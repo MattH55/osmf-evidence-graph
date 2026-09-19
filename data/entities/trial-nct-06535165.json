@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06535165",
+  "type": "trial",
+  "label": "Effect of Red Beetroot Juice Intake in Adults With Long COVID-19",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 31. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06535165",
+      "url": "https://clinicaltrials.gov/study/NCT06535165"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06535165"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

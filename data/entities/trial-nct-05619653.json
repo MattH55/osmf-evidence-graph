@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05619653",
+  "type": "trial",
+  "label": "Myocardial Protection in Patients With Post-acute Inflammatory Cardiac Involvement Due to COVID-19",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: PHASE3. Conditions: Long COVID / PASC; COVID-19 Associated Cardiac Involvement; Remodeling, Left Ventricle; Remodeling, Vascular. Enrollment listed: 279. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05619653",
+      "url": "https://clinicaltrials.gov/study/NCT05619653"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05619653"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

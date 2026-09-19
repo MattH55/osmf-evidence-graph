@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07585513",
+  "type": "trial",
+  "label": "Beta-3 Enhanced Autonomic Therapy for POTS",
+  "aliases": [],
+  "summary": "Status: NOT YET RECRUITING. Phase: PHASE2. Conditions: Postural Orthostatic Tachycardia Syndrome (POTS). Enrollment listed: 36. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07585513",
+      "url": "https://clinicaltrials.gov/study/NCT07585513"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07585513"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

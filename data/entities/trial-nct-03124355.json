@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-03124355",
+  "type": "trial",
+  "label": "Vagal Stimulation in POTS",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: PHASE1. Conditions: Postural Tachycardia Syndrome. Enrollment listed: 11. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT03124355",
+      "url": "https://clinicaltrials.gov/study/NCT03124355"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT03124355"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

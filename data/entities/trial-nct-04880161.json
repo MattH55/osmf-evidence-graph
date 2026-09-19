@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-04880161",
+  "type": "trial",
+  "label": "A Study to Evaluate Ampion in Patients With Prolonged Respiratory Symptoms Due to COVID-19 (Long COVID)",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE1. Conditions: Long COVID / PASC; Covid19. Enrollment listed: 32. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT04880161",
+      "url": "https://clinicaltrials.gov/study/NCT04880161"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT04880161"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

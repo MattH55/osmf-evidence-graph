@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07559994",
+  "type": "trial",
+  "label": "Diagnostic and Clinical Management of Non-Obstructive Myocardial Ischemia in Patients With Long Covid-19 Syndrome and New Onset Chest Pain",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Angina (Stable); INOCA (Ischemia With Non Obstructive Coronary Artery Disease); Long COVID-19 Syndrome. Enrollment listed: 108. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07559994",
+      "url": "https://clinicaltrials.gov/study/NCT07559994"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07559994"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

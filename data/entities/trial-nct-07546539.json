@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07546539",
+  "type": "trial",
+  "label": "Photobiomodulation in Chronic Fatigue Syndrome",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome (CFS); Quality of Life. Enrollment listed: 40. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07546539",
+      "url": "https://clinicaltrials.gov/study/NCT07546539"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07546539"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

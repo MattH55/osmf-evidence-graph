@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05422924",
+  "type": "trial",
+  "label": "A Web-based Platform to Improve Physical Function, Nutrition, and Mindfulness in Patients With Long COVID",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Long COVID. Enrollment listed: 45. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05422924",
+      "url": "https://clinicaltrials.gov/study/NCT05422924"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05422924"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

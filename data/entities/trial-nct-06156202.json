@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06156202",
+  "type": "trial",
+  "label": "Evaluating a Comprehensive Multimodal Outpatient Rehabilitation Program for PASC Program to Improve Functioning of Persons Suffering From Post-COVID-19 Syndrome: A Randomized Controlled Trial",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID-19; Post-Acute COVID-19 Syndrome; Post-Acute COVID-19 Infection. Enrollment listed: 125. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06156202",
+      "url": "https://clinicaltrials.gov/study/NCT06156202"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06156202"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-00252629",
+  "type": "trial",
+  "label": "Sleep Disordered Breathing in Gulf War Illness and the Effect of Nasal CPAP Treatment",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: NA. Conditions: ME/CFS; Apnea, Sleep; Chronic Fatigue Syndrome. Enrollment listed: 29. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT00252629",
+      "url": "https://clinicaltrials.gov/study/NCT00252629"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT00252629"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

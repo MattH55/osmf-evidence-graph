@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-06978582",
+  "type": "trial",
+  "label": "Effectiveness and Safety of a Tele-Rehabilitation Program on Fatigue and Related Variables in Chronic Fatigue Syndrome and Post COVID Syndrome",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; ME/CFS; Chronic Fatigue Syndrome/ Myalgic Encephalitis (CFS/ME); Post COVID Syndrome. Enrollment listed: 147. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT06978582",
+      "url": "https://clinicaltrials.gov/study/NCT06978582"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT06978582"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

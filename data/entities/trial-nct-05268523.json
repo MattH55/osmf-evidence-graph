@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05268523",
+  "type": "trial",
+  "label": "Self-Management Interventions for Long COVID-19",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: Long COVID / PASC; COVID-19. Enrollment listed: 270. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05268523",
+      "url": "https://clinicaltrials.gov/study/NCT05268523"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05268523"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

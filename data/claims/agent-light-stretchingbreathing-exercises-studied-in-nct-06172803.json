@@ -1,0 +1,22 @@
+{
+  "id": "osmf:claim:agent-light-stretchingbreathing-exercises-studied-in-nct-06172803",
+  "subject_id": "osmf:agent:light-stretchingbreathing-exercises",
+  "predicate": "studied_in",
+  "object_id": "osmf:trial:nct-06172803",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "nct",
+      "value": "NCT06172803"
+    },
+    {
+      "type": "url",
+      "value": "https://clinicaltrials.gov/study/NCT06172803"
+    }
+  ],
+  "limitations": "Auto-imported from OSMF Research Tracker clinical_trials JSON. Structural registration link only — not an efficacy grade. Inclusion does not imply study quality, enrollment completeness, or clinical applicability.",
+  "status": "draft",
+  "reviewed_by": "tracker-import-bot",
+  "reviewed_at": "2026-09-19T17:50:46.160Z",
+  "license": "CC-BY-4.0"
+}

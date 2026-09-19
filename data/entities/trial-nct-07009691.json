@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-07009691",
+  "type": "trial",
+  "label": "Hydrogen Water Intervention With Heart Rate Variability as an Outcome Biomarker in ME/CFS",
+  "aliases": [],
+  "summary": "Status: RECRUITING. Phase: NA. Conditions: ME/CFS; Chronic Fatigue Syndrome. Enrollment listed: 50. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT07009691",
+      "url": "https://clinicaltrials.gov/study/NCT07009691"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT07009691"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

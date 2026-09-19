@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-05676008",
+  "type": "trial",
+  "label": "A Study of Positive Emotions With Long COVID-19",
+  "aliases": [],
+  "summary": "Status: ACTIVE NOT RECRUITING. Phase: NA. Conditions: Long COVID / PASC; Post-Acute COVID-19 Syndrome. Enrollment listed: 400. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT05676008",
+      "url": "https://clinicaltrials.gov/study/NCT05676008"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT05676008"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}

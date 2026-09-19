@@ -1,0 +1,22 @@
+{
+  "id": "osmf:trial:nct-03554265",
+  "type": "trial",
+  "label": "Brain and Gut Plasticity in Mild TBI or Post-acute COVID Syndrome Following Growth Hormone Therapy",
+  "aliases": [],
+  "summary": "Status: COMPLETED. Phase: PHASE3. Conditions: Long COVID / PASC; Traumatic Brain Injury; Fatigue; Cognitive Impairment. Enrollment listed: 72. Registration metadata only; not an efficacy assessment.",
+  "external_ids": [
+    {
+      "system": "nct",
+      "value": "NCT03554265",
+      "url": "https://clinicaltrials.gov/study/NCT03554265"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "other",
+      "href": "https://clinicaltrials.gov/study/NCT03554265"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:50:46.160Z"
+}
