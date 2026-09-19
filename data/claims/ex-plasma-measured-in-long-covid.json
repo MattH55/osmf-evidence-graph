@@ -1,0 +1,19 @@
+{
+  "id": "osmf:claim:ex-plasma-measured-in-long-covid",
+  "subject_id": "osmf:biomarker:spike-persistence",
+  "predicate": "measured_in",
+  "object_id": "osmf:specimen-type:plasma",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "url",
+      "value": "https://spikeprotein.site/",
+      "label": "spikeprotein.site hub (example seed source)"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Illustrates biobank specimen linkage; assay methods vary widely.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

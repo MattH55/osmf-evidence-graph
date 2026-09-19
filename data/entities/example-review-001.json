@@ -1,0 +1,16 @@
+{
+  "id": "osmf:paper:example-review-001",
+  "type": "paper",
+  "label": "Example review (placeholder)",
+  "aliases": [],
+  "summary": "Placeholder paper node. Attach a real DOI/PMID when curating.",
+  "external_ids": [
+    {
+      "system": "doi",
+      "value": "10.0000/osmf.example.review.001"
+    }
+  ],
+  "urls": [],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

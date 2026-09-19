@@ -1,0 +1,20 @@
+{
+  "id": "osmf:claim:ex-pem-of-long-covid",
+  "subject_id": "osmf:phenotype:pem",
+  "predicate": "phenotype_of",
+  "object_id": "osmf:condition:long-covid",
+  "evidence_tier": "B",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/",
+      "label": "OSMF Research Tracker (example seed source)"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Source is a hub page placeholder, not a primary study. Replace with curated literature before publish.",
+  "confidence_notes": "Structural example of phenotype\u2192condition link.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "osmf:condition:me-cfs",
+  "type": "condition",
+  "label": "ME/CFS",
+  "aliases": [
+    "myalgic encephalomyelitis",
+    "chronic fatigue syndrome",
+    "MECFS"
+  ],
+  "summary": "Myalgic encephalomyelitis / chronic fatigue syndrome; post-infectious subset overlaps other post-viral syndromes.",
+  "external_ids": [
+    {
+      "system": "mesh",
+      "value": "D015673"
+    },
+    {
+      "system": "other",
+      "value": "example-seed"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "tracker",
+      "href": "https://research.opensourcemed.info/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

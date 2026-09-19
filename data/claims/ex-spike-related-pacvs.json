@@ -1,0 +1,19 @@
+{
+  "id": "osmf:claim:ex-spike-related-pacvs",
+  "subject_id": "osmf:biomarker:spike-persistence",
+  "predicate": "related_to",
+  "object_id": "osmf:condition:pacvs",
+  "evidence_tier": "D",
+  "sources": [
+    {
+      "type": "url",
+      "value": "https://spikeprotein.site/",
+      "label": "spikeprotein.site hub (example seed source)"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Contested and evolving area; included to show D-tier uncertainty UX. Do not present as established fact.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

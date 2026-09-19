@@ -1,0 +1,13 @@
+{
+  "id": "osmf:biomarker:resting-heart-rate-orthostatic",
+  "type": "biomarker",
+  "label": "Orthostatic heart-rate increment",
+  "aliases": [
+    "30 bpm criterion (adult, example label)"
+  ],
+  "summary": "Heart-rate increase from supine to standing used in POTS research definitions (thresholds vary by guideline).",
+  "external_ids": [],
+  "urls": [],
+  "status": "active",
+  "updated_at": "2026-09-18T21:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "osmf:claim:ex-mcas-related-long-covid",
+  "subject_id": "osmf:condition:mcas",
+  "predicate": "related_to",
+  "object_id": "osmf:condition:long-covid",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "osmf_page",
+      "value": "https://research.opensourcemed.info/",
+      "label": "OSMF Research Tracker (example seed source)"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Comorbidity/overlap discussion only; not a causal model.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}

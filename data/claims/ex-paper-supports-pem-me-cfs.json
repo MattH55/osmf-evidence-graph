@@ -1,0 +1,19 @@
+{
+  "id": "osmf:claim:ex-paper-supports-pem-me-cfs",
+  "subject_id": "osmf:claim:ex-pem-of-me-cfs",
+  "predicate": "supported_by",
+  "object_id": "osmf:paper:example-review-001",
+  "evidence_tier": "C",
+  "sources": [
+    {
+      "type": "doi",
+      "value": "10.0000/osmf.example.review.001",
+      "label": "Placeholder DOI"
+    }
+  ],
+  "limitations": "EXAMPLE CLAIM. Shows claim\u2190paper support edge using a fake DOI namespace for demos.",
+  "status": "draft",
+  "reviewed_by": "example-curator",
+  "reviewed_at": "2026-09-18T21:00:00Z",
+  "license": "CC-BY-4.0"
+}
