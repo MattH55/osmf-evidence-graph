@@ -34,7 +34,7 @@ npm run build:dump      # → dist/dump/latest.json (+ refreshes examples/seed-d
 npm run validate:dump   # AJV vs schemas/dump.bundled.schema.json
 ```
 
-CI (`.github/workflows/validate-dump.yml`) runs the same build + validate on every push/PR and **fails on an invalid dump**.
+CI workflow YAML: `ci/validate-dump.github-actions.yml` (copy to `.github/workflows/validate-dump.yml` to enable Actions — see `.github/README.md`). Locally, `validate:dump` **fails on an invalid dump**.
 
 ## Important
 
