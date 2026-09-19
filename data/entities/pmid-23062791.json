@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-23062791",
+  "type": "paper",
+  "label": "Use of lisdexamfetamine dimesylate in treatment of executive functioning deficits and chronic fatigue syndrome: a double blind, placebo-controlled study.",
+  "aliases": [],
+  "summary": "Psychiatry Res 2013: small LDX RCT in CFS with executive deficits.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "23062791",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23062791/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/23062791/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

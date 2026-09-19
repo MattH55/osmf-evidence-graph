@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-21334061",
+  "type": "paper",
+  "label": "Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy, and specialist medical care for chronic fatigue syndrome (PACE): a randomised trial.",
+  "aliases": [],
+  "summary": "Lancet 2011 PACE trial; contested CBT/GET evidence base for ME/CFS.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "21334061",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21334061/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/21334061/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

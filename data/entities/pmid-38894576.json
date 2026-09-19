@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-38894576",
+  "type": "paper",
+  "label": "Growth hormone treatment for neurologic symptoms of post-acute sequelae of COVID-19.",
+  "aliases": [],
+  "summary": "Clin Transl Sci 2024: open-label n=13 somatropin pilot in neurologic PASC.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "38894576",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38894576/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/38894576/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

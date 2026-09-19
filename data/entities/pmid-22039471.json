@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-22039471",
+  "type": "paper",
+  "label": "Benefit from B-lymphocyte depletion using the anti-CD20 antibody rituximab in chronic fatigue syndrome. A double-blind and placebo-controlled study.",
+  "aliases": [],
+  "summary": "PLoS One 2011 Phase 2 rituximab signal later refuted by RituxME.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "22039471",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22039471/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/22039471/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

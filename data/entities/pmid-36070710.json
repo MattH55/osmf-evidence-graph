@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-36070710",
+  "type": "paper",
+  "label": "Randomized Trial of Metformin, Ivermectin, and Fluvoxamine for Covid-19.",
+  "aliases": [],
+  "summary": "NEJM 2022 COVID-OUT acute primary outcomes.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "36070710",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36070710/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/36070710/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

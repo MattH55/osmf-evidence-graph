@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:paxlovid-nirmatrelvir-ritonavir",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -12,61 +12,29 @@
     },
     {
       "type": "pmid",
-      "value": "42406565"
+      "value": "38848477",
+      "label": "PMID 38848477: STOP-PASC: Nirmatrelvir-Ritonavir and Symptoms in Adults With PASC"
     },
     {
       "type": "pmid",
-      "value": "42402140"
+      "value": "42673984",
+      "label": "PMID 42673984: RECOVER-VITAL: nirmatrelvir–ritonavir targeting viral persistence in long COVID"
     },
     {
       "type": "nct",
-      "value": "NCT07597902"
+      "value": "NCT05576662",
+      "label": "NCT05576662: Paxlovid for Treatment of Long Covid (STOP-PASC)"
     },
     {
       "type": "nct",
-      "value": "NCT05965726"
-    },
-    {
-      "type": "nct",
-      "value": "NCT05595369"
-    },
-    {
-      "type": "nct",
-      "value": "NCT05852873"
-    },
-    {
-      "type": "nct",
-      "value": "NCT05576662"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06441955"
-    },
-    {
-      "type": "pmid",
-      "value": "35271343"
-    },
-    {
-      "type": "pmid",
-      "value": "36639608"
-    },
-    {
-      "type": "pmid",
-      "value": "36951832"
-    },
-    {
-      "type": "pmid",
-      "value": "37076602"
-    },
-    {
-      "type": "pmid",
-      "value": "39866113"
+      "value": "NCT05965726",
+      "label": "NCT05965726: RECOVER-VITAL Appendix (Paxlovid)"
     }
   ],
-  "limitations": "Key refs: NCT07597902 (NOT_YET_RECRUITING), NCT05965726 (COMPLETED), NCT05595369 (COMPLETED), NCT05852873 (ACTIVE_NOT_RECRUITING), NCT05576662 (COMPLETED), PMID:35271343. Evaluated from extracted references on 2026-09-19; not a systematic review. Multiple Phase 2 LC trials exist; results mixed/limited for established PASC\u2014early clinical signal tier C, not B. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Observational prevention-of-LC associations ≠ treatment of established PASC. STOP-PASC used 15-day course; RECOVER-VITAL tested 15 and 25 days—both null. Viral-persistence hypothesis not supported by these clinical endpoints. Drug-drug interactions via ritonavir remain relevant. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Multiple Phase 2 LC trials exist; results mixed/limited for established PASC\u2014early clinical signal tier C, not B. | Nirmatrelvir/ritonavir has been tested for post-COVID / long COVID in several trials; available public results are mixed and do not yet constitute solid consensus treatment evidence. Trial statuses: NOT_YET_RECRUITING, COMPLETED, COMPLETED, ACTIVE_NOT_RECRUITING, COMPLETED. Search hits=1525."
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: Two independent Phase 2 RCTs of nirmatrelvir/ritonavir for established PASC are negative: STOP-PASC (PMID 38848477) and RECOVER-VITAL (PMID 42673984, Lancet Infect Dis 2026). Observational signals for acute Paxlovid reducing later LC risk do not establish treatment efficacy. Contested/insufficient → D. Prior evidence-eval-bot C → D after STOP-PASC + RECOVER-VITAL primary review."
 }

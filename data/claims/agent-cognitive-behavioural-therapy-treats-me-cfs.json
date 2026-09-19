@@ -11,34 +11,25 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "nct",
-      "value": "NCT00860236"
+      "type": "pmid",
+      "value": "21334061",
+      "label": "PMID 21334061: Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exerc"
     },
     {
-      "type": "pmid",
-      "value": "20350028"
+      "type": "url",
+      "value": "https://www.nice.org.uk/guidance/ng206",
+      "label": "NICE NG206 Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and man"
     },
     {
-      "type": "pmid",
-      "value": "23459093"
-    },
-    {
-      "type": "pmid",
-      "value": "34373540"
-    },
-    {
-      "type": "pmid",
-      "value": "36178003"
-    },
-    {
-      "type": "pmid",
-      "value": "36639608"
+      "type": "url",
+      "value": "https://www.cdc.gov/me-cfs/hcp/clinical-care/index.html",
+      "label": "CDC ME/CFS clinical care"
     }
   ],
-  "limitations": "Key refs: NCT00860236 (COMPLETED), PMID:20350028, PMID:23459093, PMID:34373540, PMID:36178003, PMID:36639608. Evaluated from extracted references on 2026-09-19; not a systematic review. CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Guideline conflict (older CBT/GET-positive reviews vs NICE NG206). PACE methodological controversies. Risk of harm if CBT is paired with graded exercise that triggers PEM. Prior eval linked off-target mindfulness/meta-analysis PMIDs—replaced with PACE + NG206. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] CBT for ME/CFS remains highly contested (PACE controversy; NICE NG206 does not recommend CBT as curative). Tier D. | CBT has been studied in ME/CFS, but the evidence base is contested and guideline positions diverge; it should not be framed as solid disease-modifying clinical evidence. Linked trial status: COMPLETED. Search hits=2590."
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D/published retained after deep-dive. Contested framing preserved."
 }

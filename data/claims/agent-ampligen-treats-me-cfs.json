@@ -11,34 +11,25 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "22431963",
+      "label": "PMID 22431963: A Double-Blind, Placebo-Controlled, Randomized, Clinical Trial of the TLR-3 Agon"
+    },
+    {
       "type": "nct",
-      "value": "NCT00215800"
+      "value": "NCT00215800",
+      "label": "NCT00215800: The Study of the Safety and Efficacy of Ampligen in Chronic Fatigue Syndrome"
     },
     {
-      "type": "pmid",
-      "value": "18202435"
-    },
-    {
-      "type": "pmid",
-      "value": "20713100"
-    },
-    {
-      "type": "pmid",
-      "value": "24316048"
-    },
-    {
-      "type": "pmid",
-      "value": "29730580"
-    },
-    {
-      "type": "pmid",
-      "value": "34024217"
+      "type": "url",
+      "value": "https://www.sec.gov/Archives/edgar/data/946644/000114420413006126/v333954_ex99-1.htm",
+      "label": "FDA Complete Response Letter declining Ampligen NDA for CFS"
     }
   ],
-  "limitations": "Key refs: NCT00215800 (COMPLETED), PMID:18202435, PMID:20713100, PMID:24316048, PMID:29730580, PMID:34024217. Evaluated from extracted references on 2026-09-19; not a systematic review. Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "FDA and sponsor disagree on AMP-516 primary p-value (0.10 vs 0.047). No US approval; CRL required another controlled trial. Safety signals cited by FDA (thrombosis, cardiac events, infusion reactions/unblinding risk). Limited independent replication. Results not posted on CT.gov for NCT00215800. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "MattH55+evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[high] Previously human-graded C/published by MattH55 (2026-09-19); retained (completed Phase 3 Ampligen CFS trial exists but results contested/not broadly approved). | Human-locked claim retained as tier C. Linked trial(s): NCT00215800:COMPLETED. Literature search '(Ampligen OR rintatolimod) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")' returned 136 Europe PMC hits. Evidence remains early/contested rather than consensus clinical support."
+  "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: MattH55+evidence-eval-bot. Tier unchanged (C). Prior MattH55+evidence-eval-bot C/published retained. Replaced off-target TLR review PMIDs with primary AMP-516 + regulatory record."
 }

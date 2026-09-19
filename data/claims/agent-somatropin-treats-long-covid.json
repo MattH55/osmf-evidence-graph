@@ -11,34 +11,20 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "38894576",
+      "label": "PMID 38894576: Growth hormone treatment for neurologic symptoms of post-acute sequelae of COVID"
+    },
+    {
       "type": "nct",
-      "value": "NCT03554265"
-    },
-    {
-      "type": "pmid",
-      "value": "36334362"
-    },
-    {
-      "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "37680987"
-    },
-    {
-      "type": "pmid",
-      "value": "37759668"
-    },
-    {
-      "type": "pmid",
-      "value": "39382470"
+      "value": "NCT03554265",
+      "label": "NCT03554265: Brain and Gut Plasticity in Mild TBI or Post-acute COVID Syndrome Following Grow"
     }
   ],
-  "limitations": "Key refs: NCT03554265 (COMPLETED), PMID:36334362, PMID:36969241, PMID:37680987, PMID:37759668, PMID:39382470. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "n=13 open-label; selection requires documented low GH response; symptoms rebound on cessation; no placebo control for symptom outcomes; GH costs/risks (edema, glucose, IGF-1 monitoring). NCT03554265 mixes mTBI and PASC. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. | Extracted 1 registry trial(s) for Somatropin \u2192 Long COVID: NCT03554265 (COMPLETED, phase=PHASE3, n=72, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 36334362: An improved Fuzzy based GWO algorithm for predicting the potential host receptor of COVID-19 infection.; PMID 36969241: Therapeutic trials for long COVID-19: A call to action from the interventions taskforce of the RECOV"
+  "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained; replaced off-target PMIDs with Wright 2024 primary."
 }

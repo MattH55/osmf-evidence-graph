@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-30934066",
+  "type": "paper",
+  "label": "B-Lymphocyte Depletion in Patients With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+  "aliases": [],
+  "summary": "Annals 2019 RituxME Phase 3 negative for rituximab in ME/CFS.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "30934066",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30934066/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/30934066/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

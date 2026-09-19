@@ -11,46 +11,35 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "nct",
+      "value": "NCT04510194",
+      "label": "NCT04510194: COVID-OUT (acute metformin; long-COVID incidence secondary)"
+    },
+    {
       "type": "pmid",
-      "value": "40544605"
+      "value": "37302406",
+      "label": "PMID 37302406: COVID-OUT: outpatient metformin and incidence of post-COVID-19 condition"
+    },
+    {
+      "type": "pmid",
+      "value": "36070710",
+      "label": "PMID 36070710: COVID-OUT acute primary outcomes"
+    },
+    {
+      "type": "pmid",
+      "value": "41911553",
+      "label": "PMID 41911553: REVIVE: fluvoxamine and metformin for Long COVID fatigue"
     },
     {
       "type": "nct",
-      "value": "NCT04510194"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06128967"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06147050"
-    },
-    {
-      "type": "pmid",
-      "value": "35668219"
-    },
-    {
-      "type": "pmid",
-      "value": "36050306"
-    },
-    {
-      "type": "pmid",
-      "value": "36695182"
-    },
-    {
-      "type": "pmid",
-      "value": "38264914"
-    },
-    {
-      "type": "pmid",
-      "value": "39866113"
+      "value": "NCT06147050",
+      "label": "NCT06147050: Metformin for fatigue in adolescent Long COVID"
     }
   ],
-  "limitations": "Key refs: NCT04510194 (COMPLETED), NCT06128967 (COMPLETED), NCT06147050 (UNKNOWN), PMID:35668219, PMID:36050306, PMID:36695182. Evaluated from extracted references on 2026-09-19; not a systematic review. COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited \u2192 C not B. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "CRITICAL: do not conflate COVID-OUT prevention HR 0.59 with efficacy in established PASC. REVIVE metformin arm negative for fatigue. Adolescent NCT06147050 too small/unknown status. Overweight/obesity COVID-OUT population limits generalizability of prevention finding. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] COVID-OUT / related work supports a prevention signal for incident long COVID; treatment of established LC remains early/limited \u2192 C not B. | Metformin has a notable signal for reducing incidence of long COVID after acute infection in randomized data, but that is prevention rather than treatment of established Long COVID. Linked trials: NCT04510194:COMPLETED, NCT06128967:COMPLETED, NCT06147050:UNKNOWN. Literature includes preclinical GWI work and PACVS map notes. Search hits=1165."
+  "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained with sharpened prevention≠treatment synthesis and REVIVE negative treatment arm."
 }

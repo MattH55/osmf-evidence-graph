@@ -11,38 +11,25 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "pmid",
-      "value": "41421419"
+      "type": "url",
+      "value": "https://www.nice.org.uk/guidance/ng95",
+      "label": "NICE NG95 Lyme disease"
     },
     {
-      "type": "nct",
-      "value": "NCT04510194"
-    },
-    {
-      "type": "pmid",
-      "value": "18323583"
-    },
-    {
-      "type": "pmid",
-      "value": "29186062"
+      "type": "url",
+      "value": "https://www.idsociety.org/practice-guideline/lyme-disease/",
+      "label": "IDSA/AAN/ACR 2020 Lyme guidelines"
     },
     {
       "type": "pmid",
-      "value": "32047861"
-    },
-    {
-      "type": "pmid",
-      "value": "39326415"
-    },
-    {
-      "type": "pmid",
-      "value": "39947217"
+      "value": "36070710",
+      "label": "PMID 36070710: Randomized Trial of Metformin, Ivermectin, and Fluvoxamine for Covid-19 (COVID-O"
     }
   ],
-  "limitations": "Key refs: NCT04510194 (COMPLETED), PMID:18323583, PMID:29186062, PMID:32047861, PMID:39326415, PMID:39947217. Evaluated from extracted references on 2026-09-19; not a systematic review. Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Absence of evidence is not a systematic 'empty review' formalized here, but guideline omission plus lack of PubMed interventional trials is decisive for D. Do not cite acute-COVID ivermectin trials as Lyme evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[high] Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. | For Chronic Lyme / PTLDS, extracted trials/literature do not provide solid supportive clinical efficacy for ivermectin. Broader COVID literature is contested; tracker PMID linkage may be off-target (safety/case report). CT.gov statuses: COMPLETED. Search hits=18."
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D retained. Removed COVID-OUT as a Lyme source."
 }

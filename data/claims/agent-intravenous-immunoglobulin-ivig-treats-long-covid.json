@@ -11,50 +11,20 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
-      "type": "pmid",
-      "value": "42391726"
-    },
-    {
-      "type": "pmid",
-      "value": "42243711"
-    },
-    {
-      "type": "pmid",
-      "value": "42137701"
+      "type": "nct",
+      "value": "NCT06305793",
+      "label": "NCT06305793: RECOVER-AUTONOMIC Appendix A (IVIG)"
     },
     {
       "type": "nct",
-      "value": "NCT06305793"
-    },
-    {
-      "type": "nct",
-      "value": "NCT06305780"
-    },
-    {
-      "type": "pmid",
-      "value": "33428867"
-    },
-    {
-      "type": "pmid",
-      "value": "33753937"
-    },
-    {
-      "type": "pmid",
-      "value": "36639608"
-    },
-    {
-      "type": "pmid",
-      "value": "36695182"
-    },
-    {
-      "type": "pmid",
-      "value": "38264914"
+      "value": "NCT06305780",
+      "label": "NCT06305780: RECOVER-AUTONOMIC Platform Protocol"
     }
   ],
-  "limitations": "Key refs: NCT06305793 (COMPLETED), NCT06305780 (COMPLETED), PMID:33428867, PMID:33753937, PMID:36639608, PMID:36695182. Evaluated from extracted references on 2026-09-19; not a systematic review. Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Efficacy results for NCT06305793 not public. Off-target PMIDs from prior eval (generic Long COVID reviews, cardiology stats) removed. Cost/access and infusion risks relevant if used off-label. Distinct from IVIG-for-POTS evidence. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] Early clinical (completed Phase 2+/small) without verified supportive Phase 3 synthesis \u2192 C. | Extracted 2 registry trial(s) for Intravenous Immunoglobulin (IVIG) \u2192 Long COVID: NCT06305793 (COMPLETED, phase=PHASE2, n=200, relevant=True); NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33428867: 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study.; PMID 33753937: Post-acute COVID-19 syndrome.; P"
+  "confidence_notes": "[medium] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (C). Prior evidence-eval-bot C retained. Waiting on RECOVER appendix A primary publication."
 }

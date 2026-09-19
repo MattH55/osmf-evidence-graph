@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-38848477",
+  "type": "paper",
+  "label": "Nirmatrelvir-Ritonavir and Symptoms in Adults With Postacute Sequelae of SARS-CoV-2 Infection: The STOP-PASC Randomized Clinical Trial.",
+  "aliases": [],
+  "summary": "JAMA Intern Med 2024: 15-day Paxlovid null for established PASC.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "38848477",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38848477/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/38848477/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T17:28:00Z"
+}

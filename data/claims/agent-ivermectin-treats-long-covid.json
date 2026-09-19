@@ -12,37 +12,24 @@
     },
     {
       "type": "pmid",
-      "value": "41421419"
+      "value": "37302406",
+      "label": "PMID 37302406: COVID-OUT long COVID incidence secondary outcome"
+    },
+    {
+      "type": "pmid",
+      "value": "36070710",
+      "label": "PMID 36070710: COVID-OUT acute severity primary"
     },
     {
       "type": "nct",
-      "value": "NCT04510194"
-    },
-    {
-      "type": "pmid",
-      "value": "33856918"
-    },
-    {
-      "type": "pmid",
-      "value": "33941622"
-    },
-    {
-      "type": "pmid",
-      "value": "36115368"
-    },
-    {
-      "type": "pmid",
-      "value": "37076602"
-    },
-    {
-      "type": "pmid",
-      "value": "38378653"
+      "value": "NCT04510194",
+      "label": "NCT04510194: COVID-OUT"
     }
   ],
-  "limitations": "Key refs: NCT04510194 (COMPLETED), PMID:33856918, PMID:33941622, PMID:36115368, PMID:37076602, PMID:38378653. Evaluated from extracted references on 2026-09-19; not a systematic review. Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
+  "limitations": "Prevention ≠ treatment of established PASC. Observational/anecdotal ivermectin-for-LC claims are uncontrolled. Regulatory/public-health bodies have warned against ivermectin for COVID outside trials. Not medical advice. Tracker Moderate label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T17:30:00Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T17:28:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[high] Ivermectin lacks reliable supportive RCTs for established Long COVID / PTLDS treatment; contested. | For Long COVID, extracted trials/literature do not provide solid supportive clinical efficacy for ivermectin. Broader COVID literature is contested; tracker PMID linkage may be off-target (safety/case report). CT.gov statuses: COMPLETED. Search hits=703."
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier unchanged (D). Prior evidence-eval-bot D retained after primary-source check."
 }
