@@ -12,45 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT05747534"
+      "value": "NCT05747534",
+      "label": "NCT05747534: AT1001 for the Treatment of Long COVID"
     },
     {
       "type": "pmid",
-      "value": "39947217"
-    },
-    {
-      "type": "pmid",
-      "value": "40529374"
-    },
-    {
-      "type": "pmid",
-      "value": "42325367"
-    },
-    {
-      "type": "pmid",
-      "value": "35727635"
-    },
-    {
-      "type": "pmid",
-      "value": "35868344"
-    },
-    {
-      "type": "pmid",
-      "value": "36476388"
-    },
-    {
-      "type": "pmid",
-      "value": "39326415"
-    },
-    {
-      "type": "pmid",
-      "value": "39774607"
+      "value": "39947217",
+      "label": "PMID 39947217: Targeting the SARS-CoV-2 reservoir in long COVID."
     }
   ],
-  "limitations": "Key refs: NCT05747534 (COMPLETED), PMID:39947217, PMID:40529374, PMID:42325367, PMID:35727635, PMID:35868344. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "No public efficacy numbers. Prior MIS-C/celiac larazotide data are different indications. GI AE profile TBD in PASC. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Larazotide Acetate \u2192 Long COVID: NCT05747534 (COMPLETED, phase=PHASE2, n=107, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35727635: Markers of fungal translocation are elevated during post-acute sequelae of SARS-CoV-2 and induce NF-\u03baB signaling.; PMID 35868344: Gut-brain communication in COVID-19: molecular mechanisms, med"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed fungal-translocation/biomarker off-targets as primary sources."
 }

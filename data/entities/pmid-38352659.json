@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-38352659",
+  "type": "paper",
+  "label": "Low-dose naltrexone and NAD+ for persistent fatigue after COVID-19.",
+  "aliases": [],
+  "summary": "2024: open-label LDN+NAD+ pilot.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "38352659",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38352659/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/38352659/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

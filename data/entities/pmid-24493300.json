@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-24493300",
+  "type": "paper",
+  "label": "Disease mechanisms and clonidine treatment in adolescent chronic fatigue syndrome.",
+  "aliases": [],
+  "summary": "JAMA Pediatr 2014: NorCAPITAL clonidine not clinically useful.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "24493300",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24493300/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/24493300/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

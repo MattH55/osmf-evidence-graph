@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-28265678",
+  "type": "paper",
+  "label": "Cytokine Inhibition in Patients With Chronic Fatigue Syndrome: A Randomized Trial.",
+  "aliases": [],
+  "summary": "Annals Intern Med 2017: anakinra null in CFS.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "28265678",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28265678/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/28265678/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

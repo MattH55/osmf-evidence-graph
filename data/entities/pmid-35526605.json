@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-35526605",
+  "type": "paper",
+  "label": "Neurovascular Dysregulation and Acute Exercise Intolerance in ME/CFS: RCT of Pyridostigmine.",
+  "aliases": [],
+  "summary": "Chest 2022: acute pyridostigmine improved peak VO2.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "35526605",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35526605/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/35526605/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-39994269",
+  "type": "paper",
+  "label": "Plasma exchange therapy for the post COVID-19 condition: a phase II RCT.",
+  "aliases": [],
+  "summary": "2025: TPE vs sham null efficacy.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "39994269",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39994269/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/39994269/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

@@ -12,41 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT06316843"
+      "value": "NCT06316843",
+      "label": "NCT06316843: Valacyclovir Plus Celecoxib for Post-Acute Sequelae of SARS-CoV-2"
     },
     {
       "type": "pmid",
-      "value": "41836927"
-    },
-    {
-      "type": "pmid",
-      "value": "40559563"
-    },
-    {
-      "type": "pmid",
-      "value": "33052705"
-    },
-    {
-      "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "39762640"
-    },
-    {
-      "type": "pmid",
-      "value": "39984803"
-    },
-    {
-      "type": "pmid",
-      "value": "41257741"
+      "value": "41562079",
+      "label": "PMID 41562079: Patient-reported improvements from use of IMC-2\u2026 case series."
     }
   ],
-  "limitations": "Key refs: NCT06316843 (COMPLETED), PMID:41836927, PMID:40559563, PMID:33052705, PMID:36969241, PMID:39762640. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Same as Dose 1. Separate claim rows should not be read as two independent positive trials. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Valacyclovir Celecoxib Dose 2 \u2192 Long COVID: NCT06316843 (COMPLETED, phase=PHASE2, n=59, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33052705: Angioedema in African American Patients Hospitalized for COVID-19.; PMID 36969241: Therapeutic trials for long COVID-19: A call to action from the interventions taskforce of the RECO"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
 }

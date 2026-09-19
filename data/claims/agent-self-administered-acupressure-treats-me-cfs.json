@@ -3,7 +3,7 @@
   "subject_id": "osmf:agent:self-administered-acupressure",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:me-cfs",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
@@ -12,33 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT00959998"
+      "value": "NCT00959998",
+      "label": "NCT00959998: Acupressure for Post-Treatment Cancer Fatigue"
     },
     {
       "type": "pmid",
-      "value": "21982157"
-    },
-    {
-      "type": "pmid",
-      "value": "22340435"
-    },
-    {
-      "type": "pmid",
-      "value": "23067573"
-    },
-    {
-      "type": "pmid",
-      "value": "34490854"
-    },
-    {
-      "type": "pmid",
-      "value": "38214047"
+      "value": "21982157",
+      "label": "PMID 21982157: The evidence for Shiatsu: a systematic review of Shiatsu and acupressure."
     }
   ],
-  "limitations": "Key refs: NCT00959998 (COMPLETED), PMID:21982157, PMID:22340435, PMID:23067573, PMID:34490854, PMID:38214047. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Off-target NCT. Acupressure may still be studied for ME/CFS elsewhere, but not via this claim's primary source. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Self-Administered Acupressure \u2192 ME/CFS: NCT00959998 (COMPLETED, phase=PHASE2, n=43, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 21982157: The evidence for Shiatsu: a systematic review of Shiatsu and acupressure.; PMID 22340435: Societal and individual burden of illness among fibromyalgia patients in France: association bet"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: NCT00959998 is post-treatment cancer fatigue, not ME/CFS\u2014off-target non-therapeutic mapping \u2192 D. Deep-dive: TIER CHANGED C\u2192D (non-therapeutic/off-target)."
 }

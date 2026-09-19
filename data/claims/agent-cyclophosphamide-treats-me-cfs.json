@@ -11,50 +11,20 @@
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "32411717",
+      "label": "PMID 32411717: Intravenous Cyclophosphamide in Myalgic Encephalomyelitis/Chronic Fatigue Syndro"
+    },
+    {
       "type": "nct",
-      "value": "NCT02444091"
-    },
-    {
-      "type": "pmid",
-      "value": "28018972"
-    },
-    {
-      "type": "pmid",
-      "value": "34423789"
-    },
-    {
-      "type": "pmid",
-      "value": "32210306"
-    },
-    {
-      "type": "pmid",
-      "value": "32411717"
-    },
-    {
-      "type": "pmid",
-      "value": "10515901"
-    },
-    {
-      "type": "pmid",
-      "value": "17655751"
-    },
-    {
-      "type": "pmid",
-      "value": "19375665"
-    },
-    {
-      "type": "pmid",
-      "value": "2683611"
-    },
-    {
-      "type": "pmid",
-      "value": "34630027"
+      "value": "NCT02444091",
+      "label": "NCT02444091: Cyclophosphamide in Myalgic Encephalopathy/ Chronic Fatigue Syndrome (ME/CFS)"
     }
   ],
-  "limitations": "Key refs: NCT02444091 (COMPLETED), PMID:28018972, PMID:34423789, PMID:32210306, PMID:32411717, PMID:10515901. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Open-label; no placebo. Chemotherapy-grade risks (infection, infertility, secondary malignancy, cytopenias). Not for routine care. RituxME failure cautions against over-generalizing B-cell/immune hypotheses. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Cyclophosphamide \u2192 ME/CFS: NCT02444091 (COMPLETED, phase=PHASE2, n=40, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 10515901: Q fever.; PMID 17655751: Sweet's syndrome--a comprehensive review of an acute febrile neutrophilic dermatosis.; PMID 19375665: Autoimmune myasthenia gravis: emerging clinical and biological heterogen"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed off-target Q fever/Sweet syndrome PMIDs."
 }

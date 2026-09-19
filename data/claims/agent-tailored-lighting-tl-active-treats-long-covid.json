@@ -12,41 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT06404112"
+      "value": "NCT06404112",
+      "label": "NCT06404112: RECOVER-SLEEP Appendix_B (CPSD)"
     },
     {
       "type": "nct",
-      "value": "NCT06404086"
-    },
-    {
-      "type": "pmid",
-      "value": "40537100"
-    },
-    {
-      "type": "pmid",
-      "value": "34687662"
-    },
-    {
-      "type": "pmid",
-      "value": "36202135"
-    },
-    {
-      "type": "pmid",
-      "value": "37712135"
-    },
-    {
-      "type": "pmid",
-      "value": "37977174"
-    },
-    {
-      "type": "pmid",
-      "value": "39471819"
+      "value": "NCT06404086",
+      "label": "NCT06404086: RECOVER-SLEEP Platform"
     }
   ],
-  "limitations": "Key refs: NCT06404112 (COMPLETED), PMID:40537100, NCT06404086 (COMPLETED), PMID:34687662, PMID:36202135, PMID:37712135. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Results unpublished. Prior Lancet Countdown climate PMIDs were off-target and removed. Lighting is symptomatic circadian support, not proven LC disease modification. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Tailored Lighting (Tl) Active \u2192 Long COVID: NCT06404112 (COMPLETED, phase=PHASE2, n=469, relevant=True); NCT06404086 (COMPLETED, phase=PHASE2, n=830, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34687662: The 2021 report of the Lancet Countdown on health and climate change: code red for a healthy future.; PMID 36202135: Cli"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
 }

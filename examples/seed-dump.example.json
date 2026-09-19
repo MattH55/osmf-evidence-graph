@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "0.1.0",
-    "generated_at": "2026-09-19T18:13:42.133Z",
+    "generated_at": "2026-09-19T18:33:02.546Z",
     "publisher": "Open Source Medicine Foundation (provisional tracker import)",
     "is_example": true,
     "license": "CC-BY-4.0",
@@ -13423,6 +13423,94 @@
       "updated_at": "2026-09-19T17:28:00Z"
     },
     {
+      "id": "osmf:paper:pmid-23959519",
+      "type": "paper",
+      "label": "Randomized clinical trial of valganciclovir in a subset of CFS patients.",
+      "aliases": [],
+      "summary": "2013: small positive subset RCT.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "23959519",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23959519/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/23959519/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-24493300",
+      "type": "paper",
+      "label": "Disease mechanisms and clonidine treatment in adolescent chronic fatigue syndrome.",
+      "aliases": [],
+      "summary": "JAMA Pediatr 2014: NorCAPITAL clonidine not clinically useful.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "24493300",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24493300/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/24493300/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-26356665",
+      "type": "paper",
+      "label": "Activity Pacing Self-Management in Chronic Fatigue Syndrome: A Randomized Controlled Trial.",
+      "aliases": [],
+      "summary": "2015: small APSM RCT.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "26356665",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26356665/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/26356665/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-28265678",
+      "type": "paper",
+      "label": "Cytokine Inhibition in Patients With Chronic Fatigue Syndrome: A Randomized Trial.",
+      "aliases": [],
+      "summary": "Annals Intern Med 2017: anakinra null in CFS.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "28265678",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28265678/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/28265678/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
       "id": "osmf:paper:pmid-30934066",
       "type": "paper",
       "label": "B-Lymphocyte Depletion in Patients With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Randomized, Double-Blind, Placebo-Controlled Trial.",
@@ -13443,6 +13531,72 @@
       ],
       "status": "active",
       "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-32411717",
+      "type": "paper",
+      "label": "Intravenous Cyclophosphamide in ME/CFS. An Open-Label Phase II Study.",
+      "aliases": [],
+      "summary": "2020: open-label Phase 2.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "32411717",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32411717/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/32411717/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-34444817",
+      "type": "paper",
+      "label": "CoQ10 Plus NADH on Fatigue Perception and HRQoL in ME/CFS.",
+      "aliases": [],
+      "summary": "2021: RCT n=282.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "34444817",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34444817/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/34444817/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-35526605",
+      "type": "paper",
+      "label": "Neurovascular Dysregulation and Acute Exercise Intolerance in ME/CFS: RCT of Pyridostigmine.",
+      "aliases": [],
+      "summary": "Chest 2022: acute pyridostigmine improved peak VO2.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "35526605",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35526605/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/35526605/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
     },
     {
       "id": "osmf:paper:pmid-36070710",
@@ -13489,6 +13643,28 @@
       "updated_at": "2026-09-19T16:57:32.049Z"
     },
     {
+      "id": "osmf:paper:pmid-37223439",
+      "type": "paper",
+      "label": "Efficacy and tolerability of AXA1125 in fatigue-predominant long COVID.",
+      "aliases": [],
+      "summary": "eClinicalMedicine 2023: Phase 2a pilot; primary MRS null, fatigue secondary positive.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "37223439",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37223439/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/37223439/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
       "id": "osmf:paper:pmid-37302406",
       "type": "paper",
       "label": "Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial.",
@@ -13533,6 +13709,28 @@
       "updated_at": "2026-09-19T17:28:00Z"
     },
     {
+      "id": "osmf:paper:pmid-38352659",
+      "type": "paper",
+      "label": "Low-dose naltrexone and NAD+ for persistent fatigue after COVID-19.",
+      "aliases": [],
+      "summary": "2024: open-label LDN+NAD+ pilot.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "38352659",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38352659/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/38352659/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
       "id": "osmf:paper:pmid-38848477",
       "type": "paper",
       "label": "Nirmatrelvir-Ritonavir and Symptoms in Adults With Postacute Sequelae of SARS-CoV-2 Infection: The STOP-PASC Randomized Clinical Trial.",
@@ -13555,6 +13753,28 @@
       "updated_at": "2026-09-19T17:28:00Z"
     },
     {
+      "id": "osmf:paper:pmid-38858151",
+      "type": "paper",
+      "label": "FMT in Norwegian outpatients with ME/CFS: protocol for RCT (Comeback).",
+      "aliases": [],
+      "summary": "2024: protocol only.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "38858151",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38858151/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/38858151/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
+    },
+    {
       "id": "osmf:paper:pmid-38894576",
       "type": "paper",
       "label": "Growth hormone treatment for neurologic symptoms of post-acute sequelae of COVID-19.",
@@ -13575,6 +13795,28 @@
       ],
       "status": "active",
       "updated_at": "2026-09-19T17:28:00Z"
+    },
+    {
+      "id": "osmf:paper:pmid-39356507",
+      "type": "paper",
+      "label": "Lithium Aspartate for Long COVID Fatigue and Cognitive Dysfunction: A Randomized Clinical Trial.",
+      "aliases": [],
+      "summary": "JAMA Netw Open 2024: lithium aspartate null for LC fatigue/cognition.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "39356507",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39356507/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/39356507/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
     },
     {
       "id": "osmf:paper:pmid-39825183",
@@ -13663,6 +13905,28 @@
       ],
       "status": "active",
       "updated_at": "2026-09-19T16:57:32.049Z"
+    },
+    {
+      "id": "osmf:paper:pmid-39994269",
+      "type": "paper",
+      "label": "Plasma exchange therapy for the post COVID-19 condition: a phase II RCT.",
+      "aliases": [],
+      "summary": "2025: TPE vs sham null efficacy.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "39994269",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39994269/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/39994269/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
     },
     {
       "id": "osmf:paper:pmid-40014289",
@@ -16061,6 +16325,28 @@
       ],
       "status": "active",
       "updated_at": "2026-09-19T16:57:32.049Z"
+    },
+    {
+      "id": "osmf:paper:pmid-41562079",
+      "type": "paper",
+      "label": "Patient-reported improvements from IMC-2 in a Long COVID cohort: a case series.",
+      "aliases": [],
+      "summary": "2025: observational IMC-2 series.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "41562079",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41562079/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/41562079/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
     },
     {
       "id": "osmf:paper:pmid-41563326",
@@ -25345,6 +25631,28 @@
       ],
       "status": "active",
       "updated_at": "2026-09-19T16:57:32.049Z"
+    },
+    {
+      "id": "osmf:paper:pmid-42463201",
+      "type": "paper",
+      "label": "Effect of low-dose naltrexone for long COVID: a systematic review and meta-analysis.",
+      "aliases": [],
+      "summary": "2026: observational pooled effects; no RCTs.",
+      "external_ids": [
+        {
+          "system": "pubmed",
+          "value": "42463201",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42463201/"
+        }
+      ],
+      "urls": [
+        {
+          "rel": "canonical",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/42463201/"
+        }
+      ],
+      "status": "active",
+      "updated_at": "2026-09-19T19:30:00Z"
     },
     {
       "id": "osmf:paper:pmid-42673984",
@@ -39145,47 +39453,26 @@
         },
         {
           "type": "nct",
-          "value": "NCT06055244"
+          "value": "NCT06055244",
+          "label": "NCT06055244: Amantadine Therapy for Cognitive Impairment in Long COVID"
         },
         {
           "type": "nct",
-          "value": "NCT06234462"
+          "value": "NCT06234462",
+          "label": "NCT06234462: A Study of Amantadine for Cognitive Dysfunction in Patients With Long-Covid"
         },
         {
           "type": "pmid",
-          "value": "41836927"
-        },
-        {
-          "type": "pmid",
-          "value": "39516425"
-        },
-        {
-          "type": "pmid",
-          "value": "32885037"
-        },
-        {
-          "type": "pmid",
-          "value": "33755344"
-        },
-        {
-          "type": "pmid",
-          "value": "34346558"
-        },
-        {
-          "type": "pmid",
-          "value": "34991982"
-        },
-        {
-          "type": "pmid",
-          "value": "36776881"
+          "value": "41836927",
+          "label": "PMID 41836927: Candidate treatments for long COVID: a narrative review of expert and patient-dr"
         }
       ],
-      "limitations": "Key refs: NCT06055244 (COMPLETED), PMID:41836927, NCT06234462 (WITHDRAWN), PMID:39516425, PMID:41836927, PMID:32885037. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No posted CT.gov results or peer-reviewed RCT efficacy readout for NCT06055244. Second trial withdrawn. Stimulant-like CNS AEs and Parkinson's-era amantadine safety not characterized in PASC. Off-target Parkinson/Long-COVID reviews removed from claim sources. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Amantadine → Long COVID: NCT06055244 (COMPLETED, phase=PHASE2, n=64, relevant=True); NCT06234462 (WITHDRAWN, phase=PHASE2, n=0, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 32885037: COVID-19 and possible links with Parkinson's disease and parkinsonism: from bench to bedside.; PMID 33755344: Persistent neurologic symptoms a"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior evidence-eval-bot C/published retained after deep-dive. Waiting on NCT06055244 publication."
     },
     {
       "id": "osmf:claim:agent-amphetamine-dextroamphetamine-studied-in-nct-05597722",
@@ -39547,7 +39834,7 @@
       "subject_id": "osmf:agent:anakinra",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:me-cfs",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -39555,48 +39842,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "28265678",
+          "label": "PMID 28265678: Cytokine Inhibition in Patients With Chronic Fatigue Syndrome: A Randomized Tria"
+        },
+        {
+          "type": "pmid",
+          "value": "29284500",
+          "label": "PMID 29284500: Cytokine signatures in chronic fatigue syndrome patients: a Case Control Study a"
+        },
+        {
           "type": "nct",
-          "value": "NCT02108210"
-        },
-        {
-          "type": "pmid",
-          "value": "28265678"
-        },
-        {
-          "type": "pmid",
-          "value": "29284500"
-        },
-        {
-          "type": "pmid",
-          "value": "26438161"
-        },
-        {
-          "type": "pmid",
-          "value": "29462012"
-        },
-        {
-          "type": "pmid",
-          "value": "30920354"
-        },
-        {
-          "type": "pmid",
-          "value": "33743212"
-        },
-        {
-          "type": "pmid",
-          "value": "35176758"
-        },
-        {
-          "type": "pmid",
-          "value": "37076602"
+          "value": "NCT02108210",
+          "label": "NCT02108210: Cytokine Inhibition in Chronic Fatigue Syndrome Patients"
         }
       ],
-      "limitations": "Key refs: NCT02108210 (COMPLETED), PMID:28265678, PMID:29284500, PMID:26438161, PMID:29462012, PMID:30920354. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Single-center, women-only, 4-week exposure. IL-1 blockade may still be relevant in other phenotypes, but current CFS RCT evidence is null. Injection-site reactions expected with anakinra. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Anakinra → ME/CFS: NCT02108210 (COMPLETED, phase=PHASE2,PHASE3, n=50, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 29462012: Neuroinflammation and Central Sensitization in Chronic and Widespread Pain.; PMID 30920354: The Sleep-Immune Crosstalk in Health and Disease.; PMID 33743212: COVID-19 and the human innate immune syste"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: Annals RCT (PMID 28265678 / NCT02108210) null: anakinra 8% vs placebo 20% CIS-fatigue responders at 4 weeks; no benefit on secondary outcomes → contested/insufficient (D). Deep-dive 2026-09-19: TIER CHANGED C→D after primary Annals RCT review. Prior evidence-eval-bot C superseded."
     },
     {
       "id": "osmf:claim:agent-angiotensin-converting-enzyme-inhibitor-studied-in-nct-04591210",
@@ -40399,44 +40665,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "37223439",
+          "label": "PMID 37223439: Efficacy and tolerability of an endogenous metabolic modulator (AXA1125) in fati"
+        },
+        {
           "type": "nct",
-          "value": "NCT05152849"
-        },
-        {
-          "type": "pmid",
-          "value": "37699892"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "36349400"
-        },
-        {
-          "type": "pmid",
-          "value": "37223439"
-        },
-        {
-          "type": "pmid",
-          "value": "37316880"
-        },
-        {
-          "type": "pmid",
-          "value": "37445634"
-        },
-        {
-          "type": "pmid",
-          "value": "39326415"
+          "value": "NCT05152849",
+          "label": "NCT05152849: Efficacy, Safety, Tolerability of AXA1125 in Fatigue After COVID-19 Infection"
         }
       ],
-      "limitations": "Key refs: NCT05152849 (COMPLETED), PMID:37699892, PMID:36969241, PMID:36349400, PMID:37223439, PMID:37316880. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Failed primary bioenergetic endpoint. Fatigue secondary/exploratory framing in a pilot. No multicentre confirmatory RCT. Formulation/sponsor continuity unclear for larger development. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Axa1125 → Long COVID: NCT05152849 (COMPLETED, phase=PHASE2, n=41, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 37316880: Long COVID: Costs for the German economy and health care and pension system.; PMID 37445634: Laboratory Findings and Biomarkers in Long COVID: What Do We Know So Far? Insights into Epidemiology, Pathogene"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Replaced off-target review PMIDs with primary NCT05152849 / PMID 37223439."
     },
     {
       "id": "osmf:claim:agent-azithromycin-treats-long-covid",
@@ -42725,7 +42969,7 @@
       "subject_id": "osmf:agent:clonidine",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:me-cfs",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -42733,60 +42977,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "24493300",
+          "label": "PMID 24493300: Disease mechanisms and clonidine treatment in adolescent chronic fatigue syndrom"
+        },
+        {
           "type": "nct",
-          "value": "NCT01040429"
-        },
-        {
-          "type": "nct",
-          "value": "NCT01507701"
-        },
-        {
-          "type": "pmid",
-          "value": "24493300"
-        },
-        {
-          "type": "pmid",
-          "value": "28494812"
-        },
-        {
-          "type": "pmid",
-          "value": "27414048"
-        },
-        {
-          "type": "pmid",
-          "value": "27149955"
-        },
-        {
-          "type": "pmid",
-          "value": "22871021"
-        },
-        {
-          "type": "pmid",
-          "value": "19207771"
-        },
-        {
-          "type": "pmid",
-          "value": "19713422"
-        },
-        {
-          "type": "pmid",
-          "value": "25980576"
-        },
-        {
-          "type": "pmid",
-          "value": "32787804"
-        },
-        {
-          "type": "pmid",
-          "value": "35176758"
+          "value": "NCT01040429",
+          "label": "NCT01040429: The Norwegian Study of Chronic Fatigue Syndrome in Adolescents: Pathophysiology "
         }
       ],
-      "limitations": "Key refs: NCT01040429 (COMPLETED), PMID:24493300, PMID:28494812, PMID:27414048, PMID:27149955, PMID:19207771. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Adolescent sample; adult ME/CFS may differ. Hypotension/sedation risks of clonidine. Sympathetic 'overactivity' may be compensatory—blunting it can harm function. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Clonidine → ME/CFS: NCT01040429 (COMPLETED, phase=PHASE2, n=120, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 19207771: Postural tachycardia syndrome (POTS).; PMID 19713422: Guidelines for the diagnosis and management of syncope (version 2009).; PMID 25980576: 2015 heart rhythm society expert consensus statement on the diag"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: NorCAPITAL (PMID 24493300): low-dose clonidine reduced steps/day vs placebo and is explicitly 'not clinically useful in CFS' → D. Deep-dive: TIER CHANGED C→D. Removed off-target POTS/syncope guideline PMIDs."
     },
     {
       "id": "osmf:claim:agent-coenzyme-q10-coq10-studied-in-nct-02063126",
@@ -43014,75 +43220,31 @@
         },
         {
           "type": "pmid",
-          "value": "41009608"
+          "value": "34444817",
+          "label": "PMID 34444817: Effect of Dietary Coenzyme Q10 Plus NADH Supplementation on Fatigue Perception a"
         },
         {
           "type": "pmid",
-          "value": "41640426"
+          "value": "35229657",
+          "label": "PMID 35229657: Does Coenzyme Q10 Plus Selenium Supplementation Ameliorate Clinical Outcomes by "
+        },
+        {
+          "type": "pmid",
+          "value": "26212172",
+          "label": "PMID 26212172: Effect of coenzyme Q10 plus nicotinamide adenine dinucleotide supplementation on"
         },
         {
           "type": "nct",
-          "value": "NCT06597682"
-        },
-        {
-          "type": "nct",
-          "value": "NCT03186027"
-        },
-        {
-          "type": "nct",
-          "value": "NCT05128292"
-        },
-        {
-          "type": "nct",
-          "value": "NCT02063126"
-        },
-        {
-          "type": "pmid",
-          "value": "34444817"
-        },
-        {
-          "type": "pmid",
-          "value": "35229657"
-        },
-        {
-          "type": "pmid",
-          "value": "25386668"
-        },
-        {
-          "type": "pmid",
-          "value": "34067632"
-        },
-        {
-          "type": "pmid",
-          "value": "26212172"
-        },
-        {
-          "type": "pmid",
-          "value": "22747645"
-        },
-        {
-          "type": "pmid",
-          "value": "33808247"
-        },
-        {
-          "type": "pmid",
-          "value": "33918736"
-        },
-        {
-          "type": "pmid",
-          "value": "34024217"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
+          "value": "NCT03186027",
+          "label": "NCT03186027: Coenzyme Q10 Plus NADH Supplementation in Chronic Fatigue Syndrome/Myalgic Encep"
         }
       ],
-      "limitations": "Key refs: NCT03186027 (COMPLETED), PMID:34444817, NCT05128292 (COMPLETED), PMID:35229657, NCT02063126 (COMPLETED), PMID:25386668. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Mostly one research group/formulation (Reconnect). Effect sizes modest. CT.gov results modules not posted. Not a substitute for pacing/PEM-safe care. Supplement quality varies. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 3 registry trial(s) for Coenzyme Q10 (CoQ10) → ME/CFS: NCT03186027 (COMPLETED, phase=NA, n=282, relevant=True); NCT05128292 (COMPLETED, phase=NA, n=42, relevant=True); NCT02063126 (COMPLETED, phase=PHASE2,PHASE3, n=80, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 22747645: Depression and sickness behavior are Janus-faced responses to shared inflam"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Primary CoQ10 RCTs prioritized over generic inflammation reviews."
     },
     {
       "id": "osmf:claim:agent-coenzyme-q10-coq10-treats-other-post-viral",
@@ -45267,52 +45429,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "32411717",
+          "label": "PMID 32411717: Intravenous Cyclophosphamide in Myalgic Encephalomyelitis/Chronic Fatigue Syndro"
+        },
+        {
           "type": "nct",
-          "value": "NCT02444091"
-        },
-        {
-          "type": "pmid",
-          "value": "28018972"
-        },
-        {
-          "type": "pmid",
-          "value": "34423789"
-        },
-        {
-          "type": "pmid",
-          "value": "32210306"
-        },
-        {
-          "type": "pmid",
-          "value": "32411717"
-        },
-        {
-          "type": "pmid",
-          "value": "10515901"
-        },
-        {
-          "type": "pmid",
-          "value": "17655751"
-        },
-        {
-          "type": "pmid",
-          "value": "19375665"
-        },
-        {
-          "type": "pmid",
-          "value": "2683611"
-        },
-        {
-          "type": "pmid",
-          "value": "34630027"
+          "value": "NCT02444091",
+          "label": "NCT02444091: Cyclophosphamide in Myalgic Encephalopathy/ Chronic Fatigue Syndrome (ME/CFS)"
         }
       ],
-      "limitations": "Key refs: NCT02444091 (COMPLETED), PMID:28018972, PMID:34423789, PMID:32210306, PMID:32411717, PMID:10515901. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Open-label; no placebo. Chemotherapy-grade risks (infection, infertility, secondary malignancy, cytopenias). Not for routine care. RituxME failure cautions against over-generalizing B-cell/immune hypotheses. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Cyclophosphamide → ME/CFS: NCT02444091 (COMPLETED, phase=PHASE2, n=40, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 10515901: Q fever.; PMID 17655751: Sweet's syndrome--a comprehensive review of an acute febrile neutrophilic dermatosis.; PMID 19375665: Autoimmune myasthenia gravis: emerging clinical and biological heterogen"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed off-target Q fever/Sweet syndrome PMIDs."
     },
     {
       "id": "osmf:claim:agent-cytokines-studied-in-nct-06027255",
@@ -50058,39 +50190,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT05513560"
+          "value": "NCT05513560",
+          "label": "NCT05513560: RECLAIM: Recovering From COVID-19 Lingering Symptoms Adaptive Integrative Medici"
         },
         {
           "type": "pmid",
-          "value": "37076602"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "37396922"
-        },
-        {
-          "type": "pmid",
-          "value": "38611624"
-        },
-        {
-          "type": "pmid",
-          "value": "33240091"
-        },
-        {
-          "type": "pmid",
-          "value": "33421734"
+          "value": "41715140",
+          "label": "PMID 41715140: The RECLAIM adaptive platform trial for the evaluation of treatments for post-CO"
         }
       ],
-      "limitations": "Key refs: NCT05513560 (COMPLETED), PMID:37076602, PMID:36969241, PMID:37396922, PMID:38611624, PMID:33240091. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No public ibudilast-vs-control efficacy numbers yet. Platform multiplicity and adaptive analyses pending. PDE/TLR mechanistic rationale ≠ clinical proof. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Ibudilast → Long COVID: NCT05513560 (COMPLETED, phase=PHASE2,PHASE3, n=460, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33240091: Challenges for Drug Repurposing in the COVID-19 Pandemic Era.; PMID 33421734: The neuropsychiatric manifestations of COVID-19: Interactions with psychiatric illness and pharmacological treatment"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Stripped off-target COVID repurposing reviews."
     },
     {
       "id": "osmf:claim:agent-iendure-studied-in-nct-05616806",
@@ -52033,47 +52147,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06305780"
+          "value": "NCT06305780",
+          "label": "NCT06305780: RECOVER-AUTONOMIC Platform Protocol"
         },
         {
           "type": "pmid",
-          "value": "41836927"
-        },
-        {
-          "type": "pmid",
-          "value": "42325367"
-        },
-        {
-          "type": "pmid",
-          "value": "41720282"
-        },
-        {
-          "type": "pmid",
-          "value": "34069603"
-        },
-        {
-          "type": "pmid",
-          "value": "34607799"
-        },
-        {
-          "type": "pmid",
-          "value": "35720084"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "37030518"
+          "value": "41720282",
+          "label": "PMID 41720282: Design and rationale of RECOVER-AUTONOMIC: A randomized platform trial evaluatin"
         }
       ],
-      "limitations": "Key refs: NCT06305780 (COMPLETED), PMID:41836927, PMID:42325367, PMID:41720282, PMID:34069603, PMID:34607799. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Efficacy endpoints unpublished. 'Coordinated care' co-intervention complicates attribution. Ivabradine bradycardia/visual AEs relevant in POTS-phenotype LC. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Ivabradine + Coordinated Care → Long COVID: NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 34069603: European Network on Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (EUROMENE): Expert Consensus on the Diagnosis, Se; PMID 34607799: Recommendations for the recognition, diagnosis, and man"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed EUROMENE/syncope off-targets."
     },
     {
       "id": "osmf:claim:agent-ivabradine-studied-in-nct-03182725",
@@ -52375,35 +52463,16 @@
         },
         {
           "type": "nct",
-          "value": "NCT06821087"
-        },
-        {
-          "type": "pmid",
-          "value": "33769431"
-        },
-        {
-          "type": "pmid",
-          "value": "33941622"
-        },
-        {
-          "type": "pmid",
-          "value": "34749198"
-        },
-        {
-          "type": "pmid",
-          "value": "34973396"
-        },
-        {
-          "type": "pmid",
-          "value": "35768006"
+          "value": "NCT06821087",
+          "label": "NCT06821087: Evaluating the Neuromodulatory Effect of Ketamine in Long COVID-19"
         }
       ],
-      "limitations": "Key refs: NCT06821087 (COMPLETED), PMID:33769431, PMID:33941622, PMID:34749198, PMID:34973396, PMID:35768006. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "n=20; no public outcomes. Dissociation, BP, abuse-potential harms. 'Ketamine Only' label may reflect arm naming vs combination protocols. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Ketamine Only → Long COVID: NCT06821087 (COMPLETED, phase=PHASE2, n=20, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33769431: How COVID-19 Affects the Brain.; PMID 33941622: COVID-19-related anosmia is associated with viral persistence and inflammation in human olfactory epithelium and brain i; PMID 34749198: Alcohol and o"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained with honesty that evidence is registration-only so far."
     },
     {
       "id": "osmf:claim:agent-ketamine-studied-in-nct-04141696",
@@ -52944,47 +53013,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT05747534"
+          "value": "NCT05747534",
+          "label": "NCT05747534: AT1001 for the Treatment of Long COVID"
         },
         {
           "type": "pmid",
-          "value": "39947217"
-        },
-        {
-          "type": "pmid",
-          "value": "40529374"
-        },
-        {
-          "type": "pmid",
-          "value": "42325367"
-        },
-        {
-          "type": "pmid",
-          "value": "35727635"
-        },
-        {
-          "type": "pmid",
-          "value": "35868344"
-        },
-        {
-          "type": "pmid",
-          "value": "36476388"
-        },
-        {
-          "type": "pmid",
-          "value": "39326415"
-        },
-        {
-          "type": "pmid",
-          "value": "39774607"
+          "value": "39947217",
+          "label": "PMID 39947217: Targeting the SARS-CoV-2 reservoir in long COVID."
         }
       ],
-      "limitations": "Key refs: NCT05747534 (COMPLETED), PMID:39947217, PMID:40529374, PMID:42325367, PMID:35727635, PMID:35868344. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No public efficacy numbers. Prior MIS-C/celiac larazotide data are different indications. GI AE profile TBD in PASC. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Larazotide Acetate → Long COVID: NCT05747534 (COMPLETED, phase=PHASE2, n=107, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35727635: Markers of fungal translocation are elevated during post-acute sequelae of SARS-CoV-2 and induce NF-κB signaling.; PMID 35868344: Gut-brain communication in COVID-19: molecular mechanisms, med"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed fungal-translocation/biomarker off-targets as primary sources."
     },
     {
       "id": "osmf:claim:agent-lau-7b-for-3-cycles-studied-in-nct-05999435",
@@ -53369,7 +53412,7 @@
       "subject_id": "osmf:agent:lithium",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -53377,64 +53420,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "39356507",
+          "label": "PMID 39356507: Lithium Aspartate for Long COVID Fatigue and Cognitive Dysfunction: A Randomized"
+        },
+        {
           "type": "nct",
-          "value": "NCT05618587"
+          "value": "NCT05618587",
+          "label": "NCT05618587: Effect of Lithium Therapy on Long COVID Symptoms"
         },
         {
           "type": "nct",
-          "value": "NCT06108297"
-        },
-        {
-          "type": "pmid",
-          "value": "36899952"
-        },
-        {
-          "type": "pmid",
-          "value": "37907497"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "37396922"
-        },
-        {
-          "type": "pmid",
-          "value": "39356507"
-        },
-        {
-          "type": "pmid",
-          "value": "40526103"
-        },
-        {
-          "type": "pmid",
-          "value": "32682460"
-        },
-        {
-          "type": "pmid",
-          "value": "33909761"
-        },
-        {
-          "type": "pmid",
-          "value": "35987197"
-        },
-        {
-          "type": "pmid",
-          "value": "38264914"
-        },
-        {
-          "type": "pmid",
-          "value": "39866113"
+          "value": "NCT06108297",
+          "label": "NCT06108297: Lithium Long COVID Dose-finding Study"
         }
       ],
-      "limitations": "Key refs: NCT05618587 (COMPLETED), PMID:36899952, PMID:37907497, PMID:36969241, PMID:37396922, NCT06108297 (COMPLETED). Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Low-dose aspartate formulation may differ from carbonate psychiatric dosing. Narrow n and short follow-up. Lithium monitoring/toxicity still relevant if used off-label. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Lithium → Long COVID: NCT05618587 (COMPLETED, phase=PHASE2, n=52, relevant=True); NCT06108297 (COMPLETED, phase=PHASE1, n=5, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 32682460: How mental health care should change as a consequence of the COVID-19 pandemic.; PMID 33909761: Brazilian Guidelines of Hypertension - 2020.; PMID 35987197:"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: JAMA Netw Open RCT (PMID 39356507) + CT.gov NCT05618587: FSS p=0.46, brain-fog p=0.79 vs placebo → null → D. Deep-dive: TIER CHANGED C→D after PMID 39356507 + CT.gov results."
     },
     {
       "id": "osmf:claim:agent-long-covid-coping-and-recovery-lccr-intervention-studied-in-nct-05453201",
@@ -54791,43 +54797,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06404112"
+          "value": "NCT06404112",
+          "label": "NCT06404112: RECOVER-SLEEP: Platform Protocol, Appendix_B (CPSD)"
         },
         {
           "type": "nct",
-          "value": "NCT06404086"
-        },
-        {
-          "type": "pmid",
-          "value": "40537100"
-        },
-        {
-          "type": "pmid",
-          "value": "32637987"
-        },
-        {
-          "type": "pmid",
-          "value": "33856918"
-        },
-        {
-          "type": "pmid",
-          "value": "36253560"
-        },
-        {
-          "type": "pmid",
-          "value": "37117704"
-        },
-        {
-          "type": "pmid",
-          "value": "37848036"
+          "value": "NCT06404086",
+          "label": "NCT06404086: RECOVER-SLEEP: Platform Protocol"
         }
       ],
-      "limitations": "Key refs: NCT06404112 (COMPLETED), PMID:40537100, NCT06404086 (COMPLETED), PMID:32637987, PMID:33856918, PMID:36253560. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Results unpublished. Melatonin is symptomatic sleep support, not proven disease-modifying for Long COVID. Timing/dose heterogeneity in OTC use. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Melatonin → Long COVID: NCT06404112 (COMPLETED, phase=PHASE2, n=469, relevant=True); NCT06404086 (COMPLETED, phase=PHASE2, n=830, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 32637987: The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings.; PMID 33856918: COVID-19 and Cardiovascular Dis"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed neurology/endothelial off-target PMIDs."
     },
     {
       "id": "osmf:claim:agent-mental-imagery-studied-in-nct-06235177",
@@ -55803,51 +55787,16 @@
         },
         {
           "type": "nct",
-          "value": "NCT05703074"
-        },
-        {
-          "type": "pmid",
-          "value": "38668888"
-        },
-        {
-          "type": "pmid",
-          "value": "40536597"
-        },
-        {
-          "type": "pmid",
-          "value": "39495479"
-        },
-        {
-          "type": "pmid",
-          "value": "41008646"
-        },
-        {
-          "type": "pmid",
-          "value": "33441072"
-        },
-        {
-          "type": "pmid",
-          "value": "33706815"
-        },
-        {
-          "type": "pmid",
-          "value": "33975774"
-        },
-        {
-          "type": "pmid",
-          "value": "34624350"
-        },
-        {
-          "type": "pmid",
-          "value": "34798581"
+          "value": "NCT05703074",
+          "label": "NCT05703074: Mental Intervention and Nicotinamide Riboside Supplementation in Long Covid"
         }
       ],
-      "limitations": "Key refs: NCT05703074 (COMPLETED), PMID:38668888, PMID:40536597, PMID:39495479, PMID:41008646, PMID:33441072. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No posted outcomes. Mind-body framing can be misread as psychogenic causation. Must not encourage exercise beyond energy envelope / PEM-safe limits. Factorial confounding with NR arm. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Mind-Body Reprocessing Therapy → Long COVID: NCT05703074 (COMPLETED, phase=PHASE2, n=310, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33441072: PTSD in the COVID-19 Era.; PMID 33706815: An observational study of the impact of COVID-19 and the rapid implementation of telehealth on community mental health c; PMID 33975774: O"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained with PEM/psychologization caution. Stripped PTSD/telehealth off-targets."
     },
     {
       "id": "osmf:claim:agent-mindful-and-conscious-movement-based-exercise-studied-in-nct-06978582",
@@ -56193,43 +56142,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06404099"
+          "value": "NCT06404099",
+          "label": "NCT06404099: RECOVER-SLEEP: Platform Protocol, Appendix_A (Hypersomnia)"
         },
         {
           "type": "nct",
-          "value": "NCT06404086"
-        },
-        {
-          "type": "pmid",
-          "value": "40537100"
-        },
-        {
-          "type": "pmid",
-          "value": "33723532"
-        },
-        {
-          "type": "pmid",
-          "value": "33755344"
-        },
-        {
-          "type": "pmid",
-          "value": "34346558"
-        },
-        {
-          "type": "pmid",
-          "value": "34390682"
-        },
-        {
-          "type": "pmid",
-          "value": "34991982"
+          "value": "NCT06404086",
+          "label": "NCT06404086: RECOVER-SLEEP: Platform Protocol"
         }
       ],
-      "limitations": "Key refs: NCT06404099 (COMPLETED), PMID:40537100, NCT06404086 (COMPLETED), PMID:33723532, PMID:33755344, PMID:34346558. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Results unpublished. CV/psychiatric AEs; diversion potential. Not appropriate if PEM-dominant without sleep phenotype assessment. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Modafinil → Long COVID: NCT06404099 (COMPLETED, phase=PHASE2, n=361, relevant=True); NCT06404086 (COMPLETED, phase=PHASE2, n=830, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33723532: Long-Haul Post-COVID-19 Symptoms Presenting as a Variant of Postural Orthostatic Tachycardia Syndrome: The Swedish Exper; PMID 33755344: Per"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-moderna-covid-19-vaccine-studied-in-nct-06441955",
@@ -57509,52 +57436,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "38352659",
+          "label": "PMID 38352659: Low-dose naltrexone and NAD+ for the treatment of patients with persistent fatig"
+        },
+        {
           "type": "nct",
-          "value": "NCT04604704"
-        },
-        {
-          "type": "pmid",
-          "value": "34067776"
-        },
-        {
-          "type": "pmid",
-          "value": "35874958"
-        },
-        {
-          "type": "pmid",
-          "value": "36100326"
-        },
-        {
-          "type": "pmid",
-          "value": "37907497"
-        },
-        {
-          "type": "pmid",
-          "value": "34366606"
-        },
-        {
-          "type": "pmid",
-          "value": "36050306"
-        },
-        {
-          "type": "pmid",
-          "value": "37130947"
-        },
-        {
-          "type": "pmid",
-          "value": "37451743"
-        },
-        {
-          "type": "pmid",
-          "value": "4381698"
+          "value": "NCT04604704",
+          "label": "NCT04604704: Pilot Study Into LDN and NAD+ for Treatment of Patients With Post-COVID-19 Syndr"
         }
       ],
-      "limitations": "Key refs: NCT04604704 (COMPLETED), PMID:34067776, PMID:35874958, PMID:36100326, PMID:37907497, PMID:34366606. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No placebo; combination with LDN prevents attribution. Iontophoresis skin irritation noted. Commercial NAD+ products vary widely. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nad+ → Long COVID: NCT04604704 (COMPLETED, phase=PHASE2, n=36, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34366606: Pancreatic cancer: A review of epidemiology, trend, and risk factors.; PMID 36050306: Lactate metabolism in human health and disease.; PMID 37130947: Metformin: update on mechanisms of action and repurposing"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Primary pilot replaces pancreatic-cancer/lactate off-targets."
     },
     {
       "id": "osmf:claim:agent-naltrexone-hcl-studied-in-nct-02965768",
@@ -57638,55 +57535,26 @@
         },
         {
           "type": "pmid",
-          "value": "42060160"
+          "value": "42463201",
+          "label": "PMID 42463201: Effect of low-dose naltrexone for long COVID: a systematic review and meta-analy"
+        },
+        {
+          "type": "pmid",
+          "value": "38352659",
+          "label": "PMID 38352659: Low-dose naltrexone and NAD+ for the treatment of patients with persistent fatig"
         },
         {
           "type": "nct",
-          "value": "NCT04604704"
-        },
-        {
-          "type": "pmid",
-          "value": "34067776"
-        },
-        {
-          "type": "pmid",
-          "value": "35874958"
-        },
-        {
-          "type": "pmid",
-          "value": "36100326"
-        },
-        {
-          "type": "pmid",
-          "value": "37907497"
-        },
-        {
-          "type": "pmid",
-          "value": "35172971"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
-        },
-        {
-          "type": "pmid",
-          "value": "36695182"
-        },
-        {
-          "type": "pmid",
-          "value": "38264914"
-        },
-        {
-          "type": "pmid",
-          "value": "39866113"
+          "value": "NCT04604704",
+          "label": "NCT04604704: Pilot Study Into LDN and NAD+ for Treatment of Patients With Post-COVID-19 Syndr"
         }
       ],
-      "limitations": "Key refs: NCT04604704 (COMPLETED), PMID:34067776, PMID:35874958, PMID:36100326, PMID:37907497, PMID:35172971. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No RCT. Pre-post confounding/regression to mean. Opioid-blockade implications. Dose 1–6 mg heterogeneity. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Naltrexone → Long COVID: NCT04604704 (COMPLETED, phase=PHASE2, n=36, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35172971: Risks of mental health outcomes in people with covid-19: cohort study.; PMID 36639608: Long COVID: major findings, mechanisms and recommendations.; PMID 36695182: Heart Disease and Stroke Statistics-20"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained; upgraded sources to SR/MA + pilot primary."
     },
     {
       "id": "osmf:claim:agent-naltrexone-treats-other-post-viral",
@@ -58328,47 +58196,16 @@
         },
         {
           "type": "nct",
-          "value": "NCT05703074"
-        },
-        {
-          "type": "pmid",
-          "value": "38668888"
-        },
-        {
-          "type": "pmid",
-          "value": "40536597"
-        },
-        {
-          "type": "pmid",
-          "value": "39495479"
-        },
-        {
-          "type": "pmid",
-          "value": "41008646"
-        },
-        {
-          "type": "pmid",
-          "value": "34400495"
-        },
-        {
-          "type": "pmid",
-          "value": "35282780"
-        },
-        {
-          "type": "pmid",
-          "value": "36551869"
-        },
-        {
-          "type": "pmid",
-          "value": "36625102"
+          "value": "NCT05703074",
+          "label": "NCT05703074: Mental Intervention and Nicotinamide Riboside Supplementation in Long Covid"
         }
       ],
-      "limitations": "Key refs: NCT05703074 (COMPLETED), PMID:38668888, PMID:40536597, PMID:39495479, PMID:41008646, PMID:34400495. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No public efficacy. Factorial design confounds NR-alone inference. Supplement quality/dose vary. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nicotinamide Riboside → Long COVID: NCT05703074 (COMPLETED, phase=PHASE2, n=310, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34400495: Redox imbalance links COVID-19 and myalgic encephalomyelitis/chronic fatigue syndrome.; PMID 35282780: Registered clinical trials investigating treatment of long COVID: a scoping review and"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed redox/ME-CFS review off-targets as primary efficacy sources."
     },
     {
       "id": "osmf:claim:agent-nivolumab-and-ipilimumab-studied-in-nct-05597800",
@@ -58666,7 +58503,7 @@
       "subject_id": "osmf:agent:nortriptyline",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:me-cfs",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -58675,47 +58512,16 @@
         },
         {
           "type": "nct",
-          "value": "NCT03844412"
-        },
-        {
-          "type": "pmid",
-          "value": "32478052"
-        },
-        {
-          "type": "pmid",
-          "value": "38984334"
-        },
-        {
-          "type": "pmid",
-          "value": "36269028"
-        },
-        {
-          "type": "pmid",
-          "value": "17488783"
-        },
-        {
-          "type": "pmid",
-          "value": "23644052"
-        },
-        {
-          "type": "pmid",
-          "value": "26357876"
-        },
-        {
-          "type": "pmid",
-          "value": "27480574"
-        },
-        {
-          "type": "pmid",
-          "value": "31379879"
+          "value": "NCT03844412",
+          "label": "NCT03844412: Vestibulodynia: Understanding Pathophysiology and Determining Appropriate Treatm"
         }
       ],
-      "limitations": "Key refs: NCT03844412 (COMPLETED), PMID:32478052, PMID:38984334, PMID:36269028, PMID:17488783, PMID:23644052. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Off-target NCT. Anticholinergic/cardiac TCA risks. Do not extrapolate vestibulodynia pain scores to ME/CFS. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Nortriptyline → ME/CFS: NCT03844412 (COMPLETED, phase=PHASE2, n=209, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 17488783: Guidelines on the irritable bowel syndrome: mechanisms and practical management.; PMID 23644052: Inflammatory cytokines in depression: neurobiological mechanisms and therapeutic implications.; PMID 26357876: Infl"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: Linked NCT03844412 is vestibulodynia (pain), not ME/CFS—off-target registry mapping. No adequate ME/CFS nortriptyline RCT package → D. Deep-dive: TIER CHANGED C→D for non-therapeutic/off-target mapping."
     },
     {
       "id": "osmf:claim:agent-nutraceutical-supplements-studied-in-nct-01471652",
@@ -59384,52 +59190,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
-          "type": "nct",
-          "value": "NCT01512342"
+          "type": "pmid",
+          "value": "26356665",
+          "label": "PMID 26356665: Activity Pacing Self-Management in Chronic Fatigue Syndrome: A Randomized Contro"
         },
         {
           "type": "pmid",
-          "value": "28444695"
+          "value": "37838675",
+          "label": "PMID 37838675: A scoping review of 'Pacing' for management of Myalgic Encephalomyelitis/Chronic"
         },
         {
-          "type": "pmid",
-          "value": "37838675"
-        },
-        {
-          "type": "pmid",
-          "value": "26356665"
-        },
-        {
-          "type": "pmid",
-          "value": "27995604"
-        },
-        {
-          "type": "pmid",
-          "value": "19713422"
-        },
-        {
-          "type": "pmid",
-          "value": "25980576"
-        },
-        {
-          "type": "pmid",
-          "value": "28506916"
-        },
-        {
-          "type": "pmid",
-          "value": "34308300"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
+          "type": "url",
+          "value": "https://www.nice.org.uk/guidance/ng206",
+          "label": "NICE NG206 ME/CFS diagnosis and management"
         }
       ],
-      "limitations": "Key refs: NCT01512342 (COMPLETED), PMID:28444695, PMID:37838675, PMID:26356665, PMID:27995604, PMID:19713422. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "n=33; heterogeneous 'pacing' definitions. Must not be confused with GET. Prior eval linked exercise-therapy Cochrane reviews—those are NOT pacing endorsement. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Pacing → ME/CFS: NCT01512342 (COMPLETED, phase=PHASE2, n=33, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 19713422: Guidelines for the diagnosis and management of syncope (version 2009).; PMID 25980576: 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, in; "
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained with explicit PEM/NICE caution. Replaced GET Cochrane PMIDs as primary 'pacing efficacy' sources."
     },
     {
       "id": "osmf:claim:agent-pain-relaxation-techniques-studied-in-nct-06235177",
@@ -60179,43 +59960,26 @@
         },
         {
           "type": "nct",
-          "value": "NCT05513560"
+          "value": "NCT05513560",
+          "label": "NCT05513560: RECLAIM: Recovering From COVID-19 Lingering Symptoms Adaptive Integrative Medici"
         },
         {
           "type": "pmid",
-          "value": "37076602"
+          "value": "41715140",
+          "label": "PMID 41715140: The RECLAIM adaptive platform trial… core protocol."
         },
         {
           "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "37396922"
-        },
-        {
-          "type": "pmid",
-          "value": "38611624"
-        },
-        {
-          "type": "pmid",
-          "value": "33240091"
-        },
-        {
-          "type": "pmid",
-          "value": "35373533"
-        },
-        {
-          "type": "pmid",
-          "value": "36899952"
+          "value": "39446164",
+          "label": "PMID 39446164: Pentoxifylline in COVID-19 and considerations for its research in long COVID."
         }
       ],
-      "limitations": "Key refs: NCT05513560 (COMPLETED), PMID:37076602, PMID:36969241, PMID:37396922, PMID:38611624, PMID:33240091. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No arm-level results. Hemorrheologic AE/bleeding considerations. Acute-COVID literature ≠ PASC treatment. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Pentoxifylline → Long COVID: NCT05513560 (COMPLETED, phase=PHASE2,PHASE3, n=460, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33240091: Challenges for Drug Repurposing in the COVID-19 Pandemic Era.; PMID 35373533: International consensus statement on allergy and rhinology: Olfaction.; PMID 36899952: Pathogenesis Underlying "
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-perceive-outreach-intervention-studied-in-nct-07661862",
@@ -60345,35 +60109,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06822179"
+          "value": "NCT06822179",
+          "label": "NCT06822179: Effectiveness of a Personalized In-home Telerehabilitation Program on Self-Care "
         },
         {
-          "type": "pmid",
-          "value": "35390342"
-        },
-        {
-          "type": "pmid",
-          "value": "38484753"
-        },
-        {
-          "type": "pmid",
-          "value": "38642570"
-        },
-        {
-          "type": "pmid",
-          "value": "41092926"
-        },
-        {
-          "type": "pmid",
-          "value": "41092928"
+          "type": "url",
+          "value": "https://www.nice.org.uk/guidance/ng188",
+          "label": "NICE NG188 COVID-19 rapid guideline: managing the long-term effects of COVID-19"
         }
       ],
-      "limitations": "Key refs: NCT06822179 (COMPLETED), PMID:35390342, PMID:38484753, PMID:38642570, PMID:41092926, PMID:41092928. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No efficacy data public. GBD/off-target PMIDs from prior eval removed. High risk of harm if exercise ignores PEM. Self-care activation ≠ objective LC recovery. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Personalised Exercise Program → Long COVID: NCT06822179 (COMPLETED, phase=PHASE2, n=57, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35390342: The Lancet Global Health Commission on financing primary health care: putting people at the centre.; PMID 38484753: Global age-sex-specific mortality, life expectancy, and population"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained with strengthened PEM warning."
     },
     {
       "id": "osmf:claim:agent-personalized-cardiopulmonary-rehabilitation-studied-in-nct-06404047",
@@ -61556,7 +61306,7 @@
       "subject_id": "osmf:agent:plasma-exchange-procedure",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -61564,52 +61314,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "39994269",
+          "label": "PMID 39994269: Plasma exchange therapy for the post COVID-19 condition: a phase II, double-blin"
+        },
+        {
           "type": "nct",
-          "value": "NCT05445674"
+          "value": "NCT05445674",
+          "label": "NCT05445674: Plasma Exchange Therapy for Post- COVID-19 Condition"
         },
         {
           "type": "pmid",
-          "value": "37396922"
-        },
-        {
-          "type": "pmid",
-          "value": "37265584"
-        },
-        {
-          "type": "pmid",
-          "value": "37491597"
-        },
-        {
-          "type": "pmid",
-          "value": "39994269"
-        },
-        {
-          "type": "pmid",
-          "value": "33909761"
-        },
-        {
-          "type": "pmid",
-          "value": "36695182"
-        },
-        {
-          "type": "pmid",
-          "value": "38264914"
-        },
-        {
-          "type": "pmid",
-          "value": "39866113"
-        },
-        {
-          "type": "pmid",
-          "value": "4381698"
+          "value": "37491597",
+          "label": "PMID 37491597: Plasmapheresis to remove amyloid fibrin(ogen) particles for treating the post-CO"
         }
       ],
-      "limitations": "Key refs: NCT05445674 (COMPLETED), PMID:37396922, PMID:37265584, PMID:37491597, PMID:39994269, PMID:33909761. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "n=50; single protocol of six exchanges. Cost/access/invasive risks. Does not rule out other apheresis modalities, but current RCT is null. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Plasma Exchange Procedure → Long COVID: NCT05445674 (COMPLETED, phase=PHASE2, n=50, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33909761: Brazilian Guidelines of Hypertension - 2020.; PMID 36695182: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association.; PMID 38264914: 2024 Heart Dis"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: PMID 39994269 Phase 2 double-blind sham-controlled RCT: TPE safe but no efficacy vs sham on any endpoint → D. Deep-dive: TIER CHANGED C→D."
     },
     {
       "id": "osmf:claim:agent-plasmapheresis-studied-in-nct-05543590",
@@ -62005,43 +61730,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT03691987"
+          "value": "NCT03691987",
+          "label": "NCT03691987: The Comeback Study"
         },
         {
           "type": "pmid",
-          "value": "31201141"
-        },
-        {
-          "type": "pmid",
-          "value": "35046929"
-        },
-        {
-          "type": "pmid",
-          "value": "33510784"
-        },
-        {
-          "type": "pmid",
-          "value": "39301964"
-        },
-        {
-          "type": "pmid",
-          "value": "PMC13254489"
-        },
-        {
-          "type": "pmid",
-          "value": "PMC13421919"
-        },
-        {
-          "type": "pmid",
-          "value": "PMC6493311"
+          "value": "38858151",
+          "label": "PMID 38858151: Faecal microbiota transplantation (FMT) in Norwegian outpatients with mild to se"
         }
       ],
-      "limitations": "Key refs: NCT03691987 (COMPLETED), PMID:31201141, PMID:35046929, PMID:33510784, PMID:39301964, PMID:PMC13254489. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Control arm, not active therapy. Infection/procedure risks of FMT. Results unpublished. Prior PMCID noise removed. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Preprocessed Thawed Autologous Fmt → ME/CFS: NCT03691987 (COMPLETED, phase=PHASE2, n=80, relevant=True). No posted CT.gov results in this pass. Europe PMC query `(Preprocessed Thawed Autologous Fmt) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")` → 3 hits. Honest bar: Preliminary claims stay D/C unless a clear multi-source clinic"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained with explicit control-arm clarification."
     },
     {
       "id": "osmf:claim:agent-preprocessed-thawed-donor-fmt-studied-in-nct-03691987",
@@ -62079,43 +61782,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT03691987"
+          "value": "NCT03691987",
+          "label": "NCT03691987: The Comeback Study"
         },
         {
           "type": "pmid",
-          "value": "31201141"
-        },
-        {
-          "type": "pmid",
-          "value": "35046929"
-        },
-        {
-          "type": "pmid",
-          "value": "33510784"
-        },
-        {
-          "type": "pmid",
-          "value": "39301964"
-        },
-        {
-          "type": "pmid",
-          "value": "PMC13254489"
-        },
-        {
-          "type": "pmid",
-          "value": "PMC13421919"
-        },
-        {
-          "type": "pmid",
-          "value": "PMC6493311"
+          "value": "38858151",
+          "label": "PMID 38858151: FMT in Norwegian outpatients with ME/CFS: protocol…"
         }
       ],
-      "limitations": "Key refs: NCT03691987 (COMPLETED), PMID:31201141, PMID:35046929, PMID:33510784, PMID:39301964, PMID:PMC13254489. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Results unpublished. FMT regulatory/safety constraints. Autologous control may still have procedure effects. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Preprocessed Thawed Donor Fmt → ME/CFS: NCT03691987 (COMPLETED, phase=PHASE2, n=80, relevant=True). No posted CT.gov results in this pass. Europe PMC query `(Preprocessed Thawed Donor Fmt) AND (\"chronic fatigue syndrome\" OR ME/CFS OR \"myalgic encephalomyelitis\")` → 3 hits. Honest bar: Preliminary claims stay D/C unless a clear multi-source clinical package"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-pressure-biofeedback-unit-studied-in-nct-07397130",
@@ -62245,39 +61926,16 @@
         },
         {
           "type": "nct",
-          "value": "NCT06643299"
-        },
-        {
-          "type": "pmid",
-          "value": "40492581"
-        },
-        {
-          "type": "pmid",
-          "value": "36050306"
-        },
-        {
-          "type": "pmid",
-          "value": "36364899"
-        },
-        {
-          "type": "pmid",
-          "value": "37130947"
-        },
-        {
-          "type": "pmid",
-          "value": "37358082"
-        },
-        {
-          "type": "pmid",
-          "value": "39774607"
+          "value": "NCT06643299",
+          "label": "NCT06643299: Probiotic Use for Recovery Enhancement From Long COVID-19"
         }
       ],
-      "limitations": "Key refs: NCT06643299 (COMPLETED), PMID:40492581, PMID:36050306, PMID:36364899, PMID:37130947, PMID:37358082. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No public efficacy. Product/strain heterogeneity. Prior eval off-target metabolic reviews removed. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Probiotic Agent → Long COVID: NCT06643299 (COMPLETED, phase=PHASE2, n=194, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 36050306: Lactate metabolism in human health and disease.; PMID 36364899: A Comprehensive Review on Nutraceuticals: Therapy Support and Formulation Challenges.; PMID 37130947: Metformin: update on mechanis"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-probiotic-studied-in-nct-05975034",
@@ -63367,40 +63025,22 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "35526605",
+          "label": "PMID 35526605: Neurovascular Dysregulation and Acute Exercise Intolerance in Myalgic Encephalom"
+        },
+        {
           "type": "nct",
-          "value": "NCT03674541"
-        },
-        {
-          "type": "pmid",
-          "value": "35526605"
-        },
-        {
-          "type": "pmid",
-          "value": "16518518"
-        },
-        {
-          "type": "pmid",
-          "value": "18332428"
-        },
-        {
-          "type": "pmid",
-          "value": "19375665"
-        },
-        {
-          "type": "pmid",
-          "value": "26493934"
-        },
-        {
-          "type": "pmid",
-          "value": "34991982"
+          "value": "NCT03674541",
+          "label": "NCT03674541: The Exercise Response to Pharmacologic Cholinergic Stimulation in ME/CFS"
         }
       ],
-      "limitations": "Key refs: NCT03674541 (COMPLETED), PMID:35526605, PMID:16518518, PMID:18332428, PMID:19375665, PMID:26493934. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Single-dose acute iCPET study—not weeks of patient-centered fatigue/PEM outcomes. Cholinergic AEs (GI, bradycardia). Sex-stratified placebo groups complicate interpretation. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Pyridostigmine Bromide → ME/CFS: NCT03674541 (COMPLETED, phase=PHASE2, n=45, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 16518518: Anticholinesterase toxicity and oxidative stress.; PMID 18332428: Acetylcholinesterase inhibitors and Gulf War illnesses.; PMID 19375665: Autoimmune myasthenia gravis: emerging clinical and biological het"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Primary PMID 35526605 replaces Gulf War/AChE off-targets."
     },
     {
       "id": "osmf:claim:agent-pyridostigmine-studied-in-nct-03261570",
@@ -65124,7 +64764,7 @@
       "subject_id": "osmf:agent:rintatolimod",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -65133,51 +64773,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT05592418"
+          "value": "NCT05592418",
+          "label": "NCT05592418: Study to Evaluate the Efficacy and Safety of Ampligen in Patients With Post-COVI"
         },
         {
           "type": "pmid",
-          "value": "39947217"
-        },
-        {
-          "type": "pmid",
-          "value": "37396922"
-        },
-        {
-          "type": "pmid",
-          "value": "39988665"
-        },
-        {
-          "type": "pmid",
-          "value": "37344737"
-        },
-        {
-          "type": "pmid",
-          "value": "33391502"
-        },
-        {
-          "type": "pmid",
-          "value": "34024217"
-        },
-        {
-          "type": "pmid",
-          "value": "34181102"
-        },
-        {
-          "type": "pmid",
-          "value": "35182760"
-        },
-        {
-          "type": "pmid",
-          "value": "36464706"
+          "value": "39947217",
+          "label": "PMID 39947217: Targeting the SARS-CoV-2 reservoir in long COVID."
         }
       ],
-      "limitations": "Key refs: NCT05592418 (COMPLETED), PMID:39947217, PMID:37396922, PMID:39988665, PMID:37344737, PMID:33391502. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "n=80; IV twice-weekly logistics. Infusion reactions/unblinding risk historically noted for Ampligen. ME/CFS Ampligen evidence is a separate claim. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Rintatolimod → Long COVID: NCT05592418 (COMPLETED, phase=PHASE2, n=80, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 33391502: COVID-19 and Cancer Comorbidity: Therapeutic Opportunities and Challenges.; PMID 34024217: Long COVID or post-COVID-19 syndrome: putative pathophysiology, risk factors, and treatments.; PMID 34181102: The Neuro"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: NCT05592418 CT.gov primary PROMIS Fatigue week-13 ANCOVA p=0.9851 (Ampligen −25.4 vs placebo −25.8) → null → D. Deep-dive: TIER CHANGED C→D after CT.gov primary null."
     },
     {
       "id": "osmf:claim:agent-ritonavir-studied-in-nct-05576662",
@@ -65250,7 +64860,7 @@
       "subject_id": "osmf:agent:ritonavir",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -65258,88 +64868,32 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "38848477",
+          "label": "PMID 38848477: Nirmatrelvir-Ritonavir and Symptoms in Adults With Postacute Sequelae of SARS-Co"
+        },
+        {
+          "type": "pmid",
+          "value": "42673984",
+          "label": "PMID 42673984: Nirmatrelvir-ritonavir targeting viral persistence in post-COVID-19 condition (R"
+        },
+        {
           "type": "nct",
-          "value": "NCT05965726"
+          "value": "NCT05576662",
+          "label": "NCT05576662: Paxlovid for Treatment of Long Covid (STOP-PASC)"
         },
         {
           "type": "nct",
-          "value": "NCT05576662"
-        },
-        {
-          "type": "nct",
-          "value": "NCT05668091"
-        },
-        {
-          "type": "pmid",
-          "value": "39947217"
-        },
-        {
-          "type": "pmid",
-          "value": "38611624"
-        },
-        {
-          "type": "pmid",
-          "value": "41836927"
-        },
-        {
-          "type": "pmid",
-          "value": "40559563"
-        },
-        {
-          "type": "pmid",
-          "value": "36899952"
-        },
-        {
-          "type": "pmid",
-          "value": "37907497"
-        },
-        {
-          "type": "pmid",
-          "value": "38848477"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "36967698"
-        },
-        {
-          "type": "pmid",
-          "value": "37457901"
-        },
-        {
-          "type": "pmid",
-          "value": "37659195"
-        },
-        {
-          "type": "pmid",
-          "value": "32201335"
-        },
-        {
-          "type": "pmid",
-          "value": "33428867"
-        },
-        {
-          "type": "pmid",
-          "value": "33431578"
-        },
-        {
-          "type": "pmid",
-          "value": "34454673"
-        },
-        {
-          "type": "pmid",
-          "value": "36695182"
+          "value": "NCT05965726",
+          "label": "NCT05965726: RECOVER-VITAL Appendix (Paxlovid)"
         }
       ],
-      "limitations": "Key refs: NCT05965726 (COMPLETED), PMID:39947217, PMID:38611624, PMID:41836927, PMID:40559563, NCT05576662 (COMPLETED). Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Ritonavir DDI via CYP3A4. Prevention-of-LC observational signals ≠ treatment of established PASC. Separate NCT05668091 (if combo) does not overturn two null RCTs. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 3 registry trial(s) for Ritonavir → Long COVID: NCT05965726 (COMPLETED, phase=PHASE2, n=964, relevant=True); NCT05576662 (COMPLETED, phase=PHASE2, n=168, relevant=True); NCT05668091 (COMPLETED, phase=PHASE2, n=100, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 32201335: Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: Ritonavir appears only as PK booster in nirmatrelvir/ritonavir; STOP-PASC + RECOVER-VITAL null for established PASC → D (aligned with Paxlovid deepdive). Deep-dive: TIER CHANGED C→D."
     },
     {
       "id": "osmf:claim:agent-rituximab-studied-in-nct-00848692",
@@ -65619,35 +65173,16 @@
         },
         {
           "type": "nct",
-          "value": "NCT04944121"
-        },
-        {
-          "type": "pmid",
-          "value": "36899952"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "36349400"
-        },
-        {
-          "type": "pmid",
-          "value": "39947217"
-        },
-        {
-          "type": "pmid",
-          "value": "39326415"
+          "value": "NCT04944121",
+          "label": "NCT04944121: Phase 2 Study of RSLV-132 in Subjects With Long COVID"
         }
       ],
-      "limitations": "Key refs: NCT04944121 (COMPLETED), PMID:36899952, PMID:36969241, PMID:36349400, PMID:39947217, PMID:39326415. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No efficacy disclosure. Extracellular RNA rationale speculative for PASC. Prior SLE RSLV-132 data are different indication. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Rslv-132 → Long COVID: NCT04944121 (COMPLETED, phase=PHASE2, n=112, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 39326415: Mechanisms of long COVID and the path toward therapeutics.. Europe PMC query `(Rslv-132) AND (\"long COVID\" OR \"post-COVID\" OR PASC)` → 24 hits. Honest bar: Preliminary claims stay D/C unless a clear mul"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-rtms-studied-in-nct-06586398",
@@ -65925,7 +65460,7 @@
       "subject_id": "osmf:agent:self-administered-acupressure",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:me-cfs",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -65934,35 +65469,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT00959998"
+          "value": "NCT00959998",
+          "label": "NCT00959998: Acupressure for Post-Treatment Cancer Fatigue"
         },
         {
           "type": "pmid",
-          "value": "21982157"
-        },
-        {
-          "type": "pmid",
-          "value": "22340435"
-        },
-        {
-          "type": "pmid",
-          "value": "23067573"
-        },
-        {
-          "type": "pmid",
-          "value": "34490854"
-        },
-        {
-          "type": "pmid",
-          "value": "38214047"
+          "value": "21982157",
+          "label": "PMID 21982157: The evidence for Shiatsu: a systematic review of Shiatsu and acupressure."
         }
       ],
-      "limitations": "Key refs: NCT00959998 (COMPLETED), PMID:21982157, PMID:22340435, PMID:23067573, PMID:34490854, PMID:38214047. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Off-target NCT. Acupressure may still be studied for ME/CFS elsewhere, but not via this claim's primary source. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Self-Administered Acupressure → ME/CFS: NCT00959998 (COMPLETED, phase=PHASE2, n=43, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 21982157: The evidence for Shiatsu: a systematic review of Shiatsu and acupressure.; PMID 22340435: Societal and individual burden of illness among fibromyalgia patients in France: association bet"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: NCT00959998 is post-treatment cancer fatigue, not ME/CFS—off-target non-therapeutic mapping → D. Deep-dive: TIER CHANGED C→D (non-therapeutic/off-target)."
     },
     {
       "id": "osmf:claim:agent-self-applied-acupressure-plus-qigong-course-plus-advice-literature-studied-in-nct-05289154",
@@ -66681,43 +66202,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06404099"
+          "value": "NCT06404099",
+          "label": "NCT06404099: RECOVER-SLEEP Appendix_A (Hypersomnia)"
         },
         {
           "type": "nct",
-          "value": "NCT06404086"
-        },
-        {
-          "type": "pmid",
-          "value": "40537100"
-        },
-        {
-          "type": "pmid",
-          "value": "35887329"
-        },
-        {
-          "type": "pmid",
-          "value": "36313516"
-        },
-        {
-          "type": "pmid",
-          "value": "39125722"
-        },
-        {
-          "type": "pmid",
-          "value": "40046430"
-        },
-        {
-          "type": "pmid",
-          "value": "40261198"
+          "value": "NCT06404086",
+          "label": "NCT06404086: RECOVER-SLEEP Platform Protocol"
         }
       ],
-      "limitations": "Key refs: NCT06404099 (COMPLETED), PMID:40537100, NCT06404086 (COMPLETED), PMID:35887329, PMID:36313516, PMID:39125722. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Results unpublished. Known BP/HR AEs of solriamfetol. Phenotype-specific (hypersomnia), not all LC. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Solriamfetol → Long COVID: NCT06404099 (COMPLETED, phase=PHASE2, n=361, relevant=True); NCT06404086 (COMPLETED, phase=PHASE2, n=830, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35887329: Proteomic Biomarkers of the Apnea Hypopnea Index and Obstructive Sleep Apnea: Insights into the Pathophysiology of Prese; PMID 36313516: "
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-somatropin-studied-in-nct-03554265",
@@ -67852,43 +67351,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06404112"
+          "value": "NCT06404112",
+          "label": "NCT06404112: RECOVER-SLEEP Appendix_B (CPSD)"
         },
         {
           "type": "nct",
-          "value": "NCT06404086"
-        },
-        {
-          "type": "pmid",
-          "value": "40537100"
-        },
-        {
-          "type": "pmid",
-          "value": "34687662"
-        },
-        {
-          "type": "pmid",
-          "value": "36202135"
-        },
-        {
-          "type": "pmid",
-          "value": "37712135"
-        },
-        {
-          "type": "pmid",
-          "value": "37977174"
-        },
-        {
-          "type": "pmid",
-          "value": "39471819"
+          "value": "NCT06404086",
+          "label": "NCT06404086: RECOVER-SLEEP Platform"
         }
       ],
-      "limitations": "Key refs: NCT06404112 (COMPLETED), PMID:40537100, NCT06404086 (COMPLETED), PMID:34687662, PMID:36202135, PMID:37712135. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Results unpublished. Prior Lancet Countdown climate PMIDs were off-target and removed. Lighting is symptomatic circadian support, not proven LC disease modification. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Tailored Lighting (Tl) Active → Long COVID: NCT06404112 (COMPLETED, phase=PHASE2, n=469, relevant=True); NCT06404086 (COMPLETED, phase=PHASE2, n=830, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 34687662: The 2021 report of the Lancet Countdown on health and climate change: code red for a healthy future.; PMID 36202135: Cli"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-targeted-wellness-formula-c-sublingual-drops-1200mg-30-ml-studied-in-nct-04828668",
@@ -68451,60 +67928,30 @@
       "subject_id": "osmf:agent:temelimab-54mgkg",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
-          "value": "https://research.opensourcemed.info/candidate-therapeutics.html",
+          "value": "https://research.opensourcemed.info/agents/temelimab-54mgkg/",
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "42409185",
+          "label": "PMID 42409185: Temelimab versus placebo in patients with post-COVID condition."
+        },
+        {
           "type": "nct",
-          "value": "NCT05497089"
-        },
-        {
-          "type": "pmid",
-          "value": "37907497"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "37457901"
-        },
-        {
-          "type": "pmid",
-          "value": "37396922"
-        },
-        {
-          "type": "pmid",
-          "value": "37388279"
-        },
-        {
-          "type": "pmid",
-          "value": "37493802"
-        },
-        {
-          "type": "pmid",
-          "value": "39240417"
-        },
-        {
-          "type": "pmid",
-          "value": "39382470"
-        },
-        {
-          "type": "pmid",
-          "value": "42409185"
+          "value": "NCT05497089",
+          "label": "NCT05497089: Temelimab as a Disease Modifying Therapy in Patients With Neuropsychiatric Sympt"
         }
       ],
-      "limitations": "Key refs: NCT05497089 (COMPLETED), PMID:37907497, PMID:36969241, PMID:37457901, PMID:37396922, PMID:37388279. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Single dose level studied in this report. HERV-W enrichment may not generalize. IV monoclonal cost/access moot given null efficacy. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Temelimab 54Mg/Kg → Long COVID: NCT05497089 (COMPLETED, phase=PHASE2, n=203, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 37388279: Long COVID: Complications, Underlying Mechanisms, and Treatment Strategies.; PMID 37493802: Longitudinal analysis and treatment of neuropsychiatric symptoms in post-acute sequelae of COVID-19.;"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: PMID 42409185 RCT n=203: Temelimab vs placebo no difference on PROMIS Fatigue primary (3.2 vs 3.8 point decrease) or secondaries → D. Deep-dive: TIER CHANGED C→D."
     },
     {
       "id": "osmf:claim:agent-tenofovir-disoproxilemtricitabine-studied-in-nct-06511063",
@@ -69019,7 +68466,7 @@
       "subject_id": "osmf:agent:tnx-102-sl",
       "predicate": "treats_candidate_for",
       "object_id": "osmf:condition:long-covid",
-      "evidence_tier": "C",
+      "evidence_tier": "D",
       "sources": [
         {
           "type": "osmf_page",
@@ -69028,35 +68475,16 @@
         },
         {
           "type": "nct",
-          "value": "NCT05472090"
-        },
-        {
-          "type": "pmid",
-          "value": "37907497"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "40384184"
-        },
-        {
-          "type": "pmid",
-          "value": "37680987"
-        },
-        {
-          "type": "pmid",
-          "value": "37316880"
+          "value": "NCT05472090",
+          "label": "NCT05472090: Phase 2 Study of TNX-102 SL in Patients With Multi-Site Pain Associated With PAS"
         }
       ],
-      "limitations": "Key refs: NCT05472090 (COMPLETED), PMID:37907497, PMID:36969241, PMID:40384184, PMID:37680987, PMID:37316880. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Small n=63; missing posted inferential tests. Fibromyalgia TNX-102 program is a different indication. Sedation/anticholinergic AEs. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Tnx-102 Sl → Long COVID: NCT05472090 (COMPLETED, phase=PHASE2, n=63, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 37316880: Long COVID: Costs for the German economy and health care and pension system.. Europe PMC query `(Tnx-102 Sl) AND (\"long COVID\" OR \"post-COVID\" OR PASC)` → 4 hits. Honest bar: Preliminary claims stay D/C unless a "
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C→D: NCT05472090 primary daily pain NRS −2.2 (TNX-102 SL) vs −2.0 (placebo)—essentially no primary separation; no inferential stats posted → insufficient/null primary → D. Deep-dive: TIER CHANGED C→D for null/near-null primary."
     },
     {
       "id": "osmf:claim:agent-to-measure-levels-of-circulating-monocyte-t-cell-doublets-after-28-days-of-2-hoba-treatment-studied-in-nct-07189936",
@@ -71230,43 +70658,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06316843"
+          "value": "NCT06316843",
+          "label": "NCT06316843: Valacyclovir Plus Celecoxib for Post-Acute Sequelae of SARS-CoV-2"
         },
         {
           "type": "pmid",
-          "value": "41836927"
-        },
-        {
-          "type": "pmid",
-          "value": "40559563"
-        },
-        {
-          "type": "pmid",
-          "value": "33052705"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "39762640"
-        },
-        {
-          "type": "pmid",
-          "value": "39984803"
-        },
-        {
-          "type": "pmid",
-          "value": "41257741"
+          "value": "41562079",
+          "label": "PMID 41562079: Patient-reported improvements from use of IMC-2 alone and IMC-2 and Paxlovid in "
         }
       ],
-      "limitations": "Key refs: NCT06316843 (COMPLETED), PMID:41836927, PMID:40559563, PMID:33052705, PMID:36969241, PMID:39762640. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "No RCT readout. Celecoxib CV/GI risks; antiviral stewardship. Case series confounding. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Valacyclovir Celecoxib Dose 1 → Long COVID: NCT06316843 (COMPLETED, phase=PHASE2, n=59, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33052705: Angioedema in African American Patients Hospitalized for COVID-19.; PMID 36969241: Therapeutic trials for long COVID-19: A call to action from the interventions taskforce of the RECO"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-valacyclovir-celecoxib-dose-2-studied-in-nct-06316843",
@@ -71304,43 +70710,21 @@
         },
         {
           "type": "nct",
-          "value": "NCT06316843"
+          "value": "NCT06316843",
+          "label": "NCT06316843: Valacyclovir Plus Celecoxib for Post-Acute Sequelae of SARS-CoV-2"
         },
         {
           "type": "pmid",
-          "value": "41836927"
-        },
-        {
-          "type": "pmid",
-          "value": "40559563"
-        },
-        {
-          "type": "pmid",
-          "value": "33052705"
-        },
-        {
-          "type": "pmid",
-          "value": "36969241"
-        },
-        {
-          "type": "pmid",
-          "value": "39762640"
-        },
-        {
-          "type": "pmid",
-          "value": "39984803"
-        },
-        {
-          "type": "pmid",
-          "value": "41257741"
+          "value": "41562079",
+          "label": "PMID 41562079: Patient-reported improvements from use of IMC-2… case series."
         }
       ],
-      "limitations": "Key refs: NCT06316843 (COMPLETED), PMID:41836927, PMID:40559563, PMID:33052705, PMID:36969241, PMID:39762640. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "Same as Dose 1. Separate claim rows should not be read as two independent positive trials. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Valacyclovir Celecoxib Dose 2 → Long COVID: NCT06316843 (COMPLETED, phase=PHASE2, n=59, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33052705: Angioedema in African American Patients Hospitalized for COVID-19.; PMID 36969241: Therapeutic trials for long COVID-19: A call to action from the interventions taskforce of the RECO"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
     },
     {
       "id": "osmf:claim:agent-valacyclovir-studied-in-nct-07597902",
@@ -71423,40 +70807,27 @@
           "label": "OSMF Research Tracker (therapeutic agent)"
         },
         {
+          "type": "pmid",
+          "value": "23959519",
+          "label": "PMID 23959519: Randomized clinical trial to evaluate the efficacy and safety of valganciclovir "
+        },
+        {
+          "type": "pmid",
+          "value": "23080504",
+          "label": "PMID 23080504: Response to valganciclovir in chronic fatigue syndrome patients with human herpe"
+        },
+        {
           "type": "nct",
-          "value": "NCT00478465"
-        },
-        {
-          "type": "pmid",
-          "value": "41451409"
-        },
-        {
-          "type": "pmid",
-          "value": "19515747"
-        },
-        {
-          "type": "pmid",
-          "value": "30285773"
-        },
-        {
-          "type": "pmid",
-          "value": "31394725"
-        },
-        {
-          "type": "pmid",
-          "value": "33726557"
-        },
-        {
-          "type": "pmid",
-          "value": "36639608"
+          "value": "NCT00478465",
+          "label": "NCT00478465: Valganciclovir for CFS patients with elevated HHV-6/EBV titers"
         }
       ],
-      "limitations": "Key refs: NCT00478465 (COMPLETED), PMID:41451409, PMID:19515747, PMID:30285773, PMID:31394725, PMID:33726557. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+      "limitations": "n≈30; selected seropositive subset. Myelosuppression/renal monitoring required. Viral antibody titers imperfect enrichment. Not guideline-endorsed standard care. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
       "status": "published",
-      "reviewed_by": "evidence-eval-bot",
-      "reviewed_at": "2026-09-19T18:13:34Z",
+      "reviewed_by": "evidence-deepdive-bot",
+      "reviewed_at": "2026-09-19T19:30:00Z",
       "license": "CC-BY-4.0",
-      "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications → C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Valganciclovir → ME/CFS: NCT00478465 (COMPLETED, phase=PHASE1,PHASE2, n=30, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 19515747: Epstein-Barr virus-associated lymphoproliferative disease in non-immunocompromised hosts: a status report and summary of; PMID 30285773: Chronic viral infections in myalgic encephalomyelitis/chr"
+      "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Primary Montoya RCT replaces off-target herpes/antiviral reviews."
     },
     {
       "id": "osmf:claim:agent-vaxtherapy-protocol-treats-pacvs",

@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-38858151",
+  "type": "paper",
+  "label": "FMT in Norwegian outpatients with ME/CFS: protocol for RCT (Comeback).",
+  "aliases": [],
+  "summary": "2024: protocol only.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "38858151",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38858151/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/38858151/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

@@ -12,45 +12,19 @@
     },
     {
       "type": "nct",
-      "value": "NCT06305780"
+      "value": "NCT06305780",
+      "label": "NCT06305780: RECOVER-AUTONOMIC Platform Protocol"
     },
     {
       "type": "pmid",
-      "value": "41836927"
-    },
-    {
-      "type": "pmid",
-      "value": "42325367"
-    },
-    {
-      "type": "pmid",
-      "value": "41720282"
-    },
-    {
-      "type": "pmid",
-      "value": "34069603"
-    },
-    {
-      "type": "pmid",
-      "value": "34607799"
-    },
-    {
-      "type": "pmid",
-      "value": "35720084"
-    },
-    {
-      "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "37030518"
+      "value": "41720282",
+      "label": "PMID 41720282: Design and rationale of RECOVER-AUTONOMIC: A randomized platform trial evaluatin"
     }
   ],
-  "limitations": "Key refs: NCT06305780 (COMPLETED), PMID:41836927, PMID:42325367, PMID:41720282, PMID:34069603, PMID:34607799. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Efficacy endpoints unpublished. 'Coordinated care' co-intervention complicates attribution. Ivabradine bradycardia/visual AEs relevant in POTS-phenotype LC. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Ivabradine + Coordinated Care \u2192 Long COVID: NCT06305780 (COMPLETED, phase=PHASE2, n=381, relevant=True). Posted CT.gov results: yes. Literature notes: PMID 34069603: European Network on Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (EUROMENE): Expert Consensus on the Diagnosis, Se; PMID 34607799: Recommendations for the recognition, diagnosis, and man"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained. Removed EUROMENE/syncope off-targets."
 }

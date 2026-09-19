@@ -3,58 +3,28 @@
   "subject_id": "osmf:agent:temelimab-54mgkg",
   "predicate": "treats_candidate_for",
   "object_id": "osmf:condition:long-covid",
-  "evidence_tier": "C",
+  "evidence_tier": "D",
   "sources": [
     {
       "type": "osmf_page",
-      "value": "https://research.opensourcemed.info/candidate-therapeutics.html",
+      "value": "https://research.opensourcemed.info/agents/temelimab-54mgkg/",
       "label": "OSMF Research Tracker (therapeutic agent)"
     },
     {
+      "type": "pmid",
+      "value": "42409185",
+      "label": "PMID 42409185: Temelimab versus placebo in patients with post-COVID condition."
+    },
+    {
       "type": "nct",
-      "value": "NCT05497089"
-    },
-    {
-      "type": "pmid",
-      "value": "37907497"
-    },
-    {
-      "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "37457901"
-    },
-    {
-      "type": "pmid",
-      "value": "37396922"
-    },
-    {
-      "type": "pmid",
-      "value": "37388279"
-    },
-    {
-      "type": "pmid",
-      "value": "37493802"
-    },
-    {
-      "type": "pmid",
-      "value": "39240417"
-    },
-    {
-      "type": "pmid",
-      "value": "39382470"
-    },
-    {
-      "type": "pmid",
-      "value": "42409185"
+      "value": "NCT05497089",
+      "label": "NCT05497089: Temelimab as a Disease Modifying Therapy in Patients With Neuropsychiatric Sympt"
     }
   ],
-  "limitations": "Key refs: NCT05497089 (COMPLETED), PMID:37907497, PMID:36969241, PMID:37457901, PMID:37396922, PMID:37388279. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "Single dose level studied in this report. HERV-W enrichment may not generalize. IV monoclonal cost/access moot given null efficacy. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Temelimab 54Mg/Kg \u2192 Long COVID: NCT05497089 (COMPLETED, phase=PHASE2, n=203, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 37388279: Long COVID: Complications, Underlying Mechanisms, and Treatment Strategies.; PMID 37493802: Longitudinal analysis and treatment of neuropsychiatric symptoms in post-acute sequelae of COVID-19.;"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. TIER CHANGED C\u2192D: PMID 42409185 RCT n=203: Temelimab vs placebo no difference on PROMIS Fatigue primary (3.2 vs 3.8 point decrease) or secondaries \u2192 D. Deep-dive: TIER CHANGED C\u2192D."
 }

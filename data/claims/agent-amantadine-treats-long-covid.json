@@ -12,45 +12,24 @@
     },
     {
       "type": "nct",
-      "value": "NCT06055244"
+      "value": "NCT06055244",
+      "label": "NCT06055244: Amantadine Therapy for Cognitive Impairment in Long COVID"
     },
     {
       "type": "nct",
-      "value": "NCT06234462"
+      "value": "NCT06234462",
+      "label": "NCT06234462: A Study of Amantadine for Cognitive Dysfunction in Patients With Long-Covid"
     },
     {
       "type": "pmid",
-      "value": "41836927"
-    },
-    {
-      "type": "pmid",
-      "value": "39516425"
-    },
-    {
-      "type": "pmid",
-      "value": "32885037"
-    },
-    {
-      "type": "pmid",
-      "value": "33755344"
-    },
-    {
-      "type": "pmid",
-      "value": "34346558"
-    },
-    {
-      "type": "pmid",
-      "value": "34991982"
-    },
-    {
-      "type": "pmid",
-      "value": "36776881"
+      "value": "41836927",
+      "label": "PMID 41836927: Candidate treatments for long COVID: a narrative review of expert and patient-dr"
     }
   ],
-  "limitations": "Key refs: NCT06055244 (COMPLETED), PMID:41836927, NCT06234462 (WITHDRAWN), PMID:39516425, PMID:41836927, PMID:32885037. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "No posted CT.gov results or peer-reviewed RCT efficacy readout for NCT06055244. Second trial withdrawn. Stimulant-like CNS AEs and Parkinson's-era amantadine safety not characterized in PASC. Off-target Parkinson/Long-COVID reviews removed from claim sources. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 2 registry trial(s) for Amantadine \u2192 Long COVID: NCT06055244 (COMPLETED, phase=PHASE2, n=64, relevant=True); NCT06234462 (WITHDRAWN, phase=PHASE2, n=0, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 32885037: COVID-19 and possible links with Parkinson's disease and parkinsonism: from bench to bedside.; PMID 33755344: Persistent neurologic symptoms a"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior evidence-eval-bot C/published retained after deep-dive. Waiting on NCT06055244 publication."
 }

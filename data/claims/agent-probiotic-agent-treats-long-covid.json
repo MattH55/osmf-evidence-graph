@@ -12,37 +12,14 @@
     },
     {
       "type": "nct",
-      "value": "NCT06643299"
-    },
-    {
-      "type": "pmid",
-      "value": "40492581"
-    },
-    {
-      "type": "pmid",
-      "value": "36050306"
-    },
-    {
-      "type": "pmid",
-      "value": "36364899"
-    },
-    {
-      "type": "pmid",
-      "value": "37130947"
-    },
-    {
-      "type": "pmid",
-      "value": "37358082"
-    },
-    {
-      "type": "pmid",
-      "value": "39774607"
+      "value": "NCT06643299",
+      "label": "NCT06643299: Probiotic Use for Recovery Enhancement From Long COVID-19"
     }
   ],
-  "limitations": "Key refs: NCT06643299 (COMPLETED), PMID:40492581, PMID:36050306, PMID:36364899, PMID:37130947, PMID:37358082. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "No public efficacy. Product/strain heterogeneity. Prior eval off-target metabolic reviews removed. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Probiotic Agent \u2192 Long COVID: NCT06643299 (COMPLETED, phase=PHASE2, n=194, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 36050306: Lactate metabolism in human health and disease.; PMID 36364899: A Comprehensive Review on Nutraceuticals: Therapy Support and Formulation Challenges.; PMID 37130947: Metformin: update on mechanis"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
 }

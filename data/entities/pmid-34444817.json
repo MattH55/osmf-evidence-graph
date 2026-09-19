@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-34444817",
+  "type": "paper",
+  "label": "CoQ10 Plus NADH on Fatigue Perception and HRQoL in ME/CFS.",
+  "aliases": [],
+  "summary": "2021: RCT n=282.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "34444817",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34444817/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/34444817/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

@@ -12,53 +12,24 @@
     },
     {
       "type": "pmid",
-      "value": "42060160"
+      "value": "42463201",
+      "label": "PMID 42463201: Effect of low-dose naltrexone for long COVID: a systematic review and meta-analy"
+    },
+    {
+      "type": "pmid",
+      "value": "38352659",
+      "label": "PMID 38352659: Low-dose naltrexone and NAD+ for the treatment of patients with persistent fatig"
     },
     {
       "type": "nct",
-      "value": "NCT04604704"
-    },
-    {
-      "type": "pmid",
-      "value": "34067776"
-    },
-    {
-      "type": "pmid",
-      "value": "35874958"
-    },
-    {
-      "type": "pmid",
-      "value": "36100326"
-    },
-    {
-      "type": "pmid",
-      "value": "37907497"
-    },
-    {
-      "type": "pmid",
-      "value": "35172971"
-    },
-    {
-      "type": "pmid",
-      "value": "36639608"
-    },
-    {
-      "type": "pmid",
-      "value": "36695182"
-    },
-    {
-      "type": "pmid",
-      "value": "38264914"
-    },
-    {
-      "type": "pmid",
-      "value": "39866113"
+      "value": "NCT04604704",
+      "label": "NCT04604704: Pilot Study Into LDN and NAD+ for Treatment of Patients With Post-COVID-19 Syndr"
     }
   ],
-  "limitations": "Key refs: NCT04604704 (COMPLETED), PMID:34067776, PMID:35874958, PMID:36100326, PMID:37907497, PMID:35172971. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "No RCT. Pre-post confounding/regression to mean. Opioid-blockade implications. Dose 1\u20136 mg heterogeneity. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Naltrexone \u2192 Long COVID: NCT04604704 (COMPLETED, phase=PHASE2, n=36, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 35172971: Risks of mental health outcomes in people with covid-19: cohort study.; PMID 36639608: Long COVID: major findings, mechanisms and recommendations.; PMID 36695182: Heart Disease and Stroke Statistics-20"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained; upgraded sources to SR/MA + pilot primary."
 }

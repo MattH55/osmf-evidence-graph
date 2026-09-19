@@ -1,0 +1,22 @@
+{
+  "id": "osmf:paper:pmid-41562079",
+  "type": "paper",
+  "label": "Patient-reported improvements from IMC-2 in a Long COVID cohort: a case series.",
+  "aliases": [],
+  "summary": "2025: observational IMC-2 series.",
+  "external_ids": [
+    {
+      "system": "pubmed",
+      "value": "41562079",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41562079/"
+    }
+  ],
+  "urls": [
+    {
+      "rel": "canonical",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/41562079/"
+    }
+  ],
+  "status": "active",
+  "updated_at": "2026-09-19T19:30:00Z"
+}

@@ -12,33 +12,14 @@
     },
     {
       "type": "nct",
-      "value": "NCT04944121"
-    },
-    {
-      "type": "pmid",
-      "value": "36899952"
-    },
-    {
-      "type": "pmid",
-      "value": "36969241"
-    },
-    {
-      "type": "pmid",
-      "value": "36349400"
-    },
-    {
-      "type": "pmid",
-      "value": "39947217"
-    },
-    {
-      "type": "pmid",
-      "value": "39326415"
+      "value": "NCT04944121",
+      "label": "NCT04944121: Phase 2 Study of RSLV-132 in Subjects With Long COVID"
     }
   ],
-  "limitations": "Key refs: NCT04944121 (COMPLETED), PMID:36899952, PMID:36969241, PMID:36349400, PMID:39947217, PMID:39326415. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "No efficacy disclosure. Extracellular RNA rationale speculative for PASC. Prior SLE RSLV-132 data are different indication. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Rslv-132 \u2192 Long COVID: NCT04944121 (COMPLETED, phase=PHASE2, n=112, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 39326415: Mechanisms of long COVID and the path toward therapeutics.. Europe PMC query `(Rslv-132) AND (\"long COVID\" OR \"post-COVID\" OR PASC)` \u2192 24 hits. Honest bar: Preliminary claims stay D/C unless a clear mul"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained."
 }

@@ -12,33 +12,14 @@
     },
     {
       "type": "nct",
-      "value": "NCT06821087"
-    },
-    {
-      "type": "pmid",
-      "value": "33769431"
-    },
-    {
-      "type": "pmid",
-      "value": "33941622"
-    },
-    {
-      "type": "pmid",
-      "value": "34749198"
-    },
-    {
-      "type": "pmid",
-      "value": "34973396"
-    },
-    {
-      "type": "pmid",
-      "value": "35768006"
+      "value": "NCT06821087",
+      "label": "NCT06821087: Evaluating the Neuromodulatory Effect of Ketamine in Long COVID-19"
     }
   ],
-  "limitations": "Key refs: NCT06821087 (COMPLETED), PMID:33769431, PMID:33941622, PMID:34749198, PMID:34973396, PMID:35768006. Evaluated from extracted references on 2026-09-19 (Preliminary wave A); not a systematic review. Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
+  "limitations": "n=20; no public outcomes. Dissociation, BP, abuse-potential harms. 'Ketamine Only' label may reflect arm naming vs combination protocols. Not medical advice. Tracker Preliminary label is not an OSMF A/B grade.",
   "status": "published",
-  "reviewed_by": "evidence-eval-bot",
-  "reviewed_at": "2026-09-19T18:13:34Z",
+  "reviewed_by": "evidence-deepdive-bot",
+  "reviewed_at": "2026-09-19T19:30:00Z",
   "license": "CC-BY-4.0",
-  "confidence_notes": "[medium] wave=A Early clinical (completed Phase 2+/condition-relevant) with results or NCT-linked publications \u2192 C published (Preliminary; not confirmatory). | Wave A. Extracted 1 registry trial(s) for Ketamine Only \u2192 Long COVID: NCT06821087 (COMPLETED, phase=PHASE2, n=20, relevant=True). No posted CT.gov results in this pass. Literature notes: PMID 33769431: How COVID-19 Affects the Brain.; PMID 33941622: COVID-19-related anosmia is associated with viral persistence and inflammation in human olfactory epithelium and brain i; PMID 34749198: Alcohol and o"
+  "confidence_notes": "[high] Deep-dive 2026-09-19 by evidence-deepdive-bot. Prior reviewers: evidence-eval-bot. Tier C retained. Prior C retained with honesty that evidence is registration-only so far."
 }
